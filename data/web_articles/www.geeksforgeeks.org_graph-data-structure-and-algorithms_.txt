@@ -1,0 +1,245 @@
+DSA Course
+DSA
+Interview Problems on Graph
+Practice Graph
+MCQs on Graph
+Graph Tutorial
+Graph Representation
+Graph Properties
+Types of Graphs
+Graph Applications
+BFS on Graph
+DFS on Graph
+Graph VS Tree
+Transpose Graph
+Dijkstra's Algorithm
+Minimum Spanning Tree
+Prim’s Algorithm
+Topological Sorting
+Floyd Warshall Algorithm
+Strongly Connected Components
+Advantages & Disadvantages
+Explore GfG Courses
+Share Your Experiences
+Graph  Algorithms
+Introduction to Graph Data Structure
+Graph and its representations
+Types of Graphs with Examples
+Basic Properties of a Graph
+Applications, Advantages and Disadvantages of Graph
+Transpose graph
+Difference Between Graph and Tree
+BFS and DFS on Graph
+Breadth First Search or BFS for a Graph
+Depth First Search or DFS for a Graph
+Applications, Advantages and Disadvantages of Depth First Search (DFS)
+Applications, Advantages and Disadvantages of Breadth First Search (BFS)
+Iterative Depth First Traversal of Graph
+BFS for Disconnected Graph
+Transitive Closure of a Graph using DFS
+Difference between BFS and DFS
+Cycle in a Graph
+Detect Cycle in a Directed Graph
+Detect cycle in an undirected graph
+Detect Cycle in a directed graph using colors
+Detect a negative cycle in a Graph | (Bellman Ford)
+Cycles of length n in an undirected and connected graph
+Detecting negative cycle using Floyd Warshall
+Clone a Directed Acyclic Graph
+Shortest Paths in Graph
+Dijkstra's Algorithm to find Shortest Paths from a Source to all
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Johnson's algorithm for All-pairs shortest paths
+Shortest Path in Directed Acyclic Graph
+Multistage Graph (Shortest Path)
+Shortest path in an unweighted graph
+Karp's minimum mean (or average) weight cycle algorithm
+0-1 BFS (Shortest Path in a Binary Weight Graph)
+Minimum Weight Cycle in a  Graph
+Minimum Spanning Tree in Graph
+Kruskal’s Minimum Spanning Tree (MST) Algorithm
+Difference between Prim's and Kruskal's algorithm for MST
+Applications of Minimum Spanning Tree
+Total number of Spanning Trees in a Graph
+Minimum Product Spanning Tree
+Reverse Delete Algorithm for Minimum Spanning Tree
+Topological Sorting in Graph
+Topological Sorting
+All Topological Sorts of a Directed Acyclic Graph
+Kahn's algorithm for Topological Sorting
+Maximum edges that can be added to DAG so that it remains DAG
+Longest Path in a Directed Acyclic Graph
+Topological Sort of a graph using departure time of vertex
+Connectivity of Graph
+Articulation Points (or Cut Vertices) in a Graph
+Biconnected Components
+Bridges in a graph
+Eulerian path and circuit for undirected graph
+Fleury's Algorithm for printing Eulerian Path or Circuit
+Strongly Connected Components
+Count all possible walks from a source to a destination with exactly k edges
+Euler Circuit in a Directed Graph
+Word Ladder - Shortest Chain To Reach Target Word
+Find if an array of strings can be chained to form a circle
+Tarjan's Algorithm to find Strongly Connected Components
+Paths to travel each nodes using each edge (Seven Bridges of Königsberg)
+Dynamic Connectivity | Set 1 (Incremental)
+Maximum flow in a Graph
+Max Flow Problem Introduction
+Ford-Fulkerson Algorithm for Maximum Flow Problem
+Find maximum number of edge disjoint paths between two vertices
+Find minimum s-t cut in a flow network
+Maximum Bipartite Matching
+Channel Assignment Problem
+Introduction to Push Relabel Algorithm
+Introduction and implementation of Karger's algorithm for Minimum Cut
+Dinic's algorithm for Maximum Flow
+Some must do problems on Graph
+Max Area of Island - Largest in Boolean Matrix
+Count number of trees in a forest
+A Peterson Graph Problem
+Clone an Undirected Graph
+Introduction to Graph Coloring
+Traveling Salesman Problem (TSP) Implementation
+Introduction and Approximate Solution for Vertex Cover Problem
+Erdos Renyl Model (for generating Random Graphs)
+Chinese Postman or Route Inspection | Set 1 (introduction)
+Hierholzer's Algorithm for directed graph
+Boggle (Find all possible words in a board of characters) | Set 1
+Hopcroft–Karp Algorithm for Maximum Matching | Set 1 (Introduction)
+Construct a graph from given degrees of all vertices
+Determine whether a universal sink exists in a directed graph
+Number of sink nodes in a graph
+Two Clique Problem (Check if Graph can be divided in two Cliques)
+DSA to DevelopmentCourse
+Graph  AlgorithmsLast Updated :13 May, 2025CommentsImproveSuggest changesLike ArticleLikeReportGraph algorithmsare methods used to manipulate and analyze graphs, solving various range of problems likefinding the shortest path, cycles detection.If you are looking for difficulty-wise list of problems, please refer toGraph Data Structure.BasicsGraph and its representationsBFS and DFSBreadth First TraversalDepth First TraversalDifference between BFS and DFSRotten TomatoesIslands in a GraphFlood FillCheck for BipartiteWord LadderSnakes and LadderWater Jug problemPacific Atlantic Water FlowShortest Path in Binary MatrixClone a GraphTransitive Closure of a Graph using DFSCyclesCycle in a Directed GraphCycle in an undirected graphCycle in a graph using colorsNegative cycle in a Graph | (Bellman Ford)Cycles of length nClone a Directed Acyclic GraphDisjoint Set Data Structure or Union-Find AlgorithmShortest PathDijkstra’s shortest path aBellman–FordFloyd WarshallJohnson’s algorithmShortest Path in Directed Acyclic GraphDial’s AlgorithmMultistage Graph (Shortest Path)Shortest path in an unweighted graphMinimum mean weight cycle algorithm0-1 BFS (Shortest PathMinimum weight cycleD’Esopo-Pape AlgorithmMinimum Spanning TreePrim’s Minimum Spanning Tree (MST)Kruskal’s Minimum Spanning TreePrim’s vs Kruskal’s algorithm for MSTApplications of Minimum Spanning Tree ProblemMinimum cost to connect all citiesTotal number of Spanning Trees in a GraphMinimum Product Spanning TreeReverse Delete Algorithm for Minimum Spanning TreeBoruvka’s algorithm for Minimum Spanning TreeTopological SortingTopological SortingAll topological sorts of a Directed Acyclic GraphKahn’s Algorithm for Topological SortingMaximum edges that can be added to DAG so that is remains DAGLongest Path in a Directed Acyclic GraphTopological Sort of a graph using departure time of vertexFind Itinerary from a given list of ticketsConnectivity in GraphArticulation Points (or Cut Vertices) in a GraphBiconnected ComponentsBridges in a graphEulerian path and circuitFleury’s Algorithm for printing Eulerian Path or CircuitStrongly Connected ComponentsCount all possible walks from a source to a destination with exactly k edgesEuler Circuit in a Directed GraphLength of shortest chain to reach the target wordFind if an array of strings can be chained to form a circleTarjan’s Algorithm to find strongly connected ComponentsPaths to travel each nodes using each edge (Seven Bridges of Königsberg)Dynamic Connectivity | Set 1 (Incremental)Maximum Flow in GraphMax Flow Problem IntroductionFord-Fulkerson Algorithm for Maximum Flow ProblemFind maximum number of edge disjoint paths between two verticesFind minimum s-t cut in a flow networkMaximum Bipartite MatchingChannel Assignment ProblemIntroduction to Push Relabel AlgorithmKarger’s Algorithm- Set 1- Introduction and ImplementationDinic’s algorithm for Maximum FlowSome must do ProblemsFind length of the largest region in Boolean MatrixCount number of trees in a forestA Peterson Graph ProblemClone an Undirected GraphGraph Coloring (Introduction and Applications)Traveling Salesman Problem (TSP) ImplementationVertex Cover Problem | Set 1 (Introduction and Approximate Algorithm)K Centers Problem | Set 1 (Greedy Approximate Algorithm)Erdos Renyl Model (for generating Random Graphs)Chinese Postman or Route Inspection | Set 1 (introduction)Hierholzer’s Algorithm for directed graphCheck whether a given graph is Bipartite or notSnake and Ladder ProblemBoggle (Find all possible words in a board of characters)Hopcroft Karp Algorithm for Maximum Matching-IntroductionMinimum Time to rot all orangesConstruct a graph from given degrees of all verticesDetermine whether a universal sink exists in a directed graphNumber of sink nodes in a graphTwo Clique Problem (Check if Graph can be divided in two Cliques)Some QuizzesQuizzes on Graph TraversalQuizzes on Graph Shortest PathQuizzes on Graph Minimum Spanning TreeQuizzes on GraphsQuick Links :Top 10 Interview Questions on Depth First Search (DFS)Some interesting shortest path questionsPractice Problems on GraphsRecommended:Learn Data Structure and Algorithms | DSA TutorialNext ArticleIntroduction to Graph Data StructureHharendrakumar123ImproveArticle Tags :GraphDSAPractice Tags :Graph
+Graph  Algorithms
+Graph algorithmsare methods used to manipulate and analyze graphs, solving various range of problems likefinding the shortest path, cycles detection.
+If you are looking for difficulty-wise list of problems, please refer toGraph Data Structure.
+Basics
+Graph and its representations
+BFS and DFS
+Breadth First Traversal
+Depth First Traversal
+Difference between BFS and DFS
+Rotten Tomatoes
+Islands in a Graph
+Flood Fill
+Check for Bipartite
+Word Ladder
+Snakes and Ladder
+Water Jug problem
+Pacific Atlantic Water Flow
+Shortest Path in Binary Matrix
+Clone a Graph
+Transitive Closure of a Graph using DFS
+Cycles
+Cycle in a Directed Graph
+Cycle in an undirected graph
+Cycle in a graph using colors
+Negative cycle in a Graph | (Bellman Ford)
+Cycles of length n
+Clone a Directed Acyclic Graph
+Disjoint Set Data Structure or Union-Find Algorithm
+Shortest Path
+Dijkstra’s shortest path a
+Bellman–Ford
+Floyd Warshall
+Johnson’s algorithm
+Shortest Path in Directed Acyclic Graph
+Dial’s Algorithm
+Multistage Graph (Shortest Path)
+Shortest path in an unweighted graph
+Minimum mean weight cycle algorithm
+0-1 BFS (Shortest Path
+Minimum weight cycle
+D’Esopo-Pape Algorithm
+Minimum Spanning Tree
+Prim’s Minimum Spanning Tree (MST)
+Kruskal’s Minimum Spanning Tree
+Prim’s vs Kruskal’s algorithm for MST
+Applications of Minimum Spanning Tree Problem
+Minimum cost to connect all cities
+Total number of Spanning Trees in a Graph
+Minimum Product Spanning Tree
+Reverse Delete Algorithm for Minimum Spanning Tree
+Boruvka’s algorithm for Minimum Spanning Tree
+Topological Sorting
+Topological Sorting
+All topological sorts of a Directed Acyclic Graph
+Kahn’s Algorithm for Topological Sorting
+Maximum edges that can be added to DAG so that is remains DAG
+Longest Path in a Directed Acyclic Graph
+Topological Sort of a graph using departure time of vertex
+Find Itinerary from a given list of tickets
+Connectivity in Graph
+Articulation Points (or Cut Vertices) in a Graph
+Biconnected Components
+Bridges in a graph
+Eulerian path and circuit
+Fleury’s Algorithm for printing Eulerian Path or Circuit
+Strongly Connected Components
+Count all possible walks from a source to a destination with exactly k edges
+Euler Circuit in a Directed Graph
+Length of shortest chain to reach the target word
+Find if an array of strings can be chained to form a circle
+Tarjan’s Algorithm to find strongly connected Components
+Paths to travel each nodes using each edge (Seven Bridges of Königsberg)
+Dynamic Connectivity | Set 1 (Incremental)
+Maximum Flow in Graph
+Max Flow Problem Introduction
+Ford-Fulkerson Algorithm for Maximum Flow Problem
+Find maximum number of edge disjoint paths between two vertices
+Find minimum s-t cut in a flow network
+Maximum Bipartite Matching
+Channel Assignment Problem
+Introduction to Push Relabel Algorithm
+Karger’s Algorithm- Set 1- Introduction and Implementation
+Dinic’s algorithm for Maximum Flow
+Some must do Problems
+Find length of the largest region in Boolean Matrix
+Count number of trees in a forest
+A Peterson Graph Problem
+Clone an Undirected Graph
+Graph Coloring (Introduction and Applications)
+Traveling Salesman Problem (TSP) Implementation
+Vertex Cover Problem | Set 1 (Introduction and Approximate Algorithm)
+K Centers Problem | Set 1 (Greedy Approximate Algorithm)
+Erdos Renyl Model (for generating Random Graphs)
+Chinese Postman or Route Inspection | Set 1 (introduction)
+Hierholzer’s Algorithm for directed graph
+Check whether a given graph is Bipartite or not
+Snake and Ladder Problem
+Boggle (Find all possible words in a board of characters)
+Hopcroft Karp Algorithm for Maximum Matching-Introduction
+Minimum Time to rot all oranges
+Construct a graph from given degrees of all vertices
+Determine whether a universal sink exists in a directed graph
+Number of sink nodes in a graph
+Two Clique Problem (Check if Graph can be divided in two Cliques)
+Some Quizzes
+Quizzes on Graph Traversal
+Quizzes on Graph Shortest Path
+Quizzes on Graph Minimum Spanning Tree
+Quizzes on Graphs
+Quick Links :
+Top 10 Interview Questions on Depth First Search (DFS)
+Some interesting shortest path questions
+Practice Problems on Graphs
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Graph
+DSA
+Graph
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_img-practice_prod_courses_826_Web_Content_R_prog_1734086551.webp
+media.geeksforgeeks.org_img-practice_prod_courses_715_Mobile_Other_data_analytics_1720850111.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

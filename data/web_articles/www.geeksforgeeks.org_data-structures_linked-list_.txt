@@ -1,0 +1,138 @@
+DSA Course
+DSA
+Interview Problems on Linked List
+Practice Linked List
+MCQs on Linked List
+Linked List Tutorial
+Types of Linked List
+Singly Linked List
+Doubly Linked List
+Circular Linked  List
+Circular Doubly Linked List
+Linked List vs Array
+Time & Space Complexity
+Advantages & Disadvantages
+Explore GfG Courses
+Share Your Experiences
+Linked List Data Structure
+Basic Terminologies of Linked List
+Introduction to Linked List - Data Structure and Algorithm Tutorials
+Applications, Advantages and Disadvantages of Linked List
+Linked List vs Array
+Types of Linked List
+Types of Linked List
+Singly Linked List Tutorial
+Doubly Linked List Tutorial
+Introduction to Circular Linked List
+Basic Operations on Linked List
+Insertion in Linked List
+Search an element in a Linked List (Iterative and Recursive)
+Find Length of a Linked List (Iterative and Recursive)
+Reverse a Linked List
+Deletion in Linked List
+Delete a Linked List node at a given position
+Write a function to delete a Linked List
+Write a function to get Nth node in a Linked List
+Program for Nth node from the end of a Linked List
+Top 50 Problems on Linked List Data Structure asked in SDE Interviews
+DSA to DevelopmentCourse
+Linked List Data StructureLast Updated :04 Jan, 2025CommentsImproveSuggest changesLike ArticleLikeReportAlinked listis a fundamental data structure in computer science. It mainly allows efficientinsertionanddeletionoperations compared toarrays.  Like arrays, it is also used to implement other data structures like stack, queue and deque. Here’s the comparison of Linked List vs ArraysLinked List:Data Structure:Non-contiguousMemory Allocation:Typically allocated one by one to individual elementsInsertion/Deletion:EfficientAccess:SequentialArray:Data Structure:ContiguousMemory Allocation:Typically allocated to the whole arrayInsertion/Deletion:InefficientAccess:RandomBasics of Linked List:Singly Linked ListDoubly Linked ListCircular Linked ListApplications and Advantages of Linked ListOperations of Linked Lists:Length of Linked ListPrint Linked ListLinked List InsertionSearch in a Linked ListDeleting a given keyDeleting at given positionDelete a Linked ListNth Node from StartNth Node from EndSize of Doubly Linked ListEasy Problems on Linked List:Remove every k-th nodeMiddle of a Linked ListCount Occurrences in a Linked ListCircular Linked List TraversalCheck if CircularCount Nodes in Circular ListDeletion from a Circular Linked ListSingly to circular ConversionExchange first and last nodes in CircularDelete in a Doubly Linked ListReverse a Singly Linked ListReverse a Doubly Linked ListMedium Problems on Linked List:Swap Nodes in PairsDetect loop in a linked listLength of loop in linked listDesign Browser HistoryRemove duplicates from a sorted linked listRemove Duplicates from an Unsorted Linked ListIntersection of two Sorted Linked ListsPartition a ListQuickSort on Singly Linked ListSplit a Circular Linked List into two halvesMerge Two Sorted Linked ListsUnion and IntersectionMerge Sort for Doubly Linked ListPairs with Sum in doubly linked listInsert in sorted way in doubly linked listRemove duplicates from an unsorted DLLRotate a Linked ListRotate Doubly linked list by N nodesDelete a node with only its pointer givenSegregate even and odd nodesHard Problems on Linked List:Merge K Sorted ListsIntersection point of two Linked Lists.Implement LRU CacheJosephus Circle using circular linked listThe Great Tree-List Recursion Problem.Clone a linked list with random pointerBinary Tree to Doubly Linked List | SetReverse a Singly Linked List in GroupsReverse a Doubly Linked List in GroupsSublist Search (Search a linked list in another list)Construct a linked list from 2D matrixRotate Linked List block wiseMultiply two numbers represented by ListsDelete N nodes after M nodesQuick Links :‘Practice Problems’ on Linked List‘Videos’ on Linked List‘Quizzes’ on Linked ListRecommended:Learn Data Structure and Algorithms | DSA Tutorial pointerNext ArticleBasic Terminologies of Linked ListHharendrakumar123ImproveArticle Tags :Linked ListDSAData StructuresPractice Tags :Data StructuresLinked List
+Linked List Data Structure
+Alinked listis a fundamental data structure in computer science. It mainly allows efficientinsertionanddeletionoperations compared toarrays.  Like arrays, it is also used to implement other data structures like stack, queue and deque. Here’s the comparison of Linked List vs Arrays
+Linked List:
+Data Structure:Non-contiguous
+Memory Allocation:Typically allocated one by one to individual elements
+Insertion/Deletion:Efficient
+Access:Sequential
+Array:
+Data Structure:Contiguous
+Memory Allocation:Typically allocated to the whole array
+Insertion/Deletion:Inefficient
+Access:Random
+Basics of Linked List:
+Singly Linked List
+Doubly Linked List
+Circular Linked List
+Applications and Advantages of Linked List
+Operations of Linked Lists:
+Length of Linked List
+Print Linked List
+Linked List Insertion
+Search in a Linked List
+Deleting a given key
+Deleting at given position
+Delete a Linked List
+Nth Node from Start
+Nth Node from End
+Size of Doubly Linked List
+Easy Problems on Linked List:
+Remove every k-th node
+Middle of a Linked List
+Count Occurrences in a Linked List
+Circular Linked List Traversal
+Check if Circular
+Count Nodes in Circular List
+Deletion from a Circular Linked List
+Singly to circular Conversion
+Exchange first and last nodes in Circular
+Delete in a Doubly Linked List
+Reverse a Singly Linked List
+Reverse a Doubly Linked List
+Medium Problems on Linked List:
+Swap Nodes in Pairs
+Detect loop in a linked list
+Length of loop in linked list
+Design Browser History
+Remove duplicates from a sorted linked list
+Remove Duplicates from an Unsorted Linked List
+Intersection of two Sorted Linked Lists
+Partition a List
+QuickSort on Singly Linked List
+Split a Circular Linked List into two halves
+Merge Two Sorted Linked Lists
+Union and Intersection
+Merge Sort for Doubly Linked List
+Pairs with Sum in doubly linked list
+Insert in sorted way in doubly linked list
+Remove duplicates from an unsorted DLL
+Rotate a Linked List
+Rotate Doubly linked list by N nodes
+Delete a node with only its pointer given
+Segregate even and odd nodes
+Hard Problems on Linked List:
+Merge K Sorted Lists
+Intersection point of two Linked Lists.
+Implement LRU Cache
+Josephus Circle using circular linked list
+The Great Tree-List Recursion Problem.
+Clone a linked list with random pointer
+Binary Tree to Doubly Linked List | Set
+Reverse a Singly Linked List in Groups
+Reverse a Doubly Linked List in Groups
+Sublist Search (Search a linked list in another list)
+Construct a linked list from 2D matrix
+Rotate Linked List block wise
+Multiply two numbers represented by Lists
+Delete N nodes after M nodes
+Quick Links :
+‘Practice Problems’ on Linked List
+‘Videos’ on Linked List
+‘Quizzes’ on Linked List
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial pointer
+H
+Linked List
+DSA
+Data Structures
+Data Structures
+Linked List
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240705145840_New-Course-thumbnail_Placement-preparation-mastery-copy.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_img-practice_prod_courses_287_Web_Content_c_1722949071.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

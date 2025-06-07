@@ -1,0 +1,256 @@
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+Operating System Tutorial
+OS Basics
+What is an Operating System?
+Functions of Operating System
+Types of Operating Systems
+Need and Functions of Operating Systems
+Commonly Used Operating System
+Structure of Operating System
+Operating System Services
+Introduction of System Call
+System Programs in Operating System
+Operating Systems Structures
+History of Operating System
+Booting and Dual Booting of Operating System
+Types of OS
+Batch Processing Operating System
+Multiprogramming in Operating System
+Time Sharing Operating System
+What is a Network Operating System?
+Real Time Operating System (RTOS)
+Process Management
+Introduction of Process Management
+Process Table and Process Control Block (PCB)
+Operations on Processes
+Process Schedulers in Operating System
+Inter Process Communication (IPC)
+Context Switching in Operating System
+Preemptive and Non-Preemptive Scheduling
+CPU Scheduling in OS
+CPU Scheduling in Operating Systems
+CPU Scheduling Criteria
+Multiple-Processor Scheduling in Operating System
+Thread Scheduling
+Threads in OS
+Thread in Operating System
+Threads and its Types in Operating System
+Multithreading in Operating System
+Process Synchronization
+Introduction of Process Synchronization
+Race Condition Vulnerability
+Critical Section in Synchronization
+Mutual Exclusion in Synchronization
+Critical Section Problem Solution
+Peterson's Algorithm in Process Synchronization
+Semaphores in Process Synchronization
+Semaphores and its types
+Producer Consumer Problem using Semaphores | Set 1
+Readers-Writers Problem | Set 1 (Introduction and Readers Preference Solution)
+Dining Philosopher Problem Using Semaphores
+Hardware Synchronization Algorithms : Unlock and Lock, Test and Set, Swap
+Deadlocks & Deadlock Handling Methods
+Introduction of Deadlock in Operating System
+Conditions for Deadlock in Operating System
+Banker's Algorithm in Operating System
+Wait For Graph Deadlock Detection in Distributed System
+Handling Deadlocks
+Deadlock Prevention And Avoidance
+Deadlock Detection And Recovery
+Deadlock Ignorance in Operating System
+Recovery from Deadlock in Operating System
+Memory Management
+Memory Management in Operating System
+Implementation of Contiguous Memory Management Techniques
+Non-Contiguous Allocation in Operating System
+Compaction in Operating System
+Best-Fit Allocation in Operating System
+Worst-Fit Allocation in Operating Systems
+First-Fit Allocation in Operating Systems
+Fixed (or static) Partitioning in Operating System
+Variable (or Dynamic) Partitioning in Operating System
+Paging in Operating System
+Segmentation in Operating System
+Virtual Memory in Operating System
+Page Replacement Algorithms
+Page Replacement Algorithms in Operating Systems
+Program for Page Replacement Algorithms | Set 2 (FIFO)
+Belady's Anomaly in Page Replacement Algorithms
+Optimal Page Replacement Algorithm
+Program for Least Recently Used (LRU) Page Replacement algorithm
+Techniques to handle Thrashing
+Storage Management
+Storage Management
+File Systems in Operating System
+File Allocation Methods
+Free Space Management in Operating System
+Disk Scheduling Algorithms
+RAID (Redundant Arrays of Independent Disks)
+OS Interview Questions
+Last Minute Notes – Operating Systems
+Operating System Interview Questions
+OS Quiz and GATE PYQ's
+DSA to DevelopmentCourse
+Operating System TutorialLast Updated :31 Jan, 2025CommentsImproveSuggest changesLike ArticleLikeReportAn Operating System(OS) is a software that manages and handles hardware and software resources of a computing device.Responsible for managing and controlling all the activities and sharing of computer resources among different running applications.A low-level Software that includes all the basic functions like processor management, memory management, file management, etc.It mainly acts a government for your system that has different departments to manage different resources.Examples are Linux, Unix, Windows 11, MS DOS, Android, macOS and iOS.Basics :IntroductionTypes of OSFunctions of OSSystem InitializationKernel in OSSystem CallPrivileged InstructionsProcess Scheduling :Process IntroductionProcess Creation and DeletionStates of a ProcessProcess Table and Control BlockTypes of Processes in Process TableProcess Management IntroductionProcess SchedulerCPU Scheduling AlgorithmsPreemptive vs Non-PreemptiveTime spent in Context SwitchDispatcher vs schedulerStarvation and Aging in Operating Systems>> Quiz on CPU SchedulingProcess SynchronizationInter Process CommunicationIntroduction to Process SynchronizationCritical SectionPeterson’s Algorithm in Process SynchronizationLock variable synchronization mechanismSemaphores in operating systemClassical IPC ProblemsCommunication using signals in CMutex vs. SemaphoreMonitors for Process SynchronizationDekker’s algorithmBakery AlgorithmMutex lock for Linux Thread SynchronizationPriority Inversion>> Quiz on Process Management in OSDeadlock :Deadlock IntroductionDeadlock Prevention And AvoidanceDeadlock Detection And RecoveryBanker’s AlgorithmDeadlock, Starvation, and LivelockResource Allocation Graph (RAG)Methods of resource allocation to processes by operating systemProgram for Deadlock free condition in Operating SystemDeadlock detection in Distributed systemsTechniques used in centralized approach of deadlock detection in distributed systems>> Quiz on DeadlockMultithreading:Operating System | ThreadThreads and its typesOperating System | User Level thread Vs Kernel Level threadProcess-based and Thread-based MultitaskingMulti threading modelsBenefits of MultithreadingOperating System | Remote Procedure call (RPC)Memory Management :Introduction to memory and memory unitsMemory Management in Operating SystemBuddy System: Memory allocation techniquePagingSegmentationVirtual MemoryMemory InterleavingOperating system based VirtualizationSwap SpacePage Fault HandlingMemory Segmentation in 8086 MicroprocessorProgram for Next Fit algorithm in Memory ManagementOverlays in Memory ManagementBelady’s AnomalyPage Replacement AlgorithmsSecond Chance (or Clock) Page Replacement PolicyAllocating kernel memory (buddy system and slab system)Static and Dynamic Libraries | Set 1Working with Shared Libraries | Set 1Named Pipe or FIFO with example C programTracing memory usage in Linux>> Quiz on Memory ManagementDisk Management:File SystemsUnix File SystemImplementing Directory Management using Shell ScriptFile Directory | Path NameStructures of DirectoryFile Allocation MethodsFile Access MethodsSecondary memorySecondary memory – Hard disk driveDisk Scheduling AlgorithmsProgram for SSTF disk scheduling algorithmWhat exactly Spooling is all about?Difference between Spooling and BufferingFree space management>> Quiz on Input Output SystemsMiscComputer MemoryIntroduction to UNIX SystemMicrokernelKernel I/O Subsystem (I/O System)Important Linux Commands (leave, diff, cal, ncal, locate and ln)Process states and Transitions in a UNIX ProcessIntroduction to Linux Shell and Shell Scripting‘crontab’ in Linux with Examplesindepth and maxdepth in Linux find() command for limiting search to a specific directory.Real time systemsTasks in Real Time systemsMonolithic Kernel and key differences from MicrokernelGet/Set process resource limits in CDual Mode operations in OSTypes of Operating SystemBatch OS (e.g. Transactions Process, Payroll System, etc.)Multi-programmed OS(e.g. Windows, UNIX, macOS, etc.)Timesharing OS(e.g. Multics, Linux, etc.)Real-Time OS(e.g. PSOS, VRTX, etc.)Distributed OS(e.g. LOCUS, Solaris, etc.)Operating System FunctionsMemory and processor ManagementNetwork ManagementSecurity ManagementFile ManagementError DetectionJob AccountingLast Minute Notes (LMNs)  | Operating SystemsCommonly Asked Operating Systems Interview Questions‘Quizzes’ on Operating Systems !‘Practice Problems’ on Operating Systems !Next ArticleWhat is an Operating System?kartikImproveArticle Tags :Operating SystemsGATE CS
+Operating System Tutorial
+An Operating System(OS) is a software that manages and handles hardware and software resources of a computing device.
+Responsible for managing and controlling all the activities and sharing of computer resources among different running applications.
+A low-level Software that includes all the basic functions like processor management, memory management, file management, etc.
+It mainly acts a government for your system that has different departments to manage different resources.
+Examples are Linux, Unix, Windows 11, MS DOS, Android, macOS and iOS.
+Basics :
+Introduction
+Types of OS
+Functions of OS
+System Initialization
+Kernel in OS
+System Call
+Privileged Instructions
+Process Scheduling :
+Process Introduction
+Process Creation and Deletion
+States of a Process
+Process Table and Control Block
+Types of Processes in Process Table
+Process Management Introduction
+Process Scheduler
+CPU Scheduling Algorithms
+Preemptive vs Non-Preemptive
+Time spent in Context Switch
+Dispatcher vs scheduler
+Starvation and Aging in Operating Systems
+>> Quiz on CPU Scheduling
+Process Synchronization
+Inter Process Communication
+Introduction to Process Synchronization
+Critical Section
+Peterson’s Algorithm in Process Synchronization
+Lock variable synchronization mechanism
+Semaphores in operating system
+Classical IPC Problems
+Communication using signals in C
+Mutex vs. Semaphore
+Monitors for Process Synchronization
+Dekker’s algorithm
+Bakery Algorithm
+Mutex lock for Linux Thread Synchronization
+Priority Inversion
+>> Quiz on Process Management in OS
+Deadlock :
+Deadlock Introduction
+Deadlock Prevention And Avoidance
+Deadlock Detection And Recovery
+Banker’s Algorithm
+Deadlock, Starvation, and Livelock
+Resource Allocation Graph (RAG)
+Methods of resource allocation to processes by operating system
+Program for Deadlock free condition in Operating System
+Deadlock detection in Distributed systems
+Techniques used in centralized approach of deadlock detection in distributed systems
+>> Quiz on Deadlock
+Multithreading:
+Operating System | Thread
+Threads and its types
+Operating System | User Level thread Vs Kernel Level thread
+Process-based and Thread-based Multitasking
+Multi threading models
+Benefits of Multithreading
+Operating System | Remote Procedure call (RPC)
+Memory Management :
+Introduction to memory and memory units
+Memory Management in Operating System
+Buddy System: Memory allocation technique
+Paging
+Segmentation
+Virtual Memory
+Memory Interleaving
+Operating system based Virtualization
+Swap Space
+Page Fault Handling
+Memory Segmentation in 8086 Microprocessor
+Program for Next Fit algorithm in Memory Management
+Overlays in Memory Management
+Belady’s Anomaly
+Page Replacement Algorithms
+Second Chance (or Clock) Page Replacement Policy
+Allocating kernel memory (buddy system and slab system)
+Static and Dynamic Libraries | Set 1
+Working with Shared Libraries | Set 1
+Named Pipe or FIFO with example C program
+Tracing memory usage in Linux
+>> Quiz on Memory Management
+Disk Management:
+File Systems
+Unix File System
+Implementing Directory Management using Shell Script
+File Directory | Path Name
+Structures of Directory
+File Allocation Methods
+File Access Methods
+Secondary memory
+Secondary memory – Hard disk drive
+Disk Scheduling Algorithms
+Program for SSTF disk scheduling algorithm
+What exactly Spooling is all about?
+Difference between Spooling and Buffering
+Free space management
+>> Quiz on Input Output Systems
+Misc
+Computer Memory
+Introduction to UNIX System
+Microkernel
+Kernel I/O Subsystem (I/O System)
+Important Linux Commands (leave, diff, cal, ncal, locate and ln)
+Process states and Transitions in a UNIX Process
+Introduction to Linux Shell and Shell Scripting
+‘crontab’ in Linux with Examples
+indepth and maxdepth in Linux find() command for limiting search to a specific directory.
+Real time systems
+Tasks in Real Time systems
+Monolithic Kernel and key differences from Microkernel
+Get/Set process resource limits in C
+Dual Mode operations in OS
+Types of Operating System
+Batch OS (e.g. Transactions Process, Payroll System, etc.)
+Multi-programmed OS(e.g. Windows, UNIX, macOS, etc.)
+Timesharing OS(e.g. Multics, Linux, etc.)
+Real-Time OS(e.g. PSOS, VRTX, etc.)
+Distributed OS(e.g. LOCUS, Solaris, etc.)
+Operating System Functions
+Memory and processor Management
+Network Management
+Security Management
+File Management
+Error Detection
+Job Accounting
+Last Minute Notes (LMNs)  | Operating Systems
+Commonly Asked Operating Systems Interview Questions
+‘Quizzes’ on Operating Systems !
+‘Practice Problems’ on Operating Systems !
+Operating Systems
+GATE CS
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20230510120545_OS1.webp
+media.geeksforgeeks.org_wp-content_uploads_20250201111442430181_GATE-Rank-Booster-with-Expert-Curated-Questions.webp
+media.geeksforgeeks.org_wp-content_uploads_20241230150834598071_GATE-CS_IT-2028.webp
+media.geeksforgeeks.org_img-practice_prod_courses_252_Web_Content_cs_1722948837.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

@@ -1,0 +1,251 @@
+Software Testing Course
+Software Engineering Tutorial
+Software Development Life Cycle
+Waterfall Model
+Software Requirements
+Software Measurement and Metrics
+Software Design Process
+System configuration management
+Software Maintenance
+Software Development Tutorial
+Software Testing Tutorial
+Product Management Tutorial
+Project Management Tutorial
+Agile Methodology
+Selenium Basics
+Explore GfG Courses
+Share Your Experiences
+Software Engineering Tutorial
+Introduction
+Introduction to Software Engineering
+What is the Need of Software Engineering?
+Software Development Life Cycle (SDLC)
+Classification of Software - Software Engineering
+Software Characteristics - Software Engineering
+Software Quality - Software Engineering
+ISO/IEC 9126 in Software Engineering
+Boehm's Software Quality Model
+McCall's Quality Model
+Software Crisis - Software Engineering
+Difference between Software Engineering process and Conventional Engineering Process
+Software Measurement and Metrics
+Software Measurement and Metrics
+People Metrics and Process Metrics in Software Engineering
+Halstead’s Software Metrics - Software Engineering
+Cyclomatic Complexity
+Functional Point (FP) Analysis - Software Engineering
+Lines of Code (LOC) in Software Engineering
+Software Development Models
+Waterfall Model - Software Engineering
+Iterative Waterfall Model - Software Engineering
+What is Spiral Model in Software Engineering?
+Prototyping Model - Software Engineering
+Incremental Process Model - Software Engineering
+Rapid Application Development Model (RAD) - Software Engineering
+Coupling and Cohesion - Software Engineering
+RAD Model vs Traditional SDLC - Software Engineering
+Agile Software Development
+Agile Software Development - Software Engineering
+Agile Development Models - Software Engineering
+Agile Methodology Advantages and Disadvantages
+Agile SDLC (Software Development Life Cycle)
+Difference between Traditional and Agile Software Development
+Comparison between Agile model and other models in Software Engineering
+Software Requirements Specification
+Software Requirement Specification (SRS) Format
+Parts of a SRS document - Software Engineering
+Classification of Software Requirements - Software Engineering
+How to write a good SRS for your Project
+Software Engineering | Quality Characteristics of a good SRS
+Difference between SRS and FRS
+Software Project Management(SPM)
+Software Project Management (SPM) - Software Engineering
+Project Size Estimation Techniques - Software Engineering
+System configuration management - Software Engineering
+COCOMO Model - Software Engineering
+Capability Maturity Model (CMM) - Software Engineering
+Integrating Risk Management in SDLC | Set 1
+Integrating Risk Management in SDLC | Set 2
+Integrating Risk Management in SDLC | Set 3
+Software Project Management Complexities | Software Engineering
+Quasi renewal processes - Software Engineering
+Reliability Growth Models - Software Engineering
+Jelinski Moranda software reliability model - Software Engineering
+Software Engineering | Schick-Wolverton software reliability model
+Goel-Okumoto Model - Software Engineering
+Mills' Error Seeding Model - Software Engineering
+Basic Fault Tolerant Software Techniques
+Software Maintenance - Software Engineering
+Software Testing and Debugging
+What is Software Testing?
+Types of Software Testing
+Principles of Software testing - Software Testing
+Testing Guidelines - Software Engineering
+Black Box Testing - Software Engineering
+White box Testing - Software Engineering
+Unit Testing - Software Testing
+Acceptance Testing - Software Testing
+Alpha Testing - Software Testing
+Beta Testing - Software Testing
+Regression Testing - Software Engineering
+Integration Testing - Software Engineering
+What is Debugging in Software Engineering?
+Software Verification and Validation
+Verification and Validation in Software Engineering
+Role of Verification and Validation (V&V) in SDLC
+Requirements Validation Techniques - Software Engineering
+Differences between Verification and Validation
+Software Engineering Interview Questions
+Top 50+ Software Engineering Interview Questions and Answers [2025]
+Software Engineering Quiz
+DSA to DevelopmentCourse
+Software Engineering TutorialLast Updated :26 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportSoftware Engineering is a subdomain of Engineering in which you learn to develop, design, test, and maintain software using a systematic and structured approach. Software is a collection of programs. And that programs are developed by software engineers. The code of a program is written in any of various programming languages like C++, Java, Python, JavaScript, Ruby, C# etc.In this Software Engineering Tutorial, you will learn all the basic to advanced concepts, like Software Engineering Models and Architecture, Software development life cycle, software project management, software metrics, software requirements, etc. This software engineering tutorial is best suited for students and aspiring software engineers, providing a deep understanding of many different aspects of software engineering.To truly excel in this field, it's essential to not only understand the theoretical aspects but also to gain practical experience in applying these concepts. Engaging with ourcomprehensive Software Testing coursethat offers in-depth knowledge and hands-on practice in software engineering can be a game-changer, helping you build robust software solutions with confidence.Software Engineering TutorialBefore starting the tutorial, let's understand what software engineering is.What is Software Engineering?Software Engineeringis the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance.Software ProductSoftware Engineering IntroductionSoftware Engineering is a systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system. These article help you understand the basics of software engineering. This Introduction part covers the topic like Basics of Software and Software engineering, What is the need of Software Engineering etc.Introduction to Software EngineeringIntroduction to Software DevelopmentClassification of SoftwareSoftware EvolutionWhat is the Need of Software Engineering?What does a Software Engineer Do?Software Development Models & ArchitectureSoftware development models are frameworks that guide the process of creating software applications. They provide a structured approach to planning, designing, implementing, testing, and deploying software. Here are some common software development models.Classical Waterfall ModelIterative Waterfall ModelSpiral ModelIncremental process modelRapid application development model(RAD)RAD Model vs Traditional SDLCAgile Development ModelsAgile Software DevelopmentExtreme Programming (XP)SDLC V-ModelComparison of different life cycle modelsSoftware architecture refers to the high-level structure of a software system. It defines the components, their interactions, and the principles guiding their design. Here are some common software architectures:User Interface DesignCoupling and CohesionInformation System Life CycleDatabase application system life cyclePham-Nordmann-Zhang Model (PNZ model)Schick-Wolverton software reliability modelSoftware Project Management(SPM)Software Project Management (SPM) involves planning, organizing, and controlling software development projects to ensure they are completed on time, within budget, and according to specified quality standards. Here are some articles that gives you a deep understanding of Software Project Management (SPM):Project Management ProcessProject size estimation techniquesSystem configuration managementCOCOMO ModelCapability maturity model (CMM)Integrating Risk Management in SDLC | Set 1Integrating Risk Management in SDLC | Set 2Integrating Risk Management in SDLC | Set 3Role and Responsibilities of a software Project ManagerSoftware Project Management ComplexitiesQuasi renewal processesReliability Growth ModelsJelinski Moranda software reliability modelSchick-Wolverton software reliability modelGoel-Okumoto ModelMills’ Error Seeding ModelBasic fault tolerant software techniquesSoftware MaintenanceSoftware MetricesSoftware metrics are quantitative measures used to assess various aspects of software development processes, products, and projects. These metrics provide valuable insights into the quality, performance, and efficiency of software development efforts. Here are some common software metrics:Software Measurement and MetricsPeople Metrics and Process Metrics in Software EngineeringHalstead’s Software MetricsCyclomatic ComplexityFunctional Point (FP) Analysis – Software EngineeringLines of Code (LOC) in Software EngineeringSoftware RequirementsSoftware requirements are descriptions of the features, functions, capabilities, and constraints that a software system must possess to meet the needs of its users and stakeholders. They serve as the foundation for software development, guiding the design, implementation, and testing phases of the project. These articles break down software requirements into easy-to-understand conceptsRequirements Engineering ProcessClassification of Software RequirementsHow to write a good SRS for your ProjectQuality Characteristics of a good SRSRequirements ElicitationChallenges in eliciting requirementsSoftware ConfigurationSoftware configuration refers to the process of managing and controlling changes to software systems, components, and related artifacts throughout the software development lifecycle. Here are some articles that helps you in exploring the knowledge of Software Configuration:Software Configuration ManagementObjectives of Software Configuration ManagementSoftware Quality AssuranceProject Monitoring & ControlSoftware QualitySoftware quality refers to the degree to which a software product meets specified requirements and satisfies customer expectations, ensuring it is reliable, efficient, maintainable, and user-friendly. These article provide in depth explanation of Software Quality:Software QualityISO 9000 CertificationSEICMMSix SigmaSoftware DesignSoftware design involves creating a blueprint or plan for how a software system will be structured and organized to meet its requirements effectively and efficiently. These articles gives you a clear explanation about Software Design.Software Design ProcessSoftware Design process – Set 2Software Design PrinciplesCoupling and CohesionFunction Oriented DesignObject Oriented DesignUser Interface DesignSoftware ReliabilitySoftware reliability refers to the ability of a software system to consistently perform its intended functions under specified conditions for a defined period of time, without failures or errors that may disrupt its operation. Here are some articles that help to understand various concepts regarding software reliability.Software ReliabilitySoftware Fault ToleranceSoftware Testing and DebuggingSoftware testing and debugging are integral parts of the software development lifecycle, aimed at ensuring the quality and reliability of software products. Here are some articles that help to understand various concepts regarding software testing and debugging.Software Testing TutorialSeven Principles of software testingTesting GuidelinesBlack box testingWhite box TestingDebuggingSelenium: An Automation toolIntegration TestingSoftware MaintenanceSoftware maintenance refers to the process of updating, modifying, and enhancing software to ensure its continued effectiveness, efficiency, and relevance over time. Here are some articles that help to understand various concepts regarding software maintenance.Software MaintenanceCost and efforts of software maintenanceDifference BetweenUnderstanding the differences between software engineering concepts provides clarity on their unique strengths and weaknesses, empowering individuals to make informed decisions about which concept is best suited for specific purposes or projects. This knowledge enables effective selection, implementation, and optimization of software engineering practices to achieve desired outcomes efficiently.Waterfall model vs Incremental modelv-model vs waterfall modelManual testing vs Automation testingSanity Testing vs Smoke TestingCohesion vs CouplingAlpha Testing vs Beta TestingTesting and DebuggingFunctional vs Non-functional TestingWaterfall Model vs Spiral ModelRAD vs WaterfallUnit Testing vs System TestingLoad Testing vs Stress TestingFrontend Testing vs Backend TestingAgile Model vs V-ModelSoftware Engineering Interview QuestionsSoftware Engineering Interview QuestionsSoftware Engineering QuizSDLC MCQ QuestionsRisk Management MCQ QuestionsSoftware Development Models MCQ Questions and AnswersSoftware Quality Assurance QuizRecent Articles on Software EngineeringNext ArticleIntroduction to Software EngineeringRRishabhPrabhuImproveArticle Tags :Software EngineeringTutorials
+Software Engineering Tutorial
+Software Engineering is a subdomain of Engineering in which you learn to develop, design, test, and maintain software using a systematic and structured approach. Software is a collection of programs. And that programs are developed by software engineers. The code of a program is written in any of various programming languages like C++, Java, Python, JavaScript, Ruby, C# etc.
+In this Software Engineering Tutorial, you will learn all the basic to advanced concepts, like Software Engineering Models and Architecture, Software development life cycle, software project management, software metrics, software requirements, etc. This software engineering tutorial is best suited for students and aspiring software engineers, providing a deep understanding of many different aspects of software engineering.
+To truly excel in this field, it's essential to not only understand the theoretical aspects but also to gain practical experience in applying these concepts. Engaging with ourcomprehensive Software Testing coursethat offers in-depth knowledge and hands-on practice in software engineering can be a game-changer, helping you build robust software solutions with confidence.
+Before starting the tutorial, let's understand what software engineering is.
+What is Software Engineering?
+Software Engineeringis the process of designing, developing, testing, and maintaining software. It is a systematic and disciplined approach to software development that aims to create high-quality, reliable, and maintainable software. Software engineering includes a variety of techniques, tools, and methodologies, including requirements analysis, design, testing, and maintenance.
+Software Engineering Introduction
+Software Engineering is a systematic, disciplined, quantifiable study and approach to the design, development, operation, and maintenance of a software system. These article help you understand the basics of software engineering. This Introduction part covers the topic like Basics of Software and Software engineering, What is the need of Software Engineering etc.
+Introduction to Software Engineering
+Introduction to Software Development
+Classification of Software
+Software Evolution
+What is the Need of Software Engineering?
+What does a Software Engineer Do?
+Software Development Models & Architecture
+Software development models are frameworks that guide the process of creating software applications. They provide a structured approach to planning, designing, implementing, testing, and deploying software. Here are some common software development models.
+Classical Waterfall Model
+Iterative Waterfall Model
+Spiral Model
+Incremental process model
+Rapid application development model(RAD)
+RAD Model vs Traditional SDLC
+Agile Development Models
+Agile Software Development
+Extreme Programming (XP)
+SDLC V-Model
+Comparison of different life cycle models
+Software architecture refers to the high-level structure of a software system. It defines the components, their interactions, and the principles guiding their design. Here are some common software architectures:
+User Interface Design
+Coupling and Cohesion
+Information System Life Cycle
+Database application system life cycle
+Pham-Nordmann-Zhang Model (PNZ model)
+Schick-Wolverton software reliability model
+Software Project Management(SPM)
+Software Project Management (SPM) involves planning, organizing, and controlling software development projects to ensure they are completed on time, within budget, and according to specified quality standards. Here are some articles that gives you a deep understanding of Software Project Management (SPM):
+Project Management Process
+Project size estimation techniques
+System configuration management
+COCOMO Model
+Capability maturity model (CMM)
+Integrating Risk Management in SDLC | Set 1
+Integrating Risk Management in SDLC | Set 2
+Integrating Risk Management in SDLC | Set 3
+Role and Responsibilities of a software Project Manager
+Software Project Management Complexities
+Quasi renewal processes
+Reliability Growth Models
+Jelinski Moranda software reliability model
+Schick-Wolverton software reliability model
+Goel-Okumoto Model
+Mills’ Error Seeding Model
+Basic fault tolerant software techniques
+Software Maintenance
+Software Metrices
+Software metrics are quantitative measures used to assess various aspects of software development processes, products, and projects. These metrics provide valuable insights into the quality, performance, and efficiency of software development efforts. Here are some common software metrics:
+Software Measurement and Metrics
+People Metrics and Process Metrics in Software Engineering
+Halstead’s Software Metrics
+Cyclomatic Complexity
+Functional Point (FP) Analysis – Software Engineering
+Lines of Code (LOC) in Software Engineering
+Software Requirements
+Software requirements are descriptions of the features, functions, capabilities, and constraints that a software system must possess to meet the needs of its users and stakeholders. They serve as the foundation for software development, guiding the design, implementation, and testing phases of the project. These articles break down software requirements into easy-to-understand concepts
+Requirements Engineering Process
+Classification of Software Requirements
+How to write a good SRS for your Project
+Quality Characteristics of a good SRS
+Requirements Elicitation
+Challenges in eliciting requirements
+Software Configuration
+Software configuration refers to the process of managing and controlling changes to software systems, components, and related artifacts throughout the software development lifecycle. Here are some articles that helps you in exploring the knowledge of Software Configuration:
+Software Configuration Management
+Objectives of Software Configuration Management
+Software Quality Assurance
+Project Monitoring & Control
+Software Quality
+Software quality refers to the degree to which a software product meets specified requirements and satisfies customer expectations, ensuring it is reliable, efficient, maintainable, and user-friendly. These article provide in depth explanation of Software Quality:
+Software Quality
+ISO 9000 Certification
+SEICMM
+Six Sigma
+Software Design
+Software design involves creating a blueprint or plan for how a software system will be structured and organized to meet its requirements effectively and efficiently. These articles gives you a clear explanation about Software Design.
+Software Design Process
+Software Design process – Set 2
+Software Design Principles
+Coupling and Cohesion
+Function Oriented Design
+Object Oriented Design
+User Interface Design
+Software Reliability
+Software reliability refers to the ability of a software system to consistently perform its intended functions under specified conditions for a defined period of time, without failures or errors that may disrupt its operation. Here are some articles that help to understand various concepts regarding software reliability.
+Software Reliability
+Software Fault Tolerance
+Software Testing and Debugging
+Software testing and debugging are integral parts of the software development lifecycle, aimed at ensuring the quality and reliability of software products. Here are some articles that help to understand various concepts regarding software testing and debugging.
+Software Testing Tutorial
+Seven Principles of software testing
+Testing Guidelines
+Black box testing
+White box Testing
+Debugging
+Selenium: An Automation tool
+Integration Testing
+Software Maintenance
+Software maintenance refers to the process of updating, modifying, and enhancing software to ensure its continued effectiveness, efficiency, and relevance over time. Here are some articles that help to understand various concepts regarding software maintenance.
+Software Maintenance
+Cost and efforts of software maintenance
+Difference Between
+Understanding the differences between software engineering concepts provides clarity on their unique strengths and weaknesses, empowering individuals to make informed decisions about which concept is best suited for specific purposes or projects. This knowledge enables effective selection, implementation, and optimization of software engineering practices to achieve desired outcomes efficiently.
+Waterfall model vs Incremental model
+v-model vs waterfall model
+Manual testing vs Automation testing
+Sanity Testing vs Smoke Testing
+Cohesion vs Coupling
+Alpha Testing vs Beta Testing
+Testing and Debugging
+Functional vs Non-functional Testing
+Waterfall Model vs Spiral Model
+RAD vs Waterfall
+Unit Testing vs System Testing
+Load Testing vs Stress Testing
+Frontend Testing vs Backend Testing
+Agile Model vs V-Model
+Software Engineering Interview Questions
+Software Engineering Interview Questions
+Software Engineering Quiz
+SDLC MCQ Questions
+Risk Management MCQ Questions
+Software Development Models MCQ Questions and Answers
+Software Quality Assurance Quiz
+Recent Articles on Software Engineering
+R
+Software Engineering
+Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240319124551_Software-Engineering-Tutorial.webp
+media.geeksforgeeks.org_wp-content_uploads_20240909150147_Software-Product.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_554_Mobile_Other_data_science_1720847526.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

@@ -1,0 +1,33 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Become a Member of the PSFBy becoming a member, you tell us and the world that you are a part of the PSF and support our work, and as one of the classes of voting members, you add your voice to the future direction of the Foundation. We're so happy to have you!Voting MembershipsAs core stakeholders of the Python Software Foundation community, Supporting Members, Contributing Members, and PSF Fellows are all eligible to vote inPSF Board Elections.1.Sign up as a Supporting Member here!Supporting Members donate an annual membership fee of $99 to the PSF to sustain the Foundation and support the Python community. We have also introduced a sliding scale rate for Supporting Membership, whichyou can sign up for here. Your support is crucial to the PSF's ability to do our work making Python available and supporting our community.More details are available on ourSupporting Membership page.2.Self-Certify as a Contributing Member here!Contributing Members qualify because of their work for the Python community and ecosystem. Fill out the short form linked above to sign up!You qualify as a Contributing Member if you dedicate at least five hours per month volunteering on projects which advance themission of the PSFby creating or maintaining open source software available to the public at no charge, organizing Python events, participating in one of the PSF's working groups, etc.3.FellowsFellows are members who have been nominated for their extraordinary efforts and impact upon Python, the community, and the broader Python ecosystem. Visitthis pageto nominate a Fellow or learn more about the process.Basic MembershipSign up as a Basic Member here!Signing up as a Basic Member is free, and simply declares that you are part of the Python language community and agree to the community Code of Conduct. Thank you for being with us!Questions?Check out ourMembership FAQ page.
+Become a Member of the PSF
+By becoming a member, you tell us and the world that you are a part of the PSF and support our work, and as one of the classes of voting members, you add your voice to the future direction of the Foundation. We're so happy to have you!
+Voting Memberships
+As core stakeholders of the Python Software Foundation community, Supporting Members, Contributing Members, and PSF Fellows are all eligible to vote inPSF Board Elections.
+1.Sign up as a Supporting Member here!
+Supporting Members donate an annual membership fee of $99 to the PSF to sustain the Foundation and support the Python community. We have also introduced a sliding scale rate for Supporting Membership, whichyou can sign up for here. Your support is crucial to the PSF's ability to do our work making Python available and supporting our community.
+More details are available on ourSupporting Membership page.
+2.Self-Certify as a Contributing Member here!
+Contributing Members qualify because of their work for the Python community and ecosystem. Fill out the short form linked above to sign up!
+You qualify as a Contributing Member if you dedicate at least five hours per month volunteering on projects which advance themission of the PSFby creating or maintaining open source software available to the public at no charge, organizing Python events, participating in one of the PSF's working groups, etc.
+3.Fellows
+Fellows are members who have been nominated for their extraordinary efforts and impact upon Python, the community, and the broader Python ecosystem. Visitthis pageto nominate a Fellow or learn more about the process.
+Basic Membership
+Sign up as a Basic Member here!
+Signing up as a Basic Member is free, and simply declares that you are part of the Python language community and agree to the community Code of Conduct. Thank you for being with us!
+Questions?
+Check out ourMembership FAQ page.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_psf-logo.png

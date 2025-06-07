@@ -1,0 +1,184 @@
+DSA Course
+DSA
+Interview Problems on Stack
+Practice Stack
+MCQs on Stack
+Stack Tutorial
+Stack Operations
+Stack Implementations
+Monotonic Stack
+Infix to Postfix
+Prefix to Postfix
+Prefix to Infix
+Advantages & Disadvantages
+Explore GfG Courses
+Share Your Experiences
+Stack Data Structure
+What is Stack Data Structure? A Complete Tutorial
+Applications, Advantages and Disadvantages of Stack
+Implement a stack using singly linked list
+Introduction to Monotonic Stack - Data Structure and Algorithm Tutorials
+Difference Between Stack and Queue Data Structures
+Stack implementation in different language
+Stack in C++ STL
+Stack Class in Java
+Stack in Python
+C# Stack with Examples
+Implementation of Stack in JavaScript
+Stack in Scala
+Some questions related to Stack implementation
+Design and Implement Special Stack Data Structure
+Implement two Stacks in an Array
+Implement Stack using Queues
+Implement k stacks in an array
+Design a stack that supports getMin() in O(1) time
+Implement a stack using single queue
+How to implement stack using priority queue or heap?
+Create a customized data structure which evaluates functions in O(1)
+Implement Stack and Queue using Deque
+Easy problems on Stack
+Infix to Postfix Expression
+Prefix to Infix Conversion
+Prefix to Postfix Conversion
+Postfix to Prefix Conversion
+Postfix to Infix
+Convert Infix To Prefix Notation
+Valid Parentheses in an Expression
+Arithmetic Expression Evaluation
+Evaluation of Postfix Expression
+How to Reverse a Stack using Recursion
+Reverse individual words
+Reverse a String using Stack
+Reversing a Queue
+Intermediate problems on Stack
+How to create mergeable stack?
+The Stock Span Problem
+Next Greater Element (NGE) for every element in given Array
+Next Greater Frequency Element
+Maximum product of indexes of next greater on left and right
+Iterative Tower of Hanoi
+Sort a stack using a temporary stack
+Reverse a stack without using extra space in O(n)
+Delete middle element of a stack
+Check if a queue can be sorted into another queue using a stack
+Check if an array is stack sortable
+Largest Rectangular Area in a Histogram
+Maximum of minimums of every window size in a given array
+Find index of closing bracket for a given opening bracket in an expression
+Maximum difference between nearest left and right smaller elements
+Delete consecutive same words in a sequence
+Check mirror in n-ary tree
+Reverse a number using stack
+Reversing the first K elements of a Queue
+Hard problems on Stack
+The Celebrity Problem
+Print next greater number of Q queries
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Print ancestors of a given binary tree node without recursion
+Longest Valid Parentheses Substring
+Expression contains redundant bracket or not
+Find if an expression has duplicate parenthesis or not
+Find next Smaller of next Greater in an array
+Iterative method to find ancestors of a given binary tree
+Stack Permutations (Check if a queue is stack permutation of other)
+Remove brackets from an algebraic string containing + and - operators
+Range Queries for Longest Correct Bracket Subsequence Set | 2
+DSA to DevelopmentCourse
+Stack Data StructureLast Updated :27 Mar, 2025CommentsImproveSuggest changesLike ArticleLikeReportAStackis a linear data structure that follows a particular order in which the operations are performed. The order may beLIFO(Last In First Out)orFILO(First In Last Out).LIFOimplies that the element that is inserted last, comes out first andFILOimplies that the element that is inserted first, comes out last.It behaves like a stack of plates, where the last plate added is the first one to be removed.Think of it this way:Pushing an element onto the stack is like adding a new plate on top.Popping an element removes the top plate from the stack.Basics of Stack Data StructureIntroduction to StackStack Array ImplementationStack Linked List ImplementationStack Implementation using DequeApplications of StackImplementations of Stack in Different LanguagesStack in C++ STLStack in JavaStack in PythonStack in C#Stack in JavaScriptEasy Problems on StackData StructuresThe Celebrity ProblemImplement Queue using StacksImplement two stacks in an arrayImplement Stack using QueuesStack using priority queue or heapStack using single queueInfix to PostfixPrefix to InfixPrefix to PostfixPostfix to PrefixPostfix to InfixInfix To PrefixCheck for balanced parenthesesArithmetic Expression EvalutionEvaluation of Postfix ExpressionReverse a stack using recursionReverse WordsReverse a string using stackReversing a QueueReversing the first K of a QueueA Data Structure with O(1) OperationsMedium Problems on StackData Structuresk Stacks in an ArrayMergable StackPrevious Smaller ElementNext Greater ElementStock Span ProblemBuildings Facing SunNext Smaller of next Greater in an arrayNext Greater Frequency ElementMax product of indexes of greater on left and rightIterative Tower of HanoiSort a stack using a temporary stackReverse a stack without using extra space in O(n)Delete middle of a stackCheck if a queue can be sorted into another queueCheck if an array is stack sortableIterative Postorder Traversal | Set 1 (Using Two Stacks)Index of closing bracket for a given opening bracketMax Diff between nearest left and right smaller elementsDelete consecutive same words in a sequenceHard Problems on StackData StructuresLargest Rectangular Area in a HistogramSum of Max of all SubarraysMax of Mins of every window sizeDesign a stack that supports getMin()Design a stack with max frequency operationsPrint next greater number of Q queriesLength of the longest valid substringIterative Postorder Traversal | Set 2 (Using One Stack)Print ancestors of a given binary tree node without recursionExpression contains redundant bracket or notFind if an expression has duplicate parenthesisIterative method to find ancestors in a binary treeStack PermutationsRemove brackets from an algebraic string containing + and – operatorsRange Queries for Longest Correct Bracket SubsequenceQuick Links :‘Practice Problems’ on Stack‘Videos’ on Stack‘Quizzes’ on StackRecommended:Learn Data Structure and Algorithms | DSA TutorialStack in ScalaNext ArticleWhat is Stack Data Structure? A Complete TutorialHharendrakumar123ImproveArticle Tags :StackDSAPractice Tags :Stack
+Stack Data Structure
+AStackis a linear data structure that follows a particular order in which the operations are performed. The order may beLIFO(Last In First Out)orFILO(First In Last Out).LIFOimplies that the element that is inserted last, comes out first andFILOimplies that the element that is inserted first, comes out last.
+It behaves like a stack of plates, where the last plate added is the first one to be removed.Think of it this way:
+Pushing an element onto the stack is like adding a new plate on top.
+Popping an element removes the top plate from the stack.
+Basics of Stack Data Structure
+Introduction to Stack
+Stack Array Implementation
+Stack Linked List Implementation
+Stack Implementation using Deque
+Applications of Stack
+Implementations of Stack in Different Languages
+Stack in C++ STL
+Stack in Java
+Stack in Python
+Stack in C#
+Stack in JavaScript
+Easy Problems on StackData Structures
+The Celebrity Problem
+Implement Queue using Stacks
+Implement two stacks in an array
+Implement Stack using Queues
+Stack using priority queue or heap
+Stack using single queue
+Infix to Postfix
+Prefix to Infix
+Prefix to Postfix
+Postfix to Prefix
+Postfix to Infix
+Infix To Prefix
+Check for balanced parentheses
+Arithmetic Expression Evalution
+Evaluation of Postfix Expression
+Reverse a stack using recursion
+Reverse Words
+Reverse a string using stack
+Reversing a Queue
+Reversing the first K of a Queue
+A Data Structure with O(1) Operations
+Medium Problems on StackData Structures
+k Stacks in an Array
+Mergable Stack
+Previous Smaller Element
+Next Greater Element
+Stock Span Problem
+Buildings Facing Sun
+Next Smaller of next Greater in an array
+Next Greater Frequency Element
+Max product of indexes of greater on left and right
+Iterative Tower of Hanoi
+Sort a stack using a temporary stack
+Reverse a stack without using extra space in O(n)
+Delete middle of a stack
+Check if a queue can be sorted into another queue
+Check if an array is stack sortable
+Iterative Postorder Traversal | Set 1 (Using Two Stacks)
+Index of closing bracket for a given opening bracket
+Max Diff between nearest left and right smaller elements
+Delete consecutive same words in a sequence
+Hard Problems on StackData Structures
+Largest Rectangular Area in a Histogram
+Sum of Max of all Subarrays
+Max of Mins of every window size
+Design a stack that supports getMin()
+Design a stack with max frequency operations
+Print next greater number of Q queries
+Length of the longest valid substring
+Iterative Postorder Traversal | Set 2 (Using One Stack)
+Print ancestors of a given binary tree node without recursion
+Expression contains redundant bracket or not
+Find if an expression has duplicate parenthesis
+Iterative method to find ancestors in a binary tree
+Stack Permutations
+Remove brackets from an algebraic string containing + and – operators
+Range Queries for Longest Correct Bracket Subsequence
+Quick Links :
+‘Practice Problems’ on Stack
+‘Videos’ on Stack
+‘Quizzes’ on Stack
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+Stack in Scala
+H
+Stack
+DSA
+Stack
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_cdn-uploads_20230726165552_Stack-Data-Structure.png
+media.geeksforgeeks.org_wp-content_uploads_20250201111442430181_GATE-Rank-Booster-with-Expert-Curated-Questions.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_wp-content_uploads_20241228113207856535_file.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

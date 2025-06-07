@@ -1,0 +1,194 @@
+Swift - Home
+Swift - Overview
+Swift - Environment
+Swift - Basic Syntax
+Swift - Variables
+Swift - Constants
+Swift - Literals
+Swift - Comments
+Swift Operators
+Swift - Operators
+Swift - Arithmetic Operators
+Swift - Comparison Operators
+Swift - Logical Operators
+Swift - Assignment Operators
+Swift - Bitwise Operators
+Swift - Misc Operators
+Swift Advanced Operators
+Swift - Operator Overloading
+Swift - Arithmetic Overflow Operators
+Swift - Identity Operators
+Swift - Range Operators
+Swift Data Types
+Swift - Data Types
+Swift - Integers
+Swift - Floating-Point Numbers
+Swift - Double
+Swift - Boolean
+Swift - Strings
+Swift - Characters
+Swift - Type Aliases
+Swift - Optionals
+Swift - Tuples
+Swift - Assertions and Precondition
+Swift Control Flow
+Swift - Decision Making
+Swift - if statement
+Swift - if...else if...else Statement
+Swift - if-else Statement
+Swift - nested if statements
+Swift - switch statement
+Swift - Loops
+Swift - for in loop
+Swift - While loop
+Swift - repeat...while loop
+Swift - continue statement
+Swift - break statement
+Swift - fall through statement
+Swift Collections
+Swift - Arrays
+Swift - Sets
+Swift - Dictionaries
+Swift Functions
+Swift - Functions
+Swift - Nested Functions
+Swift - Function Overloading
+Swift - Recursion
+Swift - Higher-Order Functions
+Swift Closures
+Swift - Closures
+Swift-Escaping and Non-escaping closure
+Swift - Auto Closures
+Swift OOps
+Swift - Enumerations
+Swift - Structures
+Swift - Classes
+Swift - Properties
+Swift - Methods
+Swift - Subscripts
+Swift - Inheritance
+Swift-Overriding
+Swift - Initialization
+Swift - Deinitialization
+Swift Advanced
+Swift - ARC Overview
+Swift - Optional Chaining
+Swift - Error handling
+Swift - Concurrency
+Swift - Type Casting
+Swift - Nested Types
+Swift - Extensions
+Swift - Protocols
+Swift - Generics
+Swift - Access Control
+Swift - Function vs Method
+Swift - SwiftyJSON
+Swift - Singleton class
+Swift Random Numbers
+Swift Opaque and Boxed Type
+Swift - Compile Online
+Swift - Quick Guide
+Swift - Cheatsheet
+Swift - Useful Resources
+Swift - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Swift Tutorial
+Swift Tutorial
+What is Swift Programming Language?
+Why to Learn Swift?
+Swift Jobs and Opportunities
+Swift Online Compiler
+Careers with Swift
+Who Should Learn Swift
+Prerequisites to Learn Swift
+Frequently Asked Questions about Swift
+Swift Tutorial
+Swift is a new programming language developed by Apple Inc. for iOS and OS X development. It adopts the best of C and Objective-C, without the constraints of C compatibility. It uses the same runtime as the existing Obj-C system on Mac OS and iOS, which enables Swift programs to run on many existing iOS and OS X platforms.
+This Swift tutorial will help you to understand Swift in a very easy and simple way. So that you can create your own Swift application or program. It will cover all the major concepts of Swift programming language which will boost your confidence and make you a good Swift programmer.
+What is Swift Programming Language?
+Swift is a modern and open-source programming language that is specifically designed by Apple for its platforms. It was introduced in 2014 with the aim of providing a language that is not only powerful and versatile but also provides great safety, performance, interoperability with Objective-C and modern syntax. So using Swift developers can easily develop robust and high-performance applications.
+The latest version of Swift is Swift 5.9.2
+We can also use swift to develop software for phones, desktops, and servers. Swift is a great combination of modern thinking and diverse contributions from its open-source community. The Swift compiler is optimized for its performance and the language itself is tailored for its development.
+Why to Learn Swift?
+If you are interested in developing an application for Apples ecosystem, then Swift is for you. Swift opens a gateway for you to create dynamic, innovative, and powerful applications for iOS, macOS, watchOS, and tvOS. Apple prefers Swift programming language as a primary language because it has modern syntax, high performance, provides great safety, and works seamlessly with all devices.
+We can also use Swift to create applications for Windows and Android due to its open-source nature and cross-platform compatibility. Cross-platform app development allows developers to write code and then deploy it on multiple platforms, for example, Flutter, React Native, and Xamarin. However Swift offers this versatility, the user experience may not be as seamless as that can achieved by using other programming languages such as C#, .Net, Java, Kotlin etc.
+Swift Jobs and Opportunities
+In the dynamic era of technology, Swift programming language emerged as a milestone for creating user-friendly applications for Apples products. The demand for Swift's expertise is reaching to new heights and the market is loaded with lots of opportunities for talented developers. Whether you are a seasoned Swift developer or a newcomer you will have lots of opportunities with good packages. The average salary of a Swift developer is 5L to 12L per year, it can vary depending on the location, position and experience.
+There are so many companies that provide a good package and working culture for Swift developers. It's impossible to list down all the company names that use Swift, but some
+Apple
+Google
+Facebook
+Microsoft
+Amazon
+Twitter
+Airbnb
+Snapchat
+Adobe
+Pinterest
+Slack
+Uber
+Netflix
+Swift Online Compiler
+We have providedSwift Online Compiler/Interpreterwhich helps you to Edit and Executethe code directly from your browser.
+Example
+// First Swift program
+print("Hello! Swift")
+Output
+Hello! Swift
+Careers with Swift
+Swift is a powerful and intuitive language for software development. It provides a robust platform for creating dynamic and effective applications for Apples ecosystem. It is commonly used to create seamless and innovative applications for iOS, macOS, watchOS and tvOS. Swift opens the doors for huge opportunities where the developer can show off his/her skills. Following are some potential career options with Swift programming language −
+iOS/macOS App Developer
+iOS/macOS App Developer
+Mobile App Developer
+Mobile App Developer
+Game developer
+Game developer
+Augmented Reality(AR) developer
+Augmented Reality(AR) developer
+UI/UX designer for iOS app
+UI/UX designer for iOS app
+Quality Assurance(QA) engineer for iOS App
+Quality Assurance(QA) engineer for iOS App
+iOS Framework Developer
+iOS Framework Developer
+Swift Trainer
+Swift Trainer
+Swift Technical Writer
+Swift Technical Writer
+Cross-Platform Mobile Developer
+Cross-Platform Mobile Developer
+Full Stack Swift Developer
+Full Stack Swift Developer
+WatchOS App Developer
+WatchOS App Developer
+Who Should Learn Swift
+This tutorial is designed for software programmers who would like to learn the basics of Swift programming language from scratch. This tutorial will give you enough understanding of Swift programming language that you can take yourself to higher levels of expertise.
+Prerequisites to Learn Swift
+Before proceeding with this tutorial, you should have a basic understanding of Computer Programming terminologies and exposure to any programming language.
+Frequently Asked Questions about Swift
+There are some very Frequently Asked Questions(FAQ) about Swift, this section tries to answer them briefly.
+The latest version of Swift is Swift 5.9. It was released in September 2023 with new features like a macros system, generic parameters packs, ownership packs, and if and switch as expressions.
+In Swift programming, we can say hello using the print() function. Simply write print(Hello world) and run this code in the compiler it will print Hello world on the screen without creating any extra variable.
+Swift is a powerful and general programming language that is used to develop applications for iPhones, iPads, MacOS desktops, Apple Watches and TVs. It can also run on Linux and Windows operating systems.
+There are six primary data types of Swift: String, Character, Integer, Float, Double, and Boolean.
+There are six primary data types (String, Character, Int, Float, Double, and Bool), and four compound types (Array, Set, Dictionary, Tuples).
+In Swift, we can declare a variable using thevarkeyword followed by a variable name with or without data type.
+Example: var number: Int = 19 or var number = 12.
+In Swift, we can define a constant using theletkeyword followed by the constant name with or without data type.
+Example: let number: Int = 19 or let number = 12.
+Double is a data type to store floating point numbers. It has a precision of at least 15 decimal digits. It is also known as a 64-bit floating point number. Due to its high precision Double is preferred by Swift as compared to Float.
+
+[Images saved with this article:]
+www.tutorialspoint.com_swift_images_swift-mini-logo.jpg
+www.tutorialspoint.com_swift_images_swift.jpg
+www.tutorialspoint.com_images_run-button.png

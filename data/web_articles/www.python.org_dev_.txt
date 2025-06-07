@@ -1,0 +1,22 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python Developer's GuidePython's Developer Guide can be found athttps://devguide.python.org/.The pieces of documentation hosted here are:PEPs(Python Enhancement Proposals)BuildbotsPython.org Maintenance and Administration
+Python Developer's Guide
+Python's Developer Guide can be found athttps://devguide.python.org/.
+The pieces of documentation hosted here are:
+PEPs(Python Enhancement Proposals)
+Buildbots
+Python.org Maintenance and Administration
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

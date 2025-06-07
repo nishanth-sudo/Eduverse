@@ -1,0 +1,374 @@
+What to expect
+Curriculum
+Instructors
+Fees
+Certified AI & MLBlackBelt PlusProgram
+Shape Tomorrow with Smarter Insights!
+Custom Learning for Your Career Goals
+Personalized 1:1  Mentorship from Industry Experts
+Focused Interview and Job Placement Assistance
+10+
+Hours of Live Workshops Quarterly
+500+ Hrs
+Comprehensive Learning
+40+
+Real-World Projects
+100%
+Placement Assistance
+Start Your AI & ML Journey
+Why choose BlackBelt Plus?
+1:1 Mentorship
+Exclusive mentorship with industry experts
+Work on industry projects under guidance
+Placements assistance
+Build your profile & resume
+Prepare for placements through mock interviews
+Personalised learning path
+Cutting edge & industry relevant curriculum
+Master 22+ tools and frameworks
+Curriculum Statistics
+40+ Projects
+Learn with industry relevant projects
+500+ Hours
+Of learning to power ahead in your AI & ML journey
+22+ Tools
+Master 22+ industry relevant tools
+35+ Assignments
+Work on assignments - test your skills & progress
+75+ Mentorship Sessions
+1:1 mentorship sessions with industry experts
+Personalized Roadmap
+Start your journey with the learning part customised based on your inspiration motivation and experience
+1Start
+2Develop ML Skills
+3Develop Problem Solving Skills
+4Work on Hackathons & Projects
+5Develop Storytelling Skills
+6Build AI & ML Portfolio
+7Start Deep Learning Journey
+8Learn Natural  Language Processing
+9Learn Computer Vision
+10Master Apache Spark
+Placement Assistance
+Comprehensive placement assistance for aspiring industry professionals
+Digital Profile Building
+Digital Profile Building
+Mock Interviews With Experts
+Mock Interviews With Experts
+Access Job Opportunities
+Access Job Opportunities
+Certificate of Completion
+Get BlackBelt Plus Certified by Analytics Vidhya and share your achievement with the World
+Earn your Certificate
+Share your Achievement
+Money Back Guarantee!
+BlackBelt Plus program comes with 7 days no questions asked Money back Guarantee. If the program is bought in pre-launch offer or on discounted price, then the fee paid is non-refundable. For more T&C,Click here
+Advance Your Career Today
+Personalized Success Roadmap
+Exclusive Guided Projects
+500+ Learning Hours
+Master 22+ Cutting Edge Tools
+Dedicated Career Acceleration Team
+Weekly Mentorship Sessions
+Mock Interviews
+Work on 50+ Real-world Projects
+Personalized Mock Interviews & Feedback
+100+ Hiring Partners
+One Time
+One Time
+₹79,999
+(Inclusive of all taxes)
+Begin your journey toward unparalleled growth
+EMI
+₹7,999
+(Inclusive of all taxes)
+Begin your journey toward unparalleled growth
+Data Science Scholarship Week
+100% Scholarship*
+100% fees will be refunded excluding GST and payment gateway fees (up to 3%).
+All Courses including capstone project must be completed within 12 months of enrollment.
+Enrollment closes in
+1Day
+1
+Day
+5hr
+5
+hr
+35min
+35
+min
+20Sec
+20
+Sec
+Frequently Asked Questions
+Got More Questions? We Have Answers.
+Anyone who wants to kickstart a career in the data domain or wants to up-skill will benefit from the certified AI & ML BlackBelt Plus program.
+This is a completely self paced program, allowing you the freedom to choose your time for learning.
+Once you enroll in the certified AI & ML BlackBelt Plus program you can book 1 mentorship every week.
+If you meet the terms and conditions of the scholarship offer, you will be eligible for a refund. However, certain charges will be excluded from the refunded amount. For Indian sales (INR transactions), the full fees will be refunded, excluding applicable taxes and payment platform fees of up to 3%. For sales outside India (USD transactions), the full fees will be refunded, excluding payment platform fees of up to 10%. Refer to the refund policy for further details on deductions and timelines.
+This is a self paced program with 18 months of access.
+Contact Us Today
+Dive into the world of AI & ML with Analytics Vidhya
+Discover AI & ML Opportunities
+Get Expert Guidance
+Need support? We've got your back anytime!
++91-935471124010AM - 7PM (IST) Mon-Sun
++91-9354711240
+[email protected]You'll hear back in 24 hours
+[email protected]
+Discussion ForumAnswer in 1 working day
+Discussion Forum
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+AI Battlefield
+MCQ Based Skill Test
+Win upto INR 1,00,000*
+*Terms and conditions apply
+
+[Images saved with this article:]
+imgcdn.analyticsvidhya.com_blackbelt_left-shap.png
+imgcdn.analyticsvidhya.com_AV_logo.png

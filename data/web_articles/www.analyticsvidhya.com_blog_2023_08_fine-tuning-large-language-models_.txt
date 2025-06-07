@@ -1,0 +1,616 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Fine-Tuning Large Language Models
+Over the past few years, the landscape of natural language processing (NLP) has undergone a remarkable transformation, all thanks to the advent of fine-tuning large language models. These sophisticated models have opened the doors to a wide array of applications, ranging from language translation to sentiment analysis and even the creation of intelligent chatbots.
+But their versatility sets these models apart; fine-tuning them to tackle specific tasks and domains has become a standard practice, unlocking their true potential and elevating their performance to new heights. In this comprehensive guide, we’ll delve into the world of fine-tuninglarge language models, covering everything from the basics to advanced techniques such as instruction fine tuning. Also, this will help you to understanding for prompt engineering
+Learning Objectives
+Understand the concept and importance of fine-tuning in adapting large language models to specific tasks.
+Discover advanced fine-tuning techniques like multitasking, instruction fine-tuning, and parameter-efficient fine-tuning.
+Gain practical knowledge of real-world applications where fine-tuned language models revolutionize industries.
+Learn the step-by-step process to fine tune llm models.
+Implement the peft finetuning mechanism.
+Understand the difference between standard instruction finetuning and instruction fine-tuning training data.
+This article was published as a part of theData Science Blogathon
+Table of contents
+Understanding Fine Tuning LLMs
+GPT-3The Architecture of GPT-3
+The Architecture of GPT-3
+Fine-Tuning: Tailoring Models to Our Needs
+The Need for Fine-Tuning LLMs
+Fine-Tuning LLMs Process: A Step-by-step GuideStep 1: Load the Pre-trained Language Model and TokenizerStep 2: Prepare the Sentiment Analysis DatasetStep 3: Add a Custom Classification HeadStep 4: Fine-Tune the Model
+Step 1: Load the Pre-trained Language Model and Tokenizer
+Step 2: Prepare the Sentiment Analysis Dataset
+Step 3: Add a Custom Classification Head
+Step 4: Fine-Tune the Model
+What is Fine-tuning, and Why is it Important?
+What is Instruction Fine tuning?
+Instruction Finetuning ProcessStep 1: Load the Pre-trained Language Model and TokenizerStep 2: Prepare the Instruction Data and Sentiment Analysis DatasetStep 3: Customize the Model Architecture with InstructionsStep 4: Fine-Tune the Model with Instructions
+Step 1: Load the Pre-trained Language Model and Tokenizer
+Step 2: Prepare the Instruction Data and Sentiment Analysis Dataset
+Step 3: Customize the Model Architecture with Instructions
+Step 4: Fine-Tune the Model with Instructions
+Key Differences Between the Two Approaches
+Introducing Catastrophic Forgetting: A Perilous Challenge
+Mitigating Catastrophic Forgetting: Safeguarding Knowledge
+Multi-task Finetuning: Progressive LearningBenefits of Multitask Instruction Fine-Tuning
+Benefits of Multitask Instruction Fine-Tuning
+Parameter Efficient Finetuning: Transfer LearningUnderstanding PEFT
+Understanding PEFT
+Finetuning with PEFT
+Real-world Applications of Fine-tuning LLMs
+Retrieval Augmented Generation (RAG) approach?
+Conclusion
+Understanding Fine-Tuning LLMs
+Pre-trained language models are bigneural networkstrained on tons of text from the internet. They learn by predicting missing words in sentences, helping them understand grammar and context. Fine-tuning is the next step, where these models get customized for specific tasks using particular datasets, making them even more effective.
+Examples of popularpre-trained language modelsinclude BERT (Bidirectional Encoder Representations from Transformers), GPT-3 (Generative Pre-trained Transformer 3), RoBERTa (A Robustly Optimized BERT Pretraining Approach), and many more. These models are known for their ability to perform tasks such as text generation, sentiment classification, and language understanding at an impressive level of proficiency of these hyperparameters.
+Let’s discuss one of the language models in detail.
+GPT-3
+GPT-3 Generative Pre-trainedTransformer 3is a ground-breaking language model architecture that has transformed natural language generation and understanding. The Transformer model is the foundation for the GPT-3 architecture, which incorporates several parameters to produce exceptional performance.
+The Architecture of GPT-3
+A stack of Transformer encoder layers makes up GPT-3. Multi-head self-attention mechanisms and feed-forward neural networks make up each layer. While the feed-forward networks process and transform the encoded representations, the attention mechanism enables the model to recognize dependencies and relationships between words.
+The main innovation of GPT-3 is its enormous size, which allows it to capture a huge amount of language knowledge thanks to its astounding 175 billion parameters.
+Implementation of Code
+You can use theOpenAI APIto interact with the GPT- 3 model of openAI. Here is an example of text generation using GPT-3.
+import openai
+
+# Set up your OpenAI API credentials
+openai.api_key = 'YOUR_API_KEY'
+
+# Define the prompt for text generation
+prompt = "A quick brown fox jumps"
+
+# Make a request to GPT-3 for text generation
+response = openai.Completion.create(
+  engine="text-davinci-003",
+  prompt=prompt,
+  max_tokens=100,
+  temperature=0.6
+)
+
+# Retrieve the generated text from the API response
+generated_text = response.choices[0].text
+
+# Print the generated text
+print(generated_text)
+import openai
+
+# Set up your OpenAI API credentials
+openai.api_key = 'YOUR_API_KEY'
+
+# Define the prompt for text generation
+prompt = "A quick brown fox jumps"
+
+# Make a request to GPT-3 for text generation
+response = openai.Completion.create(
+  engine="text-davinci-003",
+  prompt=prompt,
+  max_tokens=100,
+  temperature=0.6
+)
+
+# Retrieve the generated text from the API response
+generated_text = response.choices[0].text
+
+# Print the generated text
+print(generated_text)
+Fine-Tuning: Tailoring Models to Our Needs
+AI models are smart with words, but they need extra training to become experts at specific tasks like understanding feelings or translating languages. This is called fine-tuning, and it’s what makes these models really useful for different jobs.
+Fine-tuning is like giving a final polish to versatile models. Think of it as helping a multi-talented friend focus on one specific skill for a special event. You would provide them with targeted training, just like we do with pre-trained language models during fine-tuning.
+Fine-tuning large language models involves training the pre-trained model on a smaller, task-specific dataset. This new dataset is labeled with examples relevant to the target task. Byexposing the modelto these labeled examples, it can adjust its parameters and internal representations to become well-suited for the target task.
+The Need for Fine-Tuning LLMs
+Pre-trained language models are impressive, but they aren’t task-specific by default. Fine-tuning adapts these models for specialized tasks like sentiment analysis or domain-specific question answering. It enhances their accuracy by helping the model understand the nuances of a particular task. Fine-tuning offers two key benefits: it saves time and resources by leveraging pre-existing knowledge from pre-training, and it improves performance on specific tasks by focusing on domain-specific details.
+Read More about this articleHow to Access the OpenAI o1 API
+Fine-Tuning LLMs Process: A Step-by-step Guide
+The LLM fine-tuning process typically involves feeding the task-specific dataset to the pre-trained model and adjusting its parameters through backpropagation. The goal is to minimize the loss function, which measures the difference between the model’s predictions and the ground-truth labels in the dataset. This fine-tuning process updates the model’s parameters, making it more specialized for your target task.
+Here we will walk through the process of instruction fine tuning a large language model for sentiment analysis. We’ll use the Hugging Face Transformers library, which provides easy access to pre-trained models and utilities forLLM fine tuning.
+Step 1: Load the Pre-trained Language Model and Tokenizer
+The first step is to load the pre-trained language model and its corresponding tokenizer. For this example, we’ll use the ‘distillery-base-uncased’ model, a lighter version of BERT.
+from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
+
+# Load the pre-trained tokenizer
+tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+
+# Load the pre-trained model for sequence classification
+model = DistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased')
+from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
+
+# Load the pre-trained tokenizer
+tokenizer = DistilBertTokenizer.from_pretrained('distilbert-base-uncased')
+
+# Load the pre-trained model for sequence classification
+model = DistilBertForSequenceClassification.from_pretrained('distilbert-base-uncased')
+Step 2: Prepare the Sentiment Analysis Dataset
+We need a labeled dataset with text samples and corresponding sentiments for sentiment analysis. Let’s create a small dataset for illustration purposes:
+texts = ["I loved the movie. It was great!",
+         "The food was terrible.",
+         "The weather is okay."]
+sentiments = ["positive", "negative", "neutral"]
+texts = ["I loved the movie. It was great!",
+         "The food was terrible.",
+         "The weather is okay."]
+sentiments = ["positive", "negative", "neutral"]
+Next, we’ll use the tokenizer to convert the text samples into token IDs, and attention masks the model requires.
+# Tokenize the text samples
+encoded_texts = tokenizer(texts, padding=True, truncation=True, return_tensors='pt')
+
+# Extract the input IDs and attention masks
+input_ids = encoded_texts['input_ids']
+attention_mask = encoded_texts['attention_mask']
+
+# Convert the sentiment labels to numerical form
+sentiment_labels = [sentiments.index(sentiment) for sentiment in sentiments]
+# Tokenize the text samples
+encoded_texts = tokenizer(texts, padding=True, truncation=True, return_tensors='pt')
+
+# Extract the input IDs and attention masks
+input_ids = encoded_texts['input_ids']
+attention_mask = encoded_texts['attention_mask']
+
+# Convert the sentiment labels to numerical form
+sentiment_labels = [sentiments.index(sentiment) for sentiment in sentiments]
+Checkout this article aboutHyperparameters and Layers of Neural Network Deep Learning
+Step 3: Add a Custom Classification Head
+The pre-trained language model itself doesn’t include a classification head. We must add one to the model to perform sentiment analysis. In this case, we’ll add a simple linear layer.
+import torch.nn as nn
+
+# Add a custom classification head on top of the pre-trained model
+num_classes = len(set(sentiment_labels))
+classification_head = nn.Linear(model.config.hidden_size, num_classes)
+
+# Replace the pre-trained model's classification head with our custom head
+model.classifier = classification_head
+import torch.nn as nn
+
+# Add a custom classification head on top of the pre-trained model
+num_classes = len(set(sentiment_labels))
+classification_head = nn.Linear(model.config.hidden_size, num_classes)
+
+# Replace the pre-trained model's classification head with our custom head
+model.classifier = classification_head
+Step 4: Fine-Tune the Model
+With the custom classification head in place, we can now fine-tune the model on the sentiment analysis dataset. We’ll use the AdamW optimizer and CrossEntropyLoss as theloss function.
+import torch.optim as optim
+
+# Define the optimizer and loss function
+optimizer = optim.AdamW(model.parameters(), lr=2e-5)
+criterion = nn.CrossEntropyLoss()
+
+# Fine-tune the model
+num_epochs = 3
+for epoch in range(num_epochs):
+    optimizer.zero_grad()
+    outputs = model(input_ids, attention_mask=attention_mask, labels=torch.tensor(sentiment_labels))
+    loss = outputs.loss
+    loss.backward()
+    optimizer.step()
+import torch.optim as optim
+
+# Define the optimizer and loss function
+optimizer = optim.AdamW(model.parameters(), lr=2e-5)
+criterion = nn.CrossEntropyLoss()
+
+# Fine-tune the model
+num_epochs = 3
+for epoch in range(num_epochs):
+    optimizer.zero_grad()
+    outputs = model(input_ids, attention_mask=attention_mask, labels=torch.tensor(sentiment_labels))
+    loss = outputs.loss
+    loss.backward()
+    optimizer.step()
+What is Fine-tuning, and Why is it Important?
+Inmachine learning, fine-tuning is the process of further training a previously learned model, such as a llama, on a particular task or dataset in order to enhance that model’s performance. With this method, the model’s prior learnings from a broad, all-purpose dataset are tapped into and tailored to the specifics of a given issue. This process is especially effective when using open source tools, as they provide a flexible and collaborative environment for experimentation and improvement. Additionally, validation is crucial during fine-tuning to ensure that the adjustments made to the model genuinely improve its performance on the targeted task.
+Why it is Important?
+Efficiency:
+Time-consuming: Training a machine learning model from scratch can be very time-consuming and resource-intensive. Fine-tuning a pre-trained model, which has already learned many useful features from its initial training, requires significantly less time and computational effort.
+Fine-tuning methods: These methods optimize the use of pre-trained models, enhancing efficiency by reducing the time and resources needed for training.
+Enhanced Performance:
+Training dataset: Pre-trained models have already extracted a large number of features and patterns from their original training dataset. Instruction fine tuning these models on a specific dataset helps them adapt to the unique characteristics of the data, often resulting in better performance compared to training a new model from scratch.
+Tune LLMs: LLM fine Tuning large language models (LLMs) on specific datasets enhances their performance by allowing them to adjust to particular features of the data.
+Data Scarcity:
+Training dataset: There is often a scarcity of labeled data available for a specific task. Instruction fine tuning a model that has been trained on a large and diverse dataset helps achieve good performance even with limited labeled data.
+Pre-trained models: Using pre-trained models mitigates the issue of data scarcity by leveraging the extensive training they have already undergone.
+What is Instruction Fine tuning?
+Instruction fine-tuning is a specialized technique to tailor large language models to perform specific tasks based on explicit instructions. While traditional LLM fine-tuning involves training a model on task-specific data, instruction fine-tuning goes further by incorporating high-level instructions or demonstrations to guide the model’s behavior.
+This approach allows developers to specify desired outputs, encourage certain behaviors, or achieve better control over the model’s responses. In this comprehensive guide, we will explore the concept of instruction fine-tuning and its implementation step-by-step.
+Instruction Finetuning Process
+What if we could go beyond traditional instruction finetuning and provide explicit instructions to guide the model’s behavior? Instruction fine-tuning does that, offering a new level of control and precision over model outputs. Here we will explore the process of instruction fine-tuning large language models for sentiment analysis.
+Step 1: Load the Pre-trained Language Model and Tokenizer
+To begin, let’s load the pre-trained language model and its tokenizer. We’ll use GPT-3, a state-of-the-art language model, for this example.
+from transformers import GPT2Tokenizer, GPT2ForSequenceClassification
+
+# Load the pre-trained tokenizer
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+
+# Load the pre-trained model for sequence classification
+model = GPT2ForSequenceClassification.from_pretrained('gpt2')
+from transformers import GPT2Tokenizer, GPT2ForSequenceClassification
+
+# Load the pre-trained tokenizer
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+
+# Load the pre-trained model for sequence classification
+model = GPT2ForSequenceClassification.from_pretrained('gpt2')
+Checkout this articleEssential Steps to Master Large Language Models
+Step 2: Prepare the Instruction Data and Sentiment Analysis Dataset
+For instruction fine-tuning, we need to augment the sentiment analysis dataset with explicit instructions for the model. Let’s create a small dataset for demonstration:
+texts = ["I loved the movie. It was great!",
+         "The food was terrible.",
+         "The weather is okay."]
+sentiments = ["positive", "negative", "neutral"]
+instructions = ["Analyze the sentiment of the text and identify if it is positive.",
+                "Analyze the sentiment of the text and identify if it is negative.",
+                "Analyze the sentiment of the text and identify if it is neutral."]
+texts = ["I loved the movie. It was great!",
+         "The food was terrible.",
+         "The weather is okay."]
+sentiments = ["positive", "negative", "neutral"]
+instructions = ["Analyze the sentiment of the text and identify if it is positive.",
+                "Analyze the sentiment of the text and identify if it is negative.",
+                "Analyze the sentiment of the text and identify if it is neutral."]
+Next, let’s tokenize the texts, sentiments, and instructions using the tokenizer:
+# Tokenize the texts, sentiments, and instructions
+encoded_texts = tokenizer(texts, padding=True, truncation=True, return_tensors='pt')
+encoded_instructions = tokenizer(instructions, padding=True, truncation=True, return_tensors='pt')
+
+# Extract input IDs, attention masks, and instruction IDs
+input_ids = encoded_texts['input_ids']
+attention_mask = encoded_texts['attention_mask']
+instruction_ids = encoded_instructions['input_ids']
+# Tokenize the texts, sentiments, and instructions
+encoded_texts = tokenizer(texts, padding=True, truncation=True, return_tensors='pt')
+encoded_instructions = tokenizer(instructions, padding=True, truncation=True, return_tensors='pt')
+
+# Extract input IDs, attention masks, and instruction IDs
+input_ids = encoded_texts['input_ids']
+attention_mask = encoded_texts['attention_mask']
+instruction_ids = encoded_instructions['input_ids']
+Step 3: Customize the Model Architecture with Instructions
+To incorporate instructions during instruction finetuning, we need to customize the model architecture. We can do this by concatenating the instruction IDs with the input IDs:
+import torch
+
+# Concatenate instruction IDs with input IDs and adjust attention mask
+input_ids = torch.cat([instruction_ids, input_ids], dim=1)
+attention_mask = torch.cat([torch.ones_like(instruction_ids), attention_mask], dim=1)
+import torch
+
+# Concatenate instruction IDs with input IDs and adjust attention mask
+input_ids = torch.cat([instruction_ids, input_ids], dim=1)
+attention_mask = torch.cat([torch.ones_like(instruction_ids), attention_mask], dim=1)
+Step 4: Fine-Tune the Model with Instructions
+With the instructions incorporated, we can now fine-tune theGPT-3 modelon the augmented dataset. During fine-tuning, the instructions will guide the model’s sentiment analysis behavior.
+import torch.optim as optim
+
+# Define the optimizer and loss function
+optimizer = optim.AdamW(model.parameters(), lr=2e-5)
+criterion = torch.nn.CrossEntropyLoss()
+
+# Fine-tune the model
+num_epochs = 3
+for epoch in range(num_epochs):
+    optimizer.zero_grad()
+    outputs = model(input_ids, attention_mask=attention_mask, labels=torch.tensor(sentiments))
+    loss = outputs.loss
+    loss.backward()
+    optimizer.step()
+import torch.optim as optim
+
+# Define the optimizer and loss function
+optimizer = optim.AdamW(model.parameters(), lr=2e-5)
+criterion = torch.nn.CrossEntropyLoss()
+
+# Fine-tune the model
+num_epochs = 3
+for epoch in range(num_epochs):
+    optimizer.zero_grad()
+    outputs = model(input_ids, attention_mask=attention_mask, labels=torch.tensor(sentiments))
+    loss = outputs.loss
+    loss.backward()
+    optimizer.step()
+Instruction fine-tuning takes the power of traditional fine-tuning to the next level, allowing us to control the behavior of large language models precisely. By providing explicit instructions, we can guide the model’s output and achieve more accurate and tailored results.
+Key Differences Between the Two Approaches
+Standard fine-tuning involves training a model on a labeled dataset, honing its abilities to perform specific tasks effectively. However, when it comes to fine-tuning large language models like GPT-3.5, if we want to provide explicit instructions to guide the model’s behavior, instruction fine-tuning comes into play. This approach offers unparalleled control and adaptability, allowing us to tailor the model’s responses to meet specific criteria or address nuanced requirements
+Here are the critical differences between instruction finetuning and standard finetuning.
+Data Requirements:Standard fine-tuning relies on a significant amount of labeled data for the specific task, whereas instruction fine-tuning benefits from the guidance provided by explicit instructions, making it more adaptable with limited labeled data.
+Control and Precision:Instruction fine-tuning allows developers to specify desired outputs, encourage certain behaviors, or achieve better control over the model’s responses. Standard fine-tuning may not offer this level of control.
+Learning from Instructions:Instruction fine-tuning requires an additional step of incorporating instructions into the model’s architecture, which standard fine-tuning does not.
+Introducing Catastrophic Forgetting: A Perilous Challenge
+Fine-tuning large language models often leads to “catastrophic forgetting,” where a model loses valuable pre-trained knowledge while learning a new task. This happens because, during fine-tuning, the model focuses on the new task and unintentionally forgets broader language structures it previously learned. It’s like a ship’s crew rearranging cargo; some containers of knowledge get emptied to make room for new ones, causing some important information to be lost in the process.
+Mitigating Catastrophic Forgetting: Safeguarding Knowledge
+To navigate the waters of catastrophic forgetting, we need strategies to safeguard the valuable knowledge captured during pre-training. There are two possible approaches.
+Multi-task Finetuning: Progressive Learning
+Gradually introduce a new task to the model:Start with the model’s existing knowledge from pre-training.Slowly add data from the new task to prevent forgetting important information (catastrophic forgetting).
+Start with the model’s existing knowledge from pre-training.
+Slowly add data from the new task to prevent forgetting important information (catastrophic forgetting).
+Use multitask instruction fine-tuning:Train language models on multiple tasks at the same time instead of one at a time.Provide clear instructions for each task to guide the model during training.
+Train language models on multiple tasks at the same time instead of one at a time.
+Provide clear instructions for each task to guide the model during training.
+Benefits of this method:It’s a breakthrough for refining large language models.Allows for comprehensive training on several tasks simultaneously.Improves the model’s learning process through specific instructions.Enhances efficiency and seamlessly integrates various tasks, showcasing the flexibility and adaptability of language models.
+It’s a breakthrough for refining large language models.
+Allows for comprehensive training on several tasks simultaneously.
+Improves the model’s learning process through specific instructions.
+Enhances efficiency and seamlessly integrates various tasks, showcasing the flexibility and adaptability of language models.
+Benefits of Multitask Instruction Fine-Tuning
+Knowledge Transfer:The model gains insights and knowledge from different domains by training on multiple tasks, enhancing its overall language understanding.
+Shared Representations:Multitask instruction fine-tuning allows the model to share representations across tasks. This sharing of knowledge improves the model’s generalization capabilities.
+Efficiency:Training on multiple tasks concurrently reduces the computational cost and time compared to fine-tuning each task individually.
+Read More about theGPT-3 to Future Generations of Language Models
+Parameter Efficient Finetuning: Transfer Learning
+Here we freeze certain layers of the model during fine-tuning in large language models. By freezing early layers responsible for fundamental language understanding, we preserve the core knowledge while only fine-tuning later layers for the specific task and the specific use case.
+Understanding PEFT
+Memory is necessary for full fine-tuning to store the model and several other training-related parameters. You must be able to allocate memory for optimizer states, gradients, forward activations, and temporary memory throughout the training process, even if your computer can hold the model weight of hundreds of gigabytes for the largest models. These extra parts may be much bigger than the model and quickly outgrow the capabilities of consumer hardware.
+Parameter-efficient fine-tuning large language models techniques only update a small subset of parameters instead of full fine-tuning, which updates every model weight during supervised learning. Some path techniques concentrate on fine-tuning a portion of existing model parameters, such as specific layers or components, while freezing the majority of model weights. Other methods add a few new parameters or layers and only fine-tune the new components; they do not affect the original model weights. Most, if not all, LLM weights are kept frozen using PEFT. As a result, compared to the original LLM, there are significantly fewer trained parameters.
+Why PEFT?
+PEFT empowers parameter-efficient models with impressive performance, revolutionizing the landscape of NLP. Here are a few reasons why we use PEFT.
+Reduced Computational Costs:PEFT requires fewer GPUs and GPU time, making it more accessible and cost-effective for training large language models.
+Faster Training Times:With PEFT, models finish training faster, enabling rapid iterations and quicker deployment in real-world applications.
+Lower Hardware Requirements:PEFT works efficiently with smaller GPUs and requires less memory, making it feasible for resource-constrained environments.
+Improved Modeling Performance:PEFT produces more robust and accurate models for diverse tasks by reducing overfitting.
+Space-Efficient Storage:With shared weights across tasks, PEFT minimizes storage requirements, optimizing model deployment and management.
+Finetuning with PEFT
+While freezing most pre-trained LLMs, PEFT only approaches fine-tuning a few model parameters, significantly lowering the computational and storage costs. This also resolves the problem of catastrophic forgetting, which was seen during LLMs’ full fine-tuning.
+In low-data regimes, PEFT approaches have also been demonstrated to be superior to fine-tuning and to better generalize to out-of-domain scenarios.
+Loading the Model
+Let’s load the opt-6.7b model here; its weights on the Hub are roughly 13GB in half-precision( float16). It will require about 7GB of memory if we load them in 8-bit.
+import os
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
+import torch
+import torch.nn as nn
+import bitsandbytes as bnb
+from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM
+
+model = AutoModelForCausalLM.from_pretrained(
+    "facebook/opt-6.7b", 
+    load_in_8bit=True, 
+    device_map='auto',
+)
+
+tokenizer = AutoTokenizer.from_pretrained("facebook/opt-6.7b")
+import os
+os.environ["CUDA_VISIBLE_DEVICES"]="0"
+import torch
+import torch.nn as nn
+import bitsandbytes as bnb
+from transformers import AutoTokenizer, AutoConfig, AutoModelForCausalLM
+
+model = AutoModelForCausalLM.from_pretrained(
+    "facebook/opt-6.7b", 
+    load_in_8bit=True, 
+    device_map='auto',
+)
+
+tokenizer = AutoTokenizer.from_pretrained("facebook/opt-6.7b")
+Postprocessing On the Model
+Let’s freeze all our layers and cast the layer norm in float32 for stability before applying some post-processing to the 8-bit model to enable training. We also cast the final layer’s output in float32 for the same reasons.
+for param in model.parameters():
+  param.requires_grad = False  # freeze the model - train adapters later
+  if param.ndim == 1:
+    param.data = param.data.to(torch.float32)
+
+model.gradient_checkpointing_enable()  # reduce number of stored activations
+model.enable_input_require_grads()
+
+class CastOutputToFloat(nn.Sequential):
+  def forward(self, x): return super().forward(x).to(torch.float32)
+model.lm_head = CastOutputToFloat(model.lm_head)
+for param in model.parameters():
+  param.requires_grad = False  # freeze the model - train adapters later
+  if param.ndim == 1:
+    param.data = param.data.to(torch.float32)
+
+model.gradient_checkpointing_enable()  # reduce number of stored activations
+model.enable_input_require_grads()
+
+class CastOutputToFloat(nn.Sequential):
+  def forward(self, x): return super().forward(x).to(torch.float32)
+model.lm_head = CastOutputToFloat(model.lm_head)
+Using LoRA
+Load a PeftModel, we will use low-rank adapters (LoRA) using the get_peft_model utility function from Peft.
+The function calculates and prints the total number of trainable parameters and all parameters in a given model. Along with the percentage of trainable parameters, providing an overview of the model’s complexity and resource requirements for training.
+def print_trainable_parameters(model):
+ 
+    # Prints the number of trainable parameters in the model.
+   
+    trainable_params = 0
+    all_param = 0
+    for _, param in model.named_parameters():
+        all_param += param.numel()
+        if param.requires_grad:
+            trainable_params += param.numel()
+    print(
+        f"trainable params: {trainable_params} || all params: {all_param} || 
+          trainable%: {100 * trainable_params / all_param}"
+    )
+def print_trainable_parameters(model):
+ 
+    # Prints the number of trainable parameters in the model.
+   
+    trainable_params = 0
+    all_param = 0
+    for _, param in model.named_parameters():
+        all_param += param.numel()
+        if param.requires_grad:
+            trainable_params += param.numel()
+    print(
+        f"trainable params: {trainable_params} || all params: {all_param} || 
+          trainable%: {100 * trainable_params / all_param}"
+    )
+This uses the Peft library to create aLoRA modelwith specific configuration settings, including dropout, bias, and task type. It then obtains the trainable parameters of the model and prints the total number of trainable parameters and all parameters, along with the percentage of trainable parameters.
+from peft import LoraConfig, get_peft_model 
+
+config = LoraConfig(
+    r=16,
+    lora_alpha=32,
+    target_modules=["q_proj", "v_proj"],
+    lora_dropout=0.05,
+    bias="none",
+    task_type="CAUSAL_LM"
+)
+
+model = get_peft_model(model, config)
+print_trainable_parameters(model)
+from peft import LoraConfig, get_peft_model 
+
+config = LoraConfig(
+    r=16,
+    lora_alpha=32,
+    target_modules=["q_proj", "v_proj"],
+    lora_dropout=0.05,
+    bias="none",
+    task_type="CAUSAL_LM"
+)
+
+model = get_peft_model(model, config)
+print_trainable_parameters(model)
+Training the Model
+This uses theHugging Face Transformersand Datasets libraries to train a language model on a given dataset. It utilizes the ‘transformers.Trainer’ class to define the training setup, including batch size, learning rate, and other training-related configurations and then trains the model on the specified dataset.
+import transformers
+from datasets import load_dataset
+data = load_dataset("Abirate/english_quotes")
+data = data.map(lambda samples: tokenizer(samples['quote']), batched=True)
+
+trainer = transformers.Trainer(
+    model=model, 
+    train_dataset=data['train'],
+    args=transformers.TrainingArguments(
+        per_device_train_batch_size=4, 
+        gradient_accumulation_steps=4,
+        warmup_steps=100, 
+        max_steps=200, 
+        learning_rate=2e-4, 
+        fp16=True,
+        logging_steps=1, 
+        output_dir='outputs'
+    ),
+    data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False)
+)
+model.config.use_cache = False  # silence the warnings. Please re-enable for inference!
+trainer.train()
+import transformers
+from datasets import load_dataset
+data = load_dataset("Abirate/english_quotes")
+data = data.map(lambda samples: tokenizer(samples['quote']), batched=True)
+
+trainer = transformers.Trainer(
+    model=model, 
+    train_dataset=data['train'],
+    args=transformers.TrainingArguments(
+        per_device_train_batch_size=4, 
+        gradient_accumulation_steps=4,
+        warmup_steps=100, 
+        max_steps=200, 
+        learning_rate=2e-4, 
+        fp16=True,
+        logging_steps=1, 
+        output_dir='outputs'
+    ),
+    data_collator=transformers.DataCollatorForLanguageModeling(tokenizer, mlm=False)
+)
+model.config.use_cache = False  # silence the warnings. Please re-enable for inference!
+trainer.train()
+Real-world Applications of Fine-tuning LLMs
+We will look closer at some exciting real-world use cases of fine-tuning large language models, where NLP advancements are transforming industries and empowering innovative solutions.
+Sentiment Analysis:Fine-tuning language models forsentiment analysisallows businesses to analyze customer feedback, product reviews, and social media sentiments to understand public perception and make data-driven decisions.
+Named Entity Recognition (NER):By fine-tuning models for NER, entities like names, dates, and locations can be automatically extracted from text, enabling applications like information retrieval and document categorization.
+Language Translation:Fine-tuned models can be used for machine translation, breaking language barriers and enabling seamless communication across different languages.
+Chatbots and Virtual Assistants:By fine-tuning llms, chatbots and virtual assistants can provide more accurate and contextually relevant responses, enhancing user experiences.
+Medical Text Analysis:Fine-tuned models can aid in analyzing medical documents, electronic health records, and medical literature, assisting healthcare professionals in diagnosis and research.
+Financial Analysis:Fine-tuning language models can be utilized in financial sentiment analysis, predicting market trends, and generating financial reports from vast datasets.
+Legal Document Analysis:Fine-tuned models can help in legal document analysis, contract review, and automated document summarization, saving time and effort for legal professionals.
+In the real world, fine-tuning large language models is widely used across industries. It empowers businesses and researchers to harness NLP capabilities for various tasks. This leads to enhanced efficiency, improved decision-making, and enriched user experiences.
+Retrieval Augmented Generation (RAG) approach?
+RAG stands forRetrieval Augmented Generation, a method that improves the performance of large language models (LLMs). This is an explanation of how it functions:
+A Weakness of LLMs:
+Large-scale text and code datasets are used to train LLMs. This enables them to accomplish amazing tasks like text generation, language translation, and composing creative content. However, they may struggle to maintain factual accuracy and an up-to-date knowledge base.
+RAG Comes to Help:
+RAG combines an LLM with an information retrieval system. When a user submits a query, RAG first gathers pertinent materials from a trustworthy knowledge base (such as Wikipedia or an organization’s internal knowledge repository). The original query is then sent to the LLM along with these documents. Given this further background, the LLM, utilizing its base model, processes the query more accurately.
+Metrics play a crucial role in evaluating the performance of these models.Embedding techniquesare employed to represent the documents and queries in a high-dimensional space, making the retrieval process efficient and relevant. Python is often used to implement these complex algorithms and manage the integration between the retrieval system and the LLM. Technologies like ChatGPT exemplify the practical applications of RAG, showcasing enhanced accuracy and context awareness in generating responses.
+Conclusion
+Fine-tuning large language models has emerged as a powerful technique to adapt these pre-trained models to specific tasks and domains. As the field ofNLP advances, fine-tuning will remain crucial to developing cutting-edge language models and applications.
+Hope you like the process of fine-tuning large language models (LLMs). A fine-tune LLM tutorial can help you master this techniques.
+Key Takeaways
+Fine-tuning complements pre-training, empowering language models for specific tasks, making it crucial for cutting-edge applications.
+Advanced techniques like multitasking, parameter-efficient, and instruction fine-tuning push NLP’s boundaries, enhancing model performance and adaptability.
+Embracing fine-tuning revolutionizes real-world applications, transforming how we understand textual data, from sentiment analysis to virtual assistants.
+With fine-tuning, we navigate language with precision and creativity. This transforms how we interact with and understand text. Embrace the possibilities and unleash the full potential of language models through fine-tuning. The future of NLP is shaped with each finely tuned model.
+Frequently Asked Questions
+A. Fine-tuning large language models involves training a pre-trained model on a specific dataset to tailor its performance to a particular task or domain, enhancing its accuracy and relevance.
+A. In machine learning, fine-tuning a model means taking a pre-trained model and further training it on a new, smaller dataset specific to a task, improving its performance without training from scratch.
+A. Fine-tuning an LLM (large language model) involves additional training of a pre-trained language model on a domain-specific dataset, enabling the model to generate more accurate and relevant text for specific applications.
+A. The fine-tuning method consists of taking a pre-trained model and continuing its training on a new dataset, typically with a smaller learning rate, to adapt the model to new, specific tasks while preserving its previously learned knowledge.
+Technology can impact lives at a level that has never been realized in mankind's history. The idea that something I create can impact someone worldwide now or in the future drives my passion for Technology.
+A dedicated ML Engineer and Tech enthusiast, proficient in training ML models. My current interests are advancing machine learning techniques, particularly in natural language processing, LLMs, and multimodal AI.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Google Gemma, the Open-Source LLM Powerhouse
+Google Gemma, the Open-Source LLM Powerhouse
+How to Build a Multilingual Chatbot using Large...
+How to Build a Multilingual Chatbot using Large...
+Finetuning Large Language Models (LLMs)
+Finetuning Large Language Models (LLMs)
+Top 9 Fine-tuning Interview Questions and Answers
+Top 9 Fine-tuning Interview Questions and Answers
+News Classification by Fine-tuning Small Langua...
+News Classification by Fine-tuning Small Langua...
+A Comprehensive Guide to Fine-Tune Open-Source ...
+A Comprehensive Guide to Fine-Tune Open-Source ...
+Exploring the Use of LLMs and BERT for Language...
+Exploring the Use of LLMs and BERT for Language...
+LLM Fine Tuning with PEFT Techniques
+LLM Fine Tuning with PEFT Techniques
+The LLM Revolution: Transforming Language Models
+The LLM Revolution: Transforming Language Models
+How to Fine-Tune Large Language Models with Mon...
+How to Fine-Tune Large Language Models with Mon...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_ldme4qX.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_GPT-3-5120x2880-1.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_magazine.sebastianraschka-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_deeplearning-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_deeplearningai_QCOgOQp-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_deeplearningg-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_ldme4qX.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

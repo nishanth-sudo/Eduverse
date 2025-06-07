@@ -1,0 +1,125 @@
+Login now to continue
+Enter email address to continue
+Enter OTP sent to
+Edit
+Resend OTP in30s
+Latest in DataHour
+26 May01:30 PMIST
+Building Agentic Apps with Google ADK - Part 1 - Basic Agentic Apps
+Prashanth Subrahmanyam
+Head of Developer Advocacy - APAC
+27 May01:30 PMIST
+Fundamentals of MCP and A2A for Agentic AI Systems
+Satyam Mital
+AI Software Engineer
+28 May01:30 PMIST
+Using Reinforcement Learning to Make Better Decisions
+Tamojit Maiti
+Senior Data Scientist
+29 May02:30 PMIST
+Transforming Recommendation Systems with LLMs: Architectures, Challenges, and Best Practices
+Aditya Gautam
+Tech Lead, Machine Learning
+02 Jun01:30 PMIST
+Building Robust RAG Applications Using LangChain & LlamaIndex
+Pavan Belagatti
+Technology Evangelist
+04 Jun01:30 PMIST
+Vectors in Action: Hands-on with FAISS & ChromaDB, Comparative Insights Across Vector DBs
+Lakshmi Devi Prakash
+Senior Associate- Data Scientist
+15 May01:30 PMIST
+Memoria: Agentic Memory for LLMs
+Samarth Sarin
+Data Scientist
+14 May01:30 PMIST
+Fine-tune LLM  with Reinforcement Learning
+Sainath Reddy Sankepally
+Data Scientist
+13 May01:30 PMIST
+Building a Responsible AI Tax Assistant Agent with Guardrails
+Anuj Saini
+Principal Data Scientist
+08 May01:30 PMIST
+API to Autonomy: Architecting LLM Workloads at Hyperscale
+Bhawna Rupani
+Senior Gen AI Engineer
+05 May01:30 PMIST
+Multimodal RAG with ColPali & Gemini
+Sitam Meur
+AI Engineer
+28 Apr01:30 PMIST
+Engineering Efficient LLM Inference: From Model Optimization to Scalable Systems
+Rishit Dholakia
+Machine Learning Engineer
+Become a Speaker
+Convey your vision, drive change, and make an impact. Join us as a speaker to lead the conversation at our premier event
+Networking Opportunities
+Thought Leadership
+Increased Visibility
+Knowledge Sharing
+Feedback & Engagement
+Community Contribution
+Hear from Our Community
+Keeping Up-to-Date: Convenient and Excellent Sessions
+Excellent sessions that keep me up-to-date and significantly enhance my knowledge, experience, and skills. The evening hours are extremely convenient, as they do not interfere with my office timings.
+Virendrakumar M. Thakkar
+Assistant Professor
+Inspiring Technology Growth: Thought-Provoking DataHour Sessions
+DataHour sessions are engaging, featuring key strategic speakers from around the world discussing the latest technology trends. They are thought-provoking, fostering new areas of technological growth in large language models (LLMs) and inspiring young minds to embrace new GenAI principles.
+Kumar Salem Nagarajan
+Associate Director - Projects
+Enriching LLMs and Generative AI Knowledge
+I am interested in LLMs and Generative AI and aim to become an expert in this field. The DataHour sessions focused on this topic, led by experienced speakers, have broadened, and structured my knowledge, and boosted my motivation. I would like to express my gratitude to the lecturers for the quality and clarity of their presentations, their willingness to share their experiences, and the possibility of future contact. Additionally, I am thankful to the organizers for offering this learning opportunity and for the future possibilities they provide.
+Krystyna
+Data Scientist
+DataHour's Expert Presenters
+I have attended many DataHour webinars and found the presentations to be of a higher level of expertise. Thank you for selecting professionals who possess knowledge, skills, and the right attitude.
+Englebert Zoa Etundi
+Permanent Representative
+Educative and Informative: Enhancing Knowledge through Sessions
+Overall, good. The sessions are educational and informative, offering ample opportunities and scope for enhancing your knowledge.
+Sameer Sippy
+Artificial Intelligence Engineer
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+AI Battlefield
+MCQ Based Skill Test
+Win upto INR 1,00,000*
+*Terms and conditions apply
+
+[Images saved with this article:]
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+neweventscdn.analyticsvidhya.com_media_contest_cover_Cover_Images_-_Landing_Page_2_pSJwZGQ.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_1_1.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_9.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_63.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_1.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_54.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_3.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_nefi299.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_2_1.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_2_2qBFpN2.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_1_1.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_60.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_6.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_59.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_61.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_56.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Cygeniq.png
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_58.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_5.webp
+neweventscdn.analyticsvidhya.com_media_contest_icon_Thumbnail_DataHour_55.webp
+neweventscdn.analyticsvidhya.com_media_company_logo_Logo_4.webp
+imgcdn.analyticsvidhya.com_events_homepage_datahour_testimonial_company_Gobind.jpg
+imgcdn.analyticsvidhya.com_events_homepage_datahour_testimonial_company_Cognizant.jpg
+imgcdn.analyticsvidhya.com_events_homepage_datahour_testimonial_company_bosch_service.jpg
+imgcdn.analyticsvidhya.com_events_homepage_datahour_testimonial_company_ICAO.jpg
+imgcdn.analyticsvidhya.com_events_homepage_datahour_testimonial_company_IMG.jpg

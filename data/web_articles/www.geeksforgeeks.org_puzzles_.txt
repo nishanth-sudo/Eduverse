@@ -1,0 +1,361 @@
+Quantitiative Aptitude
+Logical Reasoning
+Verbal Ability
+Aptitude Quiz
+Quantitiative Aptitude Quiz
+Verbal Ability Quiz
+Aptitude For Placements
+Interview Corner
+Practice Sets
+Explore GfG Courses
+Share Your Experiences
+Puzzles
+Mathematical/Analytical Puzzle
+Puzzle 1 | (How to Measure 45 minutes using two identical wires?)
+Puzzle - Find the ages of daughters
+Puzzle - Calculate total distance travelled by bee
+Monty Hall problem
+Puzzle 16 | (100 Doors)
+Puzzle - Torch and Bridge
+Puzzle - 2 Eggs and 100 Floors
+Puzzle 12 | (Maximize probability of White Ball)
+Puzzle 27 | (Hourglasses Puzzle)
+Puzzle 17 | (Ratio of Boys and Girls in a Country where people want only boys)
+Puzzle 29 | (Car Wheel Puzzle)
+Puzzle 22 | (Maximum Chocolates)
+Puzzle 28 | (Newspaper Puzzle)
+Puzzle 33 | ( Rs 500 Note Puzzle )
+Puzzle 39 | (100 coins puzzle)
+Puzzle 44 | Girl or Boy
+Puzzle 26 | (Know Average Salary without Disclosing Individual Salaries)
+Puzzle 37 | (Maximum run in cricket)
+Puzzle 32| (Completion of Task)
+Puzzle 40 | (Find missing Row in Excel)
+Four People on a Rickety Bridge
+Puzzle | Man fell in well Puzzle
+Puzzle | 50 red marbles and 50 blue marbles
+Puzzle | Bag of Coins
+Puzzle | Find the last ball to remain after the entire process
+Puzzle | 10 identical bottles of pills
+Hungry Worm and Old Tree Riddle | Puzzle
+Puzzle 85 | Chain Link Puzzle
+Interview Puzzle | The shopkeeper and the lady who made a purchase of Rs 200 with fake note
+Puzzle | Snail and Wall
+Puzzle 45 | Gem in Pockets
+Pizza Puzzle
+Puzzle 49 | King and his Elephants
+Puzzle | Find the box which contains Box of 11 gm Cigarettes
+Puzzle | How much he had initially?
+Puzzle | Minimum planes to go around the world
+Puzzle | Six colored cube
+Logical Puzzles
+Puzzle 9 | (Find the fastest 3 horses)
+Puzzle 5 | (Finding the Injection for Anesthesia)
+Puzzle 4 | (Pay an employee using a  gold rod of 7 units ?)
+Puzzle 7 | (3 Bulbs and 3 Switches)
+Puzzle 15 | (Camel and Banana Puzzle)
+Puzzle 8 | (Find the Jar with contaminated pills)
+Puzzle 10 | (A Man with Medical Condition and 2 Pills)
+Puzzle 13 | (100 Prisoners with Red/Black Hats)
+Puzzle 24 | (10 Coins Puzzle)
+Puzzle 14 | (Strategy for a 2 Player Coin Game)
+Puzzle 19 | (Poison and Rat)
+Puzzle 20 | (5 Pirates and 100 Gold Coins)
+Puzzle 31 | (Minimum cut Puzzle)
+Puzzle 34 | (Prisoner and Policeman Puzzle)
+Puzzle 36 | (Matchstick Puzzle)
+Missionaries and Cannibals
+Puzzle 41 | (Guess Color of Hat)
+Puzzle 43 | Muddy Heads
+Puzzle | Heaven and Hell
+Puzzle | Mislabeled Jars
+Puzzle | 8 balls problem
+Puzzle 51| Cheryl’s Birthday Puzzle and Solution
+Puzzle | Measure 4L using given 3 buckets
+Puzzle | 3 Priests and 3 devils Puzzle
+Puzzle | Farmer, Goat, Wolf and Cabbage
+Puzzle | Water Jug Problem
+Puzzle | Blind man and Pills
+Puzzle | The Burning Candles
+Birthday Puzzle
+Puzzle | Rat and Poisonous Milk Bottles
+Measuring 6L water from 4L and 9L buckets
+Puzzle | Six Houses P, Q, R, S, T, and U
+Melting Candles | Puzzle
+Puzzle 47 | Red Hat vs Blue Hat
+Puzzle | Find the Culprit
+Puzzle 54 | Fill the Jug
+Puzzle 46 | Rich or Poor
+Puzzle | Light all the bulbs
+Puzzle | Distribute the Water
+Puzzle 50 | The Boat Wreckage
+Puzzle | Weight of Heavy Ball
+Puzzle | Guess the bit string
+Arrangement Puzzles
+Puzzle 11 | ( 1000 Coins and 10 Bags )
+Puzzle 23 | (Days of month using 2 dice)
+Puzzle 38 | (Tic Tac Toe Puzzle)
+Puzzle 30 | (Last Palindrome Date Before 10/02/2001)
+Puzzle 42 | (Placing the numbers)
+Puzzle | 10 Balls in 5 Lines
+Puzzle | (Round table coin game)
+Puzzle | Place numbers 1 to 9 in a Circle such that sum of every triplet in straight line is 15
+Shape based Puzzles
+Puzzle 21 | (3 Ants and Triangle)
+Puzzle | 3 cuts to cut round cake into 8 equal pieces
+Puzzle 25 | (Chessboard and dominos)
+Puzzle | Three Squares
+Puzzle | Maximum pieces that can be cut from a Circle using 6 straight lines
+Puzzle | Splitting a Cake with a Missing Piece in two equal portion
+Puzzle 48 | Rectangular Cardboard
+Puzzle | Dividing a Square into N smaller squares
+Rubik's Cube
+Algorithm to solve Rubik's Cube
+Rubik's Cube Facts and Questions
+Brain Teasers
+Brain Teasers
+Crossword Puzzle
+Crossword Puzzle Of The Week #1 (for DSA)
+Crossword Puzzle Of The Week #2 (for Computer Science and Applications)
+Crossword Puzzle Of The Week #3 (for Database and Queries)
+Crossword Puzzle Of The Week #4 (for Object Oriented Programming)
+Crossword Puzzle Of The Week #5 (for Operating System)
+Top 100 Puzzles Asked In Interviews
+DSA to DevelopmentCourse
+PuzzlesLast Updated :27 Dec, 2024CommentsImproveSuggest changesLike ArticleLikeReportPuzzles are commonly asked in exams and interviews to test logical and analytical thinking. Here is a list of most asked Puzzles divided into four categories as per examination pattern.1. Analytical / Mathematical PuzzlesPuzzle TitleAsked in CompanyFind ages of daughtersGoogle,MicrosoftCalculate total distance traveled by beeYahoo6×6 Grid - Ways to Reach Bottom RightAmazon,ZohoMonty Hall problemVMWareTorch and BridgeGoogle,Microsoft2 Eggs and 100 FloorsVMWareMaximize the probability of White BallAmazonPoison and RatAmazonHourglasses PuzzleBank of America,YahooThe ratio of Boys and Girls in a Country where people want only boysGoogle,Goldman SachsCar Wheel PuzzleMakeMytripMaximum ChocolatesInfosys,MakeMytripPuzzle | Splitting a Cake with a Missing Piece in two equal portionAlcatel-Lucent,CognizantRs 500 Note PuzzleCAT,UPSCGirl or BoyAmazonKnow Average Salary without Disclosing Individual SalariesInfosys, Bloomberg.Maximum run in cricketFAANGCompletion of TaskReflexis SystemsFind missing Row in ExcelphilipsFour People on a Rickety BridgeJumbotail,SAPMan fell in well PuzzleAmerican Express50 red marbles and 50 blue marblesGoogle,Microsoft, JP morgan chasePuzzle | Form Three Equilateral TrianglesGoogle10 identical bottles of pillsZS AssociatePuzzle | Maximum pieces that can be cut from a Circle using 6 straight linesTCSChain Link PuzzlecognizantThe shopkeeper and the lady who made a purchase of Rs 200 with fake notePersistent SystemsEgg Dropping Puzzle with 2 Eggs and K FloorsGoogle,MicrosoftMinimum number of Apples to be collected from trees to guarantee M red applesLeetcodeSnail and WallTCS1000 light bulbs switched on/off by 1000 people passing byUK university interviewPuzzle | Four Alternating KnightsAmazon,GoogleTCS DIGITAL PUZZLE | Lateral Thinking 2TCSPuzzle | 100 Cows And MilkZSPuzzle | One Mile on the GlobeMicrosoftTCS DIGITAL PUZZLE | Lateral ThinkingTCSPuzzle | The Counters and BoardJP-morganCamel and Banana PuzzleAmazon,YahooPuzzle | (Six Matches , Right Foot Forward)TCSHow much he had initially?IAS interview questionPuzzle | 3 cuts to cut round cake into 8 equal piecesAdobe,Citius Tech,Cognizant,blackrockTwo Creepers Climbing a TreeAdobe,Google,MicrosoftRead More:Articles on Analytical/mathematical puzzles2. Logical PuzzlesPuzzle TitleAsked in CompanyPay an employee using a gold rod of 7 units ?FAANG, Ola cabsFind the fastest 3 horsesAccolite,Goldman Sachs,MakeMyTripFinding the injection for AnesthesiaGoogle,Yahoo3 Bulbs and 3 SwitchesMakeMyTrip,QualcommCamel and Banana PuzzleAmazon,YahooFind the Jar with contaminated pillsMakeMyTrip100 Prisoners with Red/Black HatsGoogle,Microsoft10 Coins PuzzleGoogle,YahooStrategy for a 2-Player Coin GameTCS5 Pirates and 100 Gold CoinsMicrosoftMinimum cut PuzzleAmazonPrisoner and Policeman PuzzleMicrosoftPuzzle - Cheating HusbandMicrosoft,GooglePuzzle – Blind GamesBloomberg L.P.Puzzle – Chameleons go on a dateAmazonHeaven and HellAmazon,InfosysMislabeled JarsGoogle,Microsoft8 balls problemMicrosoft, SimenceCheryl’s Birthday Puzzle and SolutionFacebook, Whatsapp, Singapore math OlympicPuzzle – The Lion and the UnicornThe Access Group (UK),TCSFarmer, Goat, Wolf, and CabbageInfosysWater Jug ProblemWells FargoBlind man and PillsMentor GraphicsThe Burning CandlesWiproPuzzle | The Burning CandlesWipro,IBM,TCSRat and Poisonous Milk BottlesGoogleMeasuring 6L water from 4L and 9L bucketsMicrosoftSix Houses P, Q, R, S, T, and UCAT QuizMelting CandlesFaangRed Hat vs Blue HatMicrosoftPuzzle | Joint family of seven persons (L, M, N, O, P, Q, and R)TCSPuzzle | The Circle of LightsMicrosoft, BloombergPuzzle | 9 Students and Red Black HatsGoogleLight all the bulbsMicrosoft, BloombergDistribute the WaterMicrosoftPuzzle | Can 2 persons be with same number of hairs on their heads?oppo, inflameWeight of Heavy BallIBMRead More:Articles on Logical Puzzles3. Arrangement PuzzlesPuzzle TitleAsked in Company10 Coins PuzzleGoogle,YahooDays of the month using 2 diceMicrosoftTic Tac Toe PuzzleAmazonMatchstick PuzzleKirloskar Brothers, SLBLast Palindrome Date Before 10/02/2001Amazon10 identical bottles of pillsZS Associate10 Balls in 5 LinesPublicis SapientRound table coin gameElectrifAiPuzzle | The Circle of LightsMicrosoft, BloombergRead More:Articles on Arrangement Puzzles3. Shape based PuzzlesPuzzle TitleAsked in Company3 cuts to cut the round cake into 8 equal piecesAdobe,Citius Tech,CognizantChessboard and dominosGooglePuzzle 36 | (Matchstick Puzzle)SLBMaximum pieces that can be cut from a Circle using 6 straight linesTCSSplitting a Cake with a Missing Piece in two equal portionSAP3 Ants and TriangleIntuit, ZS Associate,EXLRead More:Articles on Shape based puzzles4. Mechanical PuzzlesAlgorithm to solve Rubik’s CubeCrossword Puzzle Of The Week #1 (for DSA)Crossword Puzzle Of The Week #2 (for Computer Science and Applications)Crossword Puzzle Of The Week #3 (for Database and Queries)Crossword Puzzle Of The Week #4 (for Object Oriented Programming)Quick Links:Logic Building Coding Problems'Practice Problems' on PuzzlesRecent Puzzles!Next ArticlePuzzle 1 | (How to Measure 45 minutes using two identical wires?)kartikImproveArticle Tags :AptitudeTutorials
+Puzzles
+Puzzles are commonly asked in exams and interviews to test logical and analytical thinking. Here is a list of most asked Puzzles divided into four categories as per examination pattern.
+1. Analytical / Mathematical Puzzles
+Puzzle Title
+Puzzle Title
+Asked in Company
+Asked in Company
+Find ages of daughters
+Google,Microsoft
+Calculate total distance traveled by bee
+Yahoo
+6×6 Grid - Ways to Reach Bottom Right
+Amazon,Zoho
+Monty Hall problem
+VMWare
+Torch and Bridge
+Google,Microsoft
+2 Eggs and 100 Floors
+VMWare
+Maximize the probability of White Ball
+Amazon
+Poison and Rat
+Amazon
+Hourglasses Puzzle
+Bank of America,Yahoo
+The ratio of Boys and Girls in a Country where people want only boys
+Google,Goldman Sachs
+Car Wheel Puzzle
+MakeMytrip
+Maximum Chocolates
+Infosys,MakeMytrip
+Puzzle | Splitting a Cake with a Missing Piece in two equal portion
+Alcatel-Lucent,Cognizant
+Rs 500 Note Puzzle
+CAT,UPSC
+Girl or Boy
+Amazon
+Know Average Salary without Disclosing Individual Salaries
+Infosys, Bloomberg.
+Maximum run in cricket
+FAANG
+Completion of Task
+Reflexis Systems
+Find missing Row in Excel
+philips
+Four People on a Rickety Bridge
+Jumbotail,SAP
+Man fell in well Puzzle
+American Express
+50 red marbles and 50 blue marbles
+Google,Microsoft, JP morgan chase
+Puzzle | Form Three Equilateral Triangles
+Google
+10 identical bottles of pills
+ZS Associate
+Puzzle | Maximum pieces that can be cut from a Circle using 6 straight lines
+TCS
+Chain Link Puzzle
+cognizant
+The shopkeeper and the lady who made a purchase of Rs 200 with fake note
+Persistent Systems
+Egg Dropping Puzzle with 2 Eggs and K Floors
+Google,Microsoft
+Minimum number of Apples to be collected from trees to guarantee M red apples
+Leetcode
+Snail and Wall
+TCS
+1000 light bulbs switched on/off by 1000 people passing by
+UK university interview
+Puzzle | Four Alternating Knights
+Amazon,Google
+TCS DIGITAL PUZZLE | Lateral Thinking 2
+TCS
+Puzzle | 100 Cows And Milk
+ZS
+Puzzle | One Mile on the Globe
+Microsoft
+TCS DIGITAL PUZZLE | Lateral Thinking
+TCS
+Puzzle | The Counters and Board
+JP-morgan
+Camel and Banana Puzzle
+Amazon,Yahoo
+Puzzle | (Six Matches , Right Foot Forward)
+TCS
+How much he had initially?
+IAS interview question
+Puzzle | 3 cuts to cut round cake into 8 equal pieces
+Adobe,Citius Tech,Cognizant,blackrock
+Two Creepers Climbing a Tree
+Adobe,Google,Microsoft
+Read More:Articles on Analytical/mathematical puzzles
+2. Logical Puzzles
+Puzzle Title
+Puzzle Title
+Asked in Company
+Asked in Company
+Pay an employee using a gold rod of 7 units ?
+FAANG, Ola cabs
+Find the fastest 3 horses
+Accolite,Goldman Sachs,MakeMyTrip
+Finding the injection for Anesthesia
+Google,Yahoo
+3 Bulbs and 3 Switches
+MakeMyTrip,Qualcomm
+Camel and Banana Puzzle
+Amazon,Yahoo
+Find the Jar with contaminated pills
+MakeMyTrip
+100 Prisoners with Red/Black Hats
+Google,Microsoft
+10 Coins Puzzle
+Google,Yahoo
+Strategy for a 2-Player Coin Game
+TCS
+5 Pirates and 100 Gold Coins
+Microsoft
+Minimum cut Puzzle
+Amazon
+Prisoner and Policeman Puzzle
+Microsoft
+Puzzle - Cheating Husband
+Microsoft,Google
+Puzzle – Blind Games
+Bloomberg L.P.
+Puzzle – Chameleons go on a date
+Amazon
+Heaven and Hell
+Amazon,Infosys
+Mislabeled Jars
+Google,Microsoft
+8 balls problem
+Microsoft, Simence
+Cheryl’s Birthday Puzzle and Solution
+Facebook, Whatsapp, Singapore math Olympic
+Puzzle – The Lion and the Unicorn
+The Access Group (UK),TCS
+Farmer, Goat, Wolf, and Cabbage
+Infosys
+Water Jug Problem
+Wells Fargo
+Blind man and Pills
+Mentor Graphics
+The Burning Candles
+Wipro
+Puzzle | The Burning Candles
+Wipro,IBM,TCS
+Rat and Poisonous Milk Bottles
+Google
+Measuring 6L water from 4L and 9L buckets
+Microsoft
+Six Houses P, Q, R, S, T, and U
+CAT Quiz
+Melting Candles
+Faang
+Red Hat vs Blue Hat
+Microsoft
+Puzzle | Joint family of seven persons (L, M, N, O, P, Q, and R)
+TCS
+Puzzle | The Circle of Lights
+Microsoft, Bloomberg
+Puzzle | 9 Students and Red Black Hats
+Google
+Light all the bulbs
+Microsoft, Bloomberg
+Distribute the Water
+Microsoft
+Puzzle | Can 2 persons be with same number of hairs on their heads?
+oppo, inflame
+Weight of Heavy Ball
+IBM
+Read More:Articles on Logical Puzzles
+3. Arrangement Puzzles
+Puzzle Title
+Puzzle Title
+Asked in Company
+Asked in Company
+10 Coins Puzzle
+Google,Yahoo
+Days of the month using 2 dice
+Microsoft
+Tic Tac Toe Puzzle
+Amazon
+Matchstick Puzzle
+Kirloskar Brothers, SLB
+Last Palindrome Date Before 10/02/2001
+Amazon
+10 identical bottles of pills
+ZS Associate
+10 Balls in 5 Lines
+Publicis Sapient
+Round table coin game
+ElectrifAi
+Puzzle | The Circle of Lights
+Microsoft, Bloomberg
+Read More:Articles on Arrangement Puzzles
+3. Shape based Puzzles
+Puzzle Title
+Puzzle Title
+Asked in Company
+Asked in Company
+3 cuts to cut the round cake into 8 equal pieces
+Adobe,Citius Tech,Cognizant
+Chessboard and dominos
+Google
+Puzzle 36 | (Matchstick Puzzle)
+SLB
+Maximum pieces that can be cut from a Circle using 6 straight lines
+TCS
+Splitting a Cake with a Missing Piece in two equal portion
+SAP
+3 Ants and Triangle
+Intuit, ZS Associate,EXL
+Read More:Articles on Shape based puzzles
+4. Mechanical Puzzles
+Algorithm to solve Rubik’s Cube
+Crossword Puzzle Of The Week #1 (for DSA)
+Crossword Puzzle Of The Week #2 (for Computer Science and Applications)
+Crossword Puzzle Of The Week #3 (for Database and Queries)
+Crossword Puzzle Of The Week #4 (for Object Oriented Programming)
+Quick Links:
+Logic Building Coding Problems
+'Practice Problems' on Puzzles
+Recent Puzzles!
+Aptitude
+Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_198_Web_Content_dsa_1723009292.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

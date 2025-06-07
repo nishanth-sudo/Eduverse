@@ -1,0 +1,145 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python 3.13.3Release Date:April 8, 2025This is the third maintenance release of Python 3.13Python 3.13 is the newest major release of the Python programming language, and it contains many new features and optimizations compared to Python 3.12. 3.13.3 is the latest maintenance release, containing almost 320 bugfixes, build improvements and documentation changes since 3.13.2.Major new features of the 3.13 series, compared to 3.12Some of the new major new features and changes in Python 3.13 are:New featuresAnew and improved interactive interpreter, based onPyPy's, featuring multi-line editing and color support, as well as colorizedexception tracebacks.Anexperimentalfree-threaded build mode, which disables the Global Interpreter Lock, allowing threads to run more concurrently. The build mode is available as an experimental feature in the Windows and macOS installers as well.Apreliminary,experimentalJIT, providing the ground work for significant performance improvements.Thelocals()builtin function (and its C equivalent) now haswell-defined semantics when mutating the returned mapping, which allows debuggers to operate more consistently.A modified version ofmimallocis now included, optional but enabled by default if supported by the platform, and required for the free-threaded build mode.Docstrings now havetheir leading indentation stripped, reducing memory use and the size of .pyc files. (Most tools handling docstrings already strip leading indentation.)Thedbm modulehas a newdbm.sqlite3 backendthat is used by default when creating new files.The minimum supported macOS version was changed from 10.9 to10.13 (High Sierra). Older macOS versions will not be supported going forward.WASI is now aTier 2 supported platform. Emscripten is no longer anofficially supported platform(butPyodidecontinues to support Emscripten).iOS is now aTier 3 supported platform.Android is now aTier 3 supported platform.TypingSupport fortype defaults in type parameters.Anew type narrowing annotation,typing.TypeIs.A new annotation forread-only items in TypeDicts.A new annotation formarking deprecations in the type system.Removals and new deprecationsPEP 594 (Removing dead batteries from the standard library)scheduled removals of many deprecated modules:aifc,audioop,chunk,cgi,cgitb,crypt,imghdr,mailcap,msilib,nis,nntplib,ossaudiodev,pipes,sndhdr,spwd,sunau,telnetlib,uu,xdrlib,lib2to3.Many other removalsof deprecated classes, functions and methods in various standard library modules.C APIremovalsanddeprecations.  (Some removals present in alpha 1 were reverted in alpha 2, as the removals were deemed too disruptive at this time.)New deprecations, most of which are scheduled for removal from Python 3.15 or 3.16.For more details on the changes to Python 3.13, seeWhat's new in Python 3.13.More resourcesOnline DocumentationPEP 719, 3.13 Release ScheduleReport bugs athttps://github.com/python/cpython/issues.Help fund Python directly(orvia GitHub Sponsors), and supportthe Python community.Full ChangelogFilesVersionOperating SystemDescriptionMD5 SumFile SizeGPGSigstoreSBOMGzipped source tarballSource releaseb3d8c043dcdd52d55d48769a95c8e7d128.0 MBSIG.sigstoreSPDXXZ compressed source tarballSource release8bb5f0b8c9d9d7b87d7d98510e8d58e521.6 MBSIG.sigstoreSPDXmacOS 64-bit universal2 installermacOSfor macOS 10.13 and later0abf18242bb9aaa6ab52d49f48ad6c7466.8 MBSIG.sigstoreWindows installer (64-bit)WindowsRecommendedbe3264daeb8c5e08365492dd02908cfa27.3 MBSIG.sigstoreSPDXWindows installer (32-bit)Windowsfd83ec01f90a1a051f856044b152fb7226.0 MBSIG.sigstoreSPDXWindows installer (ARM64)WindowsExperimental18bb07bd65e768ae1ab1e8a969d8224a26.6 MBSIG.sigstoreSPDXWindows embeddable package (64-bit)Windows9ca0271e8fe78de957dd57e980d7482210.4 MBSIG.sigstoreSPDXWindows embeddable package (32-bit)Windows207dceb2cd1bf153a23a8a4a1cbf1e8a9.2 MBSIG.sigstoreSPDXWindows embeddable package (ARM64)Windows0d6ea7392ff5e3dcb9bc75acf249aea49.7 MBSIG.sigstoreSPDX
+Python 3.13.3
+Release Date:April 8, 2025
+This is the third maintenance release of Python 3.13
+Python 3.13 is the newest major release of the Python programming language, and it contains many new features and optimizations compared to Python 3.12. 3.13.3 is the latest maintenance release, containing almost 320 bugfixes, build improvements and documentation changes since 3.13.2.
+Major new features of the 3.13 series, compared to 3.12
+Some of the new major new features and changes in Python 3.13 are:
+New features
+Anew and improved interactive interpreter, based onPyPy's, featuring multi-line editing and color support, as well as colorizedexception tracebacks.
+Anexperimentalfree-threaded build mode, which disables the Global Interpreter Lock, allowing threads to run more concurrently. The build mode is available as an experimental feature in the Windows and macOS installers as well.
+Apreliminary,experimentalJIT, providing the ground work for significant performance improvements.
+Thelocals()builtin function (and its C equivalent) now haswell-defined semantics when mutating the returned mapping, which allows debuggers to operate more consistently.
+locals()
+A modified version ofmimallocis now included, optional but enabled by default if supported by the platform, and required for the free-threaded build mode.
+Docstrings now havetheir leading indentation stripped, reducing memory use and the size of .pyc files. (Most tools handling docstrings already strip leading indentation.)
+Thedbm modulehas a newdbm.sqlite3 backendthat is used by default when creating new files.
+The minimum supported macOS version was changed from 10.9 to10.13 (High Sierra). Older macOS versions will not be supported going forward.
+WASI is now aTier 2 supported platform. Emscripten is no longer anofficially supported platform(butPyodidecontinues to support Emscripten).
+iOS is now aTier 3 supported platform.
+Android is now aTier 3 supported platform.
+Typing
+Support fortype defaults in type parameters.
+Anew type narrowing annotation,typing.TypeIs.
+typing.TypeIs
+A new annotation forread-only items in TypeDicts.
+A new annotation formarking deprecations in the type system.
+Removals and new deprecations
+PEP 594 (Removing dead batteries from the standard library)scheduled removals of many deprecated modules:aifc,audioop,chunk,cgi,cgitb,crypt,imghdr,mailcap,msilib,nis,nntplib,ossaudiodev,pipes,sndhdr,spwd,sunau,telnetlib,uu,xdrlib,lib2to3.
+aifc
+audioop
+chunk
+cgi
+cgitb
+crypt
+imghdr
+mailcap
+msilib
+nis
+nntplib
+ossaudiodev
+pipes
+sndhdr
+spwd
+sunau
+telnetlib
+uu
+xdrlib
+lib2to3
+Many other removalsof deprecated classes, functions and methods in various standard library modules.
+C APIremovalsanddeprecations.  (Some removals present in alpha 1 were reverted in alpha 2, as the removals were deemed too disruptive at this time.)
+New deprecations, most of which are scheduled for removal from Python 3.15 or 3.16.
+For more details on the changes to Python 3.13, seeWhat's new in Python 3.13.
+More resources
+Online Documentation
+PEP 719, 3.13 Release Schedule
+Report bugs athttps://github.com/python/cpython/issues.
+Help fund Python directly(orvia GitHub Sponsors), and supportthe Python community.
+Full Changelog
+Files
+Version
+Operating System
+Description
+MD5 Sum
+File Size
+GPG
+Sigstore
+SBOM
+Gzipped source tarball
+Source release
+b3d8c043dcdd52d55d48769a95c8e7d1
+28.0 MB
+SIG
+.sigstore
+SPDX
+XZ compressed source tarball
+Source release
+8bb5f0b8c9d9d7b87d7d98510e8d58e5
+21.6 MB
+SIG
+.sigstore
+SPDX
+macOS 64-bit universal2 installer
+macOS
+for macOS 10.13 and later
+0abf18242bb9aaa6ab52d49f48ad6c74
+66.8 MB
+SIG
+.sigstore
+Windows installer (64-bit)
+Windows
+Recommended
+be3264daeb8c5e08365492dd02908cfa
+27.3 MB
+SIG
+.sigstore
+SPDX
+Windows installer (32-bit)
+Windows
+fd83ec01f90a1a051f856044b152fb72
+26.0 MB
+SIG
+.sigstore
+SPDX
+Windows installer (ARM64)
+Windows
+Experimental
+18bb07bd65e768ae1ab1e8a969d8224a
+26.6 MB
+SIG
+.sigstore
+SPDX
+Windows embeddable package (64-bit)
+Windows
+9ca0271e8fe78de957dd57e980d74822
+10.4 MB
+SIG
+.sigstore
+SPDX
+Windows embeddable package (32-bit)
+Windows
+207dceb2cd1bf153a23a8a4a1cbf1e8a
+9.2 MB
+SIG
+.sigstore
+SPDX
+Windows embeddable package (ARM64)
+Windows
+0d6ea7392ff5e3dcb9bc75acf249aea4
+9.7 MB
+SIG
+.sigstore
+SPDX
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

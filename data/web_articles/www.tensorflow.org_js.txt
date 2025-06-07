@@ -1,0 +1,54 @@
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+For JavaScript
+New to machine learning? Watch a video course to get practical working knowledge of ML using web technologiesView seriesTensorFlowLearnFor JavaScriptStay organized with collectionsSave and categorize content based on your preferences.TensorFlow.js is a library for machine learning in JavaScriptDevelop ML models in JavaScript, and use ML directly in the browser or in Node.js.See tutorialsTutorials show you how to use TensorFlow.js with complete, end-to-end examples.See modelsPre-trained, out-of-the-box models for common use cases.See demosLive demos and examples run in your browser using TensorFlow.js.How it worksRun existing modelsUse off-the-shelf JavaScript models or convert Python TensorFlow models to run in the browser or under Node.js.Use official TensorFlow.js modelsConvert Python modelsRetrain existing modelsRetrain pre-existing ML models using your own data.Use Transfer Learning to customize modelsDevelop ML with JavaScriptBuild and train models directly in JavaScript using flexible and intuitive APIs.Get started with TensorFlow.jsDemosPerformance RNNEnjoy a real-time piano performance by a neural network.Explore demoView codeWebcam ControllerPlay Pac-Man using images trained in your browser.Explore demoView codeHoloboothTransport yourself to a tropical beach, outer space, and elsewhere with the power of web ML.Explore demoView codeSee all demosNews & announcementsCheck out ourblogfor additional updates, and subscribe to our TensorFlow newsletter to get the latest announcements sent directly to your inbox.Sign upCommunity participationSee more ways to participate in the TensorFlow community.CommunityMade with TensorFlow.js demosTensorFlow.js on GitHubAsk a question on TensorFlow ForumStack OverflowIssues, bug reports, and feature requestsAnnouncement-only mailing listJoin the TF.js Special Interest GroupExplore Dev Library community projectsGet started with TensorFlow.jsExplore tutorials
+TensorFlow
+Learn
+For JavaScript
+TensorFlow.js is a library for machine learning in JavaScript
+Develop ML models in JavaScript, and use ML directly in the browser or in Node.js.
+Tutorials show you how to use TensorFlow.js with complete, end-to-end examples.
+Pre-trained, out-of-the-box models for common use cases.
+Live demos and examples run in your browser using TensorFlow.js.
+How it works
+Run existing models
+Use off-the-shelf JavaScript models or convert Python TensorFlow models to run in the browser or under Node.js.
+Retrain existing models
+Retrain pre-existing ML models using your own data.
+Develop ML with JavaScript
+Build and train models directly in JavaScript using flexible and intuitive APIs.
+Demos
+Enjoy a real-time piano performance by a neural network.
+Play Pac-Man using images trained in your browser.
+Transport yourself to a tropical beach, outer space, and elsewhere with the power of web ML.
+News & announcements
+Check out ourblogfor additional updates, and subscribe to our TensorFlow newsletter to get the latest announcements sent directly to your inbox.
+Community participation
+See more ways to participate in the TensorFlow community.
+Get started with TensorFlow.js
+
+[Images saved with this article:]
+www.tensorflow.org_static_site-assets_images_marketing_cards_tile_piano.jpg
+www.tensorflow.org_static_site-assets_images_marketing_cards_tile_webcam.jpg
+www.tensorflow.org_static_site-assets_images_marketing_cards_tile_holobooth_flutter.gif
+www.tensorflow.org_static_site-assets_images_marketing_cards_tile_community_card_hero.jpg

@@ -1,0 +1,103 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Assess and validate your students' skills
+Offer students an exam that gives them a recognized certificate they can add to college applications, portfolios, or job resumes.
+It means something when it's on paper
+It's one thing to say they've learned; it's another to have something to show for it.A certificate can boost confidence and open doors.
+Proof of skills
+A valuable addition to students resumes and portfolios.
+End of pathway validation
+Make sure your students have completed and understood the curriculum with a final exam.
+Builds confidence
+Proves knowledge and boosts students' confidence for the next step in their learning journey.
+Keeps students motivated
+Clear goals and recognition for their progress.
+Full access to every certification exam
+With W3Schools Academy, you have access to all exams and can assign them as needed. Each student gets three attempts per exam, giving them time to learn and improve.You will have access to over 70 exams.
+Pick the exam style that fits your class
+With W3Schools Academy, you have access to all exams and can assign them as needed.Each student gets three attempts per exam, giving them time to learn and improve.
+Standard Exam
+Provides a fixed structure with 70 questions,a 70-minute time limit, and a passing score of 75%.
+Every student receives the same set of questionsin a randomized order, ensuring consistency acrossall test-takers.
+Adaptive Exam
+Offers a personalized experience. Questions'difficulty adapts as students progress. The betterthey perform, the harder the questions get.
+The students get graded certification level fromintermediate to professional level.
+Fair and secure testing
+During the exam, browser activity is monitored to help detect
+            unusual patterns. While this increases security, we still
+            recommend standard exam best practices to ensure results
+            reflect each student's own skills.
+Fair and secure testing
+During the exam, browser activity is monitored to help detectunusual patterns. While this increases security, we stillrecommend standard exam best practices to ensure resultsreflect each student's own skills.
+Schedule the exams
+Use Study Plans to assign exams to the right group or class at the right time. Students see their exam dates, deadlines, and results in their dashboard which helps them stay on top of things.
+You get a clear overview: check scores, see who passed, and download reports. Automatic grading means results are ready instantly, saving you time and reducing your workload.
+Customize the certification
+Your name and school logo can be added for verification,giving the certificate even more weight in resumes and applications.
+Stay updated,with 40+ tutorials
+Keeping up with new technologies isn't always easy. New frameworks and languages appear all the time, and it can feel overwhelming on top of your work in the classroom.
+We're here to help you stay confident and up to date with best practices, so you can explore coding concepts at your own pace before introducing them to your students.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Frequently asked questions
+Can students get a certificate?
+Yes. After passing a certification exam, students receive a digital W3Schools certificate.
+Are the certificates official?
+Yes. W3Schools certificates are trusted and can be added to resumes or portfolios.
+How many exam attempts are allowed?
+Students get 3 attempts per exam.
+What types of exams are available?
+There are two type of exams:• Standard - fixed set of questions.• Adaptive - questions get harder or easier, adjusting the student's level of knowledge during the exam.
+How long is a standard exam?
+Standard exams have 70 questions and take 70 minutes.
+How long is an adaptive exam?
+Adaptive exams adjust in difficulty and typically take less time despite more question variation. The exam has between 50-90 questions.
+Can I customize the certificate?
+Yes. You can add your school's name and logo to the certificate.
+Is cheating prevented during exams?
+Yes. Browser activity is monitored during the test as a security measure.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_full_access_exams.png
+www.w3schools.com_academy_images_ide_skins_dark.png
+www.w3schools.com_academy_images_ide_skins_mobile.png
+www.w3schools.com_academy_images_ide_skins_mobile_dark.png
+www.w3schools.com_academy_images_exam_types_preview.png
+www.w3schools.com_academy_images_tutorials_overview.png
+www.w3schools.com_academy_images_tutorials_overview_mobile.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

@@ -1,0 +1,92 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Save time with study plans
+Create your study plan to design structured learning paths for your class or individual students. Use pre-made teaching materials, add your own content, or combine both.
+Personalized Study Plans
+Every student learns differently. With W3Schools Study Plans, you can create plans that match each student's pace and needs, ensuring focus and engagement.
+Choose from W3Schools resources
+Save time with our comprehensive library and certification exams. Build high-quality plans from day one.
+Create and use your own resources
+Use our tools to create customized resources or add your own content. Align everything with your specific learning goals.
+Adapt to your students
+Create study plans for entire classes or individual students based on their progress and needs. Engage and support each student.
+Interactive learningin every chapter
+To help students understand what they've learned, each topic includes practical challenges and quizzes.
+This allows them to test their understanding as they go and improve their skills through hands-on practice.
+Clear structure for students
+Students can easily follow their study plan with tasks like upcoming lessons, challenges, exams and deadlines. The calendar view helps them stay on track and never miss a deadline.
+Schedule certification exams
+Plan exams to align with your timeline and lessons. Ensure a structured learning journey from start to assessment.
+Test your students using automated grading to reduce your workload.
+Set up the study plan once, adjust anytime
+Decide the timeline and structure that work best for you and your students.Whether it's an intensive 4-week course or a more gradual 12-week approach.
+Week 1
+Introduction and Basics, Formatting and Style, Colors, Links
+Week 2
+Images, Tables, Lists
+Week 3
+More HTML Elements, Logic, Forms
+Week 4
+Graphics, Media, APIs, HTML Certification Exam
+With full flexibility, you can adjust pacing, add extra resources, or extend lessons to fit your students' needs. So no one feels rushed or left behind.
+Supporting teachersfor 25+ years
+For over 25 years, W3Schools has been a trusted resource for coding education. While other platforms cover many subjects, we focus only on programming.
+Our courses, challenges, and exams are designed to help students build real coding skills, making it easier for teachers to create structured and engaging lessons.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Frequently asked questions
+Can I create my own study plan?
+Yes. You can use our pre-made content, add your own, or mix both.
+Are the study plans flexible?
+Yes. You can change the schedule and content at any time. You can assign them to individuals or whole classes.
+Can I make different plans for each student?
+Yes. You can create personalized plans for each class or student.
+Can I include exams in the study plan?
+Yes. You can schedule exams as part of the plan.
+Can I export my study plan calendar to other calendar apps?
+No. Unfortunately, it's not possible to export a study plan to other calendar apps right now.
+Can students track their tasks?
+Yes. A calendar view shows all their lessons, deadlines, assignments and exams.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_study_plans_personalized.png
+www.w3schools.com_academy_images_study_plans_personalized_mobile.png
+www.w3schools.com_academy_images_study_plans_structure.png
+www.w3schools.com_academy_images_study_plans_structure_mobile.png
+www.w3schools.com_academy_images_study_plans_setup.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

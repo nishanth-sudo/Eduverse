@@ -1,0 +1,22 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Help Fund Python Development and MaintenanceDonate to Python Development and MaintenanceThe Python Software Foundation's goal is to increase the support we provide for Python development and maintenance. Through the donation button above, you can financially contribute to this cause.The PSF will use Python development fundraising to support CPython development and maintenance.Additionally, the funds will be used  for mission-related sprints, such as the annual core developer sprint. This includes (but is not limited to) travel expenses for key developers and efforts leading to new key developers within a Python project.While the PSF dedicates funds to support many worldwide events and workshops, we'd like your help to support Python and its core developers.We thank all of our donors for their continued support! The Python community is what it is today thanks to all of our donors and sponsors.
+Help Fund Python Development and Maintenance
+The Python Software Foundation's goal is to increase the support we provide for Python development and maintenance. Through the donation button above, you can financially contribute to this cause.
+The PSF will use Python development fundraising to support CPython development and maintenance.
+Additionally, the funds will be used  for mission-related sprints, such as the annual core developer sprint. This includes (but is not limited to) travel expenses for key developers and efforts leading to new key developers within a Python project.
+While the PSF dedicates funds to support many worldwide events and workshops, we'd like your help to support Python and its core developers.
+We thank all of our donors for their continued support! The Python community is what it is today thanks to all of our donors and sponsors.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

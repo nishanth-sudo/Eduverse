@@ -1,0 +1,73 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python>>>
+About>>>
+Help
+HelpNew to programming and to Python?Check out theBeginner's Guide.New to Python?Read the standardtutorial.Look for a suitable book froma growing list of titles.Looking for code?See thedownload pagefor links to the Python interpreter.Explore thedevelopment repository.Got a Python problem or question?First check thePython FAQs, with answers to many common,
+general Python questions.ThePython Help category of the discuss.python.org websitehosts usage questions and answers from the Python community.Thetutor listoffers interactive help.If the tutor list isn't your cup of tea, there are manyother mailing lists and newsgroups.Stack Overflowhas manyPython questions and answers.You can post questions and ask for general advice about your code at ther/LearnPythonsubreddit.If you suspect a bug in the Python core, search thePython Bug Tracker.If you think you've found a security vulnerability in Python, please readthe instructions for reporting security issues.If you've found a problem with this web site, check thepythondotorg issue tracker.Looking for a particular Python module or application?Try thePython Package Indexto browse and search an
+extensive list of registered packages.Want to contribute?To report a bug in the Python core, use thePython Bug Tracker.To report a problem with this web site, use thepythondotorg issue tracker.To contribute a bug fix or other patch to the Python
+core, see thePython Developer's Guide.To contribute to the officialPython documentation, use theIssue Trackerto contribute a documentation patch.  See
+also the guide toHelping with Documentation.To contribute to the official Python website, see theAbout the Python Web Sitepage or read thedeveloper guide on Read the Docs.To announce your module or application to the Python community,
+usecomp.lang.python.announce(or via
+email,python-announce@python.org,
+if you lack news access).  More info:the announcements newsgroup
+descriptionNeed to contact the Python Software Foundation?Contactpsf@python.organd let us
+know how we can help!Problems with this website?If you're having issues with python.org itself, contactwebmaster@python.organd let us
+know how we can help!Other Issues?If you have a question not answered here, pleasereach out on discuss.python.org.
+Help
+New to programming and to Python?
+Check out theBeginner's Guide.
+New to Python?
+Read the standardtutorial.
+Look for a suitable book froma growing list of titles.
+Looking for code?
+See thedownload pagefor links to the Python interpreter.
+Explore thedevelopment repository.
+Got a Python problem or question?
+First check thePython FAQs, with answers to many common,
+general Python questions.
+ThePython Help category of the discuss.python.org websitehosts usage questions and answers from the Python community.
+Thetutor listoffers interactive help.
+If the tutor list isn't your cup of tea, there are manyother mailing lists and newsgroups.
+Stack Overflowhas manyPython questions and answers.
+You can post questions and ask for general advice about your code at ther/LearnPythonsubreddit.
+If you suspect a bug in the Python core, search thePython Bug Tracker.
+If you think you've found a security vulnerability in Python, please readthe instructions for reporting security issues.
+If you've found a problem with this web site, check thepythondotorg issue tracker.
+Looking for a particular Python module or application?
+Try thePython Package Indexto browse and search an
+extensive list of registered packages.
+Want to contribute?
+To report a bug in the Python core, use thePython Bug Tracker.
+To report a problem with this web site, use thepythondotorg issue tracker.
+To contribute a bug fix or other patch to the Python
+core, see thePython Developer's Guide.
+To contribute to the officialPython documentation, use theIssue Trackerto contribute a documentation patch.  See
+also the guide toHelping with Documentation.
+To contribute to the official Python website, see theAbout the Python Web Sitepage or read thedeveloper guide on Read the Docs.
+To announce your module or application to the Python community,
+usecomp.lang.python.announce(or via
+email,python-announce@python.org,
+if you lack news access).  More info:the announcements newsgroup
+description
+Need to contact the Python Software Foundation?
+Contactpsf@python.organd let us
+know how we can help!
+Problems with this website?
+If you're having issues with python.org itself, contactwebmaster@python.organd let us
+know how we can help!
+Other Issues?
+If you have a question not answered here, pleasereach out on discuss.python.org.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

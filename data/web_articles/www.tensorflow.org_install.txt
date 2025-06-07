@@ -1,0 +1,65 @@
+English
+Español
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Install
+TensorFlowInstallStay organized with collectionsSave and categorize content based on your preferences.Install TensorFlow 2TensorFlow is tested and supported on the following 64-bit systems:Python 3.8–3.11Ubuntu 16.04 or laterWindows 7 or later (withC++ redistributable)macOS 10.12.6 (Sierra) or later (no GPU support)WSL2 via Windows 10 19044 or higher including GPUs (Experimental)# Requires the latest pippip install --upgrade pip# Current stable release for CPU and GPUpip install tensorflow# Or try the preview build (unstable)pip install tf-nightlyDownload a packageInstall TensorFlow with Python'spippackage manager.TensorFlow 2 packages require apipversion >19.0 (or >20.3 for macOS).Official packages available for Ubuntu, Windows, and macOS.Read the pip install guideRun a TensorFlow containerTheTensorFlow
+  Docker imagesare already configured to run TensorFlow. ADockercontainer runs in a
+  virtual environment and is the easiest way to set up GPU support.dockerpulltensorflow/tensorflow:latest# Download latest stable imagedocker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter serverRead the Docker install guideGoogle Colab: An easy way to learn and use TensorFlowNo install necessary—run theTensorFlow tutorialsdirectly in
+  the browser withColaboratory, a Google research project created to help disseminate
+  machine learning education and research. It's a Jupyter notebook environment that requires
+  no setup to use and runs entirely in the cloud.Read the blog post.Build your first ML appCreate and deploy TensorFlow models on web and mobile.Web developersTensorFlow.js is a WebGL accelerated, JavaScript library to train and deploy ML models in the browser, Node.js, mobile, and more.Mobile developersTensorFlow Lite is a lightweight solution for mobile and embedded devices.
+TensorFlow
+Install
+Install TensorFlow 2
+TensorFlow is tested and supported on the following 64-bit systems:
+Python 3.8–3.11Ubuntu 16.04 or laterWindows 7 or later (withC++ redistributable)
+Python 3.8–3.11
+Ubuntu 16.04 or later
+Windows 7 or later (withC++ redistributable)
+macOS 10.12.6 (Sierra) or later (no GPU support)WSL2 via Windows 10 19044 or higher including GPUs (Experimental)
+macOS 10.12.6 (Sierra) or later (no GPU support)
+WSL2 via Windows 10 19044 or higher including GPUs (Experimental)
+# Requires the latest pippip install --upgrade pip# Current stable release for CPU and GPUpip install tensorflow# Or try the preview build (unstable)pip install tf-nightly
+pip install --upgrade pip
+pip install tensorflow
+pip install tf-nightly
+Download a package
+Install TensorFlow with Python'spippackage manager.
+pip
+Official packages available for Ubuntu, Windows, and macOS.
+Run a TensorFlow container
+TheTensorFlow
+  Docker imagesare already configured to run TensorFlow. ADockercontainer runs in a
+  virtual environment and is the easiest way to set up GPU support.
+dockerpulltensorflow/tensorflow:latest# Download latest stable imagedocker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server
+dockerpulltensorflow/tensorflow:latest# Download latest stable image
+docker run -it -p 8888:8888 tensorflow/tensorflow:latest-jupyter  # Start Jupyter server
+Google Colab: An easy way to learn and use TensorFlow
+No install necessary—run theTensorFlow tutorialsdirectly in
+  the browser withColaboratory, a Google research project created to help disseminate
+  machine learning education and research. It's a Jupyter notebook environment that requires
+  no setup to use and runs entirely in the cloud.Read the blog post.
+Build your first ML app
+Web developers
+Mobile developers
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-03-24 UTC.

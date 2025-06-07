@@ -1,0 +1,163 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python>>>
+Documentation>>>
+Python Essays
+Python Documentation IndexPython EssaysIn this directory I place short essays (anything from 500 to 5000
+words) on various Python subjects.  See also a collection ofpresentationsI have given.  See also myblogat blogspot.com and myprevious blogat
+artima.com.--Guido van RossumTable of contents (in mostly chronological order)Unifying types and classes in Python 2.2(See below)Foreword for "Programming Python" (1st ed.)Written in 1996, this gives an overview of the early history and
+background of Python and some of my philosophy about software design
+and project management.  See also myforeword to the 2nd edition.Implementing GraphsAn elegant and perhaps not obvious way to represent graphs using
+Python's most fundamental and versatile data types, lists and
+dictionaries.An Optimization AnecdoteRequired reading if you find that your Python code runs too slow.Metaclass Programming in Python 1.5Warning: reading this document may cause your brain to explode.Built-in Package Support in Python 1.5The most official documentation for the new package features in
+Python 1.5.Standard Exception Classes in Python 1.5The most official documentation for the new exception features in
+Python 1.5.  (Updated for Python 1.5.2 by Barry Warsaw.)Glue It All Together With PythonA position paper I wrote for and presented at theOMG-DARPA-MCC workshop on compositional software architecturesin Monterey,
+California, January 6-8, 1998.What Is Python? Executive SummaryA short (two paragraphs) high-level presentation of Python's virtues.Comparing Python to Other LanguagesActivist ammo or flame fodder?  (Note: I received lots of feedback
+when I posted this to comp.lang.python.  Unfortunately the feedback
+was diverted to a separate mailbox that I didn't know I had -- when I
+finally found it, I was a bit overwhelmed and so far have not yet
+found the time to update the article.)Proposed Improvements to Module CleanupA revised version of the proposal I posted to comp.lang.python on
+Feb 6, 1998.  This has been adopted in Python 1.5.1.Open Source Summit Trip ReportMy trip report of O'Reilly's Open Source Summit, essentially as
+posted on c.l.p.  This version published in the Linux Gazette (it's an
+external link), in their May 1998 issue.Debugging Reference Count ProblemsAn edited version of a posting to c.l.p on this subject, on May 27, 1998.Computer Programming for Everybody (old)A funding proposal that was accepted by DARPA in March 1999.Computer Programming for EverybodyRevised, extended version of the previous proposal.Interview in Linux JournalNot quite an essay, but a stream of consciousness penned down by a
+journalist...  More thoughts about CP4E.Interview in by Frank Willison for "Frankly Speaking" columnAnother stream of consciousness transcribed by a friendly
+listener...  Not just on CP4E.Foreword for "Programming Python" (2nd ed.)The story continues...Unifying types and classes in Python 2.2An introduction to the type/class unification effort in Python
+2.2.  Note that the unification work is officially labeledexperimentaland is subject to change in future releases of
+Python.Parade of the PEPsTo start off Developer's Day at thePython10 conferenceI gave a
+keynote ending in what I dubbed "the parade of the PEPs". It was a
+brief overview ofall open PEPs, where I gave my highly personal and subjective opinion
+for each PEP.  Later, I realized that this might have been of interest
+to other developers.  I didn't take notes at the conference, so below
+is a different set of comments that I created from scratch during a
+single two-hour sitting on March 7, 2002.  I intend to occasionally
+update this with new comments and new PEPs.
+Python Documentation Index
+Python Essays
+In this directory I place short essays (anything from 500 to 5000
+words) on various Python subjects.  See also a collection ofpresentationsI have given.  See also myblogat blogspot.com and myprevious blogat
+artima.com.
+--Guido van Rossum
+Table of contents (in mostly chronological order)
+Unifying types and classes in Python 2.2(See below)
+Unifying types and classes in Python 2.2
+(See below)
+Foreword for "Programming Python" (1st ed.)Written in 1996, this gives an overview of the early history and
+background of Python and some of my philosophy about software design
+and project management.  See also myforeword to the 2nd edition.
+Foreword for "Programming Python" (1st ed.)
+Written in 1996, this gives an overview of the early history and
+background of Python and some of my philosophy about software design
+and project management.  See also myforeword to the 2nd edition.
+Implementing GraphsAn elegant and perhaps not obvious way to represent graphs using
+Python's most fundamental and versatile data types, lists and
+dictionaries.
+Implementing Graphs
+An elegant and perhaps not obvious way to represent graphs using
+Python's most fundamental and versatile data types, lists and
+dictionaries.
+An Optimization AnecdoteRequired reading if you find that your Python code runs too slow.
+An Optimization Anecdote
+Required reading if you find that your Python code runs too slow.
+Metaclass Programming in Python 1.5Warning: reading this document may cause your brain to explode.
+Metaclass Programming in Python 1.5
+Warning: reading this document may cause your brain to explode.
+Built-in Package Support in Python 1.5The most official documentation for the new package features in
+Python 1.5.
+Built-in Package Support in Python 1.5
+The most official documentation for the new package features in
+Python 1.5.
+Standard Exception Classes in Python 1.5The most official documentation for the new exception features in
+Python 1.5.  (Updated for Python 1.5.2 by Barry Warsaw.)
+Standard Exception Classes in Python 1.5
+The most official documentation for the new exception features in
+Python 1.5.  (Updated for Python 1.5.2 by Barry Warsaw.)
+Glue It All Together With PythonA position paper I wrote for and presented at theOMG-DARPA-MCC workshop on compositional software architecturesin Monterey,
+California, January 6-8, 1998.
+Glue It All Together With Python
+A position paper I wrote for and presented at theOMG-DARPA-MCC workshop on compositional software architecturesin Monterey,
+California, January 6-8, 1998.
+What Is Python? Executive SummaryA short (two paragraphs) high-level presentation of Python's virtues.
+What Is Python? Executive Summary
+A short (two paragraphs) high-level presentation of Python's virtues.
+Comparing Python to Other LanguagesActivist ammo or flame fodder?  (Note: I received lots of feedback
+when I posted this to comp.lang.python.  Unfortunately the feedback
+was diverted to a separate mailbox that I didn't know I had -- when I
+finally found it, I was a bit overwhelmed and so far have not yet
+found the time to update the article.)
+Comparing Python to Other Languages
+Activist ammo or flame fodder?  (Note: I received lots of feedback
+when I posted this to comp.lang.python.  Unfortunately the feedback
+was diverted to a separate mailbox that I didn't know I had -- when I
+finally found it, I was a bit overwhelmed and so far have not yet
+found the time to update the article.)
+Proposed Improvements to Module CleanupA revised version of the proposal I posted to comp.lang.python on
+Feb 6, 1998.  This has been adopted in Python 1.5.1.
+Proposed Improvements to Module Cleanup
+A revised version of the proposal I posted to comp.lang.python on
+Feb 6, 1998.  This has been adopted in Python 1.5.1.
+Open Source Summit Trip ReportMy trip report of O'Reilly's Open Source Summit, essentially as
+posted on c.l.p.  This version published in the Linux Gazette (it's an
+external link), in their May 1998 issue.
+Open Source Summit Trip Report
+My trip report of O'Reilly's Open Source Summit, essentially as
+posted on c.l.p.  This version published in the Linux Gazette (it's an
+external link), in their May 1998 issue.
+Debugging Reference Count ProblemsAn edited version of a posting to c.l.p on this subject, on May 27, 1998.
+Debugging Reference Count Problems
+An edited version of a posting to c.l.p on this subject, on May 27, 1998.
+Computer Programming for Everybody (old)A funding proposal that was accepted by DARPA in March 1999.
+Computer Programming for Everybody (old)
+A funding proposal that was accepted by DARPA in March 1999.
+Computer Programming for EverybodyRevised, extended version of the previous proposal.
+Computer Programming for Everybody
+Revised, extended version of the previous proposal.
+Interview in Linux JournalNot quite an essay, but a stream of consciousness penned down by a
+journalist...  More thoughts about CP4E.
+Interview in Linux Journal
+Not quite an essay, but a stream of consciousness penned down by a
+journalist...  More thoughts about CP4E.
+Interview in by Frank Willison for "Frankly Speaking" columnAnother stream of consciousness transcribed by a friendly
+listener...  Not just on CP4E.
+Interview in by Frank Willison for "Frankly Speaking" column
+Another stream of consciousness transcribed by a friendly
+listener...  Not just on CP4E.
+Foreword for "Programming Python" (2nd ed.)The story continues...
+Foreword for "Programming Python" (2nd ed.)
+The story continues...
+Unifying types and classes in Python 2.2An introduction to the type/class unification effort in Python
+2.2.  Note that the unification work is officially labeledexperimentaland is subject to change in future releases of
+Python.
+Unifying types and classes in Python 2.2
+An introduction to the type/class unification effort in Python
+2.2.  Note that the unification work is officially labeledexperimentaland is subject to change in future releases of
+Python.
+Parade of the PEPsTo start off Developer's Day at thePython10 conferenceI gave a
+keynote ending in what I dubbed "the parade of the PEPs". It was a
+brief overview ofall open PEPs, where I gave my highly personal and subjective opinion
+for each PEP.  Later, I realized that this might have been of interest
+to other developers.  I didn't take notes at the conference, so below
+is a different set of comments that I created from scratch during a
+single two-hour sitting on March 7, 2002.  I intend to occasionally
+update this with new comments and new PEPs.
+Parade of the PEPs
+To start off Developer's Day at thePython10 conferenceI gave a
+keynote ending in what I dubbed "the parade of the PEPs". It was a
+brief overview ofall open PEPs, where I gave my highly personal and subjective opinion
+for each PEP.  Later, I realized that this might have been of interest
+to other developers.  I didn't take notes at the conference, so below
+is a different set of comments that I created from scratch during a
+single two-hour sitting on March 7, 2002.  I intend to occasionally
+update this with new comments and new PEPs.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

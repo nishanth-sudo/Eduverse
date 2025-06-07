@@ -1,0 +1,164 @@
+DSA Course
+DSA
+Interview Problems on Hash
+Practice Hash
+MCQs on Hash
+Hashing Tutorial
+Hash Function
+Index Mapping
+Collision Resolution
+Open Addressing
+Separate Chaining
+Quadratic probing
+Double Hashing
+Load Factor and Rehashing
+Advantage & Disadvantage
+Explore GfG Courses
+Share Your Experiences
+Hashing in Data Structure
+Introduction to Hashing
+What is Hashing?
+Index Mapping (or Trivial Hashing) with negatives allowed
+Separate Chaining Collision Handling Technique in Hashing
+Open Addressing Collision Handling technique in Hashing
+Double Hashing
+Load Factor and Rehashing
+Easy problems on Hashing
+Check if an array is subset of another array
+Union and Intersection of two Linked List using Hashing
+Two Sum - Pair with given Sum
+Max Distance Between Two Occurrences
+Most frequent element in an array
+Only Repeating From 1 To n-1
+Check for Disjoint Arrays or Sets
+Non-overlapping sum of two sets
+Check if two arrays are equal or not
+Find missing elements of a range
+Minimum Subsets with Distinct Elements
+Remove minimum elements such that no common elements exist in two arrays
+2 Sum - Count pairs with given sum
+Count quadruples from four sorted arrays whose sum is equal to a given value x
+Sort elements by frequency | Set 4 (Efficient approach using hash)
+Find all pairs (a, b) in an array such that a % b = k
+Group words with same set of characters
+k-th distinct (or non-repeating) element among unique elements in an array.
+Intermediate problems on Hashing
+Find Itinerary from a given list of tickets
+Find number of Employees Under every Manager
+Longest Subarray With Sum Divisible By K
+Longest Subarray with 0 Sum
+Longest Increasing consecutive subsequence
+Count Distinct Elements In Every Window of Size K
+Design a data structure that supports insert, delete, search and getRandom in constant time
+Subarray with Given Sum  - Handles Negative Numbers
+Implementing our Own Hash Table with Separate Chaining in Java
+Implementing own Hash Table with Open Addressing Linear Probing
+Maximum possible difference of two subsets of an array
+Sorting using trivial hash function
+Smallest subarray with k distinct numbers
+Hard problems on Hashing
+Clone a Binary Tree with Random Pointers
+Longest Subarray With Equal Number of 0s and 1s
+3 Sum – All Distinct Triplets with given Sum in an Array
+Range Queries for Frequencies of array elements
+Missing Elements of a Range in an Array
+Cuckoo Hashing  - Worst case O(1) Lookup!
+Count subarrays having total distinct elements same as original array
+Maximum array from two given arrays keeping order same
+Sum of unique sub-array sums
+Length of longest strict bitonic subsequence
+Find All Duplicate Subtrees
+Submatrix with corners as 1
+Top 20 Hashing Technique based Interview Questions
+DSA to DevelopmentCourse
+Hashing in Data StructureLast Updated :13 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportHashingis a technique used in data structures that efficiently stores and retrieves data in a way that allows for quick access.Hashing involves mapping data to a specific index in a hash table (an array of items) using ahash function.It enables fast retrieval of information based on its key.The great thing about hashing is, we can achieve all three operations (search, insert and delete) in O(1) time on average.Hashing is mainly used to implement a set of distinct items (only keys) and dictionaries (key value pairs).Hashing in Data StructureBasicsIntroductionApplicationsSeparate Chaining for Collision HandlingOpen Addressing for Collision HandlingEasy ProblemsCheck tor SubsetCheck for DisjointCheck for EqualMax distance between two occurrencesDuplicate within K DistanceIntersection of Two ArraysUnion of Two ArraysMost Frequent ElementMaximum points on the same line2 Sum - Find if there is any pair2 Sum - Count PairsCount Pairs with Given DiffOnly repetitive element from 1 to n-1Missing elements of a given rangeMissing Elements from Min to Max of ArrayMinimum Subsets with distinct elementsMinimum Removals for No CommonPairs with given sum from different rowsMedium ProblemsCheck If Array Pair Sums Divisible by kLongest subarray with sum divisible by k3 Sum - Count all triplets with given sum3 Sum – Find All Triplets with Zero SumItinerary from a given list of ticketsLongest Subarray having Majority Elements Greater Than KNumber of Employees Under every EmployeeLargest subarray with 0 sumSubarray with given sumLongest Consecutive subsequenceLargest Fibonacci SubsetConsecutive Subset PartitioningDistincts in every window of size kInsert, delete, search and getRandomMin insertions for a palindrome permutationMaximum possible difference of two subsets of an arraySorting using trivial hash functionSmallest subarray with k distinct numbersAll pairs (a, b) in an array such that a % b = kGroup words with same set of charactersk-th distinct (or non-repeating) element in an array.Hard ProblemsRepresent Fraction as String4 Sum – Count quadruplets4 Sum – Find all Quadruplets4 Sum - From four sorted arraysClone a Binary Tree with Random PointersLargest subarray with equal number of 0s and 1sLongest Common Sum SpanPalindrome Substring QueriesRange Queries for Frequencies of array elementsCuckoo Hashing – Worst case O(1) Lookup!Count subarrays having total distinct elements same as original arrayMaximum array from two given arrays keeping order sameFind Sum of all unique sub-array sum for a given array.Recaman’s sequenceLength of longest strict bitonic subsequenceFind All Duplicate SubtreesFind if there is a rectangle in binary matrix with corners as 1Quick Links :‘Practice Problems’ on HashingTop Hashing Interview Questions‘Quizzes’ on HashingRecommended:Learn Data Structure and Algorithms | DSA TutorialNext ArticleIntroduction to HashingHharendrakumar123ImproveArticle Tags :HashDSAPractice Tags :Hash
+Hashing in Data Structure
+Hashingis a technique used in data structures that efficiently stores and retrieves data in a way that allows for quick access.
+Hashing involves mapping data to a specific index in a hash table (an array of items) using ahash function.It enables fast retrieval of information based on its key.
+The great thing about hashing is, we can achieve all three operations (search, insert and delete) in O(1) time on average.
+Hashing is mainly used to implement a set of distinct items (only keys) and dictionaries (key value pairs).
+Basics
+Introduction
+Applications
+Separate Chaining for Collision Handling
+Open Addressing for Collision Handling
+Easy Problems
+Check tor Subset
+Check for Disjoint
+Check for Equal
+Max distance between two occurrences
+Duplicate within K Distance
+Intersection of Two Arrays
+Union of Two Arrays
+Most Frequent Element
+Maximum points on the same line
+2 Sum - Find if there is any pair
+2 Sum - Count Pairs
+Count Pairs with Given Diff
+Only repetitive element from 1 to n-1
+Missing elements of a given range
+Missing Elements from Min to Max of Array
+Minimum Subsets with distinct elements
+Minimum Removals for No Common
+Pairs with given sum from different rows
+Medium Problems
+Check If Array Pair Sums Divisible by k
+Longest subarray with sum divisible by k
+3 Sum - Count all triplets with given sum
+3 Sum – Find All Triplets with Zero Sum
+Itinerary from a given list of tickets
+Longest Subarray having Majority Elements Greater Than K
+Number of Employees Under every Employee
+Largest subarray with 0 sum
+Subarray with given sum
+Longest Consecutive subsequence
+Largest Fibonacci Subset
+Consecutive Subset Partitioning
+Distincts in every window of size k
+Insert, delete, search and getRandom
+Min insertions for a palindrome permutation
+Maximum possible difference of two subsets of an array
+Sorting using trivial hash function
+Smallest subarray with k distinct numbers
+All pairs (a, b) in an array such that a % b = k
+Group words with same set of characters
+k-th distinct (or non-repeating) element in an array.
+Hard Problems
+Represent Fraction as String
+4 Sum – Count quadruplets
+4 Sum – Find all Quadruplets
+4 Sum - From four sorted arrays
+Clone a Binary Tree with Random Pointers
+Largest subarray with equal number of 0s and 1s
+Longest Common Sum Span
+Palindrome Substring Queries
+Range Queries for Frequencies of array elements
+Cuckoo Hashing – Worst case O(1) Lookup!
+Count subarrays having total distinct elements same as original array
+Maximum array from two given arrays keeping order same
+Find Sum of all unique sub-array sum for a given array.
+Recaman’s sequence
+Length of longest strict bitonic subsequence
+Find All Duplicate Subtrees
+Find if there is a rectangle in binary matrix with corners as 1
+Quick Links :
+‘Practice Problems’ on Hashing
+Top Hashing Interview Questions
+‘Quizzes’ on Hashing
+Recommended:
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Hash
+DSA
+Hash
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240807120551_Introduction-to-Hashing.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_wp-content_uploads_20240705145840_New-Course-thumbnail_Placement-preparation-mastery-copy.webp
+media.geeksforgeeks.org_img-practice_prod_courses_463_Web_Content_dsa_js_1723009405.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

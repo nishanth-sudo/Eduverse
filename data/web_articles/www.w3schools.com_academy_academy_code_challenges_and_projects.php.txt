@@ -1,0 +1,97 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Hands-on learning for your students
+Code challenges and projects help students develop new skills, test their knowledge, and collaborate on real-world solutions.
+Code Challenges
+Help your students solve tasks and meet requirements. They get instant feedback, making it easier to spot mistakes and improve their skills.
+For all skill levels
+Challenges start simple and gradually become more complex, helping students build confidence as they go.
+Use pre-made or custom challenges
+Choose between our pre-made challenges or make your own from scratch or with our AI generator.
+Wide range of topics
+Students can practice coding in languages like HTML, CSS, JavaScript, Python, and more.
+Instant feedback
+Students see results right away, so they can test ideas, fix mistakes, and improve their logic faster.
+Build problem solving skills
+Code challenges are more than just tasks and requirements. Students get hands-on experience in breaking down problems and finding solutions.
+A safe space to learn
+Students are encouraged to test ideas, make mistakes, and learn from them. It's a supportive environment where trying is part of the learning process.
+Check the code and make it better
+Students get used to reviewing their code, finding mistakes, and making improvements. This helps them become more independent and confident coders.
+Encourage critical thinking & problem-solving
+Students learn to think critically and solve problems step by step.
+Projects
+Projects help students use what they've learned by creating coding solutions with clear goals and instructions. Each project has a structure to help students stay focused and build useful skills.
+Create custom projects
+Students can build their own projects from scratch and tailor them to match your teaching goals.
+Encourage teamwork
+Students can work independently or collaborate with classmates using shared cursors, comments, and discussions.
+Choose from multiple languages
+Students can build projects in languages like Python, PHP, JavaScript, and more.
+As a teacher, you can create your own challenges and projects or choose from a selection of ready-made options.
+Assign the activities
+Create assignments by combining challenges and projects to assess student progress. You can assign them to a whole class or to individual students.
+Integrated development environment
+With W3Schools Spaces, the students can build and test directly in the browser, no setup required. It's an easy way for students to apply their skills, experiment with code, and share their work with others.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Frequently asked questions
+What are code challenges?
+Code challenges are tasks that help students practice and improve their coding step by step.
+What are projects?
+Projects are guided activities where students use what they've learned to build a website, a web app, or a tool.
+Are there pre-made challenges?
+Yes. You can use pre-made challenges from W3Schools library.
+Can I make my own challenges?
+Yes. You can build your challenge from scratch by yourself or use our AI tool.
+What coding languages are supported in challenges and projects?
+Students can code challenges in: HTML, CSS, Python, Java, JavaScript, PHP, C# and SQL.Students can code projects in: HTML, CSS, Python, JavaScript, PHP and C#.
+Do students get feedback right away?
+Yes. Students see the results right away so they can test, fix, and improve.
+Can students work together on projects?
+Yes. Students can collaborate in real time by coding together or commenting directly in the code editor.
+Can teachers see student projects and give feedback?
+Yes. Each project has a unique link that students can share with their teacher for review or feedback.
+What skills do students learn from Code Challenges and Projects?
+Students build skills in problem-solving, coding, and working with others.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_challenges.png
+www.w3schools.com_academy_images_engaging_content.png
+www.w3schools.com_academy_images_engaging_content_mobile.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

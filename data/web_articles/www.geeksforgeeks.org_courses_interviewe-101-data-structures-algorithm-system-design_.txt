@@ -1,0 +1,67 @@
+Courses
+Placement
+Data ScienceIBM
+GATE
+Practice
+Our website uses cookies
+All Courses
+Live
+Tech Interview 101 - From DSA to System Design for Working Professionals
+Why do Professionals in Software Engineering oftenstruggle to create efficient and scalable systems?
+Well, the solution lies inintegrating DSA principleseffectively intoreal-world System Design scenarios. If you want to learn this in order tocrack the Tech Giants, register now!!!
+Ace Your Tech Interviews with Tech101 – DSA, System Design & More at just INR9999!For further queries reach us via Call/WhatsApp on : +91-8528033938
+Course Overview
+Course Highlights:
+High-Paying Opportunities: Prepare for top positions at renowned tech giants like Microsoft, Uber, Amazon, etc.
+Master DSA: Enhance problem-solving, coding skills, and conceptual knowledge through live mentorship in Data Structures and Algorithms (DSA).
+System Design Expertise: Covers low-level and high-level design principles, patterns, case studies for proficiency as an architect, engineer, or lead.
+Real-World Application: Hands-on experience to tackle real-world tech challenges.
+Comprehensive Content: Curated DSA course by CEO complements system design curriculum for a holistic learning experience.
+Doubt Assistance & Contests: Personalized 1:1 live doubt-solving sessions and engaging contests to test skills.
+Optimized for Working Professionals: Designed to fit busy schedules, enabling knowledge acquisition for better job opportunities.
+Career Advancement: Skills to excel as a Software Developer, Tech Lead, or Architect, with exciting career opportunities.
+Complimentary Access:
+DSA Self-Paced Course: By Sandeep Jain, CEO & Founder @ GeeksforGeeks
+Low-Level Design: By Siddharth Hazra (SDE at GeeksforGeeks)
+High-Level Design: By Jay Chakra (Senior Consulting Engineer at MongoDB)
+Ideal For:
+Working professionals preparing for a job switch
+NOTE - All sales are final, no refunds will be provided for offline and live courses.However, if needed, participants may be allowed to shift to a different batch of the same course, subject to availability and course policies.
+Course Content
+Algorithms and Data Structures:
+Time and space complexity analysis.
+Arrays, linked lists, stacks, queues.
+Key Techniques and Applications:
+Sorting and searching algorithms.
+Binary trees, binary search trees, and basic traversals.
+Advanced Data Structures and Algorithms:
+Greedy algorithms
+Heap data structure, heap sort, and priority queues.
+Graphs and Advanced Algorithms:
+Graph representations and traversal (BFS, DFS)
+Implementing MST (Prim's, Kruskal's) and SSSP (Dijkstra, Bellman-Ford).
+Advanced Algorithms:
+Advanced graph algorithms (e.g., Dijkstra, Floyd-Warshall).
+Divide and Conquer strategies.
+Dynamic Programming (Memoization, Tabulation).
+Advanced Data Structures:
+Advanced trees (AVL, Red-Black).
+Advanced hashing and collision resolution.
+Advanced searching techniques (Interpolation, Exponential).
+An extensive interview-centric live course designed by industry experts to help you ace the interview of your dreams. We will help you enhance your conceptual knowledge about DSA and improve your problem-solving and coding skills.
+For more information, please gohere
+OOP Fundamentals:
+OOP principles: classes, objects, encapsulation, inheritance, and polymorphism.
+Advanced OOP concepts: operator overloading, association, and composition.
+Design Principles & Patterns:
+SOLID principles and key design patterns: Strategy, Observer, Factory, Singleton, and more.
+Upcoming Batches
+Reviews and Ratings
+Reviews and Ratings
+Frequently Asked Questions
+Is there any number to contact for query?
+Do I need to enrol in 2 different courses?
+What order of course should I follow?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_22_Web_Header_Frame_2013_t_1747487514.png

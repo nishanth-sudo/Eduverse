@@ -1,0 +1,178 @@
+Data Types in Go
+Go Keywords
+Go Control Flow
+Go Functions
+GoLang Structures
+GoLang Arrays
+GoLang Strings
+GoLang Pointers
+GoLang Interface
+GoLang Concurrency
+Explore GfG Courses
+Share Your Experiences
+Go Tutorial
+Overview
+Go Programming Language (Introduction)
+How to Install Go on Windows?
+How to Install Golang on MacOS?
+Hello World in Golang
+Fundamentals
+Identifiers in Go Language
+Go Keywords
+Data Types in Go
+Go Variables
+Constants- Go Language
+Go Operators
+Control Statements
+Go Decision Making (if, if-else, Nested-if, if-else-if)
+Loops in Go Language
+Switch Statement in Go
+Functions & Methods
+Functions in Go Language
+Variadic Functions in Go
+Anonymous function in Go Language
+main and init function in Golang
+What is Blank Identifier(underscore) in Golang?
+Defer Keyword in Golang
+Methods in Golang
+Structure
+Structures in Golang
+Nested Structure in Golang
+Anonymous Structure and Field in Golang
+Arrays
+Arrays in Go
+How to Copy an Array into Another Array in Golang?
+How to pass an Array to a Function in Golang?
+Slices
+Slices in Golang
+Slice Composite Literal in Go
+How to sort a slice of ints in Golang?
+How to trim a slice of bytes in Golang?
+How to split a slice of bytes in Golang?
+Strings
+Strings in Golang
+How to Trim a String in Golang?
+How to Split a String in Golang?
+Different ways to compare Strings in Golang
+Pointers
+Pointers in Golang
+Passing Pointers to a Function in Go
+Pointer to a Struct in Golang
+Go Pointer to Pointer (Double Pointer)
+Comparing Pointers in Golang
+Concurrency
+Goroutines - Concurrency in Golang
+Select Statement in Go Language
+Multiple Goroutines
+Channel in Golang
+Unidirectional Channel in Golang
+DSA to DevelopmentCourse
+Go TutorialLast Updated :04 Feb, 2025CommentsImproveSuggest changesLike ArticleLikeReportGo or you say Golang is a procedural and statically typed programming language having the syntax similar toCprogramming language. It was developed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google but launched in 2009 as an open-source programming language and mainly used in Google’s production systems. Golang is one of the most trending programming languages among developers.  It provides a rich standard library, garbage collection, and dynamic-typing capability.OverviewIntroduction to GolangInstalling Golang on WindowsInstalling Golang on MacOSHello World! in GolangGolang vs C++Golang vs JavaGolang vs PythonFundamentalsIdentifiers in GolangKeywords in GolangData TypesVariablesConstantsRune in GolangOperators in GolangScope of VariablesType Castingvar Keyword in GolangShort Declaration Operator(:=)var keyword vs short declaration operatorControl StatementsDecision Making StatementsLoops in GolangLoop Control StatementsSwitch Statement in GoDeadlock and Default Case in Select StatementFunctions & MethodsWhat are the Functions?Variadic FunctionAnonymous Functionmain and init functionFunction ArgumentsFunction Returning Multiple ValuesNamed Return ValuesBlank IdentifierDeferMethodsMethods With Same NameStructureStructuresStructure EqualityNested StructureAnonymous Structure and FieldsPromoted Fields in StructurePromoted Methods in StructureFunction as a Field in StructureArrays & SlicesArrays in GolangCopying an Array into Another Array in GolangPassing an Array to a Function in GolangSlices in GolangSlice Composite LiteralCopying one Slice into another SlicePassing a Slice to FunctionComparing two Slices in GolangChecking the Equality of Slices in GolangSorting a Slice in GolangTrimming a Slice in GolangSplitting a Slice in GolangStringStrings in GolangDifferent ways to compare StringsDifferent ways to concatenate two stringsTrimming a String in GolangSplitting a String in GolangCheck if the given characters are present in StringRepeating a String for Specific Number of TimesFinding the index value of specified stringCounting the Number of Repeated Characters in StringPointersPointersPointer to Pointer (Double Pointer)Pointers to a FunctionReturning Pointer from a FunctionPointer to an Array as Function ArgumentPointer to StructComparing PointersFinding the Capacity of the PointerFinding the Length of the PointerInterfacesInterfacesMultiple InterfacesEmbedding InterfacesPolymorphism Using InterfacesConcurrencyGoroutines – ConcurrencySelect StatementMultiple GoroutinesGoroutine vs ThreadChannel in GolangUnidirectional Channel in GolangNext ArticleGo Programming Language (Introduction)kartikImproveArticle Tags :Go LanguageProgramming LanguageGolang
+Go Tutorial
+Go or you say Golang is a procedural and statically typed programming language having the syntax similar toCprogramming language. It was developed in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson at Google but launched in 2009 as an open-source programming language and mainly used in Google’s production systems. Golang is one of the most trending programming languages among developers.  It provides a rich standard library, garbage collection, and dynamic-typing capability.
+Overview
+Introduction to Golang
+Installing Golang on Windows
+Installing Golang on MacOS
+Hello World! in Golang
+Golang vs C++
+Golang vs Java
+Golang vs Python
+Fundamentals
+Identifiers in Golang
+Keywords in Golang
+Data Types
+Variables
+Constants
+Rune in Golang
+Operators in Golang
+Scope of Variables
+Type Casting
+var Keyword in Golang
+Short Declaration Operator(:=)
+var keyword vs short declaration operator
+Control Statements
+Decision Making Statements
+Loops in Golang
+Loop Control Statements
+Switch Statement in Go
+Deadlock and Default Case in Select Statement
+Functions & Methods
+What are the Functions?
+Variadic Function
+Anonymous Function
+main and init function
+Function Arguments
+Function Returning Multiple Values
+Named Return Values
+Blank Identifier
+Defer
+Methods
+Methods With Same Name
+Structure
+Structures
+Structure Equality
+Nested Structure
+Anonymous Structure and Fields
+Promoted Fields in Structure
+Promoted Methods in Structure
+Function as a Field in Structure
+Arrays & Slices
+Arrays in Golang
+Copying an Array into Another Array in Golang
+Passing an Array to a Function in Golang
+Slices in Golang
+Slice Composite Literal
+Copying one Slice into another Slice
+Passing a Slice to Function
+Comparing two Slices in Golang
+Checking the Equality of Slices in Golang
+Sorting a Slice in Golang
+Trimming a Slice in Golang
+Splitting a Slice in Golang
+String
+Strings in Golang
+Different ways to compare Strings
+Different ways to concatenate two strings
+Trimming a String in Golang
+Splitting a String in Golang
+Check if the given characters are present in String
+Repeating a String for Specific Number of Times
+Finding the index value of specified string
+Counting the Number of Repeated Characters in String
+Pointers
+Pointers
+Pointer to Pointer (Double Pointer)
+Pointers to a Function
+Returning Pointer from a Function
+Pointer to an Array as Function Argument
+Pointer to Struct
+Comparing Pointers
+Finding the Capacity of the Pointer
+Finding the Length of the Pointer
+Interfaces
+Interfaces
+Multiple Interfaces
+Embedding Interfaces
+Polymorphism Using Interfaces
+Concurrency
+Goroutines – Concurrency
+Select Statement
+Multiple Goroutines
+Goroutine vs Thread
+Channel in Golang
+Unidirectional Channel in Golang
+Go Language
+Programming Language
+Golang
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20250204144237908837_Go-Tutorial.webp
+media.geeksforgeeks.org_img-practice_prod_courses_823_Web_Content_Golan_1734086963.webp
+media.geeksforgeeks.org_wp-content_uploads_20241228104608348548_GATE-CSE--2026-live-online-classes.webp
+media.geeksforgeeks.org_wp-content_uploads_20241228104806995039_GATE-CSE--2028-live-online-classes.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

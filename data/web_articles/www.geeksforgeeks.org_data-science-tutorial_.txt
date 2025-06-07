@@ -1,0 +1,158 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+Data Science Tutorial
+Fundamental of Data Science
+What is Data Science?
+What Are the Roles and Responsibilities of a Data Scientist?
+Top 10 Data Science Job Profiles
+Applications of Data Science
+Data Science vs Data Analytics
+Data Science Vs Machine Learning : Key Differences
+Difference Between Data Science and Business Intelligence
+Data Science Fundamentals
+Data Science Lifecycle
+Math for Data Science
+Programming Language for Data Science
+Python for Data Science - Learn the Uses of Python in Data Science
+R Programming for Data Science
+SQL for Data Science
+Complete Data Science Program
+Data Science Tutorial
+Learn Data Science Tutorial With Python
+Data Analysis tutorial
+Data Analysis (Analytics) Tutorial
+Data Analysis with Python
+Data analysis using R
+Top 80+ Data Analyst Interview Questions and Answers
+Data Vizualazation Tutotrial
+Python - Data visualization tutorial
+Data Visualization with Python
+Getting started with Data Visualization in R
+Machine Learning Tutorial
+Machine Learning Tutorial
+Maths for Machine Learning
+100+ Machine Learning Projects with Source Code [2025]
+Top 50+ Machine Learning Interview Questions and Answers
+Machine Learning with R
+Deep Learning & NLP Tutorial
+Deep Learning Tutorial
+5 Deep Learning Project Ideas for Beginners
+Deep Learning Interview Questions
+Natural Language Processing (NLP) Tutorial
+Top 50 NLP Interview Questions and Answers  2024 Updated
+Computer Vision Tutorial
+Computer Vision Tutorial
+40+ Top Computer Vision Projects [2025 Updated]
+Why Data Science Jobs Are in High Demand
+Machine Learning & Data ScienceCourse
+Learn Data Science Tutorial With PythonLast Updated :28 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportData Science has become one of the fastest-growing fields in recent years, helping organizations to make informed decisions, solve problems and understand human behavior. As the volume of data grows so does the demand for skilled data scientists. The most common languages used for data science are Python and R.In thisData Science with Pythontutorial will guide you through the fundamentals of both data science and Python programming.Data Science with PythonBefore starting the tutorial you can refer to these articles:What is Data Science?Python for Data ScienceSetting Up Data Science EnvironmentPython Libraries for Data ScienceTo gain expertise in data science, you need to have a strong foundation in the following libraries:Pandas for Data ManipulationNumPy for Numerical ComputingMatplotlib for Data VisualizationSeaborn for Data VisualizationScikit-learn for Machine LearningData LoadingData loading means importing raw data from various sources and storing it in one place for further analysis.Loading a CSV File into a DataFrameLoading Data from an Excel FileLoading Data from JSON FileLoading Data from SQL DatabasesWeb Scraping using BeautifulSoup to Scrape DataLoading Data from MongoDB into DataFrameData PreprocessingData preprocessing involves cleaning and transforming raw data into a usable format for accurate and reliable analysis.What is Data Preprocessing?Working with Missing Data using PandasRemoving Duplicates using drop_duplicates()Scaling and Normalization of DataAggregating and Grouping DataFeature Selection using SklearnHandling Categorical Data using Label EncodingHandling Categorical Data using One-Hot EncodingDetecting outlier using Z scoreDetecting outlier using Interquartile RangeHandling Imbalanced DataEfficient Preprocessing for Large DatasetsData AnalysisData analysis is the process of inspecting data to discover meaningful insights and trends to make informed decision.What is Data Processing?Exploratory Data Analysis in PythonUnivariate and Multivariate AnalysisCalculating CorrelationHypothesis testing using PythonOne-sample t-test using PythonTwo Sample t-test using PythonANOVA (Analysis of Variance) in PythonMann-Whitney U Test in PythonZ-test in PythonChi-Square TestPCA with PythonShapiro-Wilk Test in PythonWilcoxon Signed-Rank Test in PythonData VisualizationData visualization uses graphical representations such as charts and graphs to understand and interpret complex data.Data Visualization using MatplotlibLine ChartBar PlotHistogramHeatmapBox PlotScatter PlotPie Chart3D PlotData Visualization using SeabornPair PlotCount PlotViolin PlotStrip PlotKDE Plot (Kernel Density Estimate)Joint PlotReg PlotInteractive VisualizationScatter PlotBar ChartLine ChartAnimated Data VisualizationChoropleth Maps usingInteractive Visualization using BokehVisualizing Geospatial Data using FoliumMachine LearningMachine learning focuses on developing algorithms that helps computers to learn from data and make predictions or decisions without explicit programming.Machine Learning TutorialDeep Learning TutorialRelated Courses:Machine Learningis an essential skill for any aspiring data analyst and data scientist and also for those who wish to transform a massive amount of raw data into trends and predictions. Learn this skill today withMachine Learning Foundation - Self Paced Coursedesigned and curated by industry experts having years of expertise in ML and industry-based projects.Every organisation now relies on data before making any important decisions regarding their future. So, it is safe to say that Data is really the king now. So why do you want to get left behind? This LIVE course will introduce the learner to advanced concepts like:Linear Regression, Naive Bayes & KNN, Numpy, Pandas, Matlab& much more. You will also get to work on real-life projects through the course. So wait no more,Become a Data Science Expert now.Next ArticleData Analysis (Analytics) Tutorialabhishek1ImproveArticle Tags :AI-ML-DSData ScienceTutorials
+Learn Data Science Tutorial With Python
+Data Science has become one of the fastest-growing fields in recent years, helping organizations to make informed decisions, solve problems and understand human behavior. As the volume of data grows so does the demand for skilled data scientists. The most common languages used for data science are Python and R.
+In thisData Science with Pythontutorial will guide you through the fundamentals of both data science and Python programming.
+Before starting the tutorial you can refer to these articles:
+What is Data Science?
+Python for Data Science
+Setting Up Data Science Environment
+Python Libraries for Data Science
+To gain expertise in data science, you need to have a strong foundation in the following libraries:
+Pandas for Data Manipulation
+NumPy for Numerical Computing
+Matplotlib for Data Visualization
+Seaborn for Data Visualization
+Scikit-learn for Machine Learning
+Data Loading
+Data loading means importing raw data from various sources and storing it in one place for further analysis.
+Loading a CSV File into a DataFrame
+Loading Data from an Excel File
+Loading Data from JSON File
+Loading Data from SQL Databases
+Web Scraping using BeautifulSoup to Scrape Data
+Loading Data from MongoDB into DataFrame
+Data Preprocessing
+Data preprocessing involves cleaning and transforming raw data into a usable format for accurate and reliable analysis.
+What is Data Preprocessing?
+Working with Missing Data using Pandas
+Removing Duplicates using drop_duplicates()
+Scaling and Normalization of Data
+Aggregating and Grouping Data
+Feature Selection using Sklearn
+Handling Categorical Data using Label Encoding
+Handling Categorical Data using One-Hot Encoding
+Detecting outlier using Z score
+Detecting outlier using Interquartile Range
+Handling Imbalanced Data
+Efficient Preprocessing for Large Datasets
+Data Analysis
+Data analysis is the process of inspecting data to discover meaningful insights and trends to make informed decision.
+What is Data Processing?
+Exploratory Data Analysis in Python
+Univariate and Multivariate Analysis
+Calculating Correlation
+Hypothesis testing using Python
+One-sample t-test using Python
+Two Sample t-test using Python
+ANOVA (Analysis of Variance) in Python
+Mann-Whitney U Test in Python
+Z-test in Python
+Chi-Square Test
+PCA with Python
+Shapiro-Wilk Test in Python
+Wilcoxon Signed-Rank Test in Python
+Data Visualization
+Data visualization uses graphical representations such as charts and graphs to understand and interpret complex data.
+Data Visualization using Matplotlib
+Line Chart
+Bar Plot
+Histogram
+Heatmap
+Box Plot
+Scatter Plot
+Pie Chart
+3D Plot
+Data Visualization using Seaborn
+Pair Plot
+Count Plot
+Violin Plot
+Strip Plot
+KDE Plot (Kernel Density Estimate)
+Joint Plot
+Reg Plot
+Interactive Visualization
+Scatter Plot
+Bar Chart
+Line Chart
+Animated Data Visualization
+Choropleth Maps using
+Interactive Visualization using Bokeh
+Visualizing Geospatial Data using Folium
+Machine Learning
+Machine learning focuses on developing algorithms that helps computers to learn from data and make predictions or decisions without explicit programming.
+Machine Learning Tutorial
+Deep Learning Tutorial
+Related Courses:Machine Learningis an essential skill for any aspiring data analyst and data scientist and also for those who wish to transform a massive amount of raw data into trends and predictions. Learn this skill today withMachine Learning Foundation - Self Paced Coursedesigned and curated by industry experts having years of expertise in ML and industry-based projects.
+Every organisation now relies on data before making any important decisions regarding their future. So, it is safe to say that Data is really the king now. So why do you want to get left behind? This LIVE course will introduce the learner to advanced concepts like:Linear Regression, Naive Bayes & KNN, Numpy, Pandas, Matlab& much more. You will also get to work on real-life projects through the course. So wait no more,Become a Data Science Expert now.
+AI-ML-DS
+Data Science
+Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20250424144706523281_Why-Python-for-Data-Science_.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_554_Mobile_Other_data_science_1720847526.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

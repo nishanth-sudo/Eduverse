@@ -1,0 +1,236 @@
+NumPy - Home
+NumPy - Introduction
+NumPy - Environment
+NumPy Arrays
+NumPy - Ndarray Object
+NumPy - Data Types
+NumPy Creating and Manipulating Arrays
+NumPy - Array Creation Routines
+NumPy - Array Manipulation
+NumPy - Array from Existing Data
+NumPy - Array From Numerical Ranges
+NumPy - Iterating Over Array
+NumPy - Reshaping Arrays
+NumPy - Concatenating Arrays
+NumPy - Stacking Arrays
+NumPy - Splitting Arrays
+NumPy - Flattening Arrays
+NumPy - Transposing Arrays
+NumPy Indexing & Slicing
+NumPy - Indexing & Slicing
+NumPy - Indexing
+NumPy - Slicing
+NumPy - Advanced Indexing
+NumPy - Fancy Indexing
+NumPy - Field Access
+NumPy - Slicing with Boolean Arrays
+NumPy Array Attributes & Operations
+NumPy - Array Attributes
+NumPy - Array Shape
+NumPy - Array Size
+NumPy - Array Strides
+NumPy - Array Itemsize
+NumPy - Broadcasting
+NumPy - Arithmetic Operations
+NumPy - Array Addition
+NumPy - Array Subtraction
+NumPy - Array Multiplication
+NumPy - Array Division
+NumPy Advanced Array Operations
+NumPy - Swapping Axes of Arrays
+NumPy - Byte Swapping
+NumPy - Copies & Views
+NumPy - Element-wise Array Comparisons
+NumPy - Filtering Arrays
+NumPy - Joining Arrays
+NumPy - Sort, Search & Counting Functions
+NumPy - Searching Arrays
+NumPy - Union of Arrays
+NumPy - Finding Unique Rows
+NumPy - Creating Datetime Arrays
+NumPy - Binary Operators
+NumPy - String Functions
+NumPy - Matrix Library
+NumPy - Linear Algebra
+NumPy - Matplotlib
+NumPy - Histogram Using Matplotlib
+NumPy Sorting and Advanced Manipulation
+NumPy - Sorting Arrays
+NumPy - Sorting along an axis
+NumPy - Sorting with Fancy Indexing
+NumPy - Structured Arrays
+NumPy - Creating Structured Arrays
+NumPy - Manipulating Structured Arrays
+NumPy - Record Arrays
+Numpy - Loading Arrays
+Numpy - Saving Arrays
+NumPy - Append Values to an Array
+NumPy - Swap Columns of Array
+NumPy - Insert Axes to an Array
+NumPy Handling Missing Data
+NumPy - Handling Missing Data
+NumPy - Identifying Missing Values
+NumPy - Removing Missing Data
+NumPy - Imputing Missing Data
+NumPy Performance Optimization
+NumPy - Performance Optimization with Arrays
+NumPy - Vectorization with Arrays
+NumPy - Memory Layout of Arrays
+Numpy Linear Algebra
+NumPy - Linear Algebra
+NumPy - Matrix Library
+NumPy - Matrix Addition
+NumPy - Matrix Subtraction
+NumPy - Matrix Multiplication
+NumPy - Element-wise Matrix Operations
+NumPy - Dot Product
+NumPy - Matrix Inversion
+NumPy - Determinant Calculation
+NumPy - Eigenvalues
+NumPy - Eigenvectors
+NumPy - Singular Value Decomposition
+NumPy - Solving Linear Equations
+NumPy - Matrix Norms
+NumPy Element-wise Matrix Operations
+NumPy - Sum
+NumPy - Mean
+NumPy - Median
+NumPy - Min
+NumPy - Max
+NumPy Set Operations
+NumPy - Unique Elements
+NumPy - Intersection
+NumPy - Union
+NumPy - Difference
+NumPy Random Number Generation
+NumPy - Random Generator
+NumPy - Permutations & Shuffling
+NumPy - Uniform distribution
+NumPy - Normal distribution
+NumPy - Binomial distribution
+NumPy - Poisson distribution
+NumPy - Exponential distribution
+NumPy - Rayleigh Distribution
+NumPy - Logistic Distribution
+NumPy - Pareto Distribution
+NumPy - Visualize Distributions With Sea born
+NumPy - Matplotlib
+NumPy - Multinomial Distribution
+NumPy - Chi Square Distribution
+NumPy - Zipf Distribution
+NumPy File Input & Output
+NumPy - I/O with NumPy
+NumPy - Reading Data from Files
+NumPy - Writing Data to Files
+NumPy - File Formats Supported
+NumPy Mathematical Functions
+NumPy - Mathematical Functions
+NumPy - Trigonometric functions
+NumPy - Exponential Functions
+NumPy - Logarithmic Functions
+NumPy - Hyperbolic functions
+NumPy - Rounding functions
+NumPy Fourier Transforms
+NumPy - Discrete Fourier Transform (DFT)
+NumPy - Fast Fourier Transform (FFT)
+NumPy - Inverse Fourier Transform
+NumPy - Fourier Series and Transforms
+NumPy - Signal Processing Applications
+NumPy - Convolution
+NumPy Polynomials
+NumPy - Polynomial Representation
+NumPy - Polynomial Operations
+NumPy - Finding Roots of Polynomials
+NumPy - Evaluating Polynomials
+NumPy Statistics
+NumPy - Statistical Functions
+NumPy - Descriptive Statistics
+NumPy Datetime
+NumPy - Basics of Date and Time
+NumPy - Representing Date & Time
+NumPy - Date & Time Arithmetic
+NumPy - Indexing with Datetime
+NumPy - Time Zone Handling
+NumPy - Time Series Analysis
+NumPy - Working with Time Deltas
+NumPy - Handling Leap Seconds
+NumPy - Vectorized Operations with Datetimes
+NumPy ufunc
+NumPy - ufunc Introduction
+NumPy - Creating Universal Functions (ufunc)
+NumPy - Arithmetic Universal Function (ufunc)
+NumPy - Rounding Decimal ufunc
+NumPy - Logarithmic Universal Function (ufunc)
+NumPy - Summation Universal Function (ufunc)
+NumPy - Product Universal Function (ufunc)
+NumPy - Difference Universal Function (ufunc)
+NumPy - Finding LCM with ufunc
+NumPy - ufunc Finding GCD
+NumPy - ufunc Trigonometric
+NumPy - Hyperbolic ufunc
+NumPy - Set Operations ufunc
+NumPy Useful Resources
+NumPy - Quick Guide
+NumPy - Cheatsheet
+NumPy - Useful Resources
+NumPy - Discussion
+NumPy Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+NumPy Tutorial
+ThisNumPy tutorialprovides detailed information with working examples on various topics, such as creating and manipulating arrays, indexing and slicing arrays, and more. This tutorial is helpful for both beginners and advanced learners.
+What is NumPy?
+NumPy, short forNumerical Python, is an open-source Python library. It supports multi-dimensional arrays (matrices) and provides a wide range of mathematical functions for array operations. It is used in scientific computing, and in areas like data analysis, machine learning, etc.
+Why to Use NumPy?
+The following are some of the key reasons to use NumPy:
+NumPy provides various math functions for calculations like addition, algebra, and data analysis.
+NumPy provides various objects representing arrays and multi-dimensional arrays which can be used to handle large data such as images, sounds, etc.
+NumPy also works with other libraries likeSciPy(for scientific computing),Pandas(for data analysis), andscikit-learn(for machine learning).
+NumPy is fast and reliable, which makes it a great choice for numerical computing in Python.
+NumPy Applications
+The following are some common application areas where NumPy is extensively used:
+Data Analysis:In Data analysis, while handling data, we can create data (in the form of array objects), filter the data, and perform various operations such as mean, finding the standard deviations, etc.
+Machine Learning & AI:Popular machine learning tools likeTensorFlowandPyTorchuse NumPy to manage input data, handle model parameters, and process the output values.
+Array Manipulation:NumPy allows you to create, resize, slice, index, stack, split, and combine arrays.
+Finance & Economics:NumPy is used for financial analysis, including portfolio optimization, risk assessment, time series analysis, and statistical modelling.
+Image & Signal Processing:NumPy helps process and analyze images and signals for various applications.
+Data Visualization:NumPy independently does not create visualizations, but it works with libraries likeMatplotlibandSeabornto generate charts and graphs from numerical data.
+NumPy Example
+The following is an example of Python NumPy:
+# Importing NumPy Array
+import numpy as np
+
+# Creating an array using np.array() method
+arr = np.array([10, 20, 30, 40, 50])
+
+# Printing
+print(arr) # Prints [10 20 30 40 50]
+NumPy Compiler
+To practice the NumPy example, we provided an online compiler. Practice your NumPy programs here:
+NumPy Practice
+You can quickly revise and practice the concepts of NumPy using the following:
+NumPy Quick Guide
+NumPy Cheatsheet
+Who can Learn NumPy?
+This NumPy tutorial has been prepared for those who want to learn about the basics and functions of NumPy. It is specifically useful in data science, engineering, agriculture science, management, statistics, research, and other related domains where numerical computation is required. After completing this tutorial, you will find yourself at a moderate level of expertise from where you can take yourself to higher levels of expertise.
+Prerequisites to Learn NumPy
+You should have a basic understanding of computer programming terminologies. A basic understanding of Python and any of the programming languages is a plus.
+NumPy Codebase
+NumPy's source code can be found at this github repository:https://github.com/numpy/numpy
+NumPy Documentation
+NumPy's documentation, reference manuals, and user guide can be found at these links:
+https://numpy.org/doc/stable/user/absolute_beginners.html
+https://numpy.org/devdocs/dev/index.html
+
+[Images saved with this article:]
+www.tutorialspoint.com_numpy_images_numpy-mini-logo.jpg
+www.tutorialspoint.com_numpy_images_numpy.jpg

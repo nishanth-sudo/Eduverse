@@ -1,0 +1,139 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Sigstore InformationStarting with thePython 3.11.0,Python 3.10.7,Python 3.9.14,Python 3.8.14, andPython 3.7.14releases, CPython release artifacts are additionally signed withSigstore.Starting with Python 3.14, Sigstore is the only method of signing and verification of release artifacts. Releases of Python older than the 3.14 series also include legacy OpenPGP signatures thatcan be verified using public keys. See more inPEP 761about this change.This page provides guidance on verifying Sigstore signatures as a CPython consumer, and outlines some motivation for using these additional signatures.Sigstore verification of CPython ReleasesIntroduction to SigstoreSigstore is a new standard for signing, verifying and protecting software. The Sigstore project is a set of tools and services:a certificate authoritya signature transparency logmultiple ecosystem-specific signing clients (such ashttps://pypi.org/p/sigstore/)At a high level, Sigstore uses a certificate authority to tie OpenID Connect (OIDC) identities to ephemeral keys, and uses a transparency log to publish the results of signing events. This eliminates the need for signers to manage private keys. It also allows users to verify signatures based on characteristics of the OIDC identities, such as an email address.More detail about the signing process and the interplay of these tools and services is provided in theSigstore docs. Additionally, a security model for Sigstore can be foundhere.Verifying CPython release artifacts with SigstoreVerification requires the presence of two files: the release artifact in question and bundled "verification materials" which typically has a file extension of.sigstore. For example, for the Python 3.11.0 source release, you would download the following files:$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz
+$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz.sigstoreThese verification materials should exist for all release artifacts, and are listed on the downloads page along with their corresponding artifacts.Verification additionally requires prior knowledge of the identity of the signer. For CPython releases, these are the email addresses of the release manager for the given release. The release managers for current and upcoming releases are as follows:ReleasePEPRelease managerOIDC Issuer3.7PEP 537nad@python.orghttps://github.com/login/oauth3.8PEP 569lukasz@langa.plhttps://github.com/login/oauth3.9PEP 596lukasz@langa.plhttps://github.com/login/oauth3.10PEP 619pablogsal@python.orghttps://accounts.google.com3.11PEP 664pablogsal@python.orghttps://accounts.google.com3.12PEP 693thomas@python.orghttps://accounts.google.com3.13PEP 719thomas@python.orghttps://accounts.google.com3.14PEP 745hugo@python.orghttps://github.com/login/oauthFinally, verification requires a Sigstore client. Usinghttps://pypi.org/p/sigstore/is recommended:To install with additional install-time assurances including hash-checking and version pinning, you can run the following to install from a fully specified requirements file:$ python -m pip install -r https://raw.githubusercontent.com/sigstore/sigstore-python/main/install/requirements.txtAlternatively, to install as usual without these assurances:$ python -m pip install sigstoreFinally, in the directory where you downloaded the release artifact and verification materials, you can run the following:$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  Python-3.11.0.tgzRunning this command should result in the outputOK: Python-3.11.0.tgz, which indicates that the signature is valid.Migrating from GPG signaturesBefore Sigstore signatures were available, CPython also provided GPG signatures as a means of verifying the origin and integrity of artifacts. Below are some tips for migrating an existing configuration verifying using GPG to adopting Sigstore.Instead of using a GPG key for verification, use the above table to choose which signing identity and OIDC issuer is expected for each Python release version.After an artifact has been verified using GPG, it's common to pin the artifact to a specific checksum value like SHA-256. If this value is already available, it's possible to check the validity of the artifact checksum using Sigstore using only the artifact checksum. For example, using a checksum ofdeadbeef...:$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  sha256:deadbeef...Verifying an artifact checksum requires a recent version of sigstore-python, at least v3.3.0 or later.Offline verification is the default when verifying a Sigstore bundle (ie.sigstore). Use the--offlineoption to disable other network calls like updating TUF metadata.If a standalone binary is required instead of a Python package for verifying signatures, we recommend usingsigstore-go.Any issues with this guide can be reported tohttps://github.com/sigstore/sigstore-python/issues
+Sigstore Information
+Starting with thePython 3.11.0,Python 3.10.7,Python 3.9.14,Python 3.8.14, andPython 3.7.14releases, CPython release artifacts are additionally signed withSigstore.
+Starting with Python 3.14, Sigstore is the only method of signing and verification of release artifacts. Releases of Python older than the 3.14 series also include legacy OpenPGP signatures thatcan be verified using public keys. See more inPEP 761about this change.
+This page provides guidance on verifying Sigstore signatures as a CPython consumer, and outlines some motivation for using these additional signatures.
+Sigstore verification of CPython Releases
+Introduction to Sigstore
+Sigstore is a new standard for signing, verifying and protecting software. The Sigstore project is a set of tools and services:
+a certificate authority
+a signature transparency log
+multiple ecosystem-specific signing clients (such ashttps://pypi.org/p/sigstore/)
+At a high level, Sigstore uses a certificate authority to tie OpenID Connect (OIDC) identities to ephemeral keys, and uses a transparency log to publish the results of signing events. This eliminates the need for signers to manage private keys. It also allows users to verify signatures based on characteristics of the OIDC identities, such as an email address.
+More detail about the signing process and the interplay of these tools and services is provided in theSigstore docs. Additionally, a security model for Sigstore can be foundhere.
+Verifying CPython release artifacts with Sigstore
+Verification requires the presence of two files: the release artifact in question and bundled "verification materials" which typically has a file extension of.sigstore. For example, for the Python 3.11.0 source release, you would download the following files:
+.sigstore
+$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz
+$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz.sigstore
+$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz
+$ wget https://www.python.org/ftp/python/3.11.0/Python-3.11.0.tgz.sigstore
+These verification materials should exist for all release artifacts, and are listed on the downloads page along with their corresponding artifacts.
+Verification additionally requires prior knowledge of the identity of the signer. For CPython releases, these are the email addresses of the release manager for the given release. The release managers for current and upcoming releases are as follows:
+Release
+PEP
+Release manager
+OIDC Issuer
+3.7
+PEP 537
+nad@python.org
+nad@python.org
+https://github.com/login/oauth
+https://github.com/login/oauth
+3.8
+PEP 569
+lukasz@langa.pl
+lukasz@langa.pl
+https://github.com/login/oauth
+https://github.com/login/oauth
+3.9
+PEP 596
+lukasz@langa.pl
+lukasz@langa.pl
+https://github.com/login/oauth
+https://github.com/login/oauth
+3.10
+PEP 619
+pablogsal@python.org
+pablogsal@python.org
+https://accounts.google.com
+https://accounts.google.com
+3.11
+PEP 664
+pablogsal@python.org
+pablogsal@python.org
+https://accounts.google.com
+https://accounts.google.com
+3.12
+PEP 693
+thomas@python.org
+thomas@python.org
+https://accounts.google.com
+https://accounts.google.com
+3.13
+PEP 719
+thomas@python.org
+thomas@python.org
+https://accounts.google.com
+https://accounts.google.com
+3.14
+PEP 745
+hugo@python.org
+hugo@python.org
+https://github.com/login/oauth
+https://github.com/login/oauth
+Finally, verification requires a Sigstore client. Usinghttps://pypi.org/p/sigstore/is recommended:
+To install with additional install-time assurances including hash-checking and version pinning, you can run the following to install from a fully specified requirements file:
+$ python -m pip install -r https://raw.githubusercontent.com/sigstore/sigstore-python/main/install/requirements.txt
+$ python -m pip install -r https://raw.githubusercontent.com/sigstore/sigstore-python/main/install/requirements.txt
+Alternatively, to install as usual without these assurances:
+$ python -m pip install sigstore
+$ python -m pip install sigstore
+Finally, in the directory where you downloaded the release artifact and verification materials, you can run the following:
+$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  Python-3.11.0.tgz
+$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  Python-3.11.0.tgz
+Running this command should result in the outputOK: Python-3.11.0.tgz, which indicates that the signature is valid.
+OK: Python-3.11.0.tgz
+Migrating from GPG signatures
+Before Sigstore signatures were available, CPython also provided GPG signatures as a means of verifying the origin and integrity of artifacts. Below are some tips for migrating an existing configuration verifying using GPG to adopting Sigstore.
+Instead of using a GPG key for verification, use the above table to choose which signing identity and OIDC issuer is expected for each Python release version.
+After an artifact has been verified using GPG, it's common to pin the artifact to a specific checksum value like SHA-256. If this value is already available, it's possible to check the validity of the artifact checksum using Sigstore using only the artifact checksum. For example, using a checksum ofdeadbeef...:
+deadbeef...
+$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  sha256:deadbeef...
+$ python -m sigstore verify identity \
+  --bundle Python-3.11.0.tgz.sigstore \
+  --cert-identity pablogsal@python.org \
+  --cert-oidc-issuer https://accounts.google.com \
+  sha256:deadbeef...
+Verifying an artifact checksum requires a recent version of sigstore-python, at least v3.3.0 or later.
+Offline verification is the default when verifying a Sigstore bundle (ie.sigstore). Use the--offlineoption to disable other network calls like updating TUF metadata.
+.sigstore
+--offline
+If a standalone binary is required instead of a Python package for verifying signatures, we recommend usingsigstore-go.
+Any issues with this guide can be reported tohttps://github.com/sigstore/sigstore-python/issues
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

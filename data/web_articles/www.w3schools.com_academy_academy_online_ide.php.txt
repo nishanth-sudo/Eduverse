@@ -1,0 +1,95 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Online IDE for your students
+Each student gets their own Space. In their Space, the students have an integrated development environment (IDE) where they can write, run, and test code directly in the browser.
+Easy to use, no setup
+Multiple tools in one interface make it easier for students to learn coding directly in the browser. No need to install extra software or set up complicated environments. An interactive and fun experience to write, test, and debug their code anytime, anywhere.
+Code from anywhere
+With a cloud-based IDE that lets students write and test code anytime, on any device.
+30+ Coding Languages
+Choose from HTML and CSS to JavaScript and Python, they can build real projects in the languages they're learning.
+Live previews
+Helps students spot mistakes and understand what to fix, while they're working.
+No installation required
+Students don't need to download any software to use our online IDE.
+Save time withready-to-use templates
+With 75+ templates ready to go, your students can start building right away. From simple websites and web apps, to full stack applications.
+As a teacher, you don't have to create project briefs from scratch. Just pick a template, let students explore and modify the code, and focus on guiding their learning.
+Templates are flexible, so students can build on real examples and learn by doing. Even if they're just getting started.
+Tools to build, help, and share
+Help students fix errors faster
+With the built-in terminal and log. They can monitor their code, troubleshoot issues, and learn debugging skills.
+Get AI-powered help while coding
+kAI provides students with real-time code suggestions and fixes common errors. They can select a mistake, ask for a solution, and apply the correct code instantly.
+Let your students share projects
+Each space has a unique link, allowing students to share their projects with you and their classmates. Spaces can also be set to private for controlled access, so only the student and teacher can see it.
+GitHub Integration
+Students can seamlessly connect their projects to GitHub, making it easy to manage versions, collaborate with others, and showcase their work professionally.
+Create hands-on challenges and projects
+Help students develop new skills, test their knowledge, and collaborate on real-world solutions. You can create your own challenges and projects or choose from a selection of ready-made options.
+Stay updated,with 40+ tutorials
+Keeping up with new technologies isn't always easy. New frameworks and languages appear all the time, and it can feel overwhelming on top of your work in the classroom.
+We're here to help you stay confident and up to date with best practices, so you can explore coding concepts at your own pace before introducing them to your students.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Frequently asked questions
+What is an online IDE?
+An online Integrated Development Environment (IDE) is a tool you can use to build, test and deploy code in your web browser.
+Can students see their code in action?
+Yes. The IDE shows live previews.
+Can students get AI help?
+Yes. AI can assist you with explanations, fixing of errors, auto completion of code, unit testing, refactor and any questions you might have.
+Can students share their online IDE project?
+Yes. Every project has a unique link. The project can be shared or set to private by the student or teacher.
+Can students use GitHub?
+Yes. They can connect projects to GitHub to manage versions and collaborate.
+Are there templates available?
+Yes. 75+ ready-made templates help students start building right away.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_web_hosting_and_deployment.png
+www.w3schools.com_academy_images_web_hosting_and_deployment_mobile.png
+www.w3schools.com_academy_images_ide_skins.png
+www.w3schools.com_academy_images_ide_skins_dark.png
+www.w3schools.com_academy_images_ide_skins_mobile.png
+www.w3schools.com_academy_images_ide_skins_mobile_dark.png
+www.w3schools.com_academy_images_ide_templates.png
+www.w3schools.com_academy_images_ide_templates_mobile.png
+www.w3schools.com_academy_images_tutorials_overview.png
+www.w3schools.com_academy_images_tutorials_overview_mobile.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

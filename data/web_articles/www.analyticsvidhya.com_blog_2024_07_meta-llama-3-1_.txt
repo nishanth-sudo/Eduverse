@@ -1,0 +1,974 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Meta Llama 3.1: Latest Open-Source AI Model Takes on GPT-4o mini
+The year 2024 is turning out to be one of the best years in terms of progress on Generative AI. Just last week, we had Open AI launch GPT-4o mini, and just yesterday (23rd July 2024), we had Meta launch Llama 3.1, which has yet again taken the world by storm. This latest version ofLlama 3.1brings notable enhancements, making it a strong competitor in the AI landscape. What could be the reasons this time?
+Firstly, Meta has heavily focused onopen-source models, and by open-source it truly means open-source. They release everything including code and datasets. This is our first time having a MASSIVE open-source LLM of 405 Billion parameters. This is close to 2.5x the size of GPT-3.5. Just let that settle in your brain for a second. Besides this, Meta has also launched 2 smaller variants of Llama 3.1 and made it one of the best multilingual and general-purpose LLMs focusing on various advanced tasks. These models have native support for tool usage, and a large context window. While many official benchmark results and performance comparisons have been released, I thought of putting this model to the test against Open AI’s latest GPT-4o mini. So let’s dive in and see more details about Llama 3.1 and its performance. But most importantly, let’s see if it can answer the dreaded question that has stumped almost all LLMs correctly once and for all,“Which number is larger, 13.11 or 13.8?”
+Table of contents
+Unboxing Llama 3.1 and its ArchitectureTraining MethodologyArchitecture DetailsPost-Training Methodology
+Training Methodology
+Architecture Details
+Post-Training Methodology
+Llama 3.1 Performance ComparisonsBenchmark EvaluationsHuman EvaluationsPerformance Comparisons
+Benchmark Evaluations
+Human Evaluations
+Performance Comparisons
+Llama 3.1 Availability and Pricing Comparisons
+Putting Llama 3.1 to the testInstall DependenciesEnter Open AI API KeySetup Open AI API KeySetup HuggingFace Access TokenCreate ChatGPT Completion Access FunctionCreate Llama 3.1 Completion Access FunctionLet’s Try Out the GPT-4o MiniLet’s try out Llama 3.1Task 1: Zero-shot ClassificationTask 2: Few-shot ClassificationTask 3: Coding Tasks – PythonTask 4: Coding Tasks – SQLTask 5: Information ExtractionTask 6: Closed-Domain Question AnsweringTask 7: Open-Domain Question AnsweringTask 8: Document SummarizationTask 9: TransformationTask 10: Translation
+Install Dependencies
+Enter Open AI API Key
+Setup Open AI API Key
+Setup HuggingFace Access Token
+Create ChatGPT Completion Access Function
+Create Llama 3.1 Completion Access Function
+Let’s Try Out the GPT-4o Mini
+Let’s try out Llama 3.1
+Task 1: Zero-shot Classification
+Task 2: Few-shot Classification
+Task 3: Coding Tasks – Python
+Task 4: Coding Tasks – SQL
+Task 5: Information Extraction
+Task 6: Closed-Domain Question Answering
+Task 7: Open-Domain Question Answering
+Task 8: Document Summarization
+Task 9: Transformation
+Task 10: Translation
+The Verdict
+Conclusion
+Unboxing Llama 3.1 and its Architecture
+In this section, let’s try to understand all the details about Meta’s new Llama 3 model. Based on their recent announcement, their flagship open-source model has a massive 405 Billion parameters. This model has been said to have beaten other LLMs in almost every benchmark out there (more on this shortly). The model is said to have superior capabilities, especially considering general knowledge, steerability, math, tool use, and multilingual translation.Llama 3.1also has really good support for synthetic data generation. Meta has also distilled this flagship model to release two other variant models of Llama 3.1, including Llama 3.1 8B and 70B.
+Training Methodology
+All these models are multilingual, have a really large context window of 128K tokens. They are built for use in AI agents as they support native tool use and function calling capabilities. Llama 3.1 claims to be stronger in math, logical, and reasoning problems. It supports several advanced use cases, including long-form text summarization, multilingual conversational agents, and coding assistants. They have also jointly trained these models on images, audio and video making them multimodal. However the multimodal variants are still being tested and haven’t been released as of today (24th July, 2024). Given the overall family of Llama models, as you can see in the following snapshot, this is the first model with native support for tools. This signifies the shift towards companies focusing on building Agentic AI systems.
+The development of this LLM consists of two major stages in the training process:
+Pre-training:Here Meta tokenizes a large, multilingual text corpus to discrete tokens and then pre-trains their large language model (LLM) on the resulting data on the classic language modeling task – perform next-token prediction. Thus, the model learns the structure of language and obtains large amounts of knowledge about the world from the text it goes through. Meta does this at scale, and in their paper, they mention that they pre-train a model with 405B parameters on 15.6T tokens using a context window of 8K tokens. This standard pre-training stage is followed by a continued pre-training stage that increases the supported context window to 128K tokens
+Post-training:This step is also popularly known as fine-tuning. The pre-trained language model can understand text but not instructions or intent. In this step, Meta aligns the model with human feedback in several rounds, each involvingsupervised finetuning (SFT)on instruction tuning data and Direct Preference Optimization (DPO; Rafailov et al., 2024). They have also integrated new capabilities, such as tool-use, and focused on improving tasks like coding and reasoning. Besides this, safety mitigations have also been incorporated into the model at the post-training stage
+Architecture Details
+The following figure shows the overall architecture of the Llama 3.1 model. Llama 3 uses a standard, denseTransformer architecture (Vaswani et al., 2017). In terms of model architecture, it does not deviate significantly fromLlama and Llama 2 (Touvron et al., 2023); Meta claims that its performance gains are primarily driven by improvements in data quality and diversity as well as by increased training scale.
+Meta also mentions that they used a standard decoder-only transformer model architecture (basically an auto-regressive transformer) with minor adaptations rather than a mixture-of-experts model to maximize training stability. They did, however, introduce several modifications to Llama 3.1 as compared to Llama 3, which include the following as mentioned in their paper, The Llama 3 Herd of Models:
+Usinggrouped query attention (GQA; Ainslie et al. (2023)with 8 key-value heads improves inference speed and reduces the size of key-value caches during decoding.
+Using an attention mask that prevents self-attention between different documents within the same sequence which had improved performance, especially for long sequences
+Using a vocabulary with 128K tokens. Their token vocabulary combines 100K tokens from the tiktoken3 tokenizer with 28K additional tokens to better support non-English languages.
+Increasing the RoPE base frequency hyperparameter to 500,000. This enabled Meta to support longer contexts better; Xiong et al. (2023) showed this value to be effective for context lengths up to 32,768
+It is quite evident from the above table that the key hyperparameters of the Llama 3.1 family of models are Llama 3.1 405B uses an architecture with 126 layers, a token representation dimension of 16,384, and 128 attention heads. Also, it is not a surprise they trained this model with a slightly lower learning rate than the other two smaller models.
+Post-Training Methodology
+For their post-training process (fine-tuning), they focused on a strategy involving rejection sampling, supervised finetuning, and direct preference optimization as depicted in the following figure.
+The backbone of Meta’s post-training strategy for Llama 3.1 is a reward model and a language model. Using human-annotated preference data, they first trained a reward model on top of the pre-trained Llama 3.1 checkpoint. This model helps with rejection sampling on human-annotated data, and their fine-tuning task-based dataset is a combination of human-generated and synthetic data, as depicted in the following figure.
+It is quite interesting that they focused on creating diverse task-based datasets, including a focus on coding, reasoning, tool-calling, and long-context tasks. Then, they fine-tuned pre-trained checkpoints with supervised finetuning (SFT) on this dataset and further aligned the checkpoints with Direct Preference Optimization. Compared to previous versions of Llama, they improved both the quantity and quality of the data used for pre-and post-training. In post-training, they produced the final instruct-tuned chat models by doing several rounds of alignment on top of the pre-trained model. Each round involved Supervised Fine-Tuning (SFT), Rejection Sampling (RS), and Direct Preference Optimization (DPO). There are a lot of good detailed aspects mentioned, not just on the training process, but also the datasets used by them and the exact workflow. Do refer to the paper,The Llama 3 Herd of Models Llama Team, AI @ Metafor all the good stuff!
+Llama 3.1 Performance Comparisons
+Meta has done significant testing of Llama 3.1’s performance across a variety of standard benchmark datasets, focusing on diverse tasks and comparing it with several other large language models (LLMs), including Claude andGPT-4o.
+Benchmark Evaluations
+Given the following table, it is quite clear that it has quickly become the newest state-of-the-art (SOTA) LLM, beating other powerful models in pretty much every benchmark dataset and task.
+Meta has also released benchmark results for the two smaller Llama 3.1 models (8B and 70B), comparing them against similar models. It is quite amazing to see that even the 8B model beat the 175B Open AI GPT-3.5 Turbo model in pretty much every benchmark. The progress and focus on small language models (SLMs) are quite evident in these results from the Meta Llama 3.1 8B model.
+Human Evaluations
+In addition to benchmark tests, Meta has also used a human evaluation process to compare Llama 3 405B with GPT-4 (0125 API version), GPT-4o (API version), and Claude 3.5 Sonnet (API version). To perform a pairwise human evaluation of two models, they asked human annotators which of the two model responses (produced by different models) they preferred. Annotators use a 7-point scale for their ratings, enabling them to indicate whether one model response is much better than, better than, slightly better than, or about the same as the other model response.
+Key observations include:
+Llama 3.1 405B performs approximately on par with the 0125 API version of GPT-4o mini while achieving mixed results (some wins and some losses) compared to GPT-4o and Claude 3.5 Sonnet
+On multiturn reasoning and coding tasks, Llama 3.1 405B outperforms GPT-4, but it underperforms GPT-4 on multilingual (Hindi, Spanish, and Portuguese) prompts
+Llama 3.1 performs on par with GPT-4o on English prompts, on par with Claude 3.5 Sonnet on multilingual prompts, and outperforms Claude 3.5 Sonnet on single and multi-turn English prompts
+Llama 3.1 trails Claude 3.5 Sonnet in capabilities such as coding and reasoning
+Performance Comparisons
+We also have detailed analysis and comparisons done by Artificial Analysis, an independent organization that provides benchmarking and related information for various LLMs and SLMs. The following visual compares the various models in the Llama 3.1 family against other popular LLMs and SLMs, consideringquality,speed, andprice. Overall, the model seems to be doing quite well in each of the three categories, as depicted in the figure below.
+Besides the performance of the model in terms of quality of results, there are a couple of factors which we usually consider when choosing an LLM or SLM, this includes the response speed and cost.Considering these factors, we get a variety of comparisons, which include theoutput speedof the model, which basically focuses on the output tokens per second received while the model is generating tokens (ie. after the first chunk has been received from the API).These numbers are based on the median speed across all providers, and as claimed by their observations, it looks like the 8B variant of Llama 3.1 seems to be quite fast in giving responses.
+Llama 3.1 Availability and Pricing Comparisons
+Meta is laser-focused on making Llama 3.1 available to everyone. Llama model weights are available to download, and you can access them easily on HuggingFace. Developers can fully customize the models for their needs and applications, train on new datasets, and conduct additional fine-tuning. Based on what Meta mentionedon their website. On day one itself, developers can take advantage of all the advanced capabilities of Llama 3.1 and start building immediately. Developers can also explore advanced workflows like easy-to-use synthetic data generation, follow turnkey directions for model distillation, and enable seamless RAG with solutions from partners, including AWS, NVIDIA,Databricks, Groq, and more, as evident from the following figure.
+While it is quite easy to argue that closed models are cost-effective, Meta claims that Llama 3.1 is both open-source and offers some of the best and cheapest models in the industry in terms of cost-per-token based on a detailed analysis done by Artificial Analysis.
+Here is the detailed comparison from Artificial Analysis on the cost of using Llama 3.1vs. other popular models. Thepricingis shown in terms of both input prompts and output responses in USD per 1M (million) tokens. Llama 3.1 is quite cheap and very close to GPT-4o mini. The larger variants, like Llama 3.1 405B,are quite expensive and similar to the larger GPT-4o model.
+Overall, Llama 3.1 is the best model yet from Meta, which is open-source, quite competitive based on benchmarks to other models, and has increased performance on complex tasks, including math, coding, reasoning, and tool usage.
+Putting Llama 3.1 to the test
+We will now put Llama 3.1 8B to the test and compare it to a similar model released by Open AI last week, which is Open AI GPT 4o-mini, by seeing how well both these models perform in various popular tasks based on real-world problems. This is very similar to the analysis we didcomparing GPT-4o mini to GPT-4o and GPT-3.5 Turbo recently. The key tasks we will we focusing on include the following:
+Task 1: Zero-shot Classification
+Task 2: Few-shot Classification
+Task 3: Coding Tasks – Python
+Task 4: Coding Tasks – SQL
+Task 5: Information Extraction
+Task 6: Closed-Domain Question Answering
+Task 7: Open-Domain Question Answering
+Task 8: Document Summarization
+Task 9: Transformation
+Task 10: Translation
+Do note the intent of this exercise is not to run any models on benchmark datasets but to take an example in each problem and see how well Llama 3.1 8B responds to it as compared to GPT-4o mini. To run the following analysis yourself, you need to go to HuggingFace and have anaccess token enabledand you also need access to theLlama 3.1 8B Instructmodel. This is a gated model, and only Meta has the right to grant you access. I got the access within an hour of applying, so all thanks to Meta for making this happen. Also, to run the 8B model, you need a GPU with at least 24GB of memory, like an NVIDIA L4 Tensor Core GPU. Let the show begin!
+Install Dependencies
+We start by installing the necessary dependencies, which is the Open AI library to access its APIs and also the latest version of transformers. Otherwise, the Llama 3.1 model will not work.
+!pip install openai
+!pip install --upgrade transformers
+!pip install openai
+!pip install --upgrade transformers
+Enter Open AI API Key
+We enter our Open AI key using the getpass() function so we don’t accidentally expose our key in the code.
+from getpass import getpass
+OPENAI_KEY = getpass('Enter Open AI API Key: ')
+from getpass import getpass
+OPENAI_KEY = getpass('Enter Open AI API Key: ')
+Setup Open AI API Key
+Next, we setup our API key to use with the openai library
+import openai
+from IPython.display import HTML, Markdown, display
+
+openai.api_key = openai_key
+import openai
+from IPython.display import HTML, Markdown, display
+
+openai.api_key = openai_key
+Setup HuggingFace Access Token
+Next, we setup our HuggingFace Access token so that we can use the Transformers library, download the Llama 3.1 model, and run experiments on our server. Just run the following command: get your access token from your HuggingFace account and enter it in the text box that appears.
+!huggingface-cli login
+!huggingface-cli login
+Create ChatGPT Completion Access Function
+This function will use theChat Completion APIto access ChatGPT for us and return responses based on GPT-4o mini.
+def get_completion_gpt(prompt, model="gpt-4o-mini"):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=0.0, # degree of randomness of the model's output
+    )
+    return response.choices[0].message.content
+def get_completion_gpt(prompt, model="gpt-4o-mini"):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=0.0, # degree of randomness of the model's output
+    )
+    return response.choices[0].message.content
+Create Llama 3.1 Completion Access Function
+This function will use the transformerspipelinemodule to download and load Llama 3.1 8B for us and return responses
+import transformers
+import torch
+
+# download and load the model locally
+model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+llama3 = transformers.pipeline(
+    "text-generation",
+    model=model_id,
+    model_kwargs={"torch_dtype": torch.bfloat16},
+    device_map="cuda",
+)
+
+def get_completion_llama(prompt, model_pipeline=llama3):
+    messages = [{"role": "user", "content": prompt}]
+    response = model_pipeline(
+        messages,
+        max_new_tokens=2000
+    )
+    return response[0]["generated_text"][-1]['content']
+import transformers
+import torch
+
+# download and load the model locally
+model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+llama3 = transformers.pipeline(
+    "text-generation",
+    model=model_id,
+    model_kwargs={"torch_dtype": torch.bfloat16},
+    device_map="cuda",
+)
+
+def get_completion_llama(prompt, model_pipeline=llama3):
+    messages = [{"role": "user", "content": prompt}]
+    response = model_pipeline(
+        messages,
+        max_new_tokens=2000
+    )
+    return response[0]["generated_text"][-1]['content']
+Let’s Try Out the GPT-4o Mini
+We can quickly test the above function to see if our code can access Open AI’s servers and use GPT-40 mini.
+response = get_completion_gpt(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+response = get_completion_gpt(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+OUTPUT
+Let’s try out Llama 3.1
+Using the following code, we can similarly check if our locally downloaded Llama 3.1 model is functioning correctly.
+response = get_completion_llama(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+response = get_completion_llama(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+OUTPUT
+Seems to be working as expected; we can now start with our experiments!
+Task 1: Zero-shot Classification
+This task tests an LLM’s text classification capabilities by prompting it to classify a text without providing examples. Here, we will do a zero-shot sentiment analysis on some customer product reviews. We have three customer reviews as follows:
+reviews = [
+    f"""
+    Just received the Bluetooth speaker I ordered for beach outings, and it's  
+    fantastic. The sound quality is impressively clear with just the right amount of  
+    bass. It's also waterproof, which tested true during a recent splashing 
+    incident. Though it's compact, the volume can really fill the space.
+    The price was a bargain for such high-quality sound.
+    Shipping was also on point, arriving two days early in secure packaging.
+    """,
+    f"""
+    Needed a new kitchen blender, but this model has been a nightmare.
+    It's supposed to handle various foods, but it struggles with anything tougher 
+    than cooked vegetables. It's also incredibly noisy, and the 'easy-clean' feature 
+    is a joke; food gets stuck under the blades constantly.
+    I thought the brand meant quality, but this product has proven me wrong.
+    Plus, it arrived three days late. Definitely not worth the expense.
+    """,
+    f"""
+    I tried to like this book and while the plot was really good, the print quality 
+    was so not good
+    """
+]
+reviews = [
+    f"""
+    Just received the Bluetooth speaker I ordered for beach outings, and it's  
+    fantastic. The sound quality is impressively clear with just the right amount of  
+    bass. It's also waterproof, which tested true during a recent splashing 
+    incident. Though it's compact, the volume can really fill the space.
+    The price was a bargain for such high-quality sound.
+    Shipping was also on point, arriving two days early in secure packaging.
+    """,
+    f"""
+    Needed a new kitchen blender, but this model has been a nightmare.
+    It's supposed to handle various foods, but it struggles with anything tougher 
+    than cooked vegetables. It's also incredibly noisy, and the 'easy-clean' feature 
+    is a joke; food gets stuck under the blades constantly.
+    I thought the brand meant quality, but this product has proven me wrong.
+    Plus, it arrived three days late. Definitely not worth the expense.
+    """,
+    f"""
+    I tried to like this book and while the plot was really good, the print quality 
+    was so not good
+    """
+]
+We now create a prompt to do zero-shot text classification and run it against the 3 reviews using Llama 3.1 and GPT-4o mini.
+responses = {
+    'llama3.1' : [],
+    'gpt-4o-mini' : []
+}
+for review in reviews:
+  prompt = f"""
+              Act as a product review analyst.
+              Given the following review,
+              Display the overall sentiment for the review as only one of the 
+              following:
+              Positive, Negative OR Neutral
+
+              Just give me the sentiment only.
+              ```{review}```
+            """
+  
+  response = get_completion_llama(prompt)
+  responses['llama3.1'].append(response)
+  response = get_completion_gpt(prompt)
+  responses['gpt-4o-mini'].append(response)
+responses = {
+    'llama3.1' : [],
+    'gpt-4o-mini' : []
+}
+for review in reviews:
+  prompt = f"""
+              Act as a product review analyst.
+              Given the following review,
+              Display the overall sentiment for the review as only one of the 
+              following:
+              Positive, Negative OR Neutral
+
+              Just give me the sentiment only.
+              ```{review}```
+            """
+  
+  response = get_completion_llama(prompt)
+  responses['llama3.1'].append(response)
+  response = get_completion_gpt(prompt)
+  responses['gpt-4o-mini'].append(response)
+# Display the output
+import pandas as pd
+pd.set_option('display.max_colwidth', None)
+
+pd.DataFrame(responses)
+# Display the output
+import pandas as pd
+pd.set_option('display.max_colwidth', None)
+
+pd.DataFrame(responses)
+OUTPUT
+The results are mostly consistent across both models, and they do quite well, given that some of these reviews are not very simple to analyze. However, Llama 3.1 tends to give more verbose results, and it always explained why the sentiment was positive or negative until I explicitly mentioned to just give me the sentiment only. GPT-4o does a better job of easily understanding instructions.
+Task 2: Few-shot Classification
+This task tests an LLM’s text classification capabilities by prompting it to classify a piece of text by providing a few examples of inputs and outputs. Here, we will classify the same customer reviews as those given in the previous example using few-shot prompting.
+responses = {
+    'llama3.1' : [],
+    'gpt-4o-mini' : []
+}
+for review in reviews:
+  prompt = f"""
+              Act as a product review analyst.
+              Given the following review,
+              Display only the sentiment for the review:
+              Try to classify it by using the following examples as a reference:
+              Review: Just received the Laptop I ordered for work, and it's amazing.
+              Sentiment: 😊
+              Review: Needed a new mechanical keyboard, but this model has been 
+                      totally disappointing.
+              Sentiment: 😡
+              Review: ```{review}```
+              Sentiment:
+            """
+  
+  response = get_completion_llama(prompt)
+  responses['llama3.1'].append(response)
+  response = get_completion_gpt(prompt)
+  responses['gpt-4o-mini'].append(response)
+
+# Display the output
+pd.DataFrame(responses)
+responses = {
+    'llama3.1' : [],
+    'gpt-4o-mini' : []
+}
+for review in reviews:
+  prompt = f"""
+              Act as a product review analyst.
+              Given the following review,
+              Display only the sentiment for the review:
+              Try to classify it by using the following examples as a reference:
+              Review: Just received the Laptop I ordered for work, and it's amazing.
+              Sentiment: 😊
+              Review: Needed a new mechanical keyboard, but this model has been 
+                      totally disappointing.
+              Sentiment: 😡
+              Review: ```{review}```
+              Sentiment:
+            """
+  
+  response = get_completion_llama(prompt)
+  responses['llama3.1'].append(response)
+  response = get_completion_gpt(prompt)
+  responses['gpt-4o-mini'].append(response)
+
+# Display the output
+pd.DataFrame(responses)
+OUTPUT
+We see very similar results across the two models, although as mentioned in the previous task, Llama 3.1 8B tends not to follow the instructions completely unless explicitly mentioned to output only the emoji or not give explanations along with the sentiment output. So, while results are on point for both models, GPT-4o mini tends to understand and follow instructions easily here.
+Task 3: Coding Tasks – Python
+This task tests an LLM’s capabilities for generating Python code based on certain prompts. Here we try to focus on a key task of scaling your data before applying certain machine learning models.
+prompt = f"""
+Act as an expert in generating python code
+
+Your task is to generate python code
+to explain how to scale data for a ML problem.
+Focus on just scaling and nothing else.
+Keep into account key operations we should do on the data
+to prevent data leakage before scaling.
+Keep the code and answer concise.
+"""
+prompt = f"""
+Act as an expert in generating python code
+
+Your task is to generate python code
+to explain how to scale data for a ML problem.
+Focus on just scaling and nothing else.
+Keep into account key operations we should do on the data
+to prevent data leakage before scaling.
+Keep the code and answer concise.
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Overall, both models do a pretty good job, although I personally liked GPT-4o mini’s result slightly better because I like using fit_transform since it does the job of both functions in one go. However, in terms of results and quality, you can say both are neck and neck.
+Task 4: Coding Tasks – SQL
+This task tests an LLM’s capabilities for generating SQL code based on certain prompts. Here we try to focus on a slightly more complex query involving multiple database tables.
+prompt = f"""
+Act as an expert in generating SQL code.
+
+Understand the following schema of the database tables carefully:
+Table departments, columns = [DepartmentId, DepartmentName]
+Table employees, columns = [EmployeeId, EmployeeName, DepartmentId]
+Table salaries, columns = [EmployeeId, Salary]
+
+Create a MySQL query for the employee with the 2nd highest salary in the 'IT' Department.
+Output should have EmployeeId, EmployeeName, DepartmentName, Salary
+"""
+prompt = f"""
+Act as an expert in generating SQL code.
+
+Understand the following schema of the database tables carefully:
+Table departments, columns = [DepartmentId, DepartmentName]
+Table employees, columns = [EmployeeId, EmployeeName, DepartmentId]
+Table salaries, columns = [EmployeeId, Salary]
+
+Create a MySQL query for the employee with the 2nd highest salary in the 'IT' Department.
+Output should have EmployeeId, EmployeeName, DepartmentName, Salary
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Overall, both models do a decent job. However, it is quite interesting to see that LLama 3.1 gives various approaches to the same problem. GPT-4o, meanwhile, comes up with a concise approach to the given problem.
+Task 5: Information Extraction
+This task tests an LLM’s capabilities for extracting and analyzing key entities from documents. Here we will extract and expand on important entities in a clinical note.
+clinical_note = """
+60-year-old man in NAD with a h/o CAD, DM2, asthma, pharyngitis, SBP,
+and HTN on altace for 8 years awoke from sleep around 1:00 am this morning
+with a sore throat and swelling of the tongue.
+He came immediately to the ED because he was having difficulty swallowing and
+some trouble breathing due to obstruction caused by the swelling.
+He did not have any associated SOB, chest pain, itching, or nausea.
+He has not noticed any rashes.
+He says that he feels like it is swollen down in his esophagus as well.
+He does not recall vomiting but says he might have retched a bit.
+In the ED he was given 25mg benadryl IV, 125 mg solumedrol IV,
+and pepcid 20 mg IV.
+Family history of CHF and esophageal cancer (father).
+"""
+clinical_note = """
+60-year-old man in NAD with a h/o CAD, DM2, asthma, pharyngitis, SBP,
+and HTN on altace for 8 years awoke from sleep around 1:00 am this morning
+with a sore throat and swelling of the tongue.
+He came immediately to the ED because he was having difficulty swallowing and
+some trouble breathing due to obstruction caused by the swelling.
+He did not have any associated SOB, chest pain, itching, or nausea.
+He has not noticed any rashes.
+He says that he feels like it is swollen down in his esophagus as well.
+He does not recall vomiting but says he might have retched a bit.
+In the ED he was given 25mg benadryl IV, 125 mg solumedrol IV,
+and pepcid 20 mg IV.
+Family history of CHF and esophageal cancer (father).
+"""
+prompt = f"""
+Act as an expert in analyzing and understanding clinical doctor notes in healthcare.
+Extract all symptoms only from the clinical note below in triple backticks.
+Differentiate between symptoms that are present vs. absent.
+Give me the probability (high/ medium/ low) of how sure you are about the result.
+Add a note on the probabilities and why you think so.
+Output as a markdown table with the following columns,
+all symptoms should be expanded and no acronyms unless you don't know:
+Symptoms | Present/Denies | Probability.
+Also expand the acronyms in the note including symptoms and other medical terms.
+Do not leave out any acronym related to healthcare.
+Output that also as a separate appendix table in Markdown with the following columns,
+Acronym | Expanded Term
+Clinical Note:
+```{clinical_note}```
+"""
+prompt = f"""
+Act as an expert in analyzing and understanding clinical doctor notes in healthcare.
+Extract all symptoms only from the clinical note below in triple backticks.
+Differentiate between symptoms that are present vs. absent.
+Give me the probability (high/ medium/ low) of how sure you are about the result.
+Add a note on the probabilities and why you think so.
+Output as a markdown table with the following columns,
+all symptoms should be expanded and no acronyms unless you don't know:
+Symptoms | Present/Denies | Probability.
+Also expand the acronyms in the note including symptoms and other medical terms.
+Do not leave out any acronym related to healthcare.
+Output that also as a separate appendix table in Markdown with the following columns,
+Acronym | Expanded Term
+Clinical Note:
+```{clinical_note}```
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Overall, the quality of results from Llama 3.1 is slightly better than GPT-4o mini, even if both models do quite well. GPT-4o mini cannot detect SOB as shortness of breath in the appendix table, even if it does identify the symptom in the main table. Also, some aspects, like NAD, are not exactly expanded to their acronyms by Llama 3.1; however, the meaning mentioned there is still on the same lines. Overall, again, it is quite close in terms of results.
+Task 6: Closed-Domain Question Answering
+Question Answering (QA) is a natural language processing task that generates the desired answer for the given question. Question Answering can be open-domain QA or closed-domain QA, depending on whether the LLM is provided with the relevant context or not.
+In closed-domain QA, a question along with relevant context is given. Here, the context is nothing but the relevant text, which ideally should have the answer, just like a RAG workflow.
+report = """
+Three quarters (77%) of the population saw an increase in their regular outgoings over the past year,
+according to findings from our recent consumer survey. In contrast, just over half (54%) of respondents
+had an increase in their salary, which suggests that the burden of costs outweighing income remains for
+most. In total, across the 2,500 people surveyed, the increase in outgoings was 18%, three times higher
+than the 6% increase in income.
+Despite this, the findings of our survey suggest we have reached a plateau. Looking at savings,
+for example, the share of people who expect to make regular savings this year is just over 70%,
+broadly similar to last year. Over half of those saving plan to use some of the funds for residential
+property. A third are saving for a deposit, and a further 20% for an investment property or second home.
+But for some, their plans are being pushed back. 9% of respondents stated they had planned to purchase
+a new home this year but have now changed their mind. While for many the deposit may be an issue,
+the other driving factor remains the cost of the mortgage, which has been steadily rising the last
+few years. For those that currently own a property, the survey showed that in the last year,
+the average mortgage payment has increased from £668.51 to £748.94, or 12%."""
+
+question = """
+How much has the average mortage payment increased in the last year?
+"""
+
+prompt = f"""
+Using the following context information below please answer the following question
+to the best of your ability
+Context:
+{report}
+Question:
+{question}
+Answer:
+"""
+report = """
+Three quarters (77%) of the population saw an increase in their regular outgoings over the past year,
+according to findings from our recent consumer survey. In contrast, just over half (54%) of respondents
+had an increase in their salary, which suggests that the burden of costs outweighing income remains for
+most. In total, across the 2,500 people surveyed, the increase in outgoings was 18%, three times higher
+than the 6% increase in income.
+Despite this, the findings of our survey suggest we have reached a plateau. Looking at savings,
+for example, the share of people who expect to make regular savings this year is just over 70%,
+broadly similar to last year. Over half of those saving plan to use some of the funds for residential
+property. A third are saving for a deposit, and a further 20% for an investment property or second home.
+But for some, their plans are being pushed back. 9% of respondents stated they had planned to purchase
+a new home this year but have now changed their mind. While for many the deposit may be an issue,
+the other driving factor remains the cost of the mortgage, which has been steadily rising the last
+few years. For those that currently own a property, the survey showed that in the last year,
+the average mortgage payment has increased from £668.51 to £748.94, or 12%."""
+
+question = """
+How much has the average mortage payment increased in the last year?
+"""
+
+prompt = f"""
+Using the following context information below please answer the following question
+to the best of your ability
+Context:
+{report}
+Question:
+{question}
+Answer:
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+These are pretty standard answers for both models, and after trying out more such examples, I see that both models do pretty well!
+Task 7: Open-Domain Question Answering
+Question Answering (QA) is a natural language processing task that generates the desired answer for the given question.
+In the case of open-domain QA, only the question is asked without providing any context or information. The LLM answers the question using the knowledge gained from large volumes of text data during its training. This is basically Zero-Shot QA. This is where the model’s knowledge cut off. When it was trained, it became very important to answer questions, especially about recent events.We will also test the models on a simple math problem which has become the bane of most LLMs failing to answer it correctly!
+prompt = f"""
+Please answer the following question to the best of your ability
+Question:
+What is LangChain?
+Answer:
+"""
+prompt = f"""
+Please answer the following question to the best of your ability
+Question:
+What is LangChain?
+Answer:
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Both models give very similar and accurate answers to the given question. Let’s now try an interesting math problem.
+Bane of LLMs: Which is greater, 13.11 or 13.8?
+This is a common question you might have seen popping up on social media and websites. It discusses how the most powerful LLMs cannot answer this simple math question and fail miserably! A case in point is the following image from ChatGPT running on GPT-4o itself.
+So, let’s put both the models to this test!
+prompt = f"""
+Please answer the following question to the best of your ability
+Question:
+13.11 or 13.8 which is larger and why?
+Answer:
+"""
+
+response = get_completion_llama(prompt)
+display(Markdown(response))
+prompt = f"""
+Please answer the following question to the best of your ability
+Question:
+13.11 or 13.8 which is larger and why?
+Answer:
+"""
+
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Well, there you go. It’s not good, GPT-4o mini! You still have the same problem of giving the wrong answer and reasoning (which it does correct if you probe it further). However, kudos to Meta’s Llama 3.1 on solving this one.
+Task 8: Document Summarization
+Document summarization is a natural language processing task that involves concisely summarizing the given text while still capturing all the important information.
+doc = """
+Coronaviruses are a large family of viruses which may cause illness in animals or humans.
+In humans, several coronaviruses are known to cause respiratory infections ranging from the
+common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+The most recently discovered coronavirus causes coronavirus disease COVID-19.
+COVID-19 is the infectious disease caused by the most recently discovered coronavirus.
+This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 is now a pandemic affecting many countries globally.
+The most common symptoms of COVID-19 are fever, dry cough, and tiredness.
+Other symptoms that are less common and may affect some patients include aches
+and pains, nasal congestion, headache, conjunctivitis, sore throat, diarrhea,
+loss of taste or smell or a rash on skin or discoloration of fingers or toes.
+These symptoms are usually mild and begin gradually.
+Some people become infected but only have very mild symptoms.
+Most people (about 80%) recover from the disease without needing hospital treatment.
+Around 1 out of every 5 people who gets COVID-19 becomes seriously ill and develops difficulty breathing.
+Older people, and those with underlying medical problems like high blood pressure, heart and lung problems,
+diabetes, or cancer, are at higher risk of developing serious illness.
+However, anyone can catch COVID-19 and become seriously ill.
+People of all ages who experience fever and/or  cough associated with difficulty breathing/shortness of breath,
+chest pain/pressure, or loss of speech or movement should seek medical attention immediately.
+If possible, it is recommended to call the health care provider or facility first,
+so the patient can be directed to the right clinic.
+People can catch COVID-19 from others who have the virus.
+The disease spreads primarily from person to person through small droplets from the nose or mouth,
+which are expelled when a person with COVID-19 coughs, sneezes, or speaks.
+These droplets are relatively heavy, do not travel far and quickly sink to the ground.
+People can catch COVID-19 if they breathe in these droplets from a person infected with the virus.
+This is why it is important to stay at least 1 meter) away from others.
+These droplets can land on objects and surfaces around the person such as tables, doorknobs and handrails.
+People can become infected by touching these objects or surfaces, then touching their eyes, nose or mouth.
+This is why it is important to wash your hands regularly with soap and water or clean with alcohol-based hand rub.
+Practicing hand and respiratory hygiene is important at ALL times and is the best way to protect others and yourself.
+When possible maintain at least a 1 meter distance between yourself and others.
+This is especially important if you are standing by someone who is coughing or sneezing.
+Since some infected persons may not yet be exhibiting symptoms or their symptoms may be mild,
+maintaining a physical distance with everyone is a good idea if you are in an area where COVID-19 is circulating."""
+prompt = f"""
+You are an expert in generating accurate document summaries.
+Generate a summary of the given document.
+Document:
+{doc}
+Constraints: Please start the summary with the delimiter 'Summary'
+and limit the summary to 5 lines
+Summary:
+"""
+doc = """
+Coronaviruses are a large family of viruses which may cause illness in animals or humans.
+In humans, several coronaviruses are known to cause respiratory infections ranging from the
+common cold to more severe diseases such as Middle East Respiratory Syndrome (MERS) and Severe Acute Respiratory Syndrome (SARS).
+The most recently discovered coronavirus causes coronavirus disease COVID-19.
+COVID-19 is the infectious disease caused by the most recently discovered coronavirus.
+This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 is now a pandemic affecting many countries globally.
+The most common symptoms of COVID-19 are fever, dry cough, and tiredness.
+Other symptoms that are less common and may affect some patients include aches
+and pains, nasal congestion, headache, conjunctivitis, sore throat, diarrhea,
+loss of taste or smell or a rash on skin or discoloration of fingers or toes.
+These symptoms are usually mild and begin gradually.
+Some people become infected but only have very mild symptoms.
+Most people (about 80%) recover from the disease without needing hospital treatment.
+Around 1 out of every 5 people who gets COVID-19 becomes seriously ill and develops difficulty breathing.
+Older people, and those with underlying medical problems like high blood pressure, heart and lung problems,
+diabetes, or cancer, are at higher risk of developing serious illness.
+However, anyone can catch COVID-19 and become seriously ill.
+People of all ages who experience fever and/or  cough associated with difficulty breathing/shortness of breath,
+chest pain/pressure, or loss of speech or movement should seek medical attention immediately.
+If possible, it is recommended to call the health care provider or facility first,
+so the patient can be directed to the right clinic.
+People can catch COVID-19 from others who have the virus.
+The disease spreads primarily from person to person through small droplets from the nose or mouth,
+which are expelled when a person with COVID-19 coughs, sneezes, or speaks.
+These droplets are relatively heavy, do not travel far and quickly sink to the ground.
+People can catch COVID-19 if they breathe in these droplets from a person infected with the virus.
+This is why it is important to stay at least 1 meter) away from others.
+These droplets can land on objects and surfaces around the person such as tables, doorknobs and handrails.
+People can become infected by touching these objects or surfaces, then touching their eyes, nose or mouth.
+This is why it is important to wash your hands regularly with soap and water or clean with alcohol-based hand rub.
+Practicing hand and respiratory hygiene is important at ALL times and is the best way to protect others and yourself.
+When possible maintain at least a 1 meter distance between yourself and others.
+This is especially important if you are standing by someone who is coughing or sneezing.
+Since some infected persons may not yet be exhibiting symptoms or their symptoms may be mild,
+maintaining a physical distance with everyone is a good idea if you are in an area where COVID-19 is circulating."""
+prompt = f"""
+You are an expert in generating accurate document summaries.
+Generate a summary of the given document.
+Document:
+{doc}
+Constraints: Please start the summary with the delimiter 'Summary'
+and limit the summary to 5 lines
+Summary:
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+These are pretty good summaries all around, although personally, I like the summary generated by Llama 3.1 here, which includes some subtle and finer details.
+Task 9: Transformation
+You can use LLMs to take an existing document and transform it into other formats of content and even generate training data for fine-tuning or training models
+fact_sheet_mobile = """
+PRODUCT NAME
+Samsung Galaxy Z Fold4 5G Black
+PRODUCT OVERVIEW
+Stands out. Stands up. Unfolds.
+The Galaxy Z Fold4 does a lot in one hand with its 15.73 cm(6.2-inch) Cover Screen.
+Unfolded, the 19.21 cm(7.6-inch) Main Screen lets you really get into the zone.
+Pushed-back bezels and the Under Display Camera means there's more screen
+and no black dot getting between you and the breathtaking Infinity Flex Display.
+Do more than more with Multi View. Whether toggling between texts or catching up
+on emails, take full advantage of the expansive Main Screen with Multi View.
+PC-like power thanks to Qualcomm Snapdragon 8+ Gen 1 processor in your pocket,
+transforms apps optimized with One UI to give you menus and more in a glance
+New Taskbar for PC-like multitasking. Wipe out tasks in fewer taps. Add
+apps to the Taskbar for quick navigation and bouncing between windows when
+you're in the groove.4 And with App Pair, one tap launches up to three apps,
+all sharing one super-productive screen
+Our toughest Samsung Galaxy foldables ever. From the inside out,
+Galaxy Z Fold4 is made with materials that are not only stunning,
+but stand up to life's bumps and fumbles. The front and rear panels,
+made with exclusive Corning Gorilla Glass Victus+, are ready to resist
+sneaky scrapes and scratches. With our toughest aluminum frame made with
+Armor Aluminum, this is one durable smartphone.
+World’s first water resistant foldable smartphones. Be adventurous, rain
+or shine. You don't have to sweat the forecast when you've got one of the
+world's first water-resistant foldable smartphones.
+
+PRODUCT SPECS
+OS - Android 12.0
+RAM - 12 GB
+Product Dimensions - 15.5 x 13 x 0.6 cm; 263 Grams
+Batteries - 2 Lithium Ion batteries required. (included)
+Item model number - SM-F936BZKDINU_5
+Wireless communication technologies - Cellular
+Connectivity technologies - Bluetooth, Wi-Fi, USB, NFC
+GPS - True
+Special features - Fast Charging Support, Dual SIM, Wireless Charging, Built-In GPS, Water Resistant
+Other display features - Wireless
+Device interface - primary - Touchscreen
+Resolution - 2176x1812
+Other camera features - Rear, Front
+Form factor - Foldable Screen
+Colour - Phantom Black
+Battery Power Rating - 4400
+Whats in the box - SIM Tray Ejector, USB Cable
+Manufacturer - Samsung India pvt Ltd
+Country of Origin - China
+Item Weight - 263 g
+"""
+
+prompt =f"""Turn the following product description
+into a list of frequently asked questions (FAQ).
+Show both the question and its corresponding answer
+Generate at the max 5 but diverse and useful FAQs
+Product description:
+```{fact_sheet_mobile}```
+"""
+fact_sheet_mobile = """
+PRODUCT NAME
+Samsung Galaxy Z Fold4 5G Black
+PRODUCT OVERVIEW
+Stands out. Stands up. Unfolds.
+The Galaxy Z Fold4 does a lot in one hand with its 15.73 cm(6.2-inch) Cover Screen.
+Unfolded, the 19.21 cm(7.6-inch) Main Screen lets you really get into the zone.
+Pushed-back bezels and the Under Display Camera means there's more screen
+and no black dot getting between you and the breathtaking Infinity Flex Display.
+Do more than more with Multi View. Whether toggling between texts or catching up
+on emails, take full advantage of the expansive Main Screen with Multi View.
+PC-like power thanks to Qualcomm Snapdragon 8+ Gen 1 processor in your pocket,
+transforms apps optimized with One UI to give you menus and more in a glance
+New Taskbar for PC-like multitasking. Wipe out tasks in fewer taps. Add
+apps to the Taskbar for quick navigation and bouncing between windows when
+you're in the groove.4 And with App Pair, one tap launches up to three apps,
+all sharing one super-productive screen
+Our toughest Samsung Galaxy foldables ever. From the inside out,
+Galaxy Z Fold4 is made with materials that are not only stunning,
+but stand up to life's bumps and fumbles. The front and rear panels,
+made with exclusive Corning Gorilla Glass Victus+, are ready to resist
+sneaky scrapes and scratches. With our toughest aluminum frame made with
+Armor Aluminum, this is one durable smartphone.
+World’s first water resistant foldable smartphones. Be adventurous, rain
+or shine. You don't have to sweat the forecast when you've got one of the
+world's first water-resistant foldable smartphones.
+
+PRODUCT SPECS
+OS - Android 12.0
+RAM - 12 GB
+Product Dimensions - 15.5 x 13 x 0.6 cm; 263 Grams
+Batteries - 2 Lithium Ion batteries required. (included)
+Item model number - SM-F936BZKDINU_5
+Wireless communication technologies - Cellular
+Connectivity technologies - Bluetooth, Wi-Fi, USB, NFC
+GPS - True
+Special features - Fast Charging Support, Dual SIM, Wireless Charging, Built-In GPS, Water Resistant
+Other display features - Wireless
+Device interface - primary - Touchscreen
+Resolution - 2176x1812
+Other camera features - Rear, Front
+Form factor - Foldable Screen
+Colour - Phantom Black
+Battery Power Rating - 4400
+Whats in the box - SIM Tray Ejector, USB Cable
+Manufacturer - Samsung India pvt Ltd
+Country of Origin - China
+Item Weight - 263 g
+"""
+
+prompt =f"""Turn the following product description
+into a list of frequently asked questions (FAQ).
+Show both the question and its corresponding answer
+Generate at the max 5 but diverse and useful FAQs
+Product description:
+```{fact_sheet_mobile}```
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT
+Both the models do quite a good job here in generating good quality question and answer pairs.
+Task 10: Translation
+You can use LLMs to translate an existing document from a source to a target language and to multiple languages simultaneously. Here, we will try to translate a piece of text into multiple languages and force the LLM to output a valid JSON response.
+prompt = """You are an expert translator.
+Translate the given text from English to German and Spanish.
+Show the output as key value pairs in JSON.
+Output should have all 3 languages.
+Text: 'Hello, how are you today?'
+Translation:
+"""
+prompt = """You are an expert translator.
+Translate the given text from English to German and Spanish.
+Show the output as key value pairs in JSON.
+Output should have all 3 languages.
+Text: 'Hello, how are you today?'
+Translation:
+"""
+response = get_completion_llama(prompt)
+display(Markdown(response))
+response = get_completion_llama(prompt)
+display(Markdown(response))
+OUTPUT
+Finally, we try the same task with the GPT-4o mini
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+response = response = get_completion_gpt(prompt)
+display(Markdown(response))
+OUTPUT:
+Both the models perform the task successfully and generate the output in the specified JSON format.
+The Verdict
+While it is very difficult to say which LLM is better just by looking at a few tasks, considering factors like pricing, latency, multimodality, and quality of results, both LLama 3.1 and GPT-4o mini perform quite well in diverse tasks. Consider using Llama 3.1 if you have a good computing infrastructure to host the model and if data privacy matters to you. If you do not want to host your own models and care less about the privacy of your data, GPT-4o mini is one of the best choices. The advantage of Llama 3.1 is that it is completely open-source, making it a top contender in the debate ofLlama 3.1 vs GPT-4o. and given the really nice ecosystem we have around AI, expect researchers and engineers to release custom versions of Llama 3.1 focusing on specific domains, problems, and industries over time.
+Conclusion
+In this guide, we explored the features and performance of Meta’s Llama 3.1 in depth. We also conducted a detailed comparativeanalysis of how Meta’s Llama 3.1 fares against Open AI’s GPT-4o mini, using ten different tasks! Check out thisColab notebookfor easy access to the code, and try out Llama 3.1; it is one of the most promising models so far! I am eagerly awaiting to explore the multimodal variants of this model once they are released.
+References:
+Head of Community, Principal AI Scientist at Analytics Vidhya, Published Author and AI Advisor with over 10 years of global experience working with Fortune 100 companies, startups and academic organizations
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+GPT-4o mini: Features, Performance and Application
+GPT-4o mini: Features, Performance and Application
+All About OpenAI’s Latest GPT 4.1 Family
+All About OpenAI’s Latest GPT 4.1 Family
+10 Mind-blowing Use Cases of Llama 3
+10 Mind-blowing Use Cases of Llama 3
+This is How Andrej Karpathy Uses LLMs
+This is How Andrej Karpathy Uses LLMs
+GPT-4 vs. Llama 3.1 – Which Model is Better?
+GPT-4 vs. Llama 3.1 – Which Model is Better?
+A Comprehensive Guide to Building Multimodal RA...
+A Comprehensive Guide to Building Multimodal RA...
+Llama 3.3 70B is Here! 25x Cheaper than GPT-4o
+Llama 3.3 70B is Here! 25x Cheaper than GPT-4o
+Llama 4 Models: Meta AI is Open Sourcing the Best
+Llama 4 Models: Meta AI is Open Sourcing the Best
+DeepSeek-V3 vs GPT-4o vs Llama 3.3 70B – ...
+DeepSeek-V3 vs GPT-4o vs Llama 3.3 70B – ...
+Responses From Readers
+Pretty awesome, Dipanjan! Loved the question on 13.8 vs. 13.11. I hope GPT-4o mini had given this explanation instead: version 13.11 is greater than version 13.8 so 13.11 is greater. Hard to imagine what it gave as the output you've shown! Anyway... they're all learning as we're all learning :)
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_eUkv6h8.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_Llama-3.1-02-scaled-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-80.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-1-6710ac77870d0.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-7-6710b795a95ac.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-5-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-79.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-85-6710bdfd5144b.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-6710be2f41a39.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-83.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-1-6710be74e0458.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-2-6710bea840c3a.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-82.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-81-6710bd2249b9d.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-2-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-84.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-7.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-15-6710b79055668.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_07_unnamed-1.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-16-6710b78f67868.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-17-6710b78f2369b.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-18-6710b78e21099.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_unnamed-19-6710b78e0b62e.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_eUkv6h8.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

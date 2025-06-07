@@ -1,0 +1,521 @@
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Environment Setup
+Java - Hello World Program
+Java - Comments
+Java - Basic Syntax
+Java - Variables
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - User Input
+Java - Date & Time
+Java Operators
+Java - Operators
+Java - Arithmetic Operators
+Java - Assignment Operators
+Java - Relational Operators
+Java - Logical Operators
+Java - Bitwise Operators
+Java Operator Precedence & Associativity
+Java Control Statements
+Java - Decision Making
+Java - If Else Statement
+Java - Switch Statement
+Java - Loop Control
+Java - For Loop
+Java - For-Each Loop
+Java - While Loop
+Java - Do While Loop
+Java - Break Statement
+Java - Continue Statement
+Object Oriented Programming
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java - Interfaces
+Java - Packages
+Java - Inner Classes
+Java - Static Class
+Java - Anonymous Class
+Java - Singleton Class
+Java - Wrapper Classes
+Java - Enums
+Java - Enum Constructor
+Java - Enum Strings
+Java Built-in Classes
+Java - Number
+Java - Boolean
+Java - Characters
+Java - Arrays
+Java - Math Class
+Java File Handling
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Error & Exceptions
+Java - Exceptions
+Java - try-catch Block
+Java - try-with-resources
+Java - Multi-catch Block
+Java - Nested try Block
+Java - Finally Block
+Java - throw Exception
+Java - Exception Propagation
+Java - Built-in Exceptions
+Java - Custom Exception
+Java Multithreading
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Synchronization
+Java - Synchronization
+Java - Block Synchronization
+Java - Static Synchronization
+Java - Inter-thread Communication
+Java - Thread Deadlock
+Java - Interrupting a Thread
+Java - Thread Control
+Java - Reentrant Monitor
+Java Networking
+Java - Networking
+Java - Socket Programming
+Java - URL Processing
+Java - URL Class
+Java - URLConnection Class
+Java - HttpURLConnection Class
+Java - Socket Class
+Java - Generics
+Java Collections
+Java - Collections
+Java - Collection Interface
+Java Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java  Data Structures
+Java - Data Structures
+Java - Enumeration
+Java Collections Algorithms
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Advanced Java
+Java - Command-Line Arguments
+Java - Lambda Expressions
+Java - Sending Email
+Java - Applet Basics
+Java - Javadoc Comments
+Java - Autoboxing and Unboxing
+Java - File Mismatch Method
+Java - REPL (JShell)
+Java - Multi-Release Jar Files
+Java - Private Interface Methods
+Java - Inner Class Diamond Operator
+Java - Multiresolution Image API
+Java - Collection Factory Methods
+Java - Module System
+Java - Nashorn JavaScript
+Java - Optional Class
+Java - Method References
+Java - Functional Interfaces
+Java - Default Methods
+Java - Base64 Encode Decode
+Java - Switch Expressions
+Java - Teeing Collectors
+Java - Microbenchmark
+Java - Text Blocks
+Java - Dynamic CDS archive
+Java - Z Garbage Collector (ZGC)
+Java - Null Pointer Exception
+Java - Packaging Tools
+Java - Sealed Classes
+Java - Record Classes
+Java - Hidden Classes
+Java - Pattern Matching
+Java - Compact Number Formatting
+Java - Garbage Collection
+Java - JIT Compiler
+Java Miscellaneous
+Java - Recursion
+Java - Regular Expressions
+Java - Serialization
+Java - Strings
+Java - Process API Improvements
+Java - Stream API Improvements
+Java - Enhanced @Deprecated Annotation
+Java - CompletableFuture API Improvements
+Java - Streams
+Java - Datetime Api
+Java 8 - New Features
+Java 9 - New Features
+Java 10 - New Features
+Java 11 - New Features
+Java 12 - New Features
+Java 13 - New Features
+Java 14 - New Features
+Java 15 - New Features
+Java 16 - New Features
+Java APIs & Frameworks
+JDBC Tutorial
+SWING Tutorial
+AWT Tutorial
+Servlets Tutorial
+JSP Tutorial
+Java Class References
+Java - Scanner
+Java - Arrays
+Java - Strings
+Java - Date
+Java - ArrayList
+Java - Vector
+Java - Stack
+Java - PriorityQueue
+Java - LinkedList
+Java -  ArrayDeque
+Java - HashMap
+Java - LinkedHashMap
+Java - WeakHashMap
+Java - EnumMap
+Java - TreeMap
+Java - IdentityHashMap
+Java - HashSet
+Java - EnumSet
+Java - LinkedHashSet
+Java - TreeSet
+Java - BitSet
+Java - Dictionary
+Java - Hashtable
+Java - Properties
+Java - Collection
+Java - Array
+Java Useful Resources
+Java - Cheatsheet
+Java - Questions and Answers
+Java 8 - Questions and Answers
+Java - Quick Guide
+Java - Useful Resources
+Java - Discussion
+Java - Online Compiler
+Java - Examples
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Java Tutorial
+ThisJava tutorialhas been written for beginners to advanced programmers who are striving to learn Java programming. We have provided numerous practical examples to explain the concepts in simple and easy steps. This tutorial has been prepared and reviewed by experienced Java programmers at Tutorials Point, and the best effort has been put into making it useful for the students and Java developers.
+After completing this tutorial, you will find yourself at a moderate level of expertise in Java programming, from where you can elevate yourself to the next levels.
+What is Java?
+Java is a popular high-level,object-oriented programminglanguage that was originally developed by Sun Microsystems and released in 1995. Currently, Java is owned by Oracle, and more than 3 billion devices run Java. Java runs on a variety of platforms, such asWindows, Mac OS, and the various versions ofUNIX. Today Java is being used to develop numerous types of software applications, including desktop apps, mobile apps, web apps, games, and much more.
+In this tutorial, you will learn everything about Java, starting from basics to advanced concepts such as overview, history, installations, basic input/output, conditional & control statements, arrays, classes, inheritances, method overloading & overriding, exception handling, and many more.
+Java First Example
+The first example in Java is toprint "Hello, World!"on the screen. Let's have a quick look at the first examples in Java programming:
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Getting Started with Java
+Explore the following chapters to get started learning Java programming:
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Hello World Program
+Java - Environment Setup
+Java - Basic Syntax
+Java Basics
+Explore the basic topics such as data types, operators, user input, etc.:
+Java - Variable Types
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - Basic Operators
+Java - Comments
+Java - User Input
+Java - Date & Time
+Java Conditional Statements
+Furthermore, in Java, explore the conditional statements to implement the logic and to make decisions based on the conditions:
+Java - Decision Making
+Java - If-else
+Java - Switch
+Java Loops and Control Statements
+Explore the loops and control statements to learn how to control the execution of the programming logics:
+Java - Loop Control
+Java - For Loops
+Java - For-Each Loops
+Java - While Loops
+Java - do-while Loops
+Java - Break
+Java - Continue
+Java String and Arrays
+Explore the following strings and array-related chapters:
+Java Strings and String Class
+Java - Strings
+Java OOPs
+Explore the following chapters to learn the object-oriented programming approach in Java:
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java Collections and Interfaces
+Explore Java interfaces and collections-related chapters:
+Java - Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Java - Collections
+Java - Collection Interface
+Java Exceptional Handling
+Explore the file handling chapters to learn how to create, write, read, and manipulate the files and directories:
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Multithreading
+Explore the threading-related chapters to learn to manage multiple threads in Java:
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Practices
+Java Quick Guide
+Java Interview Questions
+Java 8 Interview Questions
+Java Online Test
+Java Mock Test
+Java References
+Here, you can find the package, class, and method references −
+Java Scanner Class
+Java Arrays Class
+Java Strings Class
+Java Date Class
+Java ArrayList Class
+Java Vector Class
+Java Stack Class
+Java PriorityQueue Class
+Java LinkedList Class
+Java  ArrayDeque Class
+Java HashMap Class
+Java LinkedHashMap Class
+Java WeakHashMap Class
+Java EnumMap Class
+Java TreeMap Class
+Java IdentityHashMap Class
+Java HashSet Class
+Java EnumSet Class
+Java LinkedHashSet Class
+Java TreeSet Class
+Java BitSet Class
+Java Dictionary Class
+Java Hashtable Class
+Java Properties Class
+Java Collection Class
+Java Array Class
+Online Java Compiler
+Our Java programming tutorial provides various examples to explain the concepts. To compile and execute the given Java programming examples in your browser itself, we have providedOnline Java Compiler. You can edit and run almost all the examples directly from your browser without the need to set up your development environment.
+Try to click the iconto run the following Java code to print conventional "Hello, World!" using Java Programming.
+Below code box allows you to change the value of the code. So, please try to change the value insideprintln()and run it again to verify the result.
+public class MyFirstJavaProgram {
+
+   /* This is my first java program.
+    * This will print 'Hello, World!' as the output
+    */
+
+   public static void main(String []args) {
+      System.out.println("Hello, World!"); // prints Hello, World!
+   }
+}
+Java Features
+Java is a feature-rich language. Java is evolving continuously with every update, and updates are coming every six months. Following are some of the main features of the Java language:
+Object Oriented: Java is a pure object-oriented language, and everything in Java is an object. Java supports OOPS principles likeInheritance,Encapsulation,Polymorphism, Classes	, and so on. Java itself can be extended as well, being based on an object model.
+Platform Independent: Java code is platform independent. A Java code is not compiled into machine-specific code; it is compiled into a platform-neutral byte code. This byte code is executed byJVMwhich runs the code on the underlying platform. This capability makes Java a Write Once Run Anywhere language.
+Easy To Learn: Java inherits features from C and C++, and developers can easily learn Java if they know any of the C or C++ languages. Even for someone new to computer languages, Java is very easy to learn from scratch.
+Secure: Java is secure by architecture. A developer is not required to directly interact with the underlying memory or operating system. Java provides automatic garbage collection, so developers are not required to worry about memory leaks, management, etc.
+Architectural-Neutral: Java byte code can be executed on any kind of processor. JRE automatically handles the code execution on different types of processors.
+Portable: A Java code written on a Windows machine can be executed without any code change on MacOS and vice versa. There is no need to make any operating system-specific code changes.
+Robust: Java is a very robust language with very strong compile-time error checks, strict type checking, and runtime exception handling.
+Multithreading: Java provides inbuilt support for multiprocessing and multithreading. Java provides thread handling, monitors, deadlock handling, racing conditions, etc.
+High Performance: Java, although being interpreted, is still very performant. TheJIT(Just In Time) compilerhelps in improving performance.
+Distributed: Java is designed for distributed systems and is the most popular language for developing internet-based applications as the internet is a distributed environment.
+Java Applications
+Since Java supports object-oriented features and is platform-independent, it is extensively used in various fields. Listed below are a few areas where Java is used -
+Enterprise solutions
+Game development
+Secured web development
+Embedded systems
+Mobile application development
+Big Data Applications, and many more.
+Java Platforms (Editions)
+Platforms of Java are divided into four Java editions, which are −
+Java SE (Java Standard Edition): It is a standard edition that is used to develop and deploy portable code for desktop and server environments.
+Java EE (Java Enterprise Edition): It is an enterprise edition that is used to develop web applications.
+Java ME (Java Micro Edition): J2ME is used to develop mobile applications; it is a micro edition of Java.
+JavaFx:It is used to develop lightweight user interfaces for rich internet applications.
+Java Jobs & Opportunities
+Java is very in demand, and all the major companies are recruiting Java programmers to develop their desktop, web, and mobile applications.
+Today, a Java programmer with 3-5 years of experience is asking for around $120,000 in an in an annual package, and this is the most demanding programming language in America. Though it can vary depending on the location of the job. Following are the great companies that are using Java and they need good Java programmers:
+Google
+Microsoft
+Facebook
+IBM
+Amazon
+Netflix
+Pinterest
+Uber
+JetBrains
+Many more...
+So, you could be the next potential employee for any of these major companies. We have developed great learning material for Java that will help you prepare for the technical interviews and certification exams based on Java. So, start learning Java using this simple and effective tutorial from anywhere and anytime, absolutely at your pace.
+Why to Learn Java?
+Java is a MUST to learn programming language for students and working professionals to become a great software engineer, especially when they are working in the software development domain. If you will conduct a survey about the best programming language around, Java is sure to come up.
+Java is a fairly easy programming language to learn, so if you are starting to learn any programming language, then Java could be your great choice. There's also plenty of Java tools that make it easy for developers and beginners to use. There are many other good reasons that make Java the first choice of any programmer:
+Java is open source, which means it's available free of cost.
+Java is simple and so easy to learn.
+Java is much in demand and ensures a high salary.
+Java has a large, vibrant community.
+Java has powerful development tools.
+Java is platform-independent.
+Who should Learn Java
+ThisJava tutorialwill help both students as well as working professionals who want to develop applications using Java technologies like banking systems, support systems, information systems, websites, mobile apps, personal blogs, etc. We recommend reading this tutorial in the sequence listed in the left-side menu.
+Today, Java is one of the most demanding programming languages, and so it has become an essential language to learn for anyone involved in the software application development process, including software developers, software designers, project managers, etc.
+Prerequisites to Learn Java
+Though we have tried our best to present the Core Java concepts in a simple and easy way, still, before you start learning Java, it is assumed that the readers have a reasonable exposure to any programming environment and knowledge of basic concepts such as variables, commands, syntax, etc.
+Learn Java by Examples
+This tutorial provides a set of Java examples. Practice these examples to learn the Java concepts better:Java Examples
+Java Online Quizzes
+This Java tutorial helps you prepare for technical interviews and certification exams. We have provided various quizzes and assignments to check your learning level. Given quizzes have multiple-choice types of questions and their answers with short explanations.
+Following is a sample quiz; try to attempt any of the given answers:
+Q 1- The Java programming language was developed by which of the following :
+A- Google in 1990s
+B- Micorsoft in 1980s
+C- Sun Microsystems in 1995
+D- None of the Above
+Answer : C
+Explanation
+Java was developed by James Gosling at Sun Microsystems and it was released in May 1995 as a core component of Sun Microsystems' Java platform.
+Start your online quizStart Java Quiz.
+Download Java
+Java's latest version can be downloaded from Oracle's official website:Java Downloads
+Java Certification
+Get certified in Java to boost your skills and career
+Frequently Asked Questions about Java Tutorial
+There are some important frequently asked questions (FAQs) about Java Programming tutorial, this section lists them down along with their answers briefly - −
+1. What are the 4 important concepts in Java?
+2. What are the benefits of Java?
+Java is free and open source
+Java is community driven and has expert leadership
+Java is fast and high-performance
+Java is easy to learn
+Java is statically typed
+Java is object-oriented
+Java supports functional programming
+3. How much time will it take to learn Java?
+4. Why is Java a so popular programming language?
+5. What are the advantages of Java over Python?
+6. How do I start learning Java?
+Here is the summarized list of tips that you can follow to start learning Java:
+First and most important is to make your mind to learn Java.
+Install Java Virtual Machine and Java Compilers on your computer system.
+Follow our tutorial step by step, starting from the very beginning.
+Read more articles, watch online courses, or buy a book on Java to enhance your knowledge in Java.
+Try to develop small software using Java and other technologies like MySQL if you want to make use of a database.
+7. What are Java Technologies for Web Applications?
+Java provides the following technologies to help web development:
+Java Servlet API.
+JavaServer Pages Standard Tag Library.
+JavaServer Faces Technology.
+Java Message Service API.
+JDBC API.
+Java Persistence API.
+Java Naming and Directory Interface.
+NetBeans IDE.
+8. Which is the best place to learn Java?
+
+[Images saved with this article:]
+www.tutorialspoint.com_java_images_java-mini-logo.jpg
+www.tutorialspoint.com_java_images_java_programming.jpg
+www.tutorialspoint.com_images_run-button.png

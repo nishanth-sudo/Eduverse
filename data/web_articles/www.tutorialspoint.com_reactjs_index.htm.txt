@@ -1,0 +1,214 @@
+ReactJS - Home
+ReactJS - Introduction
+ReactJS - Roadmap
+ReactJS - Installation
+ReactJS - Features
+ReactJS - Advantages & Disadvantages
+ReactJS - Architecture
+ReactJS - Creating a React Application
+ReactJS - JSX
+ReactJS - Components
+ReactJS - Nested Components
+ReactJS - Using Newly Created Components
+ReactJS - Component Collection
+ReactJS - Styling
+ReactJS - Properties (props)
+ReactJS - Creating Components using Properties
+ReactJS - props Validation
+ReactJS - Constructor
+ReactJS - Component Life Cycle
+ReactJS - Event management
+ReactJS - Creating an Event−Aware Component
+ReactJS - Introduce Events in Expense Manager APP
+ReactJS - State Management
+ReactJS - State Management API
+ReactJS - Stateless Component
+ReactJS - State Management Using React Hooks
+ReactJS - Component Life Cycle Using React Hooks
+ReactJS - Layout Component
+ReactJS - Pagination
+ReactJS - Material UI
+ReactJS - Http client programming
+ReactJS - Form Programming
+ReactJS - Controlled Component
+ReactJS - Uncontrolled Component
+ReactJS - Formik
+ReactJS - Conditional Rendering
+ReactJS - Lists
+ReactJS - Keys
+ReactJS - Routing
+ReactJS - Redux
+ReactJS - Animation
+ReactJS - Bootstrap
+ReactJS - Map
+ReactJS - Table
+ReactJS - Managing State Using Flux
+ReactJS - Testing
+ReactJS - CLI Commands
+ReactJS - Building and Deployment
+ReactJS - Example
+Hooks
+ReactJS - Introduction to Hooks
+ReactJS - Using useState
+ReactJS - Using useEffect
+ReactJS - Using useContext
+ReactJS - Using useRef
+ReactJS - Using useReducer
+ReactJS - Using useCallback
+ReactJS - Using useMemo
+ReactJS - Custom Hooks
+ReactJS Advanced
+ReactJS - Accessibility
+ReactJS - Code Splitting
+ReactJS - Context
+ReactJS - Error Boundaries
+ReactJS - Forwarding Refs
+ReactJS - Fragments
+ReactJS - Higher Order Components
+ReactJS - Integrating With Other Libraries
+ReactJS - Optimizing Performance
+ReactJS - Profiler API
+ReactJS - Portals
+ReactJS - React Without ES6 ECMAScript
+ReactJS - React Without JSX
+ReactJS - Reconciliation
+ReactJS - Refs and the DOM
+ReactJS - Render Props
+ReactJS - Static Type Checking
+ReactJS - Strict Mode
+ReactJS - Web Components
+Additional Concepts
+ReactJS - Date Picker
+ReactJS - Helmet
+ReactJS - Inline Style
+ReactJS - PropTypes
+ReactJS - BrowserRouter
+ReactJS - DOM
+ReactJS - Carousel
+ReactJS - Icons
+ReactJS - Form Components
+ReactJS - Reference API
+ReactJS Useful Resources
+ReactJS - Quick Guide
+ReactJS Cheatsheet
+Axios CheatSheet
+ReactJS - Useful Resources
+ReactJS - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+ReactJS Tutorial
+What is ReactJS?
+Who should learn ReactJS?
+Why Learn ReactJS?
+ReactJS Example Code
+Features of ReactJS
+Prerequisites to Learn ReactJS
+Getting Started with ReactJS
+ReactJS Jobs and Salary
+Frequently Asked Questions on ReactJS
+This ReactJS tutorial includes all of the most recent updates up to version 18.2.0 and covers every topic, from fundamental to advanced. React is the most recommended JavScript library to learn now because of its core foundation of features and large community.
+What is ReactJS?
+ReactJS is an open-source JavaScript library for building dynamic and interactive user interfaces(UIs). React is developed and released byFacebook. Facebook is continuously working on the React library and enhancing it by fixing bugs and introducing new features.
+Who should learn ReactJS?
+This tutorial is prepared for beginners to working professionals who are aspiring to make a career in the field of developing front-end web applications. This tutorial is intended to make you comfortable in getting started with the React concepts with examples.
+Why Learn ReactJS?
+There are several reasons to learn ReactJS, as per the demand in the development industry of React developers and features React has to offer that can not be replaced by other frameworks or libraries.
+Ease of Use:ReactJS does not require writing lengthy codes as it supports the Components concept so a small amount of code can be created and can be used in multiple places.
+Multiple Module Support:There are so many modules in ReactJS that can be used to make your development more scalable, and manageable at a fast pace.
+Multiple Apps Development:By using React knowledge we can create Web Pages, Web Apps, Mobile Apps, and VR Apps. There are a lot of websites that are using ReactJS like Airbnb, Cloudflare, Facebook, Instagram, etc.
+Easy Migration:Because of its easy learning curve migration from other technologies became so easy. There are tons of resources to learn ReactJS from basics to advanced.
+Large Community:ReactJS has one of the largest communities to help you when you are in trouble debugging your codes or get stuck learning new things.
+ReactJS Example Code
+As this is sample code without the environment setup this code will not work to set up the ReactJS environment checkReactJS Installationarticle.
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+function Greeting(props) {
+return <h1>Welcome to TutorialsPoint</h1>;
+}
+
+const container = document.getElementById("root");
+const root = ReactDOM.createRoot(container);
+root.render(<Greeting />);
+Features of ReactJS
+ReactJS plays an essential role in the front-end ecosystem. There are so many important features of ReactJS as it is the most demanding library for front-end development.
+Virtual DOM:Virtual DOM is a special kind of DOM that is used in ReactJS. Virtual DOM represents the real DOM of the current HTML document. Whenever there is a change in the HTML document, React checks the updated virtual DOM with the previous state of the Virtual DOM and updates only the difference in th actual/real DOM.
+Reusable Components:Components need to be written a single time and can be used multiple times by just calling that component where we require that component.
+One-Way Data Binding:One-way data binding prevents the data in a component from flowing backward. A component can pass the data to its child component only. This will simplify the data handling and reduce the complexity.
+To know more about the features of ReactJS please checkReactJS Featuresarticle.
+Prerequisites to Learn ReactJS
+Before proceeding with this tutorial, we assume that the readers have the basic knowledge inHTML,CSSandJavaScriptconcepts.
+Getting Started with ReactJS
+To get started with ReactJS we need to clear our fundamentals first before proceeding into complex topics. We will recommend you to code along with each article you read this will help you to understand the concepts. If you can create a project along with your learning that will be more helpful.
+Basics of ReactJS
+ReactJS Introduction
+ReactJS Installation
+ReactJS Features
+ReactJS Architecture
+ReactJS JSX
+ReactJS Application
+ReactJS Fragments
+ReactJS Conditional Rendering
+ReactJS CLI Commands
+ReactJS Components
+Componentis the heart of ReactJS, it is the building block of a React application. A React component represents a small chunk of user interface in a webpage.
+Components
+ReactJS - Use Component
+ReactJS Nested Components
+ReactJS Component Collection
+ReactJS Component Using Properties
+ReactJS Component Life Cycle
+ReactJS Event-Aware Component
+ReactJS Stateless Component
+ReactJS Layout Component
+ReactJS States
+State represents the value of the dynamic properties of a React component at a given instance. React provides a dynamic data store for each component.
+ReactJS State Management
+ReactJS State Management API
+ReactJS State Management through Hooks
+ReactJS Hooks
+Hooks are plain JavaScript functions having access to state and lifecycle events of the component in which it is used. In general, hooks start with the use keyword.
+ReactJS Introduction to Hooks
+ReactJS useState Hook
+ReactJS useEffect Hook
+ReactJS useContext Hook
+ReactJS useRef Hook
+ReactJS useReducer Hook
+ReactJS useCallback Hook
+ReactJS useMemo Hook
+ReactJS Custom Hooks
+ReactJS Props
+Props are used to pass data between components. In real-world projects we need the components to interact with each other which is not possible with the states as it is private to that particular component.
+ReactJS Props
+ReactJS Props Validation
+Other Important Topics of ReactJS
+There are a few more things that you need to know about ReactJS as it is updating itself at a fast pace so you have to keep up with the new features as well. You can check our recently ReactJS published articles on thislink. These articles are not part of our tutorial.
+ReactJS Pagination
+ReactJS Lists
+ReactJS Keys
+ReactJS Router
+ReactJS Redux
+ReactJS Animation
+ReactJS Jobs and Salary
+ReactJS is popular front-end library in these days. There are a lot compnaies that hire ReactJS developers like facebook, instagram, airbnb, etc.
+ReactJS Developer - Salary ranges in between  1.5 Lakhs to  16.0 Lakhs with an average annual salary of  7.3 Lakhs
+Frequently Asked Questions on ReactJS
+It is a front-end focused JavaScript library mainly used to build single or multi-page web application interfaces.
+There is no difference between ReactJS and React both are the same.
+React's data flow is much easier than Angular, as it follows one-way data binding as well React also provides some exceptional features that no libraries provide. Because of that, the community of React is larger, so you can get help immediately.
+As we said at the beginning of this article, this course is for beginners as well as for advanced.
+React.js Articles
+You can explore a set of React.js articles atReact.js Articles.
+
+[Images saved with this article:]
+www.tutorialspoint.com_reactjs_images_reactjs-mini-logo.jpg
+www.tutorialspoint.com_reactjs_images_reactjs.jpg

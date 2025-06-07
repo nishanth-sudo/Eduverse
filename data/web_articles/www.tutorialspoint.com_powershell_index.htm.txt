@@ -1,0 +1,46 @@
+PowerShell - Home
+PowerShell - Overview
+PowerShell - Environment Setup
+PowerShell - Cmdlets
+PowerShell - Files and Folders
+PowerShell - Dates and Timers
+PowerShell - Files I/O
+PowerShell - Advanced Cmdlets
+PowerShell - Scripting
+PowerShell - Special Variables
+PowerShell - Operators
+PowerShell - Looping
+PowerShell - Conditions
+PowerShell - Array
+PowerShell - Hashtables
+PowerShell - Regex
+PowerShell - Backtick
+PowerShell - Brackets
+PowerShell - Alias
+PowerShell Useful Resources
+PowerShell - Quick Guide
+PowerShell - Useful Resources
+PowerShell - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Powershell Tutorial
+Windows PowerShell is acommand-line shellandscripting languagedesigned especially for system administration. Its analogue in Linux is called as Bash Scripting. Built on the .NET Framework, Windows PowerShell helps IT professionals to control and automate the administration of the Windows operating system and applications that run on Windows Server environment.
+Windows PowerShell commands, calledcmdlets, let you manage the computers from the command line. Windows PowerShell providers let you access data stores, such as the Registry and Certificate Store, as easily as you access the file system.
+In addition, Windows PowerShell has a rich expression parser and a fully developed scripting language. So in simple words you can complete all the tasks that you do with GUI and much more.
+Audience
+This tutorial has been designed for all those readers who want to learn the features of Windows Server 2012. It is especially going to be useful for all those professionals who are required to install and use this operating system to perform various duties in their respective organizations.
+Prerequisites
+We assume the readers of this tutorial have a practical experience of handling a Windows based Servers. In addition, it is going to help if the readers have a basic knowledge of how to install and use an operating system.
+
+[Images saved with this article:]
+www.tutorialspoint.com_powershell_images_powershell-mini-logo.jpg
+www.tutorialspoint.com_powershell_images_powershell.jpg

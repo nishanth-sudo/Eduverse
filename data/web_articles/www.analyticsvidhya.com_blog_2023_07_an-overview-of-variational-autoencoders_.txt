@@ -1,0 +1,421 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+What is Variational Autoencoders?
+A Variational Autoencoder (VAE) is a deep learning model that generates new data by learning a probabilistic representation of input data. Unlike standard autoencoders, VAEs encode inputs into a latent space as probability distributions (mean and variance) rather than fixed points. The encoder compresses data into this space, while the decoder reconstructs it by sampling from the distribution. VAEs include a regularization term to ensure smooth, structured latent space, enabling realistic data generation. Used in image synthesis, anomaly detection, and data compression, VAEs excel in unsupervised learning by producing diverse, high-quality outputs from learned data distributions. In this article you will get to know all about the Variational Autoencoders and how it can be used.
+This article was published as a part of theData Science Blogathon.
+Table of contents
+What is a Variational Autoencoder?
+The Architecture of Variational Autoencoder
+Intuitions About the Regularization
+Mathematical Details of VAEs
+Neural Networks in the Model
+Variational Autoencoder Execution
+Visualization of Latent Space
+How VAEs could be used in the Future?Personalized medicineNew materialsCreative AIScientific research
+Personalized medicine
+New materials
+Creative AI
+Scientific research
+Conclusion
+Frequently Asked Questions
+What is a Variational Autoencoder?
+Variational Autoencoders (VAEs)are a type ofartificial neural networkarchitecture that combines the power of autoencoders with probabilistic methods. They are used for generative modeling, meaning they can generate new data samples similar to the training data.
+The Architecture of Variational Autoencoder
+A VAE typically has two major components: An encoder connection and a decoder connection. An encoder network transforms The input data into a low-dimensional secret space, often called a “secret code”.
+Variousneural networktopologies, such as fully connected or convolutional neural networks, can be investigated for implementing encoder networks. The architecture chosen is based on the characteristics of the data. The encoder network produces essential parameters, such as the mean and variance of a Gaussian distribution, necessary for sampling and generating the latent code.
+Similarly, researchers can construct the decoder network using various types of neural networks, and its objective is to reconstruct the original data from the provided latent code.
+Example of VAE architecture: fen
+A VAE comprises an encoder network that maps input data to a latent code and a decoder network that conducts the inverse operation by translating the latent code back to the reconstruction data. By undergoing this training process, the VAE learns an optimized latent representation that captures the fundamental characteristics of the data, enabling precise reconstruction.
+Intuitions About the Regularization
+In addition to the architectural aspects, researchers apply regularization to the latent code, making it a vital element of VAEs. This regularization preventsoverfittingby encouraging a smooth distribution of the latent code rather than simply memorizing the training data.
+The regularization not only aids in generating new data samples that interpolate smoothly between training data points but also contributes to the VAE’s ability to generate novel data resembling the training data. Moreover, this regularization prevents the decoder network from perfectly reconstructing the input data, promoting the learning of a more general data representation that enhances the VAE’s capacity for generating diverse data samples.
+Mathematically, in VAEs, researchers express the regularization by incorporating a Kullback-Leibler (KL) divergence term into the loss function. The encoder network generates parameters (e.g., mean and log-variance) of a Gaussian distribution for sampling the latent code. The loss function of a VAE includes the calculation of the KL divergence between the distribution of the learned latent variables and a prior distribution, normal distribution. Researchers incorporate the KL divergence term to encourage the latent variables to possess distributions similar to the prior distribution.
+Here is the formula for KL divergence:
+KL(q(z∣x)∣∣p(z)) = E[log q(z∣x) − log p(z)]In summary, the regularization incorporated in VAEs plays a crucial role in enhancing the model’s capacity to generate fresh data samples while mitigating the risk of overfitting the training data.Mathematical Details of VAEsProbabilistic Framework and AssumptionsThe probabilistic framework of a VAE can be outlined as follows:Latent VariablesThe inclusion of keywords such as “latent distribution,” “latent variable z,” “deep generative models,” and “random variable” is pivotal in facilitating their incorporation within a model structured around a simpler (usually exponential) conditional distribution pertaining to the observable variable. This setup revolves around a probability distribution involving two variables: p(x, z). While the variable x is readily observable in the dataset being analyzed, the variable z remains concealed. The overall probability distribution can be expressed as p(x, z) = p(x|z)p(z).Observed VariablesWe have an observed variable x, which is assumed to follow a likelihood distribution p(x|z) (for example, a Bernoulli distribution).Likelihood DistributionL(x, z) is a function that depends on two variables. If we set the value of x, the likelihood function can be understood as a distribution representing the probability distribution of z for that particular fixed x. However, if we set the value of z, the likelihood function should not be regarded as a distribution for x. In most cases, it does not adhere to the characteristics of a distribution, such as summing up to 1. Nevertheless, certain scenarios exist where the likelihood function can formally meet the distribution criteria and satisfy the requirement of summing to 1.The combined distribution of the latent and observable variables is:p(x, z) = p(x|z) * p(z)This is known as ajoint probability distribution, which represents the probability distribution formultiple random variables.Themain objective of a Variational Autoencoder (VAE)is to learn thetrue posterior distributionof the latent variables:p(z|x)A VAE achieves this by using anencoder networkto approximate the true posterior with a learned distribution:q(z|x)Posterior DistributionIn Bayesian statistics, a posterior probability refers to the adjusted or updated probability of an event happening in light of newly acquired information. Update the prior probability by applying Bayes’ theorem to calculate the posterior probability.The Variational Autoencoder (VAE) learns model parameters by maximizing the Evidence Lower Bound (ELBO):ELBO = E[log(p(x|z))] – KL(q(z|x) || p(z))The ELBO consists oftwo main components:Reconstruction term:E[log(p(x|z))]Measures how well the VAE canreconstruct the input datafrom the latent representation.KL divergence term:KL(q(z|x) || p(z))Quantifies how much the learned posteriorq(z|x)deviates from the priorp(z).Using a probabilistic framework, VAEs generate data by assuming that the input originates from a latent space governed by specific probability distributions.The key goal is to learn the true posterior distribution by maximizing the likelihood of the observed input data.Variational Inference FormulationThe formulation of Variational Inference in a VAE is as follows:Approximate posterior distribution:We have an approximation of the posterior distribution q(z|x).True posterior distribution:We have the true posterior distribution p(z|x).The aim is to find a similar distribution (q(z|x)) that approximates the true distribution (p(z|x)) as closely as possible, using the KL divergence method.The KL variance equation compares two probability distributions,q(z|x) and p(z|x), to measure their differences.During VAE training, we try to minimize the KL divergence by increasing the evidence of lower boundary (ELBO), a combination of the reconstruction term and the KL divergence. The reconstruction term assesses the model’s ability to reconstruct input data, while the KL divergence measures the difference between the approximate and actual distributions.Neural Networks in the ModelNeural networks are commonly used to implement VAEs, where both the encoder and decoder components are implemented as neural networks. During the training process, the VAE adjusts the parameters of the encoder and decoder networks to minimize two key components: the reconstruction error and theKL divergencebetween the variational distribution and the true posterior distribution. This optimization task is often accomplished using techniques like stochastic gradient descent or other suitable optimization algorithms.Variational Autoencoder ExecutionBefore getting into the configuration of a Variational Autoencoder (VAE), it is critical first to understand the fundamental concepts. While VAE implementation can be intricate, we can simplify learning by following a logical and coherent structure.Our approach will involve gradually introducing the fundamental concepts and progressively delving into implementation details. We will adopt a hands-on approach to enhance comprehension and provide illustrative examples throughout the learning journey.Data PreparationThe provided code includes loading the MNIST dataset, a widely utilized dataset formachine learningand computer vision tasks. This dataset comprises 60,000 grayscale images of handwritten digits (0-9), each with a size of 28×28 pixels, along with their corresponding labels indicating the digit represented in each image. This allows us to link the images with their respective categories or names. To prepare the input data for training, the code applies normalization by dividing all pixel values ​​by 255. Furthermore, we reshape the input data to incorporate a batch dimension. This preprocessing step ensures that you format the data properly for model training.import tensorflow as tf
+import numpy as np
+
+(x_train, y_train)
+,(x_test, y_test) =
+tf.keras.datasets.mnist.load_data()
+
+# Normalize the input data
+x_train = x_train / 255.
+# Reshape the input data to have an additional batch dimension
+x_train = x_train.reshape((-1, 28*28))
+x_test = x_test.reshape((-1, 28*28))Model DefinitionIn the VAE model, we have an encoder and a decoder that work together. The encoder maps the input image to the latent space using two dense layers with a ReLU activation function. On the other hand, the decoder takes the latent vector as input and reconstructs the original image using two dense layers.input_dim = 28*28
+hidden_dim = 512
+latent_dim = 128Encoder Architectureencoder_input = tf.keras.Input(shape=(input_dim,))
+encoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(encoder_input)
+latent = tf.keras.layers.Dense(latent_dim)(encoder_hidden)
+encoder = tf.keras.Model(encoder_input, latent)Decoder Architecturedecoder_input = tf.keras.Input(shape=(latent_dim,))
+decoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(decoder_input)
+decoder_output = tf.keras.layers.Dense(input_dim)(decoder_hidden)
+decoder = tf.keras.Model(decoder_input, decoder_output)VAE Architectureinputs = tf.keras.Input(shape=(input_dim,))
+latent = encoder(inputs)
+outputs = decoder(latent)
+vae = tf.keras.Model(inputs, outputs)Training the ModelTo train the VAE, we utilize the Adam optimizer and the binarycross-entropy loss function. The training is performed in mini-batches, where the loss is calculated, and gradients are backpropagated for each image. Repeat this process.loss_fn = tf.keras.losses.BinaryCrossentropy()
+optimizer = tf.keras.optimizers.Adam()
+
+num_epochs = 50
+for epoch in range(num_epochs):
+    for x in x_train:
+     
+        x = x[tf.newaxis, ...]
+        
+        with tf.GradientTape() as tape:
+        
+            reconstructed = vae(x)
+            
+           
+            loss = loss_fn(x, reconstructed)
+            
+       
+        grads = tape.gradient(loss, vae.trainable_variables)
+        optimizer.apply_gradients(zip(grads, vae.trainable_variables))
+        
+    print(f'Epoch {epoch+1}/{num_epochs}, Loss: {loss.numpy():.4f}')Output:Epoch 1: Loss - 0.3559
+Epoch 2: Loss - 0.3550
+.
+.
+.Generate SamplesIn this updated code, we redefine the latent_samples variable with a shape of (5, latent_dim), allowing it to generate five random samples instead of 10. We also modified the for loop to iterate five times, displaying five generated samples instead of 10. Additionally, we adjust the subplot function to arrange the generated samples in a grid with one row and five columns.# Generate samples
+latent_samples = tf.random.normal(shape=(5, latent_dim))
+generated_samples = decoder(latent_samples)
+
+# Plot the generated samples
+import matplotlib.pyplot as plt
+
+for i in range(5):
+    plt.subplot(1, 5, i+1)
+    plt.imshow(generated_samples[i].numpy().reshape(28, 28), cmap='gray')
+    plt.axis('off')
+    
+plt.show()output:When you run this code, it will generate a figure showcasing five images that resemble the ones from the MNIST test set. The system will display these photographs in a grid arrangement featuring one row and five columns. The system will showcase them in grayscale, using the ‘grey’ color map, without axes.Visualization of Latent SpaceTo gain insights into the latent space of a VAE, you can follow these steps:Utilize the VAE to encode the training data points, projecting them into the latent space.Employ a dimensionality reduction technique like t-SNE to map the high-dimensional latent space onto a 2D space suitable for visualization.Plot the data points in the 2D space, allowing for a visual exploration of the latent space.By following this process, you can effectively visualize and comprehend the underlying structure and distribution of the latent space in the VAE.import tensorflow as tf
+from sklearn.manifold import TSNE
+
+
+latent_vectors = encoder(x_train).numpy()
+
+
+latent_2d = TSNE(n_components=2).fit_transform(latent_vectors)
+
+# Ploting latent space
+plt.scatter(latent_2d[:, 0], latent_2d[:, 1], c=y_train, cmap='viridis')
+plt.colorbar()
+plt.show()output:Gaining insights into the structure and organization of the data trained on a Variational Autoencoder (VAE) by visualizing its latent space. This visualization technique offers a valuable means of comprehending the underlying patterns and relationships within the data.How VAEs could be used in the Future?Here are some points that will tell you about the how you can used VAEs:Personalized medicineVAEs could be used to develop personalized medical treatments for patients based on their individual genetic makeup and medical history. For example, it could be used to design new drugs that are more effective and have fewer side effects.New materialsVAEs could be used to design new materials with unique properties, such as stronger and lighter materials for aircraft or more efficient solar cells. For example, it could be used to design new materials that can withstand extreme temperatures or pressures.Creative AIVAEs could be used to create new forms of art and entertainment, such as realistic images, videos, or music that is tailored to a user’s individual preferences. For example, it could be used to create new video games or movies that are more immersive and engaging.Scientific researchVAEs could be used to generate new scientific data for research purposes. For example, it could be used to generate new images of galaxies or proteins or to create new simulations of physical systems.ConclusionA variationalautoencoder(VAE) is an enhanced form of an autoencoder that incorporates regularization techniques to mitigate overfitting and ensure desirable properties in the latent space for effective generative processes. Functioning as a generative system, VAEs share a similar objective with generative adversarial networks. Like a conventional autoencoder, a VAE comprises an encoder and a decoder. Its training aims to minimize the reconstruction error between the encoded-decoded data and the original input.Hope you like this article and know you get clearance about the topics  variational autoencoders, variational autoencoders in deep learning, vae architecture, and about he vae models.As what you get in the article given down the key takeways.Key TakeawaysVariational autoencoders (VAEs) can learn to reconstruct and generate new samples from a provided dataset.By utilizing a latent space, VAEs can represent data continuously and smoothly, facilitating the generation of variations of the input data with smooth transitions.The architecture of a VAE consists of an encoder network that maps the input data to the latent space, a decoder network responsible for reconstructing the data from the latent space, and a loss function that combines a reconstruction loss and a regularization term.VAEs have demonstrated their utility in image generation, anomaly detection, and semi-supervised learning tasks.Frequently Asked QuestionsQ1. What exactly is a variational autoencoder?A. Variational autoencoders (VAEs) are probabilistic generative models with different components, including neural networks called encoders and decoders. The encoder network handles the first part, and the decoder network handles the second part.Q2. What are the advantages of VAEs?A. One of the main benefits of VAEs is their ability to generate new data samples that closely resemble the training data. Achieve this through a continuous latent space, enabling the decoder to produce new data points that smoothly interpolate between the existing training data points.Q3. What is the most crucial drawback of VAEs?A. A notable limitation of variational autoencoders is their tendency to produce blurry and unrealistic outputs. This issue arises from their approach to recovering data distributions and calculating loss functions.Q4. Which is better, GAN or VAE?A. GANs produce highly realistic images but can be challenging to train and work with. On the other hand, VAEs are generally easier to train but may not always achieve the same level of image quality as GANs.ANURAG SINGH CHOUDHARYPassionate Machine learning professional and data-driven analyst with the ability to apply ML techniques and various algorithms to solve real-world business problems. I have always been fascinated by Mathematics and Numbers. Over the past few months, I have dedicated a considerable amount of time and effort to Machine Learning Studies.AutoencoderComputer VisionIntermediateMachine LearningProbability
+In summary, the regularization incorporated in VAEs plays a crucial role in enhancing the model’s capacity to generate fresh data samples while mitigating the risk of overfitting the training data.
+Mathematical Details of VAEs
+Probabilistic Framework and Assumptions
+The probabilistic framework of a VAE can be outlined as follows:
+Latent Variables
+The inclusion of keywords such as “latent distribution,” “latent variable z,” “deep generative models,” and “random variable” is pivotal in facilitating their incorporation within a model structured around a simpler (usually exponential) conditional distribution pertaining to the observable variable. This setup revolves around a probability distribution involving two variables: p(x, z). While the variable x is readily observable in the dataset being analyzed, the variable z remains concealed. The overall probability distribution can be expressed as p(x, z) = p(x|z)p(z).
+Observed Variables
+We have an observed variable x, which is assumed to follow a likelihood distribution p(x|z) (for example, a Bernoulli distribution).
+Likelihood Distribution
+L(x, z) is a function that depends on two variables. If we set the value of x, the likelihood function can be understood as a distribution representing the probability distribution of z for that particular fixed x. However, if we set the value of z, the likelihood function should not be regarded as a distribution for x. In most cases, it does not adhere to the characteristics of a distribution, such as summing up to 1. Nevertheless, certain scenarios exist where the likelihood function can formally meet the distribution criteria and satisfy the requirement of summing to 1.
+The combined distribution of the latent and observable variables is:p(x, z) = p(x|z) * p(z)
+This is known as ajoint probability distribution, which represents the probability distribution formultiple random variables.
+Themain objective of a Variational Autoencoder (VAE)is to learn thetrue posterior distributionof the latent variables:p(z|x)
+A VAE achieves this by using anencoder networkto approximate the true posterior with a learned distribution:q(z|x)
+Posterior Distribution
+In Bayesian statistics, a posterior probability refers to the adjusted or updated probability of an event happening in light of newly acquired information. Update the prior probability by applying Bayes’ theorem to calculate the posterior probability.
+The Variational Autoencoder (VAE) learns model parameters by maximizing the Evidence Lower Bound (ELBO):ELBO = E[log(p(x|z))] – KL(q(z|x) || p(z))
+The ELBO consists oftwo main components:
+Reconstruction term:E[log(p(x|z))]Measures how well the VAE canreconstruct the input datafrom the latent representation.
+E[log(p(x|z))]
+Measures how well the VAE canreconstruct the input datafrom the latent representation.
+KL divergence term:KL(q(z|x) || p(z))Quantifies how much the learned posteriorq(z|x)deviates from the priorp(z).
+KL(q(z|x) || p(z))
+Quantifies how much the learned posteriorq(z|x)deviates from the priorp(z).
+Using a probabilistic framework, VAEs generate data by assuming that the input originates from a latent space governed by specific probability distributions.
+The key goal is to learn the true posterior distribution by maximizing the likelihood of the observed input data.
+Variational Inference Formulation
+The formulation of Variational Inference in a VAE is as follows:
+Approximate posterior distribution:We have an approximation of the posterior distribution q(z|x).
+True posterior distribution:We have the true posterior distribution p(z|x).
+The aim is to find a similar distribution (q(z|x)) that approximates the true distribution (p(z|x)) as closely as possible, using the KL divergence method.
+The KL variance equation compares two probability distributions,q(z|x) and p(z|x), to measure their differences.
+During VAE training, we try to minimize the KL divergence by increasing the evidence of lower boundary (ELBO), a combination of the reconstruction term and the KL divergence. The reconstruction term assesses the model’s ability to reconstruct input data, while the KL divergence measures the difference between the approximate and actual distributions.
+Neural Networks in the Model
+Neural networks are commonly used to implement VAEs, where both the encoder and decoder components are implemented as neural networks. During the training process, the VAE adjusts the parameters of the encoder and decoder networks to minimize two key components: the reconstruction error and theKL divergencebetween the variational distribution and the true posterior distribution. This optimization task is often accomplished using techniques like stochastic gradient descent or other suitable optimization algorithms.
+Variational Autoencoder Execution
+Before getting into the configuration of a Variational Autoencoder (VAE), it is critical first to understand the fundamental concepts. While VAE implementation can be intricate, we can simplify learning by following a logical and coherent structure.
+Our approach will involve gradually introducing the fundamental concepts and progressively delving into implementation details. We will adopt a hands-on approach to enhance comprehension and provide illustrative examples throughout the learning journey.
+Data Preparation
+The provided code includes loading the MNIST dataset, a widely utilized dataset formachine learningand computer vision tasks. This dataset comprises 60,000 grayscale images of handwritten digits (0-9), each with a size of 28×28 pixels, along with their corresponding labels indicating the digit represented in each image. This allows us to link the images with their respective categories or names. To prepare the input data for training, the code applies normalization by dividing all pixel values ​​by 255. Furthermore, we reshape the input data to incorporate a batch dimension. This preprocessing step ensures that you format the data properly for model training.
+import tensorflow as tf
+import numpy as np
+
+(x_train, y_train)
+,(x_test, y_test) =
+tf.keras.datasets.mnist.load_data()
+
+# Normalize the input data
+x_train = x_train / 255.
+# Reshape the input data to have an additional batch dimension
+x_train = x_train.reshape((-1, 28*28))
+x_test = x_test.reshape((-1, 28*28))
+import tensorflow as tf
+import numpy as np
+
+(x_train, y_train)
+,(x_test, y_test) =
+tf.keras.datasets.mnist.load_data()
+
+# Normalize the input data
+x_train = x_train / 255.
+# Reshape the input data to have an additional batch dimension
+x_train = x_train.reshape((-1, 28*28))
+x_test = x_test.reshape((-1, 28*28))
+Model Definition
+In the VAE model, we have an encoder and a decoder that work together. The encoder maps the input image to the latent space using two dense layers with a ReLU activation function. On the other hand, the decoder takes the latent vector as input and reconstructs the original image using two dense layers.
+input_dim = 28*28
+hidden_dim = 512
+latent_dim = 128
+input_dim = 28*28
+hidden_dim = 512
+latent_dim = 128
+Encoder Architecture
+encoder_input = tf.keras.Input(shape=(input_dim,))
+encoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(encoder_input)
+latent = tf.keras.layers.Dense(latent_dim)(encoder_hidden)
+encoder = tf.keras.Model(encoder_input, latent)
+encoder_input = tf.keras.Input(shape=(input_dim,))
+encoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(encoder_input)
+latent = tf.keras.layers.Dense(latent_dim)(encoder_hidden)
+encoder = tf.keras.Model(encoder_input, latent)
+Decoder Architecture
+decoder_input = tf.keras.Input(shape=(latent_dim,))
+decoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(decoder_input)
+decoder_output = tf.keras.layers.Dense(input_dim)(decoder_hidden)
+decoder = tf.keras.Model(decoder_input, decoder_output)
+decoder_input = tf.keras.Input(shape=(latent_dim,))
+decoder_hidden = tf.keras.layers.Dense(hidden_dim, activation='relu')(decoder_input)
+decoder_output = tf.keras.layers.Dense(input_dim)(decoder_hidden)
+decoder = tf.keras.Model(decoder_input, decoder_output)
+VAE Architecture
+inputs = tf.keras.Input(shape=(input_dim,))
+latent = encoder(inputs)
+outputs = decoder(latent)
+vae = tf.keras.Model(inputs, outputs)
+inputs = tf.keras.Input(shape=(input_dim,))
+latent = encoder(inputs)
+outputs = decoder(latent)
+vae = tf.keras.Model(inputs, outputs)
+Training the Model
+To train the VAE, we utilize the Adam optimizer and the binarycross-entropy loss function. The training is performed in mini-batches, where the loss is calculated, and gradients are backpropagated for each image. Repeat this process.
+loss_fn = tf.keras.losses.BinaryCrossentropy()
+optimizer = tf.keras.optimizers.Adam()
+
+num_epochs = 50
+for epoch in range(num_epochs):
+    for x in x_train:
+     
+        x = x[tf.newaxis, ...]
+        
+        with tf.GradientTape() as tape:
+        
+            reconstructed = vae(x)
+            
+           
+            loss = loss_fn(x, reconstructed)
+            
+       
+        grads = tape.gradient(loss, vae.trainable_variables)
+        optimizer.apply_gradients(zip(grads, vae.trainable_variables))
+        
+    print(f'Epoch {epoch+1}/{num_epochs}, Loss: {loss.numpy():.4f}')
+loss_fn = tf.keras.losses.BinaryCrossentropy()
+optimizer = tf.keras.optimizers.Adam()
+
+num_epochs = 50
+for epoch in range(num_epochs):
+    for x in x_train:
+     
+        x = x[tf.newaxis, ...]
+        
+        with tf.GradientTape() as tape:
+        
+            reconstructed = vae(x)
+            
+           
+            loss = loss_fn(x, reconstructed)
+            
+       
+        grads = tape.gradient(loss, vae.trainable_variables)
+        optimizer.apply_gradients(zip(grads, vae.trainable_variables))
+        
+    print(f'Epoch {epoch+1}/{num_epochs}, Loss: {loss.numpy():.4f}')
+Output:
+Epoch 1: Loss - 0.3559
+Epoch 2: Loss - 0.3550
+.
+.
+.
+Epoch 1: Loss - 0.3559
+Epoch 2: Loss - 0.3550
+.
+.
+.
+Generate Samples
+In this updated code, we redefine the latent_samples variable with a shape of (5, latent_dim), allowing it to generate five random samples instead of 10. We also modified the for loop to iterate five times, displaying five generated samples instead of 10. Additionally, we adjust the subplot function to arrange the generated samples in a grid with one row and five columns.
+# Generate samples
+latent_samples = tf.random.normal(shape=(5, latent_dim))
+generated_samples = decoder(latent_samples)
+
+# Plot the generated samples
+import matplotlib.pyplot as plt
+
+for i in range(5):
+    plt.subplot(1, 5, i+1)
+    plt.imshow(generated_samples[i].numpy().reshape(28, 28), cmap='gray')
+    plt.axis('off')
+    
+plt.show()
+# Generate samples
+latent_samples = tf.random.normal(shape=(5, latent_dim))
+generated_samples = decoder(latent_samples)
+
+# Plot the generated samples
+import matplotlib.pyplot as plt
+
+for i in range(5):
+    plt.subplot(1, 5, i+1)
+    plt.imshow(generated_samples[i].numpy().reshape(28, 28), cmap='gray')
+    plt.axis('off')
+    
+plt.show()
+output:
+When you run this code, it will generate a figure showcasing five images that resemble the ones from the MNIST test set. The system will display these photographs in a grid arrangement featuring one row and five columns. The system will showcase them in grayscale, using the ‘grey’ color map, without axes.
+Visualization of Latent Space
+To gain insights into the latent space of a VAE, you can follow these steps:
+Utilize the VAE to encode the training data points, projecting them into the latent space.
+Employ a dimensionality reduction technique like t-SNE to map the high-dimensional latent space onto a 2D space suitable for visualization.
+Plot the data points in the 2D space, allowing for a visual exploration of the latent space.
+By following this process, you can effectively visualize and comprehend the underlying structure and distribution of the latent space in the VAE.
+import tensorflow as tf
+from sklearn.manifold import TSNE
+
+
+latent_vectors = encoder(x_train).numpy()
+
+
+latent_2d = TSNE(n_components=2).fit_transform(latent_vectors)
+
+# Ploting latent space
+plt.scatter(latent_2d[:, 0], latent_2d[:, 1], c=y_train, cmap='viridis')
+plt.colorbar()
+plt.show()
+import tensorflow as tf
+from sklearn.manifold import TSNE
+
+
+latent_vectors = encoder(x_train).numpy()
+
+
+latent_2d = TSNE(n_components=2).fit_transform(latent_vectors)
+
+# Ploting latent space
+plt.scatter(latent_2d[:, 0], latent_2d[:, 1], c=y_train, cmap='viridis')
+plt.colorbar()
+plt.show()
+output:
+Gaining insights into the structure and organization of the data trained on a Variational Autoencoder (VAE) by visualizing its latent space. This visualization technique offers a valuable means of comprehending the underlying patterns and relationships within the data.
+How VAEs could be used in the Future?
+Here are some points that will tell you about the how you can used VAEs:
+Personalized medicine
+VAEs could be used to develop personalized medical treatments for patients based on their individual genetic makeup and medical history. For example, it could be used to design new drugs that are more effective and have fewer side effects.
+New materials
+VAEs could be used to design new materials with unique properties, such as stronger and lighter materials for aircraft or more efficient solar cells. For example, it could be used to design new materials that can withstand extreme temperatures or pressures.
+Creative AI
+VAEs could be used to create new forms of art and entertainment, such as realistic images, videos, or music that is tailored to a user’s individual preferences. For example, it could be used to create new video games or movies that are more immersive and engaging.
+Scientific research
+VAEs could be used to generate new scientific data for research purposes. For example, it could be used to generate new images of galaxies or proteins or to create new simulations of physical systems.
+Conclusion
+A variationalautoencoder(VAE) is an enhanced form of an autoencoder that incorporates regularization techniques to mitigate overfitting and ensure desirable properties in the latent space for effective generative processes. Functioning as a generative system, VAEs share a similar objective with generative adversarial networks. Like a conventional autoencoder, a VAE comprises an encoder and a decoder. Its training aims to minimize the reconstruction error between the encoded-decoded data and the original input.
+Hope you like this article and know you get clearance about the topics  variational autoencoders, variational autoencoders in deep learning, vae architecture, and about he vae models.As what you get in the article given down the key takeways.
+Key Takeaways
+Variational autoencoders (VAEs) can learn to reconstruct and generate new samples from a provided dataset.
+By utilizing a latent space, VAEs can represent data continuously and smoothly, facilitating the generation of variations of the input data with smooth transitions.
+The architecture of a VAE consists of an encoder network that maps the input data to the latent space, a decoder network responsible for reconstructing the data from the latent space, and a loss function that combines a reconstruction loss and a regularization term.
+VAEs have demonstrated their utility in image generation, anomaly detection, and semi-supervised learning tasks.
+Frequently Asked Questions
+A. Variational autoencoders (VAEs) are probabilistic generative models with different components, including neural networks called encoders and decoders. The encoder network handles the first part, and the decoder network handles the second part.
+A. One of the main benefits of VAEs is their ability to generate new data samples that closely resemble the training data. Achieve this through a continuous latent space, enabling the decoder to produce new data points that smoothly interpolate between the existing training data points.
+A. A notable limitation of variational autoencoders is their tendency to produce blurry and unrealistic outputs. This issue arises from their approach to recovering data distributions and calculating loss functions.
+A. GANs produce highly realistic images but can be challenging to train and work with. On the other hand, VAEs are generally easier to train but may not always achieve the same level of image quality as GANs.
+Passionate Machine learning professional and data-driven analyst with the ability to apply ML techniques and various algorithms to solve real-world business problems. I have always been fascinated by Mathematics and Numbers. Over the past few months, I have dedicated a considerable amount of time and effort to Machine Learning Studies.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Optimizers in Deep Learning: A Detailed Guide
+Optimizers in Deep Learning: A Detailed Guide
+What is Recurrent Neural Networks (RNN)?
+What is Recurrent Neural Networks (RNN)?
+Training a Variational Autoencoder for Anomaly ...
+Training a Variational Autoencoder for Anomaly ...
+Exploring Advanced Generative AI | Conditional ...
+Exploring Advanced Generative AI | Conditional ...
+An introduction to Autoencoders for Beginners
+An introduction to Autoencoders for Beginners
+Adversarial Autoencoders: Bridging the Gap Betw...
+Adversarial Autoencoders: Bridging the Gap Betw...
+Unleashing Generative AI with VAEs, GANs, and T...
+Unleashing Generative AI with VAEs, GANs, and T...
+Unleashing the Power of Autoencoders: Applicati...
+Unleashing the Power of Autoencoders: Applicati...
+Auto Encoders -An Introductory Guide For Data S...
+Auto Encoders -An Introductory Guide For Data S...
+Complete Guide to Anomaly Detection with AutoEn...
+Complete Guide to Anomaly Detection with AutoEn...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_SVR9ohU.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_07_dfghh-02-scaled.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_07_dfghh-03-scaled.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_07_dfghh-01-scaled.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_g3-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_g4_thH4l3P-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_SVR9ohU.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

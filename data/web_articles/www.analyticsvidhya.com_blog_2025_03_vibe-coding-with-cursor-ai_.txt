@@ -1,0 +1,222 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+I Tried Vibe Coding with Cursor AI and It’s Amazing!
+Vibe codingis reshaping the world of software development by letting us create applications using natural language instead of endless lines of code. Inspired by visionaries like Andrej Karpathy, this innovative approach lets developers simply speak or type their ideas, while AI tools, such as Cursor AI, handle the heavy lifting. Cursor AI is a breakthrough code editor that speeds up workflows for beginners and experts alike. It automates routine tasks, freeing developers to focus on creative design and strategic problem-solving. In this article, we will thoroughly explore how vibe coding with Cursor AI is transforming how we build modern software.
+Table of Contents
+What is Vibe Coding?
+What is Cursor AI?How Cursor AI WorksKey Features of Cursor AI
+How Cursor AI Works
+Key Features of Cursor AI
+How to Install Cursor AI
+Cursor AI Pricing Plans
+Building a Web-Based To-Do app Using Cursor AIStep 1: Creating the Project DirectoryStep 2: Installing DependenciesStep 3: Running the ApplicationStep 4: Improving the Frontend DesignStep 5: Adding AnimationsStep 6: Final Testing
+Step 1: Creating the Project Directory
+Step 2: Installing Dependencies
+Step 3: Running the Application
+Step 4: Improving the Frontend Design
+Step 5: Adding Animations
+Step 6: Final Testing
+Limitations of Vibe Coding with Cursor AICurrent Limitations of AI-Generated CodeNeed for Human Expertise
+Current Limitations of AI-Generated Code
+Need for Human Expertise
+My Final Thoughts
+Conclusion
+Frequently Asked Questions
+What is Vibe Coding?
+Vibe coding is a paradigm shift in programming where the focus moves from syntax and manual coding to high-level design and idea expression. Instead of laboriously typing code, you simply describe what you want the application to do. The AI takes your instructions, processes them, and generates working code with minimal intervention. As a result, even those with limited coding experience can build functional applications quickly. This method is making waves in Silicon Valley and beyond, promising to democratize software development.
+“It’s not really coding – I just see stuff, say stuff, run stuff, and copy-paste stuff, and it mostly works.” – Andrej Karpathy
+At its core, vibe coding means describing what you want your application to do, and letting AI tools generate the necessary code for you. It’s about idea expression, iterative refinement, and automating routine coding tasks. The process relies on natural language prompts and continuous feedback to shape functional, high-quality software.
+While traditional coding demands deep technical expertise and time-consuming debugging, AI-powered tools like Cursor interpret your verbal or written instructions, and generate code rapidly. This evolution shifts the developer’s role from manual coding to creative problem solving and system design.
+It also enables faster prototyping and significantly boosts productivity. By automating mundane tasks, it opens the door for even non-experts to build working applications, making software development more accessible and innovative.
+What is Cursor AI?
+Cursor AI is an advanced, AI-poweredintegrated development environment(IDE) that transforms natural language instructions into code. By leveraging state-of-the-art language models and contextual analysis, Cursor AI helps developers generate, debug, and maintain code efficiently, streamlining the entire development process.
+How Cursor AI Works
+Now let’s understand how Cursor AI works. Here are the steps involved:
+1. Natural Language Input
+Developers start by typing or speaking their requirements—such as “create a user authentication route” or “fix the error in this function”—directly into the IDE. This input forms the basis for the AI’s actions.
+2. Contextual Analysis
+Before generating code, Cursor AI analyzes the entire codebase. It understands the project structure, coding conventions, and existing patterns to ensure that any new code integrates seamlessly with the existing system.
+3. AI-Powered Code Generation
+Using powerful language models fine-tuned for programming tasks, the AI converts natural language prompts into working code. It adheres to best practices and established coding standards to produce reliable, production-ready code.
+4. Automated Debugging and Refinement
+Cursor AI goes beyond code generation by automatically detecting syntax errors and logical issues. It offers debugging suggestions and iteratively refines its output based on developer feedback, helping to fix issues quickly without manual intervention.
+5. Enhanced Documentation Lookup
+The IDE incorporates a smart documentation system that allows developers to quickly access both internal project documents and external resources. This feature ensures that developers can easily find relevant code examples, API documentation, and troubleshooting guides as needed.
+Key Features of Cursor AI
+Here are some of the key features of Cursor AI:
+AI-Powered Code Generation:Converts natural language requirements into functional code, reducing manual coding.
+Automated Debugging:Identifies and suggests fixes for errors, streamlining the debugging process.
+Context-Aware Assistance:Understands the entire codebase to offer tailored recommendations and maintain consistency.
+Enhanced Documentation Lookup:Provides quick access to documentation and external resources to resolve queries and clarify concepts.
+Cursor AI significantly reduces development time by automating repetitive tasks, enabling developers to focus on high-level design and problem-solving
+How to Install Cursor AI
+Before diving into vibe coding, you’ll need to install Cursor AI. Here’s a step-by-step guide to get you started:
+Download Cursor AIVisit theofficial website(typically cursor.ai or [cursor.com]) and click the Download button. The website should automatically detect your operating system and provide the correct installation file.
+Visit theofficial website(typically cursor.ai or [cursor.com]) and click the Download button. The website should automatically detect your operating system and provide the correct installation file.
+Run the InstallerFor Windows and macOS:Simply run the downloaded installer file and follow the on-screen instructions, just as you would with any other application.For Linux (Ubuntu):– Download the AppImage file provided for Linux.– Open a terminal and move the AppImage to a permanent location (e.g., the /opt directory) by running:sudo mv [name-of-file] /opt/cursor.appimage– Make the AppImage executable with:chmod +x /opt/cursor.appimage
+For Windows and macOS:Simply run the downloaded installer file and follow the on-screen instructions, just as you would with any other application.For Linux (Ubuntu):– Download the AppImage file provided for Linux.– Open a terminal and move the AppImage to a permanent location (e.g., the /opt directory) by running:sudo mv [name-of-file] /opt/cursor.appimage– Make the AppImage executable with:chmod +x /opt/cursor.appimage
+sudo mv [name-of-file] /opt/cursor.appimage
+chmod +x /opt/cursor.appimage
+Launch Cursor AIFor Windows and macOS:After installation, launch Cursor AI from the desktop shortcut or your applications menu.For Linux (Ubuntu):– Create a desktop entry by opening a terminal and executing:sudo nano /usr/share/applications/cursor.desktop– Insert the following content into the file:[Desktop Entry]Name=CursorExec=/opt/cursor.appimageIcon=/opt/cursor.pngType=ApplicationCategories=Development;– Save the file (press Ctrl+X, then Y, then Enter).– (Optional) Place a PNG image named cursor.png in the /opt directory to set an application icon. You might need to log out and log back in for the changes to take effect.
+For Windows and macOS:After installation, launch Cursor AI from the desktop shortcut or your applications menu.For Linux (Ubuntu):– Create a desktop entry by opening a terminal and executing:sudo nano /usr/share/applications/cursor.desktop– Insert the following content into the file:[Desktop Entry]Name=CursorExec=/opt/cursor.appimageIcon=/opt/cursor.pngType=ApplicationCategories=Development;– Save the file (press Ctrl+X, then Y, then Enter).– (Optional) Place a PNG image named cursor.png in the /opt directory to set an application icon. You might need to log out and log back in for the changes to take effect.
+sudo nano /usr/share/applications/cursor.desktop
+[Desktop Entry]
+Name=Cursor
+Exec=/opt/cursor.appimage
+Icon=/opt/cursor.png
+Type=Application
+Categories=Development;
+Initial Setup and ConfigurationOn the first launch, you’ll be prompted to configure essential settings such as keyboard shortcuts, the language for AI interactions, and whether to enable codebase-wide indexing.You can also choose to install additional commands that let you launch Cursor AI directly from the terminal.
+On the first launch, you’ll be prompted to configure essential settings such as keyboard shortcuts, the language for AI interactions, and whether to enable codebase-wide indexing.You can also choose to install additional commands that let you launch Cursor AI directly from the terminal.
+Import VS Code Settings (Optional)If you’re a Visual Studio Code user, you may be prompted to import your VS Code settings. This step imports your extensions, themes, user settings, and keyboard shortcuts to provide a familiar development environment.
+If you’re a Visual Studio Code user, you may be prompted to import your VS Code settings. This step imports your extensions, themes, user settings, and keyboard shortcuts to provide a familiar development environment.
+Sign Up / Log InCreate an account using your email, Google, or GitHub credentials. New users often receive a free trial of Cursor Pro upon registration.
+Create an account using your email, Google, or GitHub credentials. New users often receive a free trial of Cursor Pro upon registration.
+Cursor AI Pricing Plans
+Cursor AI offers three different pricing plans: Hobby, Pro, and Business. The free version or Hobby Plan comes with a 14-day Pro trial, 2,000 completions, and 50 slow premium requests per month after the trial period. The Pro Plan, priced at $20/month, includes unlimited completions, 500 fast premium requests, and unlimited slow requests. You can get the Pro Plan at a discounted price of $16/month, if billed annually. The Business Plan, which costs $40/user/month, adds centralized billing, admin controls, privacy enforcement, and SSO integration to the Pro Plan.
+Apart from these fixed price tiers, Cursor AI also offers enterprise solutions, with custom pricing and extended support. While a 14-day Pro trial gives access to unlimited completions and 500 fast requests, some users report unofficial trial resets. Fast requests are prioritized, while slow requests may have delays. Pricing ensures sustainability, as running large AI models like GPT-4o or Claude incurs high costs.
+Building a Web-Based To-Do app Using Cursor AI
+Now, let’s try building a web-based To-Do app using Flask with the help of Cursor AI. By using AI-assisted coding, we can quickly set up the project while refining the design and functionality as needed.
+Creating a web-based To-Do app using Flask and Cursor AI allows developers to streamline the development process while focusing on design and functionality. This guide walks through the entire workflow, from setting up the project directory to adding animations, ensuring a smooth and polished application.
+Do keep in mind that Cursor AI may generate different outputs for the same prompt. You are advised to modify your subsequent prompts based on the output you receive to align with your project requirements. So now, let’s get started.
+Step 1: Creating the Project Directory
+Before generating the To-Do app, it is a good practice to create a dedicated directory for the project. This ensures that Cursor AI places all generated files in the correct location.
+Prompt to Create Directory and Scaffold the Project:“Build a web based to do app using Flask”
+When I prompt“Build a web-based To-Do app using Flask”, Cursor AI quickly sets up the project. It checks the workspace and creates the essential files:requirements.txtfor dependencies,app.pyfor the main application, atemplates/folder for HTML, and astatic/folder for CSS.
+Cursor AI builds the app with features toadd, mark, and deletetasks. It uses anSQLite databasefor storage and designs amodern, responsive UIwith animations, hover effects, and the Poppins font. Each task includes atimestampfor tracking as well.
+To run the app, it suggests installing dependencies withpip install -r requirements.txtand starting the server withpython app.py. I accepted all the changes by just click on “Accept all”, as you can see in the above image.
+Here you can see that the directory has been created.
+In the video below you can see that Cursor AI has created the files required to make the To-Do app.
+Step 2: Installing Dependencies
+After the files are created, the next step is to install the required dependencies from requirements.txt. For this, as well, I will provide a prompt to the cursor agent.
+Prompt:“install the requirements“
+As you can see in the image, all we have to do is confirm the installation process by clicking on the “Run command” button in Cursor AI.
+Step 3: Running the Application
+With all the dependencies installed, we can now run the app.py file to start the Flask application.
+Prompt:“now run the app.py”
+And just click on “Run command”.
+After running the app, when I clicked on this URL, I got my web based To-Do apphttp://127.0.0.1:5000
+Step 4: Improving the Frontend Design
+The app is successfully running, but I’m not satisfied with the frontend. It looks too basic and not as visually appealing as I would like. To enhance the design, I’ll prompt Cursor AI to make improvements by refining the styling, optimizing the layout, and adding interactive elements to make the UI more engaging. Let’s see how that’s done
+Prompt to Improve UI:“I don’t like the current design of the app, include more blue colour and make it better and eye catchy”
+Here’s a video of the changes being made.
+After applying these enhancements, the to-do list looks more polished and visually appealing. Now let’s add a task and see how it works.
+So we can see that after adding the task, we get options like ‘Complete’ or ‘Delete’. ‘Complete’ will show that you have done the work, and ‘Delete’ will remove the task from the list. It also shows the time of creating the list.
+Our new and improved web app is now ready.
+The UI is looking great! But now let’s add some animation to it.
+Step 5: Adding Animations
+We can add animations to create smoother transitions and improve the user experience.
+Prompt for Adding Animations:“Enhance my Flask to-do list UI with smooth CSS and JavaScript animations for task actions, button hover effects, and transitions.”
+Click on the “Run command” button and we can see that it’s creating a JavaScript for our animation.
+Once Cursor AI generates the animations, we can test their functionality and refine them for a smoother experience.
+Here’s the final result of the web-based To-Do app that I created by vibe coding with Cursor AI.
+Step 6: Final Testing
+After implementing animations, test the entire application by adding, updating, and deleting tasks to ensure it is functioning smoothly. If necessary, make additional refinements to improve the user experience.
+Also Read:Build No-Code AI Agents on Your Phone for Free with the Replit Mobile App!
+Limitations of Vibe Coding with Cursor AI
+While Vibe Coding with platforms like Cursor AI offers transformative capabilities, it also comes with its own set of challenges. Understanding these limitations is crucial for developers to maximize its potential while mitigating drawbacks.
+Current Limitations of AI-Generated Code
+Misplaced Generated Code:Cursor AI sometimes inserts code in incorrect locations, leading to errors and disruptions. This issue is particularly problematic in complex projects where precise code placement is essential.
+Context Forgetfulness:After periods of inactivity or switching between projects, Cursor AI may lose context, resulting in inaccurate suggestions. This can slow productivity, especially in large-scale or multi-file projects.
+Struggles with Complex Bug Detection:While Cursor AI efficiently identifies common bugs, it struggles with complex issues requiring deep understanding of the codebase or domain-specific knowledge. Developers must manually intervene to resolve such problems.
+Code Quality Concerns:AI-generated code may lack the precision of human expertise, potentially introducing inefficiencies, security risks, or compliance issues. This is particularly concerning in regulated domains like healthcare or finance.
+Scalability Challenges:As projects grow, AI tools like Cursor may struggle to manage larger codebases or intricate system architectures. Human intervention remains necessary for scalability and maintainability.
+Need for Human Expertise
+Oversight and Quality Assurance:Developers must review AI-generated code to ensure it meets project standards, avoids security vulnerabilities, and maintains high reliability.
+Handling Complex Business Logic:AI tools often fall short in understanding intricate business requirements. Developers need to provide explicit instructions and intervene to align the code with project needs.
+Ethical Considerations:AI models can introduce biases or errors due to limitations in their training data. Human oversight is essential to ensure ethical and responsible coding practices.
+Complementing Creativity and Problem-Solving:While AI excels at automating repetitive tasks, it lacks human creativity and strategic thinking. Developers remain indispensable for innovation and complex problem-solving.
+My Final Thoughts
+Using Cursor AI felt like I was copy-pasting my ideas straight into working code. It was fast, intuitive, and genuinely fun. While it’s not perfect and still needs human oversight, the way it simplifies coding is game-changing. If you’re a developer, you should give vibe coding a try; it might just change the way you work!
+Conclusion
+Cursor AI makes coding feel effortless, turning ideas into functional applications with minimal effort. While it isn’t flawless and requires human intervention for complex logic and bug fixing, its ability to streamline development is undeniable. It empowers developers to focus on creativity instead of repetitive coding tasks. Whether you’re a beginner or an experienced programmer, vibe coding with Cursor AI offers a glimpse into the future of software development—where innovation, speed, and efficiency take center stage.
+Frequently Asked Questions
+A. Vibe coding is a new approach to software development where developers describe what they want in natural language, and AI tools like Cursor AI generate the code automatically.
+A. Traditional coding requires manual writing of syntax, debugging, and structuring code, whereas vibe coding focuses on high-level idea expression, letting AI handle code generation and refinement.
+A. Both beginners and experienced developers can benefit from vibe coding, as it simplifies coding tasks, speeds up development, and allows more focus on problem-solving and design.
+A. Cursor AI is an AI-powered code editor that translates natural language prompts into working code, automates debugging, and assists with documentation, making development faster and more efficient.
+A. While some programming knowledge is helpful, vibe coding makes software development accessible to those with limited coding experience by handling syntax and structure automatically.
+A. AI can assist with automation and efficiency, but human oversight is still essential for handling complex logic, debugging, and ensuring high-quality, secure code.
+A. Vibe coding accelerates development, reduces repetitive tasks, improves accessibility for non-experts, and allows developers to focus on creativity and strategic problem-solving.
+Hi, I am Janvi, a passionate data science enthusiast currently working at Analytics Vidhya. My journey into the world of data began with a deep curiosity about how we can extract meaningful insights from complex datasets.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+How to Build an AI Agent from Scratch?
+How to Build an AI Agent from Scratch?
+Top 4 Agentic AI Design Patterns for Architecti...
+Top 4 Agentic AI Design Patterns for Architecti...
+Is Vibe Coding the Future? See What Top Leaders...
+Is Vibe Coding the Future? See What Top Leaders...
+A Guide to Master the Art of Vibe Coding
+A Guide to Master the Art of Vibe Coding
+Cursor AI: Why You Should Try it Once?
+Cursor AI: Why You Should Try it Once?
+10 Ways Students Can Use Cursor AI for Free
+10 Ways Students Can Use Cursor AI for Free
+12 Best AI Coding Assistants You Must Try in 2025
+12 Best AI Coding Assistants You Must Try in 2025
+10 Generative AI Coding Extensions in VS Code Y...
+10 Generative AI Coding Extensions in VS Code Y...
+How to Use MCP with Cursor AI?
+How to Use MCP with Cursor AI?
+Windsurf vs Cursor AI: Which is Better for Coding?
+Windsurf vs Cursor AI: Which is Better for Coding?
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_ToTu2tx.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_Pricingcursorai.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_roxmlxfkyy5cbmnyisqc.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_taadldbdewv1zpiu9klq.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_fyrr575dcdznwzydbbne.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_ebvhlo9le2rpdxde4tst.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_opb1koreipziissm1u5z.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_oypcmolzki0k1z9vxgag.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_oji586mmsay6x0rgbr4r.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_xsyde1wad2kqfa2mybzw.webp
+av-eks-lekhak.s3.amazonaws.com_media_article_images_Freshoutput6.png
+av-eks-lekhak.s3.amazonaws.com_media_article_images_Freshoutput7.png
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_ToTu2tx.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

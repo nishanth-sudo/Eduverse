@@ -1,0 +1,56 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Browse the docs online or download a copy of your own.
+Python's documentation, tutorials, and guides are constantly evolving.
+Get started here, or scroll down for documentation broken out by type and subject.
+Python Docs
+See alsoDocumentation Releases by Version
+Beginner
+Beginner’s Guide
+Python FAQs
+Moderate
+Python Periodicals
+Python Books
+Advanced
+Python Packaging User Guide
+In-development Docs
+Guido’s Essays
+General
+PEP Index
+Python Videos
+Developer’s Guide
+Python 3.x Resources
+Browse Python 3.13.3 Documentation-(Module Index)What's new in Python 3.13TutorialLibrary ReferenceLanguage ReferenceExtending and EmbeddingPython/C APIUsing PythonPython HOWTOsGlossary
+What's new in Python 3.13
+Tutorial
+Library Reference
+Language Reference
+Extending and Embedding
+Python/C API
+Using Python
+Python HOWTOs
+Glossary
+Search the online docs
+Download Current Documentation(multiple formats are available, including typeset versions for printing.)
+Porting from Python 2 to Python 3
+FAQ: Sunsetting Python 2
+Final Python 2.7 Release Schedule
+Python 3 Statement
+Porting Python 2 Code to Python 3Determine what projects are blocking you from porting to Python 3Python 2 Support and Migration
+Determine what projects are blocking you from porting to Python 3
+Python 2 Support and Migration
+Can’t find what you’re looking for?Try our comprehensive Help section
+>>>Python Needs You
+Open source software is made better when users can easily contribute code and documentation to fix bugs and add features. Python strongly encourages community involvement in improving the software.Learn moreabout how to make Python better for everyone.
+Contribute to PythonIssue Tracker
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

@@ -1,0 +1,199 @@
+Languages
+Languages
+FrontPage
+RecentChanges
+FindPage
+HelpContents
+Languages
+Page
+Immutable Page
+Comments
+Info
+Attachments
+User
+Login
+Attempt to have languages and links listed in the native tongue of the user.2009-09-01 This page's links go to the various languages' pages, most of which have been copied from the other set of language pages, with a few updates.Ideally, all the pages should be like the Polish or Turkish pages - all native language, only the necessary English.There are some ground rules, some are laid down by the site admins, some are my suggestions:Pages must be named in ASCII and English (PolishLanguage)Pages must have an explanation in English at the top (Links to Python information in <language X>)(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).LanguagesAfrikaansLanguageAfrikaansAlbanianLanguageShqipAmharicLanguageአማርኛArabicLanguageالعربيةArmenianLanguageՀայերենAssameseLanguageঅসমীয়াAzerbaijaniLanguageAzərbaycan diliBelarusianLanguageБеларуская моваBengaliLanguageবাংলাBodoLanguageबड़ोBosnianLanguagebosanskiBulgarianLanguageбългарски езикBurmeseLanguageမြန်မာဘာသာCatalanLanguagecatalàChineseLanguage中文CroatianLanguagehrvatskiCzechLanguagečeštinaDanishLanguagedanskDogriLanguageडोगरीDevanagari scriptDutchLanguageNederlandsEsperantoLanguageEsperantoEstonianLanguageeesti keelFinnishLanguagesuomiFrenchLanguagefrançaisGeorgianLanguageქართული ენაGermanLanguageDeutschGreekLanguageΝέα ΕλληνικάGujaratiLanguageગુજરાતીHausaLanguageHausaHebrewLanguageעִבְרִיתHindiLanguageहिन्दीHungarianLanguagemagyar nyelvIndonesianLanguageBahasa IndonesiaIcelandicLanguageíslenskaIgboLanguageAsụsụ IgboItalianLanguageitalianoJapaneseLanguage日本語KannadaLanguageಕನ್ನಡKashmiriLanguageकॉशुर(Koshur)KazakhLanguageҚазақ тіліKhmerLanguageភាសាខ្មែរKonkaniLanguageकोंकणीDevangari scriptKoreanLanguage한국어/조선말LaoLanguageພາສາລາວLatvianLanguagelatviešu valodaLithuanianLanguagelietuvių kalbaMalayLanguageBahasa MelayuMalayalamLanguageമലയാളംMarathiLanguageमराठीMongolianLanguageМонгол хэлNepaliLanguageनेपालीNorwegianLanguagenorskOriyaLanguageଓଡ଼ିଆOromoLanguageAfaan OromooPersianLanguageفارسیPolishLanguagejęzyk polskiPortugueseLanguageportuguêsPunjabiLanguageਪੰਜਾਬੀWesternPunjabiLanguageپنجابیRomanianLanguagelimba românăRussianLanguageрусский языкSanskritLanguageसंस्कृतSlovakLanguageslovenský jazykSloveneLanguageslovenščinaSerbianLanguageСрпскиSinhalaLanguageසිංහලSpanishLanguageespañolSwahiliLanguageKiswahiliSwedishLanguagesvenskaTagalogLanguageWikang TagalogTamilLanguageதமிழTeluguLanguageతెలుగుThaiLanguageภาษาไทยTigrinyaLanguageትግርኛTurkishLanguageTürkçeUkranianLanguageукраї́нська мо́ваUrduLanguageاُردوُUzbekLanguageO‘zbek tiliVietnameseLanguagetiếng ViệtXhosaLanguageisiXhosaZuluLanguageisiZuluCategoryLanguageCategoryUnicode
+2009-09-01 This page's links go to the various languages' pages, most of which have been copied from the other set of language pages, with a few updates.Ideally, all the pages should be like the Polish or Turkish pages - all native language, only the necessary English.There are some ground rules, some are laid down by the site admins, some are my suggestions:Pages must be named in ASCII and English (PolishLanguage)Pages must have an explanation in English at the top (Links to Python information in <language X>)(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).LanguagesAfrikaansLanguageAfrikaansAlbanianLanguageShqipAmharicLanguageአማርኛArabicLanguageالعربيةArmenianLanguageՀայերենAssameseLanguageঅসমীয়াAzerbaijaniLanguageAzərbaycan diliBelarusianLanguageБеларуская моваBengaliLanguageবাংলাBodoLanguageबड़ोBosnianLanguagebosanskiBulgarianLanguageбългарски езикBurmeseLanguageမြန်မာဘာသာCatalanLanguagecatalàChineseLanguage中文CroatianLanguagehrvatskiCzechLanguagečeštinaDanishLanguagedanskDogriLanguageडोगरीDevanagari scriptDutchLanguageNederlandsEsperantoLanguageEsperantoEstonianLanguageeesti keelFinnishLanguagesuomiFrenchLanguagefrançaisGeorgianLanguageქართული ენაGermanLanguageDeutschGreekLanguageΝέα ΕλληνικάGujaratiLanguageગુજરાતીHausaLanguageHausaHebrewLanguageעִבְרִיתHindiLanguageहिन्दीHungarianLanguagemagyar nyelvIndonesianLanguageBahasa IndonesiaIcelandicLanguageíslenskaIgboLanguageAsụsụ IgboItalianLanguageitalianoJapaneseLanguage日本語KannadaLanguageಕನ್ನಡKashmiriLanguageकॉशुर(Koshur)KazakhLanguageҚазақ тіліKhmerLanguageភាសាខ្មែរKonkaniLanguageकोंकणीDevangari scriptKoreanLanguage한국어/조선말LaoLanguageພາສາລາວLatvianLanguagelatviešu valodaLithuanianLanguagelietuvių kalbaMalayLanguageBahasa MelayuMalayalamLanguageമലയാളംMarathiLanguageमराठीMongolianLanguageМонгол хэлNepaliLanguageनेपालीNorwegianLanguagenorskOriyaLanguageଓଡ଼ିଆOromoLanguageAfaan OromooPersianLanguageفارسیPolishLanguagejęzyk polskiPortugueseLanguageportuguêsPunjabiLanguageਪੰਜਾਬੀWesternPunjabiLanguageپنجابیRomanianLanguagelimba românăRussianLanguageрусский языкSanskritLanguageसंस्कृतSlovakLanguageslovenský jazykSloveneLanguageslovenščinaSerbianLanguageСрпскиSinhalaLanguageසිංහලSpanishLanguageespañolSwahiliLanguageKiswahiliSwedishLanguagesvenskaTagalogLanguageWikang TagalogTamilLanguageதமிழTeluguLanguageతెలుగుThaiLanguageภาษาไทยTigrinyaLanguageትግርኛTurkishLanguageTürkçeUkranianLanguageукраї́нська мо́ваUrduLanguageاُردوُUzbekLanguageO‘zbek tiliVietnameseLanguagetiếng ViệtXhosaLanguageisiXhosaZuluLanguageisiZuluCategoryLanguageCategoryUnicode
+Ideally, all the pages should be like the Polish or Turkish pages - all native language, only the necessary English.There are some ground rules, some are laid down by the site admins, some are my suggestions:Pages must be named in ASCII and English (PolishLanguage)Pages must have an explanation in English at the top (Links to Python information in <language X>)(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).LanguagesAfrikaansLanguageAfrikaansAlbanianLanguageShqipAmharicLanguageአማርኛArabicLanguageالعربيةArmenianLanguageՀայերենAssameseLanguageঅসমীয়াAzerbaijaniLanguageAzərbaycan diliBelarusianLanguageБеларуская моваBengaliLanguageবাংলাBodoLanguageबड़ोBosnianLanguagebosanskiBulgarianLanguageбългарски езикBurmeseLanguageမြန်မာဘာသာCatalanLanguagecatalàChineseLanguage中文CroatianLanguagehrvatskiCzechLanguagečeštinaDanishLanguagedanskDogriLanguageडोगरीDevanagari scriptDutchLanguageNederlandsEsperantoLanguageEsperantoEstonianLanguageeesti keelFinnishLanguagesuomiFrenchLanguagefrançaisGeorgianLanguageქართული ენაGermanLanguageDeutschGreekLanguageΝέα ΕλληνικάGujaratiLanguageગુજરાતીHausaLanguageHausaHebrewLanguageעִבְרִיתHindiLanguageहिन्दीHungarianLanguagemagyar nyelvIndonesianLanguageBahasa IndonesiaIcelandicLanguageíslenskaIgboLanguageAsụsụ IgboItalianLanguageitalianoJapaneseLanguage日本語KannadaLanguageಕನ್ನಡKashmiriLanguageकॉशुर(Koshur)KazakhLanguageҚазақ тіліKhmerLanguageភាសាខ្មែរKonkaniLanguageकोंकणीDevangari scriptKoreanLanguage한국어/조선말LaoLanguageພາສາລາວLatvianLanguagelatviešu valodaLithuanianLanguagelietuvių kalbaMalayLanguageBahasa MelayuMalayalamLanguageമലയാളംMarathiLanguageमराठीMongolianLanguageМонгол хэлNepaliLanguageनेपालीNorwegianLanguagenorskOriyaLanguageଓଡ଼ିଆOromoLanguageAfaan OromooPersianLanguageفارسیPolishLanguagejęzyk polskiPortugueseLanguageportuguêsPunjabiLanguageਪੰਜਾਬੀWesternPunjabiLanguageپنجابیRomanianLanguagelimba românăRussianLanguageрусский языкSanskritLanguageसंस्कृतSlovakLanguageslovenský jazykSloveneLanguageslovenščinaSerbianLanguageСрпскиSinhalaLanguageසිංහලSpanishLanguageespañolSwahiliLanguageKiswahiliSwedishLanguagesvenskaTagalogLanguageWikang TagalogTamilLanguageதமிழTeluguLanguageతెలుగుThaiLanguageภาษาไทยTigrinyaLanguageትግርኛTurkishLanguageTürkçeUkranianLanguageукраї́нська мо́ваUrduLanguageاُردوُUzbekLanguageO‘zbek tiliVietnameseLanguagetiếng ViệtXhosaLanguageisiXhosaZuluLanguageisiZuluCategoryLanguageCategoryUnicode
+Ideally, all the pages should be like the Polish or Turkish pages - all native language, only the necessary English.There are some ground rules, some are laid down by the site admins, some are my suggestions:Pages must be named in ASCII and English (PolishLanguage)Pages must have an explanation in English at the top (Links to Python information in <language X>)(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
+There are some ground rules, some are laid down by the site admins, some are my suggestions:Pages must be named in ASCII and English (PolishLanguage)Pages must have an explanation in English at the top (Links to Python information in <language X>)(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
+Pages must be named in ASCII and English (PolishLanguage)
+Pages must be named in ASCII and English (PolishLanguage)
+Pages must have an explanation in English at the top (Links to Python information in <language X>)
+Pages must have an explanation in English at the top (Links to Python information in <language X>)
+(my suggestion) We probably want to limit invites to edit the pages to people we know well, or Pythonistas with a track record.  Hopefully, this is inclusive enough without opening the site up to a spam flood and vandalismfest.
+Where these pages really need help:check links, remove broken ones.add new links that are quality Python information and active.some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
+check links, remove broken ones.
+add new links that are quality Python information and active.
+some care for languages that have next to nothing, but do have people in the Python community - even a link to the Wikipedia page for Python, in that language, is a start (Some are pretty complete and of high quality - the Russian language Wikipedia page for Python, for instance, packs a lot in).
+LanguagesAfrikaansLanguageAfrikaansAlbanianLanguageShqipAmharicLanguageአማርኛArabicLanguageالعربيةArmenianLanguageՀայերենAssameseLanguageঅসমীয়াAzerbaijaniLanguageAzərbaycan diliBelarusianLanguageБеларуская моваBengaliLanguageবাংলাBodoLanguageबड़ोBosnianLanguagebosanskiBulgarianLanguageбългарски езикBurmeseLanguageမြန်မာဘာသာCatalanLanguagecatalàChineseLanguage中文CroatianLanguagehrvatskiCzechLanguagečeštinaDanishLanguagedanskDogriLanguageडोगरीDevanagari scriptDutchLanguageNederlandsEsperantoLanguageEsperantoEstonianLanguageeesti keelFinnishLanguagesuomiFrenchLanguagefrançaisGeorgianLanguageქართული ენაGermanLanguageDeutschGreekLanguageΝέα ΕλληνικάGujaratiLanguageગુજરાતીHausaLanguageHausaHebrewLanguageעִבְרִיתHindiLanguageहिन्दीHungarianLanguagemagyar nyelvIndonesianLanguageBahasa IndonesiaIcelandicLanguageíslenskaIgboLanguageAsụsụ IgboItalianLanguageitalianoJapaneseLanguage日本語KannadaLanguageಕನ್ನಡKashmiriLanguageकॉशुर(Koshur)KazakhLanguageҚазақ тіліKhmerLanguageភាសាខ្មែរKonkaniLanguageकोंकणीDevangari scriptKoreanLanguage한국어/조선말LaoLanguageພາສາລາວLatvianLanguagelatviešu valodaLithuanianLanguagelietuvių kalbaMalayLanguageBahasa MelayuMalayalamLanguageമലയാളംMarathiLanguageमराठीMongolianLanguageМонгол хэлNepaliLanguageनेपालीNorwegianLanguagenorskOriyaLanguageଓଡ଼ିଆOromoLanguageAfaan OromooPersianLanguageفارسیPolishLanguagejęzyk polskiPortugueseLanguageportuguêsPunjabiLanguageਪੰਜਾਬੀWesternPunjabiLanguageپنجابیRomanianLanguagelimba românăRussianLanguageрусский языкSanskritLanguageसंस्कृतSlovakLanguageslovenský jazykSloveneLanguageslovenščinaSerbianLanguageСрпскиSinhalaLanguageසිංහලSpanishLanguageespañolSwahiliLanguageKiswahiliSwedishLanguagesvenskaTagalogLanguageWikang TagalogTamilLanguageதமிழTeluguLanguageతెలుగుThaiLanguageภาษาไทยTigrinyaLanguageትግርኛTurkishLanguageTürkçeUkranianLanguageукраї́нська мо́ваUrduLanguageاُردوُUzbekLanguageO‘zbek tiliVietnameseLanguagetiếng ViệtXhosaLanguageisiXhosaZuluLanguageisiZuluCategoryLanguageCategoryUnicode
+Languages
+AfrikaansLanguageAfrikaans
+AfrikaansLanguageAfrikaans
+AlbanianLanguageShqip
+AlbanianLanguageShqip
+AmharicLanguageአማርኛ
+AmharicLanguageአማርኛ
+ArabicLanguageالعربية
+ArabicLanguageالعربية
+ArmenianLanguageՀայերեն
+ArmenianLanguageՀայերեն
+AssameseLanguageঅসমীয়া
+AssameseLanguageঅসমীয়া
+AzerbaijaniLanguageAzərbaycan dili
+AzerbaijaniLanguageAzərbaycan dili
+BelarusianLanguageБеларуская мова
+BelarusianLanguageБеларуская мова
+BengaliLanguageবাংলা
+BengaliLanguageবাংলা
+BodoLanguageबड़ो
+BodoLanguageबड़ो
+BosnianLanguagebosanski
+BosnianLanguagebosanski
+BulgarianLanguageбългарски език
+BulgarianLanguageбългарски език
+BurmeseLanguageမြန်မာဘာသာ
+BurmeseLanguageမြန်မာဘာသာ
+CatalanLanguagecatalà
+CatalanLanguagecatalà
+ChineseLanguage中文
+ChineseLanguage中文
+CroatianLanguagehrvatski
+CroatianLanguagehrvatski
+CzechLanguagečeština
+CzechLanguagečeština
+DanishLanguagedansk
+DanishLanguagedansk
+DogriLanguageडोगरीDevanagari script
+DogriLanguageडोगरीDevanagari script
+DutchLanguageNederlands
+DutchLanguageNederlands
+EsperantoLanguageEsperanto
+EsperantoLanguageEsperanto
+EstonianLanguageeesti keel
+EstonianLanguageeesti keel
+FinnishLanguagesuomi
+FinnishLanguagesuomi
+FrenchLanguagefrançais
+FrenchLanguagefrançais
+GeorgianLanguageქართული ენა
+GeorgianLanguageქართული ენა
+GermanLanguageDeutsch
+GermanLanguageDeutsch
+GreekLanguageΝέα Ελληνικά
+GreekLanguageΝέα Ελληνικά
+GujaratiLanguageગુજરાતી
+GujaratiLanguageગુજરાતી
+HausaLanguageHausa
+HausaLanguageHausa
+HebrewLanguageעִבְרִית
+HebrewLanguageעִבְרִית
+HindiLanguageहिन्दी
+HindiLanguageहिन्दी
+HungarianLanguagemagyar nyelv
+HungarianLanguagemagyar nyelv
+IndonesianLanguageBahasa Indonesia
+IndonesianLanguageBahasa Indonesia
+IcelandicLanguageíslenska
+IcelandicLanguageíslenska
+IgboLanguageAsụsụ Igbo
+IgboLanguageAsụsụ Igbo
+ItalianLanguageitaliano
+ItalianLanguageitaliano
+JapaneseLanguage日本語
+JapaneseLanguage日本語
+KannadaLanguageಕನ್ನಡ
+KannadaLanguageಕನ್ನಡ
+KashmiriLanguageकॉशुर(Koshur)
+KashmiriLanguageकॉशुर(Koshur)
+KazakhLanguageҚазақ тілі
+KazakhLanguageҚазақ тілі
+KhmerLanguageភាសាខ្មែរ
+KhmerLanguageភាសាខ្មែរ
+KonkaniLanguageकोंकणीDevangari script
+KonkaniLanguageकोंकणीDevangari script
+KoreanLanguage한국어/조선말
+KoreanLanguage한국어/조선말
+LaoLanguageພາສາລາວ
+LaoLanguageພາສາລາວ
+LatvianLanguagelatviešu valoda
+LatvianLanguagelatviešu valoda
+LithuanianLanguagelietuvių kalba
+LithuanianLanguagelietuvių kalba
+MalayLanguageBahasa Melayu
+MalayLanguageBahasa Melayu
+MalayalamLanguageമലയാളം
+MalayalamLanguageമലയാളം
+MarathiLanguageमराठी
+MarathiLanguageमराठी
+MongolianLanguageМонгол хэл
+MongolianLanguageМонгол хэл
+NepaliLanguageनेपाली
+NepaliLanguageनेपाली
+NorwegianLanguagenorsk
+NorwegianLanguagenorsk
+OriyaLanguageଓଡ଼ିଆ
+OriyaLanguageଓଡ଼ିଆ
+OromoLanguageAfaan Oromoo
+OromoLanguageAfaan Oromoo
+PersianLanguageفارسی
+PersianLanguageفارسی
+PolishLanguagejęzyk polski
+PolishLanguagejęzyk polski
+PortugueseLanguageportuguês
+PortugueseLanguageportuguês
+PunjabiLanguageਪੰਜਾਬੀ
+PunjabiLanguageਪੰਜਾਬੀ
+WesternPunjabiLanguageپنجابی
+WesternPunjabiLanguageپنجابی
+RomanianLanguagelimba română
+RomanianLanguagelimba română
+RussianLanguageрусский язык
+RussianLanguageрусский язык
+SanskritLanguageसंस्कृत
+SanskritLanguageसंस्कृत
+SlovakLanguageslovenský jazyk
+SlovakLanguageslovenský jazyk
+SloveneLanguageslovenščina
+SloveneLanguageslovenščina
+SerbianLanguageСрпски
+SerbianLanguageСрпски
+SinhalaLanguageසිංහල
+SinhalaLanguageසිංහල
+SpanishLanguageespañol
+SpanishLanguageespañol
+SwahiliLanguageKiswahili
+SwahiliLanguageKiswahili
+SwedishLanguagesvenska
+SwedishLanguagesvenska
+TagalogLanguageWikang Tagalog
+TagalogLanguageWikang Tagalog
+TamilLanguageதமிழ
+TamilLanguageதமிழ
+TeluguLanguageతెలుగు
+TeluguLanguageతెలుగు
+ThaiLanguageภาษาไทย
+ThaiLanguageภาษาไทย
+TigrinyaLanguageትግርኛ
+TigrinyaLanguageትግርኛ
+TurkishLanguageTürkçe
+TurkishLanguageTürkçe
+UkranianLanguageукраї́нська мо́ва
+UkranianLanguageукраї́нська мо́ва
+UrduLanguageاُردوُ
+UrduLanguageاُردوُ
+UzbekLanguageO‘zbek tili
+UzbekLanguageO‘zbek tili
+VietnameseLanguagetiếng Việt
+VietnameseLanguagetiếng Việt
+XhosaLanguageisiXhosa
+XhosaLanguageisiXhosa
+ZuluLanguageisiZulu
+ZuluLanguageisiZulu
+CategoryLanguageCategoryUnicode
+Languages  (last edited 2025-05-01 12:20:09 byMaciejOlko)
+MoinMoin Powered
+Python Powered
+GPL licensed
+Valid HTML 4.01
+Unable to edit the page? See the FrontPage for instructions.

@@ -1,0 +1,69 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Generative AI Application
+By Popular
+By Latest
+BeginnerGenAI ToolsGenerative AI ApplicationClaude 4 vs GPT-4o vs Gemini 2.5 Pro: Which AI Codes Best in 2025?Compare the programming capabilities and performances of Claude 4 Sonnet vs GPT-4o vs Gemini 2.5 Pro and find the best AI for coding.Vipin Vashisth25 May, 2025
+Claude 4 vs GPT-4o vs Gemini 2.5 Pro: Which AI Codes Best in 2025?
+Compare the programming capabilities and performances of Claude 4 Sonnet vs GPT-4o vs Gemini 2.5 Pro and find the best AI for coding.
+Artificial IntelligenceBeginnerData CleaningGenAI ToolsGenerative AI ApplicationHow to Clean Data Using AILearn how to use AI tools & chatbots like ChatGPT, Claude, and Gemini for cleaning data on Google Colab, Google Sheets, Windsurf, and Cursor.Soumil Jain24 May, 2025
+How to Clean Data Using AI
+Learn how to use AI tools & chatbots like ChatGPT, Claude, and Gemini for cleaning data on Google Colab, Google Sheets, Windsurf, and Cursor.
+Generative AI ApplicationIntermediate7 Things you didn’t know you could do with NotebookLMFind out how NotebookLM uses can enhance your productivity. Learn to summarize, generate ideas, and reduce info overload.Anu Madan23 May, 2025
+7 Things you didn’t know you could do with NotebookLM
+Find out how NotebookLM uses can enhance your productivity. Learn to summarize, generate ideas, and reduce info overload.
+BeginnerGenerative AIGenerative AI ApplicationHow to Build RAG Systems and AI Agents with Qwen3Learn to build RAG systems and AI agents with Qwen's latest model - Qwen3. Explore the key features and applications of Qwen3.Vipin Vashisth30 Apr, 2025
+How to Build RAG Systems and AI Agents with Qwen3
+Learn to build RAG systems and AI agents with Qwen's latest model - Qwen3. Explore the key features and applications of Qwen3.
+BeginnerGenAI ToolsGenerative AIGenerative AI ApplicationIs This the End of Virtual Interviews?Get to know Cluely.ai - an AI tool that helps people cheat in video interviews and sales calls - and the repercussions of using it.Anu Madan29 Apr, 2025
+Is This the End of Virtual Interviews?
+Get to know Cluely.ai - an AI tool that helps people cheat in video interviews and sales calls - and the repercussions of using it.
+BeginnerGenerative AI ApplicationHow to Generate and Edit Images Using OpenAI gpt-image-1 APIExplore the key features of OpenAI's gpt-image-1 model and learn how to use its API for image generation and editing.Shaik Hamzah26 Apr, 2025
+How to Generate and Edit Images Using OpenAI gpt-image-1 API
+Explore the key features of OpenAI's gpt-image-1 model and learn how to use its API for image generation and editing.
+AdvancedAI AgentsGenerative AI ApplicationI Tried to Build Image Captioning App With OpenAI Codex CLIExplore OpenAI Codex CLI, a powerful AI coding assistant for your terminal. Edit code, run commands & build features with natural language.Pankaj Singh21 Apr, 2025
+I Tried to Build Image Captioning App With OpenAI Codex CLI
+Explore OpenAI Codex CLI, a powerful AI coding assistant for your terminal. Edit code, run commands & build features with natural language.
+BeginnerchatbotGenerative AIGenerative AI Application7 Things Gemini 2.5 Pro Does Better Than Any Other Chatbot!7 tasks that Google Gemini 2.5 Pro does better than most other AI chatbots - from website building & deep research to post & podcast creationK.C. Sabreena Basheer19 Apr, 2025
+7 Things Gemini 2.5 Pro Does Better Than Any Other Chatbot!
+7 tasks that Google Gemini 2.5 Pro does better than most other AI chatbots - from website building & deep research to post & podcast creation
+Artificial IntelligenceBeginnerChatGPTGenerative AI ApplicationHealthcareHow Generative AI Is Reshaping Human ConnectionExplore how generative AI and human connections are evolving, providing emotional support and reshaping relationships.Vasu Deo Sankrityayan24 Apr, 2025
+How Generative AI Is Reshaping Human Connection
+Explore how generative AI and human connections are evolving, providing emotional support and reshaping relationships.
+BeginnerGenerative AIGenerative AI ApplicationCoding Made Easy with Canva CodeDiscover the power of Canva Code, a feature that transforms the design process by integrating powerful coding capabilities within Canva.Nitika Sharma18 Apr, 2025
+Coding Made Easy with Canva Code
+Discover the power of Canva Code, a feature that transforms the design process by integrating powerful coding capabilities within Canva.
+Popular in Generative AI Application
+7 Free ChatGPT Alternatives to Create Ghibli-Style Images
+Grok 3 is Here! And What It Can Do Will Blow Your Mind!
+10 Generative AI Coding Extensions in VS Code You Must Explore
+5 o3-mini Prompts to Try Out Today
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_cover_image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_DATA-CLEAN.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Notebooklm.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_How_to_Use_Qwen_3_with_RAG_Systems_AI_Agents_.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Is_it_the_end_of_virtual_interviews_.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_OpenAI-gpt-image-1-.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_codexcli.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_2.5-Pro-cover.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_How-Generative-AI-Is-Reshaping-Human-Connection-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Canva-Code-1.webp

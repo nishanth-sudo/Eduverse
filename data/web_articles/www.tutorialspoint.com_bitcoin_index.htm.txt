@@ -1,0 +1,39 @@
+Bitcoin - Home
+Bitcoin - Introduction
+Bitcoin - Environmental Setup
+Bitcoin - Blockchain Technology
+Bitcoin - Cryptocurrencies
+Bitcoin - Features
+Bitcoin - How do they work
+Bitcoin - Wallet
+Bitcoin - Mining
+Bitcoin - Exchanges
+Bitcoin - Trading
+Bitcoin - Glossary
+Bitcoin - Applications
+Bitcoin - Future
+Bitcoin Useful Resources
+Bitcoin - Quick Guide
+Bitcoin - Useful Resources
+Bitcoin - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Bitcoin Tutorial
+The tutorial begins by introducing what bitcoins are, then proceeds with the installation of the bitcoin client software and wallets to make bitcoins transactions possible. It also discusses bitcoin mining, exchanges, and trading. Finally, it moves on to applications and future of bitcoins. After reading this tutorial, you will have learned all the basics of bitcoins; enough to use bitcoins and make money by trading and investing in bitcoins.
+Audience
+This tutorial has been prepared for professionals aspiring to learn all the essentials of Bitcoins and develop a habit of buying products and services using bitcoins and lastly making money by trading in this brand new cryptocurrency.
+Prerequisites
+Before you start proceeding with this tutorial, we assume that you have basic computer skills, knowledge of downloading and installing software like Java and other applications. Prior exposure to the Linux operating system flavors would be an added advantage.
+
+[Images saved with this article:]
+www.tutorialspoint.com_bitcoin_images_bitcoin-mini-logo.jpg
+www.tutorialspoint.com_bitcoin_images_bitcoin.jpg

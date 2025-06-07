@@ -1,0 +1,50 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+The Python Software Foundation is an organization devoted to advancing open source technology related to the Python programming language.
+We support the Python Community through...
+Grants
+In 2024, the PSF awarded $655,000 USD to 257 groups or individuals in 61 countries around the world.
+Infrastructure
+We support and maintainpython.org,The Python Package Index,Python Documentation,
+          and many other services the Python Community relies on.
+PyCon US
+We produce and underwrite thePyCon US Conference,
+          the largest annual gathering for the Python community.
+         Support from sponsors, attendees, PyLadies, and CPython enabled us to award more than $384,000 USD in travel grants to 254 attendees for PyCon US 2025.
+Become a Member
+Help the PSF promote, protect, and advance the Python programming language and community!
+Membership FAQ
+Donate
+Assist the foundation's goals with a donation. The PSF is a recognized 501(c)(3) non-profit organization.
+How to Contribute
+Volunteer
+Learn how you can help the PSF and the greater Python community!
+How to Volunteer
+Sponsors
+Without our sponsors we wouldn't be able to help the Python community grow and prosper.
+Sponsorship Possibilities
+PSF Grants Program
+The Python Software Foundation welcomes grant proposals for projects related to the development of Python, Python-related technology, and educational resources.
+Proposal Guidelines, FAQ and Examples
+PSF News
+Announcing Python Software Foundation Fellow Members for Q1 2025! 🎉
+A thank you to the Oregon State University Open Source Lab
+Python Software Foundation Names New Deputy Executive Director
+2025 PSF Board Election Schedule Change
+PSF Grants Program 2024 Transparency Report
+PSF News: PyCon US, PyPI Orgs, and Bluesky 🦋
+PSF Distinguished Service Award Granted to Thomas Wouters
+PSF Distinguished Service Award Granted to Van Lindberg
+PSF Distinguished Service Award Granted to Ewa Jodlowska
+Announcing Python Software Foundation Fellow Members for Q4 2024! 🎉
+
+[Images saved with this article:]
+www.python.org_static_img_psf-logo.png

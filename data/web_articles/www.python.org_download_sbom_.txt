@@ -1,0 +1,42 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Software Bill-of-Materials InformationBackgroundStarting with thePython 3.12.2 release, CPython release artifacts include Software Bill-of-Materials (SBOM) documents.This page provides guidance on downloading and using Software Bill-of-Materials documents describing CPython release artifacts. Currently SBOM documents are only available for source code releases.What is a Software Bill-of-Materials (SBOM)?Software Bill-of-Materials documents are like a list of ingredients for a piece of software, describing each component, where the component was sourced from, and how each component was combined into the final software artifact. SBOM documents implement an ecosystem-independent format and can be used for supply chain management and tracking vulnerabilities in software.Getting started with CPython SBOMsCPython provides SBOM documents using theSPDX 2 standardand using JSON as the encoding format. Other formats likeCycloneDXcan be created using transformation tools likeprotobom, if desired.SBOM documents will use the artifact name that they describe as a base with the appropriate file extension for the format (ie.spdx.json) appended to the end. For example, when downloading the SBOM document for the source tarballPython-3.12.2.tgzthe SBOM document will be namedPython-3.12.2.tgz.spdx.json.SBOM documents can be downloaded from the Python release page or can be downloaded using an HTTP client. Below is an example of downloading the SBOM document using curl:$ curl --remote-name https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.spdx.jsonAfter downloading the SBOM document there should be a file namedPython-3.12.2.tgz.spdx.jsonin your working directory.What's included in CPython's Software Bill-of-Materials?SBOM documents include a description of the contained software, including all of its dependencies. Some examples of information about the software are:Names and versions of all software componentsSoftware identifiers (likeCPEandPackage URLs)Download URLs for source code with checksumsFile names and content checksumsDependency relationships between each componentCPython SBOMs satisfy the requirements listed in theNTIA Minimum Elements for a Software Bill of Materials. Software identifiers can be used for correlating software in use to vulnerability databases like theCVE databaseandOpen Source Vulnerability database(OSV), typically done automatically using vulnerability scanning tools.For a complete list of historical vulnerabilities affecting CPython you canquery the web frontend of the OSV database. New vulnerability advisories are published to these databases in addition to thesecurity-announce@python.orgmailing list.
+Software Bill-of-Materials Information
+Background
+Starting with thePython 3.12.2 release, CPython release artifacts include Software Bill-of-Materials (SBOM) documents.
+This page provides guidance on downloading and using Software Bill-of-Materials documents describing CPython release artifacts. Currently SBOM documents are only available for source code releases.
+What is a Software Bill-of-Materials (SBOM)?
+Software Bill-of-Materials documents are like a list of ingredients for a piece of software, describing each component, where the component was sourced from, and how each component was combined into the final software artifact. SBOM documents implement an ecosystem-independent format and can be used for supply chain management and tracking vulnerabilities in software.
+Getting started with CPython SBOMs
+CPython provides SBOM documents using theSPDX 2 standardand using JSON as the encoding format. Other formats likeCycloneDXcan be created using transformation tools likeprotobom, if desired.
+SBOM documents will use the artifact name that they describe as a base with the appropriate file extension for the format (ie.spdx.json) appended to the end. For example, when downloading the SBOM document for the source tarballPython-3.12.2.tgzthe SBOM document will be namedPython-3.12.2.tgz.spdx.json.
+.spdx.json
+Python-3.12.2.tgz
+Python-3.12.2.tgz.spdx.json
+SBOM documents can be downloaded from the Python release page or can be downloaded using an HTTP client. Below is an example of downloading the SBOM document using curl:
+$ curl --remote-name https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.spdx.json
+$ curl --remote-name https://www.python.org/ftp/python/3.12.2/Python-3.12.2.tgz.spdx.json
+After downloading the SBOM document there should be a file namedPython-3.12.2.tgz.spdx.jsonin your working directory.
+Python-3.12.2.tgz.spdx.json
+What's included in CPython's Software Bill-of-Materials?
+SBOM documents include a description of the contained software, including all of its dependencies. Some examples of information about the software are:
+Names and versions of all software components
+Software identifiers (likeCPEandPackage URLs)
+Download URLs for source code with checksums
+File names and content checksums
+Dependency relationships between each component
+CPython SBOMs satisfy the requirements listed in theNTIA Minimum Elements for a Software Bill of Materials. Software identifiers can be used for correlating software in use to vulnerability databases like theCVE databaseandOpen Source Vulnerability database(OSV), typically done automatically using vulnerability scanning tools.
+For a complete list of historical vulnerabilities affecting CPython you canquery the web frontend of the OSV database. New vulnerability advisories are published to these databases in addition to thesecurity-announce@python.orgmailing list.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

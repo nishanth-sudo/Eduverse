@@ -1,0 +1,45 @@
+Scikit Learn - Home
+Scikit Learn - Introduction
+Scikit Learn - Modelling Process
+Scikit Learn - Data Representation
+Scikit Learn - Estimator API
+Scikit Learn - Conventions
+Scikit Learn - Linear Modeling
+Scikit Learn - Extended Linear Modeling
+Stochastic Gradient Descent
+Scikit Learn - Support Vector Machines
+Scikit Learn - Anomaly Detection
+Scikit Learn - K-Nearest Neighbors
+Scikit Learn - KNN Learning
+Classification with Naïve Bayes
+Scikit Learn - Decision Trees
+Randomized Decision Trees
+Scikit Learn - Boosting Methods
+Scikit Learn - Clustering Methods
+Clustering Performance Evaluation
+Dimensionality Reduction using PCA
+Scikit Learn Useful Resources
+Scikit Learn - Quick Guide
+Scikit Learn - Useful Resources
+Scikit Learn - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Scikit Learn Tutorial
+Scikit-learn (Sklearn) is the most useful and robust library for machine learning in Python. It provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python. This library, which is largely written in Python, is built upon NumPy, SciPy and Matplotlib.
+Audience
+This tutorial will be useful for graduates, postgraduates, and research students who either have an interest in this Machine Learning subject or have this subject as a part of their curriculum. The reader can be a beginner or an advanced learner.
+Prerequisites
+The reader must have basic knowledge about Machine Learning. He/she should also be aware about Python, NumPy, Scipy, Matplotlib. If you are new to any of these concepts, we recommend you take up tutorials concerning these topics, before you dig further into this tutorial.
+
+[Images saved with this article:]
+www.tutorialspoint.com_scikit_learn_images_scikit-learn-mini-logo.jpg
+www.tutorialspoint.com_scikit_learn_images_scikit-learn.jpg

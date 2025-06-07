@@ -1,0 +1,123 @@
+Spring Boot - Home
+Spring Boot - Introduction
+Spring Boot - Quick Start
+Spring Boot - Bootstrapping
+Spring Tool Suite
+Spring Boot - Tomcat Deployment
+Spring Boot - Build Systems
+Spring Boot - Code Structure
+Spring Beans & Dependency Injection
+Spring Boot - Runners
+Spring Boot - Starters
+Spring Boot - Application Properties
+Spring Boot - Configuration
+Spring Boot - Annotations
+Spring Boot - Logging
+Building RESTful Web Services
+Spring Boot - Exception Handling
+Spring Boot - Interceptor
+Spring Boot - Servlet Filter
+Spring Boot - Tomcat Port Number
+Spring Boot - Rest Template
+Spring Boot - File Handling
+Spring Boot - Service Components
+Spring Boot - Thymeleaf
+Consuming RESTful Web Services
+Spring Boot - CORS Support
+Spring Boot - Internationalization
+Spring Boot - Scheduling
+Spring Boot - Enabling HTTPS
+Spring Boot - Eureka Server
+Service Registration with Eureka
+Gateway Proxy Server and Routing
+Spring Cloud Configuration Server
+Spring Cloud Configuration Client
+Spring Boot - Actuator
+Spring Boot - Admin Server
+Spring Boot - Admin Client
+Spring Boot - Enabling Swagger2
+Spring Boot - Using SpringDoc OpenAPI
+Spring Boot - Creating Docker Image
+Tracing Micro Service Logs
+Spring Boot - Flyway Database
+Spring Boot - Sending Email
+Spring Boot - Hystrix
+Spring Boot - Web Socket
+Spring Boot - Batch Service
+Spring Boot - Apache Kafka
+Spring Boot - Twilio
+Spring Boot - Unit Test Cases
+Rest Controller Unit Test
+Spring Boot - Database Handling
+Securing Web Applications
+Spring Boot - OAuth2 with JWT
+Spring Boot - Google Cloud Platform
+Spring Boot - Google OAuth2 Sign-In
+Spring Boot - Quick Guide
+Spring Boot - Useful Resources
+Spring Boot - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Spring Boot Tutorial
+Spring Boot is an open source Java-based framework used to create a Micro Service. It is developed by Pivotal Team. It is easy to create a stand-alone and production ready spring applications using Spring Boot. Spring Boot contains a comprehensive infrastructure support for developing a micro service and enables you to develop enterprise-ready applications that you canjust run.
+Why to Learn Spring Boot?
+Spring Boot provides a great range of features and benefits as given here−
+Flexibility− Spring Boot provides multiple flexible ways to configure Java Beans, XML configurations, and Database Transactions.
+Flexibility− Spring Boot provides multiple flexible ways to configure Java Beans, XML configurations, and Database Transactions.
+Powerful Batch Processing− Spring Boot provides a strong batch mechanism.
+Powerful Batch Processing− Spring Boot provides a strong batch mechanism.
+Microservices Support− Micro Service is an architecture that allows the developers to develop and deploy services independently. Each service running has its own process and this achieves the lightweight model to support business applications. Spring Boot provides mechanism to develop and test microservices easily.
+Microservices Support− Micro Service is an architecture that allows the developers to develop and deploy services independently. Each service running has its own process and this achieves the lightweight model to support business applications. Spring Boot provides mechanism to develop and test microservices easily.
+Auto Configuration− In Spring Boot, everything is auto configured; no manual configurations are needed.
+Auto Configuration− In Spring Boot, everything is auto configured; no manual configurations are needed.
+Annotation Based− In Spring Boot, we can create a running application with very few annotations.
+Annotation Based− In Spring Boot, we can create a running application with very few annotations.
+Eases dependency management− Spring Boot provides many starters as per need like for web, for database etc to handle dependencies effectively. A starter project provides dependency management for corresponding functionalities.
+Eases dependency management− Spring Boot provides many starters as per need like for web, for database etc to handle dependencies effectively. A starter project provides dependency management for corresponding functionalities.
+Embedded Servlet Container− Spring Boot provides an embedded servlet container(jetty) which can be changed as well. This container is very useful while testing the application. We can test all functionalities without deploying the spring boot application on any external application container.
+Embedded Servlet Container− Spring Boot provides an embedded servlet container(jetty) which can be changed as well. This container is very useful while testing the application. We can test all functionalities without deploying the spring boot application on any external application container.
+Applications of Spring Boot
+Following is the list of few of the great benefits of using Spring Boot Framework −
+POJO Based- Spring Boot enables developers to develop enterprise-class applications using POJOs. The benefit of using only POJOs is that you do not need an EJB container product such as an application server but you have the option of using only a robust servlet container such as Tomcat or some commercial product.
+POJO Based- Spring Boot enables developers to develop enterprise-class applications using POJOs. The benefit of using only POJOs is that you do not need an EJB container product such as an application server but you have the option of using only a robust servlet container such as Tomcat or some commercial product.
+Modular- Spring Boot is modular by nature. Even though the number of packages and classes are substantial, you have to worry only about the ones you need and ignore the rest.
+Modular- Spring Boot is modular by nature. Even though the number of packages and classes are substantial, you have to worry only about the ones you need and ignore the rest.
+Integration with existing frameworks- Spring Boot does not reinvent the wheel, instead it truly makes use of some of the existing technologies like several ORM frameworks, logging frameworks, JEE, Quartz and JDK timers, and other view technologies.
+Integration with existing frameworks- Spring Boot does not reinvent the wheel, instead it truly makes use of some of the existing technologies like several ORM frameworks, logging frameworks, JEE, Quartz and JDK timers, and other view technologies.
+Testablity- Testing an application written with Spring Boot is very easy because environment-dependent code is moved into this framework. Furthermore, by using Java Bean style POJOs, it becomes easier to use dependency injection for injecting test data.
+Testablity- Testing an application written with Spring Boot is very easy because environment-dependent code is moved into this framework. Furthermore, by using Java Bean style POJOs, it becomes easier to use dependency injection for injecting test data.
+Web MVC- Spring Boot's web framework is a well-designed web MVC framework, which provides a great alternative to web frameworks such as Struts or other over-engineered or less popular web frameworks.
+Web MVC- Spring Boot's web framework is a well-designed web MVC framework, which provides a great alternative to web frameworks such as Struts or other over-engineered or less popular web frameworks.
+Central Exception Handling- Spring Boot provides a convenient API to translate technology-specific exceptions (thrown by JDBC, Hibernate, or JDO, for example) into consistent, unchecked exceptions.
+Central Exception Handling- Spring Boot provides a convenient API to translate technology-specific exceptions (thrown by JDBC, Hibernate, or JDO, for example) into consistent, unchecked exceptions.
+Lightweight- Lightweight IoC containers tend to be lightweight, especially when compared to EJB containers, for example. This is beneficial for developing and deploying applications on computers with limited memory and CPU resources.
+Lightweight- Lightweight IoC containers tend to be lightweight, especially when compared to EJB containers, for example. This is beneficial for developing and deploying applications on computers with limited memory and CPU resources.
+Transaction management- Spring Boot provides a consistent transaction management interface that can scale down to a local transaction (using a single database, for example) and scale up to global transactions (using JTA, for example).
+Transaction management- Spring Boot provides a consistent transaction management interface that can scale down to a local transaction (using a single database, for example) and scale up to global transactions (using JTA, for example).
+Goals of Spring Boot
+Spring Boot is designed with the following goals−
+Simpler Configuration− To avoid complex XML configuration in Spring. With very few annotations, we can achieve the same configurations.
+Simpler Configuration− To avoid complex XML configuration in Spring. With very few annotations, we can achieve the same configurations.
+Ease of Development− To develop a production ready Spring applications in an easier way.
+Ease of Development− To develop a production ready Spring applications in an easier way.
+Reduce Development Efforts− To reduce the development time and run the application independently.
+Reduce Development Efforts− To reduce the development time and run the application independently.
+Easy Deployment− Offer an easier way of getting started with the application by providing an embedded application container to test the application locally.
+Easy Deployment− Offer an easier way of getting started with the application by providing an embedded application container to test the application locally.
+Audience
+This tutorial is designed for Java developers to understand and develop production-ready spring applications with minimum configurations. It explores major features of Spring Boot such as Starters, Auto-configuration, Beans, Actuator and more. By the end of this tutorial, you will gain an intermediate level of expertise in Spring Boot.
+Prerequisites
+This tutorial is written for readers who have a prior experience of Java, Spring, Maven, and Gradle. You can easily understand the concepts of Spring Boot if you have knowledge on these concepts. It would be an additional advantage if you have an idea about writing a RESTful Web Service. If you are a beginner, we suggest you to go through tutorials related to these concepts before you start with Spring Boot.
+
+[Images saved with this article:]
+www.tutorialspoint.com_spring_boot_images_spring-boot-mini-logo.jpg
+www.tutorialspoint.com_spring_boot_images_spring_boot.jpg

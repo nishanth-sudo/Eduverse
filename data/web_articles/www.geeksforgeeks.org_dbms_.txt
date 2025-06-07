@@ -1,0 +1,313 @@
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Crack GATE 2026
+Explore GfG Courses
+DBMS Tutorial – Learn Database Management System
+Basic of DBMS
+Introduction of DBMS (Database Management System)
+History of DBMS
+Advantages of Database Management System
+Disadvantages of DBMS
+Application of DBMS
+Need for DBMS
+DBMS Architecture 1-level, 2-Level, 3-Level
+Difference between File System and DBMS
+Entity Relationship Model
+Introduction of ER Model
+Structural Constraints of Relationships in ER Model
+Difference between entity, entity set  and entity type
+Difference between Strong and Weak Entity
+Generalization, Specialization and Aggregation in ER Model
+Recursive Relationships in ER diagrams
+Relational Model
+Introduction of Relational Model and Codd Rules in DBMS
+Types of Keys in Relational Model (Candidate, Super, Primary, Alternate and Foreign)
+Anomalies in Relational Model
+Mapping from ER Model to Relational Model
+Strategies for Schema design in DBMS
+Relational Algebra
+Introduction of Relational Algebra in DBMS
+Basic Operators in Relational Algebra
+Extended Operators in Relational Algebra
+SQL Joins (Inner, Left, Right and Full Join)
+Join operation Vs Nested query in DBMS
+Tuple Relational Calculus (TRC) in DBMS
+Domain Relational Calculus in DBMS
+Functional Dependencies
+Functional Dependency and Attribute Closure
+Armstrong's Axioms in Functional Dependency in DBMS
+Equivalence of Functional Dependencies
+Canonical Cover of Functional Dependencies in DBMS
+Normalisation
+Introduction of Database Normalization
+Normal Forms in DBMS
+First Normal Form (1NF)
+Second Normal Form (2NF)
+Boyce-Codd Normal Form (BCNF)
+Introduction of 4th and 5th Normal Form in DBMS
+The Problem of Redundancy in Database
+Dependency Preserving Decomposition - DBMS
+Lossless Decomposition in DBMS
+Lossless Join and Dependency Preserving Decomposition
+Denormalization in Databases
+Transactions and Concurrency Control
+Concurrency Control in DBMS
+ACID Properties in DBMS
+Implementation of Locking in DBMS
+Lock Based Concurrency Control Protocol in DBMS
+Graph Based Concurrency Control Protocol in DBMS
+Two Phase Locking Protocol
+Multiple Granularity Locking in DBMS
+Polygraph to check View Serializability in DBMS
+Log based Recovery in DBMS
+Timestamp based Concurrency Control
+Dirty Read in SQL
+Types of Schedules in DBMS
+Conflict Serializability in DBMS
+Condition of schedules to be View-equivalent
+Recoverability in DBMS
+Precedence Graph for Testing Conflict Serializability in DBMS
+Database Recovery Techniques in DBMS
+Starvation in DBMS
+Deadlock in DBMS
+Types of Schedules Based on Recoverability in DBMS
+Why recovery is needed in DBMS
+Indexing, B and B+ trees
+Indexing in Databases - Set 1
+Introduction of B-Tree
+Insert Operation in B-Tree
+Delete Operation in B-Tree
+Introduction of B+ Tree
+Bitmap Indexing in DBMS
+Inverted Index
+Difference between Inverted Index and Forward Index
+SQL Queries on Clustered and Non-Clustered Indexes
+File organization
+File Organization in DBMS - Set 1
+File Organization in DBMS | Set 2
+File Organization in DBMS | Set 3
+DBMS Interview questions and Last minute notes
+Last Minute Notes - DBMS
+Top 60 DBMS Interview Questions with Answers for 2025
+Commonly asked DBMS Interview Questions | Set 2
+DBMS GATE Previous Year Questions
+Database Management System - GATE CSE Previous Year Questions
+Database Management Systems | Set 2
+Database Management Systems | Set 3
+Database Management Systems | Set 4
+Database Management Systems | Set 5
+Database Management Systems | Set 6
+Database Management Systems | Set 7
+Database Management Systems | Set 8
+DSA to DevelopmentCourse
+DBMS Tutorial – Learn Database Management SystemLast Updated :22 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportDatabase Management System (DBMS)is a software used to manage data from a database.A database is a structured collection of data that is stored in an electronic device.  The data can be text, video, image or any other format.A relational database stores data in the form of tables and a NoSQL database in the form of key-value pairs.SQL (Structured Query Language) is a standard language for accessing and manipulating data in a relational database.A DBMS is a software that allows to create, update and retrieval of data in an organized way. It also provides security to the database.Examples of relational DBMS are MySQL, Oracle, Microsoft SQL Server, Postgre SQL and Snowflake.Examples of NoSQL DBMS are MongoDB, Cassandra, DynamoDB and Redis.In thisDatabase Management System tutorial, you’ll learn basic to advanced topics like the ER model, Relational Model, Relation Algebra, Normalization, File Organization, etc.IntroductionNeed For DBMSDBMS IntroductionDBMS Architecture (1, 2 and 3 Tier)Entity Relationship ModelER ModelEnhanced ER ModelMinimization of ER DiagramGeneralization, Specialization and AggregationRecursive RelationshipsRelational Model and Functional DependenciesRelational ModelKeys (Candidate, Super, Primary, Alternate and Foreign)Functional Dependency and Attribute ClosureFinding Attribute Closure and Candidate Keys using Functional DependenciesArmstrong’s Axioms in Functional DependencyEquivalence of Functional DependenciesCanonical CoverAnomalies in Relational ModelMapping from ER Model to Relational ModelStrategies for Schema designSchema Integration>> Quiz on ER and Relational ModelNormalizationIntroductionNormal FormsMinimum relations satisfying 1NFThe Problem of redundancy in DatabaseDependency Preserving DecompositionLossless Join DecompositionLossless Join and Dependency Preserving DecompositionHow to find the Highest Normal Form of a RelationIntroduction of 4th and 5th Normal formDomain Key normal formDenormalization in DatabasesDBMS | Data Replication>> Quiz on Normal FormsRelational Algebra and CalculusIntroductionBasic OperatorsExtended OperatorsInner Join vs Outer JoinJoin operation Vs nested queryTuple Relational CalculusRow oriented vs. column oriented data storesTransactions and Concurrency ControlIntroductionACID PropertiesConcurrency Control -IntroductionTypes of SchedulesConflict SerializabilityView SerializabilityHow to test if two schedules are View Equal or not ?Recoverability of SchedulesPrecedence Graph for testing Conflict SerializabilityTransaction Isolation Levels in DBMSImplementation of Locking in DBMSLock Based ProtocolGraph Based ProtocolTwo Phase Locking (2-PL)Multiple Granularity LockingThomas Write RulePolygraph to check View SerializabilityLog based recoveryTimestamp Ordering ProtocolsTimeStamp and Deadlock Prevention SchemesDirty read in SQLDatabase Recovery TechniquesStarvation in DBMSDeadlock in DBMSDBMS | OLAP vs OLTPTypes of OLAP SystemsTypes of Recoverability of Schedules and easiest way to test schedule | Set 2>> Quiz on Transactions and concurrency controlIndexing, B and B+ treesIndexing and its TypesB-Tree | Set 1 (Introduction)B-Tree | Set 2 (Insert)B-Tree | Set 3 (Delete)B+ Tree (Introduction)Bitmap IndexingInverted IndexDifference between Inverted Index and Forward IndexSQL queries on clustered and non-clustered Indexes>> Practice questions on B and B+ Trees>> Quizzes on Indexing, B and B+ TreesFile OrganizationFile Organization – Set 1File Organization – Set 2 (Hashing in DBMS)File Organization – Set 3File Organization – Set 4>> Quiz on File structuresAdvanced TopicsMultimedia DatabaseRAIDQuery OptimizationHow to store a password in database?Storage Area NetworksNetwork attached storageODBMS – Definition and overviewDifference between RDBMS and HBaseChallenges of database securityFederated database management system issuesDistributed Database SystemFunctions of Distributed Database SystemSemantic HeterogeneityAdvantages of Distributed databaseComparison – Centralized, Decentralized and Distributed SystemsCharacteristics of Biological Data (Genome Data Management)Data Management issues in Mobile databaseFuture Works in Geographic Information SystemDifference between Structured, Semi-structured and Unstructured dataWeb Information Retrieval | Vector Space ModelData Warehouse and Data MiningStar Schema in Data Warehouse modelingData Warehouse Modeling | Snowflake SchemaDimensional Data ModelingData WarehousingData Warehouse ArchitectureCharacteristics and Functions of Data warehouseDifficulties of Implementing Data WarehousesData MiningData Mining | KDD processData Mining | Sources of Data that can be minedData MartsArchitecture of HBaseApache HBaseArchitecture and Working of HiveApache HiveDifference between Hive and HBaseInterview QuestionsDBMS interview questions | Set 1DBMS interview questions | Set 2SQL Interview QuestionsSQL Query Interview QuestionsPostgreSQL Interview QuestionsPL/SQL Intevriew QuestionsSQL TutorialSQL | TutorialQuiz on SQLMisc TopicsDBMS InterfacesCategories of DBMS UsersData Abstraction and Data IndependenceDatabase ObjectsImpedance MismatchDBMS practices questionsDatabase Management Systems | Set 1Database Management Systems | Set 2Database Management Systems | Set 3Database Management Systems | Set 4Database Management Systems | Set 5Database Management Systems | Set 6Database Management Systems | Set 7Database Management Systems | Set 8Database Management Systems | Set 9Database Management Systems | Set 10Database Management Systems | Set 11Advantages of DBMSThere are some following reasons to learn DBMS:Organizing and management of data:DBMS helps in managing large amounts of data in an organized manner. It provides features like create, edit, delete, and read.Data Security:DBMS provides Security to the data from the unauthorized person.Improved decision-making: From stored data in the database we can generate graphs, reports, and many visualizations which helps in decision-making.Consistency:In a traditional database model all things are manual or inconsistent, but DBMS enables to automation of the operations by queries.Disadvantages of DBMSComplexity:DBMS can be hard to design, implement, and manage, needing specialized knowledge.Cost:High setup costs, including hardware, software, and skilled personnel, can be expensive. Ongoing maintenance adds to the cost.Performance Overhead:DBMS might slow down simple tasks due to their extra features and general-purpose nature.Security Risks:Centralizing data can create security risks. If the system is hacked, all data could be compromised.Resource Intensive:DBMS need a lot of memory, storage, and processing power, which can be costly.Data Integrity Issues:Complex systems can lead to data integrity problems if not managed well.ConclusionUnderstanding Database Management Systems (DBMS) is essential for managing and organizing data effectively. This DBMS tutorial has introduced you to key concepts like database models, SQL queries, normalization, and data security. With this knowledge, you can design efficient databases, maintain data integrity, and improve performance.Quick Links:Last Minutes Notes(LMNs) on DBMSQuizzes on DBMSPractice Problems on DBMSNext ArticleIntroduction of DBMS (Database Management System)kartikImproveArticle Tags :DBMSGATE CSdbms
+DBMS Tutorial – Learn Database Management System
+Database Management System (DBMS)is a software used to manage data from a database.
+A database is a structured collection of data that is stored in an electronic device.  The data can be text, video, image or any other format.
+A relational database stores data in the form of tables and a NoSQL database in the form of key-value pairs.
+SQL (Structured Query Language) is a standard language for accessing and manipulating data in a relational database.
+A DBMS is a software that allows to create, update and retrieval of data in an organized way. It also provides security to the database.
+Examples of relational DBMS are MySQL, Oracle, Microsoft SQL Server, Postgre SQL and Snowflake.
+Examples of NoSQL DBMS are MongoDB, Cassandra, DynamoDB and Redis.
+In thisDatabase Management System tutorial, you’ll learn basic to advanced topics like the ER model, Relational Model, Relation Algebra, Normalization, File Organization, etc.
+Introduction
+Need For DBMS
+DBMS Introduction
+DBMS Architecture (1, 2 and 3 Tier)
+Entity Relationship Model
+ER Model
+Enhanced ER Model
+Minimization of ER Diagram
+Generalization, Specialization and Aggregation
+Recursive Relationships
+Relational Model and Functional Dependencies
+Relational Model
+Keys (Candidate, Super, Primary, Alternate and Foreign)
+Functional Dependency and Attribute Closure
+Finding Attribute Closure and Candidate Keys using Functional Dependencies
+Armstrong’s Axioms in Functional Dependency
+Equivalence of Functional Dependencies
+Canonical Cover
+Anomalies in Relational Model
+Mapping from ER Model to Relational Model
+Strategies for Schema design
+Schema Integration
+>> Quiz on ER and Relational Model
+Normalization
+Introduction
+Normal Forms
+Minimum relations satisfying 1NF
+The Problem of redundancy in Database
+Dependency Preserving Decomposition
+Lossless Join Decomposition
+Lossless Join and Dependency Preserving Decomposition
+How to find the Highest Normal Form of a Relation
+Introduction of 4th and 5th Normal form
+Domain Key normal form
+Denormalization in Databases
+DBMS | Data Replication
+>> Quiz on Normal Forms
+Relational Algebra and Calculus
+Introduction
+Basic Operators
+Extended Operators
+Inner Join vs Outer Join
+Join operation Vs nested query
+Tuple Relational Calculus
+Row oriented vs. column oriented data stores
+Transactions and Concurrency Control
+Introduction
+ACID Properties
+Concurrency Control -Introduction
+Types of Schedules
+Conflict Serializability
+View Serializability
+How to test if two schedules are View Equal or not ?
+Recoverability of Schedules
+Precedence Graph for testing Conflict Serializability
+Transaction Isolation Levels in DBMS
+Implementation of Locking in DBMS
+Lock Based Protocol
+Graph Based Protocol
+Two Phase Locking (2-PL)
+Multiple Granularity Locking
+Thomas Write Rule
+Polygraph to check View Serializability
+Log based recovery
+Timestamp Ordering Protocols
+TimeStamp and Deadlock Prevention Schemes
+Dirty read in SQL
+Database Recovery Techniques
+Starvation in DBMS
+Deadlock in DBMS
+DBMS | OLAP vs OLTP
+Types of OLAP Systems
+Types of Recoverability of Schedules and easiest way to test schedule | Set 2
+>> Quiz on Transactions and concurrency control
+Indexing, B and B+ trees
+Indexing and its Types
+B-Tree | Set 1 (Introduction)
+B-Tree | Set 2 (Insert)
+B-Tree | Set 3 (Delete)
+B+ Tree (Introduction)
+Bitmap Indexing
+Inverted Index
+Difference between Inverted Index and Forward Index
+SQL queries on clustered and non-clustered Indexes
+>> Practice questions on B and B+ Trees>> Quizzes on Indexing, B and B+ Trees
+File Organization
+File Organization – Set 1
+File Organization – Set 2 (Hashing in DBMS)
+File Organization – Set 3
+File Organization – Set 4
+>> Quiz on File structures
+Advanced Topics
+Multimedia Database
+RAID
+Query Optimization
+How to store a password in database?
+Storage Area Networks
+Network attached storage
+ODBMS – Definition and overview
+Difference between RDBMS and HBase
+Challenges of database security
+Federated database management system issues
+Distributed Database System
+Functions of Distributed Database System
+Semantic Heterogeneity
+Advantages of Distributed database
+Comparison – Centralized, Decentralized and Distributed Systems
+Characteristics of Biological Data (Genome Data Management)
+Data Management issues in Mobile database
+Future Works in Geographic Information System
+Difference between Structured, Semi-structured and Unstructured data
+Web Information Retrieval | Vector Space Model
+Data Warehouse and Data Mining
+Star Schema in Data Warehouse modeling
+Data Warehouse Modeling | Snowflake Schema
+Dimensional Data Modeling
+Data Warehousing
+Data Warehouse Architecture
+Characteristics and Functions of Data warehouse
+Difficulties of Implementing Data Warehouses
+Data Mining
+Data Mining | KDD process
+Data Mining | Sources of Data that can be mined
+Data Marts
+Architecture of HBase
+Apache HBase
+Architecture and Working of Hive
+Apache Hive
+Difference between Hive and HBase
+Interview Questions
+DBMS interview questions | Set 1
+DBMS interview questions | Set 2
+SQL Interview Questions
+SQL Query Interview Questions
+PostgreSQL Interview Questions
+PL/SQL Intevriew Questions
+SQL Tutorial
+SQL | Tutorial
+Quiz on SQL
+Misc Topics
+DBMS Interfaces
+Categories of DBMS Users
+Data Abstraction and Data Independence
+Database Objects
+Impedance Mismatch
+DBMS practices questions
+Database Management Systems | Set 1
+Database Management Systems | Set 2
+Database Management Systems | Set 3
+Database Management Systems | Set 4
+Database Management Systems | Set 5
+Database Management Systems | Set 6
+Database Management Systems | Set 7
+Database Management Systems | Set 8
+Database Management Systems | Set 9
+Database Management Systems | Set 10
+Database Management Systems | Set 11
+Advantages of DBMS
+There are some following reasons to learn DBMS:
+Organizing and management of data:DBMS helps in managing large amounts of data in an organized manner. It provides features like create, edit, delete, and read.
+Data Security:DBMS provides Security to the data from the unauthorized person.
+Improved decision-making: From stored data in the database we can generate graphs, reports, and many visualizations which helps in decision-making.
+Consistency:In a traditional database model all things are manual or inconsistent, but DBMS enables to automation of the operations by queries.
+Disadvantages of DBMS
+Complexity:DBMS can be hard to design, implement, and manage, needing specialized knowledge.
+Cost:High setup costs, including hardware, software, and skilled personnel, can be expensive. Ongoing maintenance adds to the cost.
+Performance Overhead:DBMS might slow down simple tasks due to their extra features and general-purpose nature.
+Security Risks:Centralizing data can create security risks. If the system is hacked, all data could be compromised.
+Resource Intensive:DBMS need a lot of memory, storage, and processing power, which can be costly.
+Data Integrity Issues:Complex systems can lead to data integrity problems if not managed well.
+Conclusion
+Understanding Database Management Systems (DBMS) is essential for managing and organizing data effectively. This DBMS tutorial has introduced you to key concepts like database models, SQL queries, normalization, and data security. With this knowledge, you can design efficient databases, maintain data integrity, and improve performance.
+Quick Links:
+Last Minutes Notes(LMNs) on DBMS
+Quizzes on DBMS
+Practice Problems on DBMS
+DBMS
+GATE CS
+dbms
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240306171108_DBMS.webp
+media.geeksforgeeks.org_img-practice_prod_courses_252_Web_Content_cs_1722948837.webp
+media.geeksforgeeks.org_wp-content_uploads_20250201111442430181_GATE-Rank-Booster-with-Expert-Curated-Questions.webp
+media.geeksforgeeks.org_wp-content_uploads_20241230002535674344_file.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

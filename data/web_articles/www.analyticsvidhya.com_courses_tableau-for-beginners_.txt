@@ -1,0 +1,656 @@
+Login now to continue
+Enter email address to continue
+Enter OTP sent to
+Edit
+Resend OTP in30s
+20% off
+Almost Done!20% off
+Resend OTP in30s
+TableauforBeginners
+BeginnerLevel
+BeginnerLevel
+800+Students Enrolled
+800+Students Enrolled
+15 MinsDuration
+15 MinsDuration
+4.7Average Rating
+4.7Average Rating
+About this Course
+Learning Outcomes
+Who Should Enroll
+Course Curriculum
+Instructors
+About this Course
+Tableau is a leading data visualization tool used worldwide, and this course introduces its key features for beginners.
+Learn to connect data sources, create visualizations, and build dashboards to transform raw data into insights.
+Master essential skills like data prep, calculated fields, and sharing insights using Tableau’s intuitive interface.
+Learning Outcomes
+Data Connection
+Connect Tableau to data sources and prepare data for visualization.
+Visualization Basics
+Master key chart types and techniques for accurate visualization.
+Interactive Dashboards
+Build interactive dashboards with filters and multiple visuals.
+Who Should Enroll
+Aspiring data analysts eager to learn Tableau basics for crafting clear, impactful visualizations and insights to excel.
+Business professionals seeking to upgrade their data visualization skills with Tableau's intuitive analytics platform.
+Beginners in data visualization, analytics or BI who want to learn Tableau's basics and build compelling data stories.
+Course Curriculum
+Explore a comprehensive curriculum covering Python, machine learning models, deep learning techniques, and AI applications.
+1.Welcome to the Course
+1.Welcome to the Course
+2.AI&ML Blackbelt Plus Program
+2.AI&ML Blackbelt Plus Program
+1.What is Data Visualization and Why Should We Use It
+1.What is Data Visualization and Why Should We Use It
+2.Hans Rosling - 200 Countries 200 Years 4 Minutes
+2.Hans Rosling - 200 Countries 200 Years 4 Minutes
+1.Navigating the Tableau Interface Part 1
+1.Navigating the Tableau Interface Part 1
+2.Navigating the Tableau Interface Part 2
+2.Navigating the Tableau Interface Part 2
+1.Connect to the Data
+1.Connect to the Data
+2.Data Visualizations
+2.Data Visualizations
+1.Net Statistics
+1.Net Statistics
+2.Net Statistics Part 2
+2.Net Statistics Part 2
+3.Line Chart
+3.Line Chart
+4.Creating and Customizing Pie Charts in Tableau
+4.Creating and Customizing Pie Charts in Tableau
+5.Building and Enhancing Map Charts in Tableau
+5.Building and Enhancing Map Charts in Tableau
+6.Applying and Managing Filters in Tableau
+6.Applying and Managing Filters in Tableau
+1.Using Filters in Data Analysis
+1.Using Filters in Data Analysis
+2.Trend Line
+2.Trend Line
+1.What's Next?
+1.What's Next?
+Meet the instructor
+Our instructor and mentors carry years of experience in data industry
+Kunal Jain
+Founder & CEO, Analytics Vidhya
+Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- the world's 2nd largest Data Science community.
+Get this Course Now
+With this course you’ll get
+15 MinsDuration
+Duration
+Kunal JainInstructor
+Instructor
+BeginnerLevel
+Level
+Certificate of completion
+Earn a professional certificate upon course completion
+Globally recognized certificate
+Verifiable online credential
+Enhances professional credibility
+Frequently Asked Questions
+Looking for answers to other questions?
+This course is for anyone who is curious about Tableau and wants to understand how it works. We have designed the course especially for beginners in Tableau (and data visualization). We even cover the what and why of data visualization before we dive into Tableau - so it's all from scratch!
+Absolutely! As we mentioned earlier, this is a "from scratch" course. We do not assume any prior knowledge about analytics or business intelligence or Tableau. Our aim is to provide you with the knowledge of how to operate and work with Tableau to build impactful and effective visualizations in the analytics and BI industry.
+This course is free of cost! All you need to do is sign up and get started with Tableau.
+Once you register, you will have 6 months to complete the course. If you visit the course 6 months after your initial registration, you will need to enroll in the course again. Your past progress will be lost.
+You can complete the "Tableau for Beginners" course in a few hours.
+The next step in your journey is to build on what you've learned so far. We recommend taking the popular "Mastering Tableau from Scratch: Become a Data Visualization Rockstar" course.
+Related courses
+Expand your knowledge with these related courses and expand way beyond
+9 Hours30 Minutes5 Lessons4.7
+Building Data Strories Using Excel and Tableau
+1 Hour5 Lessons4.5
+Introduction to Business Analytics
+19 Minutes1 Lesson4.9
+Introduction  to Data Visualization
+Popular free courses
+Discover our most popular courses to boost your skills
+30 Minutes1 Lesson1
+Revolutionizing Query Resolution  with a RAG System  Assisted by Agents
+30 Minutes6 Lessons6
+Demystifying OpenAI  Agents SDK
+15 Minutes7 Lessons7
+Tableau for Beginners
+1 Hour2 Lessons2
+GenAI  Landscape
+2 Hours2 Lessons2
+Building and Evaluating RAG System
+1 Hour1 Lesson1
+Creating Problem-Solving Agents with  GenAI for Actions
+30 Minutes5 Lessons5
+K-Nearest Neighbors (KNN) Algorithm in Python and R
+1 Hour6 Lessons6
+Building a Deep Research AI Agent
+3 Hours9 Lessons9
+Build Data Pipelines with Apache Airflow
+2 Hours2 Lessons2
+Getting  Started with Tableau
+1 Hour30 Minutes3 Lessons3
+Getting Started with OpenAI o3-mini
+1 Hour20 Minutes1 Lesson1
+Understanding Linear  Regression
+2 Hours5 Lessons5
+A Comprehensive Learning Path to Become  a Data Scientist in 2024
+4 Hours5 Lessons5
+A B C of Coding to Build AI Agents
+1 Hour9 Lessons9
+Pandas  for Data Analysis in Python
+30 Minutes1 Lesson1
+Build Products 10x Faster with GenAI
+1 Hour20 Lessons20
+Introduction  to Python
+3 Hours3 Lessons3
+Introduction to Transformers and Attention Mechanisms
+1 Hour2 Lessons2
+Bagging and Boosting ML Algorithms
+38 Minutes1 Lesson1
+Nano Course Cutting Edge LLM Tricks
+45 Minutes1 Lesson1
+Building Intelligent Chatbots using AI
+20 Minutes6 Lessons6
+xAI Grok 3: Smartest AI on Earth
+1 Hour1 Lesson1
+Deep Dive Into QwQ-32B
+34 Minutes1 Lesson1
+Building Your First Computer Vision Model
+1 Hour1 Lesson1
+Learning Autonomous Driving Behaviors with LLMs and RL
+40 Minutes2 Lessons2
+Building Agentic AI  System with Bedrock
+40 Minutes1 Lesson1
+Building Scalable  Industry Applications with RAG and Agents
+1 Hour2 Lessons2
+Dreambooth: Stable DIffusion  for Custom Images
+30 Minutes2 Lessons2
+Naive Bayes from Scratch
+30 Minutes30 Lessons30
+Reimagining GenAI: Common Mistakes and Best Practices   for Success
+30 Minutes1 Lesson1
+Build a Resume Review Agentic System with CrewAI
+2 Hours4 Lessons4
+Building Smarter LLMs  with Mamba and  State Space Model
+3 Hours6 Lessons6
+Microsoft Excel Formulas & Functions
+19 Minutes1 Lesson1
+Introduction  to Data Visualization
+1 Hour30 Minutes9 Lessons9
+Fundamentals  of Regression Analysis
+1 Hour2 Lessons2
+OpenEngage: Build a complete AI Driven Marketing Engine
+1 Hour2 Lessons2
+Mastering Agentic Conversation Pattern with AG2
+30 Minutes5 Lessons5
+Ensemble Learning  and Ensemble Learning Techniques
+30 Minutes4 Lessons4
+Time Series Forecasting using Python
+9 Hours4 Lessons4
+Getting Started with  Deep Learning
+30 Minutes1 Lesson1
+Loan Prediction Practice Problem (Using Python)
+30 Minutes1 Lesson1
+Build a QA RAG system with Langchain
+1 Hour1 Lesson1
+Data Preprocessing on a Real-World Problem
+31 Minutes4 Lessons4
+Introduction to PyTorch for Deep Learning
+1 Hour1 Lesson1
+Coding a ChatGPT-style Language Model From Scratch in Pytorch
+30 Minutes1 Lesson1
+Build a Document Retriever Search Engine with LangChain
+60 Minutes3 Lessons3
+Frameworks  for effective Problem Solving
+30 Minutes1 Lesson1
+End to end RAG Application Development with LangChain and Streamlit
+2 Hours4 Lessons4
+Evaluation Metrics for Machine Learning Models
+1 Hour3 Lessons3
+Exploring OpenAI o3 and o4-mini
+34 Minutes2 Lessons2
+Getting Started with DeepSeek-AI
+1 Hour2 Lessons2
+No Code Predictive Analytics with Orange
+1 Hour6 Lessons6
+Generative AI on AWS
+1 Hour1 Lesson1
+Exploring Stability. AI
+1 Hour10 Minutes1 Lesson1
+MidJourney: From Inspiration to Implementation
+1 Hour10 Minutes2 Lessons2
+Building Text Classification Models in NLP
+1 Hour1 Lesson1
+Improving Real World RAG Systems :Key Challenges
+1 Hour1 Lesson1
+Building  Data Analyst AI Agent
+2 Hours3 Lessons3
+A comprehensive Learning path to become a Data Analyst
+4 Hours4 Lessons4
+Exploring-natural-language processing using deep learning
+9 Hours30 Minutes5 Lessons5
+Building Data Stories using Excel and  Tableau
+40 Minutes2 Lessons2
+How to Build an Image Generator Web App with Zero Coding
+1 Hour3 Lessons3
+Introduction to AI & ML
+2 Hours3 Lessons3
+Build your first RAG system using Llamaindex
+30 Minutes5 Lessons5
+Dimensionality Reduction for Machine Learning
+30 Minutes1 Lesson1
+Getting Started with Decision Trees
+1 Hour1 Lesson1
+The A to Z of Unsupervised ML
+2 Hours3 Lessons3
+Data Analysis with Apache Hive
+45 Minutes6 Lessons6
+Knowledge Bases & Memory for Agentic AI
+1 Hour20 Minutes6 Lessons6
+Getting Started With  Large Language Models
+40 Minutes1 Lesson1
+Guide to Vibe Coding in Windsurf
+30 Minutes1 Lesson1
+Navigating LLM Tradeoffs Techniques for   Speed & Accuracy
+1 Hour1 Lesson1
+GenAI for Quantitative  Finance & Control Implementation
+30 Minutes1 Lesson1
+Building a Collaborative  Multi-Agent system
+1 Hour1 Lesson1
+Introduction to Cloud
+1 Hour5 Lessons5
+Introduction to Business Analytics
+1 Hour1 Lesson1
+Mastering Multilingual  GenAI Open-Weight for Indic Language
+30 Minutes1 Lesson1
+Twitter Sentiment Analysis (Using Python)
+1 Hour3 Lessons3
+Model Deployment using FastAPI
+1 Hour1 Lesson1
+DeepSeek from Scratch
+1 Hour2 Lessons2
+Nano Course: Building Large Language Models for Code
+1 Hour1 Lesson1
+Building a Sentiment Classification Pipeline with DistilBert and Airflow
+30 Minutes1 Lesson1
+Big Mart Sales Prediction Using R
+5 Hours4 Lessons4
+Introduction to Natural Language Processing
+2 Hours3 Lessons3
+Building LLM Applications using Prompt Engineering
+2 Hours1 Lesson1
+A Complete  MLops Journey
+30 Minutes1 Lesson1
+Foundations of Model Context Protocol
+5 Hours4 Lessons4
+Mastering Multimodal  RAG & Embeddings  with Amazon Nova & Bedrock
+1 Hour6 Lessons6
+Framework to Choose the Right LLM  For your Business
+4 Hours3 Lessons3
+Generative AI - A Way of Life
+Contact Us Today
+Take the first step towards a future of innovation & excellence with Analytics Vidhya
+Unlock Your AI & ML Potential
+Get Expert Guidance
+Need Support? We’ve Got Your Back Anytime!
++91-8068342847|+91-804610766810AM - 7PM (IST) Mon-Sun
++91-8068342847|+91-8046107668
+[email protected]You'll hear back in 24 hours
+[email protected]
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Login now to continue
+Enter email address to continue
+Enter OTP sent to
+Edit
+Resend OTP in30s
+
+[Images saved with this article:]
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_File-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_Tableau-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_Kunal_instructor_image-copy-13.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_Kunal_instructor_company-copy-9.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_03_Tableau-for-Beginners.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-banner-Image-1-5.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-banner-Image-1-5.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-banner-Image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-5.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-Image-1-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-1-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-_image-webp.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Course-background-image-3-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-4-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_File-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-Image-3-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_File-image-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-5.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-2-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Prashant_Banner-_image-webp-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-2-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-1-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image-4.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_File-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_05_Banner-image.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-1-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Course-background-image-2-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Banner-image-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Apoorv_file_image-copy-2.webp
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png
+imgcdn.analyticsvidhya.com_AV_logo.png

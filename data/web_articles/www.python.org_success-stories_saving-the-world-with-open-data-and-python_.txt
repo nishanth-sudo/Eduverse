@@ -1,0 +1,44 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Saving the world with Open Data and PythonWritten byJames Baster,Open Data Services Co-opThe policy sideWhile it may seem to some developers that Open Data has been around forever and we probably don’t need to talk about it anymore, it’s important to remember why Open Data is something that people keenly push for.When an Open Data standard is created and promoted, it’s important to think why - what change is this trying to drive? What will people do with this data that they couldn’t do before?For instance,the Open Contracting Data Standardmakes open the details of governments contracting out services and projects to private companies. It makes the data useable and tries to help people actually use it. By doing so, the aim is to root out corruption, open up the process to more bidders and drive efficiency, and save governments money.At Open Data Services we work on many standards - for instance,the Beneficial Ownership Data Standardopens data on people who ultimately own, control or benefit from companies around the world. As more and more countries try and cut down on tax avoidance, this data really helps.And that’s part of what we do - we work with our clients on their policy goals, and make sure that the Open Data standard they produce matches and builds on their policy goals.That’s how we can claim that our work saves the world - it’s great when we see people likeProZorro in Ukraine using Open Contracting Data to fight corruption and save their Goverment £1.2 billion.The Python SideWe use Python as our tool of choice; from analysis in Jupyter with Google Colab notebooks to full Sphinx websites and the spreadsheets. Wait, the spreadsheets?Yup - spend any time in the world of Open Data and you’ll soon find that people love their spreadsheets. And while some developers will be rolling their eyes right now, it’s important to remember that for some people spreadsheets are a very powerful tool that enable them to do great data work they wouldn’t be able to do otherwise.So we have to embrace that, and this lead to one of the Python tools we have released as Open Source -Flatten Tool.Flatten Tool takes a JSON data file, and produces a spreadsheet of it’s contents. Of course a JSON data file may not be a flat structure and may have lists within lists and so on - we handle that by producing multiple sheets in an Excel file or multiple CSV files.Flatten Tool also takes a set of spreadsheets and produces a JSON file of your data. If you have a JSON Schema file describing your standard that helps. Also finally, we can take a JSON Schema file and produce a set of spreadsheet templates.This makes it easy for people to work with their favourite tools - spreadsheets - and for us to still be able to easily work with the data, both in terms of sending them data and dealing with data from them.Thanks to Python’s PyPi and pip, we include this as a library in other projects we do. We produce websites for the data standards we work on where people can upload some data - in it’s official JSON standard form, or as a spreadsheet - and we’ll take the data, analyse it and highlight problems and statistics with the data. We also offer conversion - so you can upload a spreadsheet and if it’s good, you can download a JSON file in the correct format.Thanks Python!At Open Data Services some of our members* are developers and some analysts - but even our analysts are very technical and are able to dive into the nitty gritty of issues with our developers. We don’t doubt that the welcoming Python language and ecosystem help with that - Thanks Python!Members? We are also a workers co-op - but that’s a story for another day!
+Saving the world with Open Data and Python
+Written byJames Baster,Open Data Services Co-op
+The policy side
+While it may seem to some developers that Open Data has been around forever and we probably don’t need to talk about it anymore, it’s important to remember why Open Data is something that people keenly push for.
+When an Open Data standard is created and promoted, it’s important to think why - what change is this trying to drive? What will people do with this data that they couldn’t do before?
+For instance,the Open Contracting Data Standardmakes open the details of governments contracting out services and projects to private companies. It makes the data useable and tries to help people actually use it. By doing so, the aim is to root out corruption, open up the process to more bidders and drive efficiency, and save governments money.
+At Open Data Services we work on many standards - for instance,the Beneficial Ownership Data Standardopens data on people who ultimately own, control or benefit from companies around the world. As more and more countries try and cut down on tax avoidance, this data really helps.
+And that’s part of what we do - we work with our clients on their policy goals, and make sure that the Open Data standard they produce matches and builds on their policy goals.
+That’s how we can claim that our work saves the world - it’s great when we see people likeProZorro in Ukraine using Open Contracting Data to fight corruption and save their Goverment £1.2 billion.
+The Python Side
+We use Python as our tool of choice; from analysis in Jupyter with Google Colab notebooks to full Sphinx websites and the spreadsheets. Wait, the spreadsheets?
+Yup - spend any time in the world of Open Data and you’ll soon find that people love their spreadsheets. And while some developers will be rolling their eyes right now, it’s important to remember that for some people spreadsheets are a very powerful tool that enable them to do great data work they wouldn’t be able to do otherwise.
+So we have to embrace that, and this lead to one of the Python tools we have released as Open Source -Flatten Tool.
+Flatten Tool takes a JSON data file, and produces a spreadsheet of it’s contents. Of course a JSON data file may not be a flat structure and may have lists within lists and so on - we handle that by producing multiple sheets in an Excel file or multiple CSV files.
+Flatten Tool also takes a set of spreadsheets and produces a JSON file of your data. If you have a JSON Schema file describing your standard that helps. Also finally, we can take a JSON Schema file and produce a set of spreadsheet templates.
+This makes it easy for people to work with their favourite tools - spreadsheets - and for us to still be able to easily work with the data, both in terms of sending them data and dealing with data from them.
+Thanks to Python’s PyPi and pip, we include this as a library in other projects we do. We produce websites for the data standards we work on where people can upload some data - in it’s official JSON standard form, or as a spreadsheet - and we’ll take the data, analyse it and highlight problems and statistics with the data. We also offer conversion - so you can upload a spreadsheet and if it’s good, you can download a JSON file in the correct format.
+Thanks Python!
+At Open Data Services some of our members* are developers and some analysts - but even our analysts are very technical and are able to dive into the nitty gritty of issues with our developers. We don’t doubt that the welcoming Python language and ecosystem help with that - Thanks Python!
+Members? We are also a workers co-op - but that’s a story for another day!
+Success stories home
+Arts
+Business
+Data Science
+Education
+Engineering
+Government
+Scientific
+Software Development
+Submit Yours!
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

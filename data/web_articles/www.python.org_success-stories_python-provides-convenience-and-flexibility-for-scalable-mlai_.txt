@@ -1,0 +1,28 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python provides convenience and flexibility for scalable ML/AIWritten byDean Wampler,AnyscaleAnyscale develops Ray (ray.io), an open-source suite of tools that make it much easier to scale Python applications from laptops to clusters. Ray was created at U.C. Berkeley by ML/AI researchers who needed flexible tools for scaling the heterogenous, large-scale workloads common in reinforcement learning, hyperparameter tuning, etc., especially when large neural networks are used.Of course, Python is the most popular language for ML/AI, because of its convenience. Python's flexibility also allows Ray to instrument Python code to make ML/AI scalability possible without requiring distributed systems expertise and lots of invasive code changes. Hence, ML/AI users get the benefits of cluster-wide scalability with minimal effort.
+Python provides convenience and flexibility for scalable ML/AI
+Written byDean Wampler,Anyscale
+Anyscale develops Ray (ray.io), an open-source suite of tools that make it much easier to scale Python applications from laptops to clusters. Ray was created at U.C. Berkeley by ML/AI researchers who needed flexible tools for scaling the heterogenous, large-scale workloads common in reinforcement learning, hyperparameter tuning, etc., especially when large neural networks are used.
+Of course, Python is the most popular language for ML/AI, because of its convenience. Python's flexibility also allows Ray to instrument Python code to make ML/AI scalability possible without requiring distributed systems expertise and lots of invasive code changes. Hence, ML/AI users get the benefits of cluster-wide scalability with minimal effort.
+Success stories home
+Arts
+Business
+Data Science
+Education
+Engineering
+Government
+Scientific
+Software Development
+Submit Yours!
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

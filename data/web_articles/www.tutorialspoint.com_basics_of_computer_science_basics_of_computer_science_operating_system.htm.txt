@@ -1,0 +1,160 @@
+Basics of Computer Science - Home
+Fundamental Concept
+Role of Computer in Today’s World
+Computer System
+Programming Languages
+Hardware and Software
+Analog and Digital
+Operating System
+Internet
+Types of Computer
+Computer Networking Terminology
+Computer Applications
+Generations of Computer
+Data Processing
+Computer Networking
+Computer Related Jobs
+Electronic Commerce
+Software Programming
+Algorithm Flowchart
+Extranet
+Mobile Computer
+Windows Desktop Elements
+Computer Multimedia
+Computer Security
+Computer Threat
+Computer Virus
+Computer Science: Abbreviations
+Computer Science: Development
+Computer Science: Innovators
+Short-cut Keys
+Online Quiz
+Online Test
+Quick Guide
+Useful Resources
+Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Operating System
+An operating system is the fundamental basis of all other application programs. Operating system is an intermediary between the users and the hardware.
+Operating system controls and coordinates the use of hardware among application programs. The major services of an operating system are −
+Memory management
+Disk access
+Creating user interface
+Managing the different programs operating parallel
+Likewise, it controls and manage the hardwares working
+Applications of Operating System
+Following are the majorapplicationsof an operating system −
+An operating system is accountable for the formation and deletion of files and directories.
+An operating system is accountable for the formation and deletion of files and directories.
+An operating system manages the process of deletion, suspension, resumption, and synchronization.
+An operating system manages the process of deletion, suspension, resumption, and synchronization.
+An operating system manages memory space by allocation and de-allocation.
+An operating system manages memory space by allocation and de-allocation.
+An operating system stores, organizes, and names and protects the existing files.
+An operating system stores, organizes, and names and protects the existing files.
+Further, an operating system manages all the components and devices of the computers system including modems, printers, plotters, etc.
+Further, an operating system manages all the components and devices of the computers system including modems, printers, plotters, etc.
+In case, if any device fails, the operating system detects and notify.
+In case, if any device fails, the operating system detects and notify.
+An operating system protects from destruction as well as from unauthorized use.
+An operating system protects from destruction as well as from unauthorized use.
+An operating system facilitates the interface to user and hardware.
+An operating system facilitates the interface to user and hardware.
+Types of Operating System
+Following are the major types of operating system −
+Disk Operating System (DOS)
+Windows Operating System
+Unix Operating System
+Let us now discuss each operating system in detail.
+Disk Operating System
+MS-DOS is one of the oldest and widely used operating system. DOS is a set of computer programs, the major functions of which are file management, allocation of system resources, providing essential features to control hardware devices.
+DOS commands can be typed in either upper case or lower case.
+Features of DOS
+Following are the significant features of DOS −
+It is a single user system.
+It controls program.
+It is machine independence.
+It manages (computer) files.
+It manages input and output system.
+It manages (computer) memory.
+It provides command processing facilities.
+It operates with Assembler.
+Types of DOS Commands
+Following are the major types of DOS Command −
+Internal Commands− Commands such as DEL, COPY, TYPE, etc. are the internal commands that remain stored in computer memory.
+Internal Commands− Commands such as DEL, COPY, TYPE, etc. are the internal commands that remain stored in computer memory.
+External Commands− Commands like FORMAT, DISKCOPY, etc. are the external commands and remain stored on the disk.
+External Commands− Commands like FORMAT, DISKCOPY, etc. are the external commands and remain stored on the disk.
+Windows Operating System
+The operating system window is the extension of the disk operating system.
+It is the most popular and simplest operating system; it can be used by any person who can read and understand basic English, as it does not require any special training.
+However, the Windows Operating System requires DOS to run the various application programs initially. Because of this reason, DOS should be installed into the memory and then window can be executed.
+Elements of Windows OS
+Following are the significant element ofWindowsOperatingSystem (WOS) −
+Graphical User Interface
+Icons (pictures, documents, application, program icons, etc.)
+Taskbar
+Start button
+Windows explorer
+Mouse button
+Hardware compatibility
+Software compatibility
+Help, etc.
+Versions of Windows Operating System
+Following are the different versions of Windows Operating System −
+Version
+Year
+Version
+Year
+Window 1.01
+1985
+Windows XP Professional x64
+2005
+Windows NT 3.1
+1993
+Windows Vista
+2007
+Windows 95
+1995
+Windows 7
+2009
+Windows 98
+1998
+Windows 8
+2012
+Windows 2000
+2000
+Windows 10
+2015
+Windows ME
+2000
+Windows Server 2016
+2016
+Windows XP
+2001
+Unix Operating System
+The Unix Operating System is the earliest operating system developed in 1970s. Let us consider the following points relating to the Unix Operating System −
+It is an operating system that has multitasking features.
+It is an operating system that has multitasking features.
+It has multiuser computer operating systems.
+It has multiuser computer operating systems.
+It runs practically on every sort of hardware and provides stimulus to the open source movement.
+It runs practically on every sort of hardware and provides stimulus to the open source movement.
+It has comparative complex functionality and hence an untrained user cannot use it; only the one who has taken training can use this system.
+It has comparative complex functionality and hence an untrained user cannot use it; only the one who has taken training can use this system.
+Another drawback of this system is, it does not give notice or warn about the consequences of a users action (whether users action is right or wrong).
+Another drawback of this system is, it does not give notice or warn about the consequences of a users action (whether users action is right or wrong).
+
+[Images saved with this article:]
+www.tutorialspoint.com_basics_of_computer_science_images_basics-of-computer-science-mini-logo.jpg
+www.tutorialspoint.com_basics_of_computer_science_images_operating_system.jpg

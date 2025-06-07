@@ -1,0 +1,625 @@
+Javascript Basics Tutorial
+Javascript - Home
+JavaScript - Roadmap
+JavaScript - Overview
+JavaScript - Features
+JavaScript - Enabling
+JavaScript - Placement
+JavaScript - Syntax
+JavaScript - Hello World
+JavaScript - Console.log()
+JavaScript - Comments
+JavaScript - Variables
+JavaScript - let Statement
+JavaScript - Constants
+JavaScript - Data Types
+JavaScript - Type Conversions
+JavaScript - Strict Mode
+JavaScript - Reserved Keywords
+JavaScript Operators
+JavaScript - Operators
+JavaScript - Arithmetic Operators
+JavaScript - Comparison Operators
+JavaScript - Logical Operators
+JavaScript - Bitwise Operators
+JavaScript - Assignment Operators
+JavaScript - Conditional Operators
+JavaScript - typeof Operator
+JavaScript - Nullish Coalescing Operator
+JavaScript - Safe Assignment Operator
+JavaScript - Delete Operator
+JavaScript - Comma Operator
+JavaScript - Grouping Operator
+JavaScript - Yield Operator
+JavaScript - Spread Operator
+JavaScript - Exponentiation Operator
+JavaScript - Operator Precedence
+JavaScript Control Flow
+JavaScript - If...Else
+JavaScript - While Loop
+JavaScript - For Loop
+JavaScript - For...in
+Javascript - For...of
+JavaScript - Loop Control
+JavaScript - Break Statement
+JavaScript - Continue Statement
+JavaScript - Switch Case
+JavaScript - User Defined Iterators
+JavaScript Functions
+JavaScript - Functions
+JavaScript - Function Expressions
+JavaScript - Function Parameters
+JavaScript - Default Parameters
+JavaScript - Function() Constructor
+JavaScript - Function Hoisting
+JavaScript - Self-Invoking Functions
+JavaScript - Arrow Functions
+JavaScript - Function Invocation
+JavaScript - Function call()
+JavaScript - Function apply()
+JavaScript - Function bind()
+JavaScript - Closures
+JavaScript - Variable Scope
+JavaScript - Global Variables
+JavaScript - Smart Function Parameters
+JavaScript Objects
+JavaScript - Number
+JavaScript - Boolean
+JavaScript - Strings
+JavaScript - Arrays
+JavaScript - Date
+JavaScript - DataView
+JavaScript - Handler
+JavaScript - Math
+JavaScript - RegExp
+JavaScript - Symbol
+JavaScript - Sets
+JavaScript - WeakSet
+JavaScript - Maps
+JavaScript - WeakMap
+JavaScript - Iterables
+JavaScript - Reflect
+JavaScript - TypedArray
+JavaScript - Template Literals
+JavaScript - Tagged Templates
+Object Oriented JavaScript
+JavaScript - Objects
+JavaScript - Classes
+JavaScript - Object Properties
+JavaScript - Object Methods
+JavaScript - Static Methods
+JavaScript - Display Objects
+JavaScript - Object Accessors
+JavaScript - Object Constructors
+JavaScript - Native Prototypes
+JavaScript - ES5 Object Methods
+JavaScript - Encapsulation
+JavaScript - Inheritance
+JavaScript - Abstraction
+JavaScript - Polymorphism
+JavaScript - Destructuring
+JavaScript - Destructuring Assignment
+JavaScript - Object Destructuring
+JavaScript - Array Destructuring
+JavaScript - Nested Destructuring
+JavaScript - Optional Chaining
+JavaScript - Global Object
+JavaScript - Mixins
+JavaScript - Proxies
+JavaScript Versions
+JavaScript - History
+JavaScript - Versions
+JavaScript - ES5
+JavaScript - ES6
+ECMAScript 2016
+ECMAScript 2017
+ECMAScript 2018
+ECMAScript 2019
+ECMAScript 2020
+ECMAScript 2021
+ECMAScript 2022
+JavaScript Asynchronous
+JavaScript - Asynchronous
+JavaScript - Callback Functions
+JavaScript - Promises
+JavaScript - Async/Await
+JavaScript - Microtasks
+JavaScript - Promisification
+JavaScript - Promises Chaining
+JavaScript - Timing Events
+JavaScript - setTimeout()
+JavaScript - setInterval()
+JavaScript Cookies
+JavaScript - Cookies
+JavaScript -  Cookie Attributes
+JavaScript - Deleting Cookies
+JavaScript Browser BOM
+JavaScript - Browser Object Model
+JavaScript - Window Object
+JavaScript -  Document Object
+JavaScript - Screen Object
+JavaScript - History Object
+JavaScript - Navigator Object
+JavaScript - Location Object
+JavaScript - Console Object
+JavaScript Web APIs
+JavaScript - Web API
+JavaScript - History API
+JavaScript - Storage API
+JavaScript - Forms API
+JavaScript - Worker API
+JavaScript - Fetch API
+JavaScript - Geolocation API
+JavaScript Events
+JavaScript - Events
+JavaScript - DOM Events
+JavaScript - addEventListener()
+JavaScript - Mouse Events
+JavaScript - Keyboard Events
+JavaScript - Form Events
+JavaScript - Window/Document Events
+JavaScript - Event Delegation
+JavaScript - Event Bubbling
+JavaScript - Event Capturing
+JavaScript - Custom Events
+JavaScript Error Handling
+JavaScript - Error Handling
+JavaScript - try...catch
+JavaScript - Debugging
+JavaScript - Custom Errors
+JavaScript - Extending Errors
+JavaScript Important Keywords
+JavaScript - this Keyword
+JavaScript - void Keyword
+JavaScript - new Keyword
+JavaScript - var Keyword
+JavaScript HTML DOM
+JavaScript - HTML DOM
+JavaScript - DOM Methods & Properties
+JavaScript - DOM Document
+JavaScript - DOM Elements
+JavaScript - DOM Attributes (Attr)
+JavaScript - DOM Forms
+JavaScript - Changing HTML
+JavaScript - Changing CSS
+JavaScript - DOM Animation
+JavaScript - DOM Navigation
+JavaScript - DOM Collections
+JavaScript - DOM NodeList
+JavaScript - DOM DOMTokenList
+JavaScript Advanced Chapters
+JavaScript - Bubble Sort Algorithm
+JavaScript - Circular Reference Error
+JavaScript - Code Testing with Jest
+JavaScript - CORS Handling
+JavaScript - Data Analysis
+JavaScript - Dead Zone
+JavaScript - Design Patterns
+JavaScript - Engine and Runtime
+JavaScript - Execution Context
+JavaScript - Function Composition
+JavaScript - Immutability
+JavaScript - Kaboom.js
+JavaScript - Lexical Scope
+JavaScript - Local Storage
+JavaScript - Memoization
+JavaScript - Minifying JS
+JavaScript - Mutability vs Immutability
+JavaScript - Package Manager
+JavaScript - Parse S-Expressions
+JavaScript - Prototypal Inheritance
+JavaScript - Reactivity
+JavaScript - Require Function
+JavaScript - Selection API
+JavaScript - Session Storage
+JavaScript - SQL CRUD Operations
+JavaScript - Supercharged Sorts
+JavaScript - Temporal Dead Zone
+JavaScript - Throttling
+JavaScript - TRPC Library
+JavaScript - Truthy and Falsy Values
+JavaScript - Upload Files
+JavaScript - Date Comparison
+JavaScript - Recursion
+JavaScript - Data Structures
+JavaScript - Base64 Encoding
+JavaScript - Callback Function
+JavaScript - Current Date/Time
+JavaScript - Date Validation
+JavaScript - Filter Method
+JavaScript - Generating Colors
+JavaScript - HTTP Requests
+JavaScript - Insertion Sort
+JavaScript - Lazy Loading
+JavaScript - Linked List
+JavaScript - Nested Loop
+JavaScript - Null Checking
+JavaScript - Get Current URL
+JavaScript - Graph Algorithms
+JavaScript - Higher Order Functions
+JavaScript - Empty String Check
+JavaScript - Form Handling
+JavaScript - Functional Programming
+JavaScript - Parameters vs Arguments
+JavaScript - Prototype
+JavaScript - Reactive Programming
+JavaScript - Reduce Method
+JavaScript - Rest Operator
+JavaScript - Short Circuiting
+JavaScript - Undefined Check
+JavaScript - Unit Testing
+JavaScript - Validate URL
+JavaScript Miscellaneous
+JavaScript - Ajax
+JavaScript - Async Iteration
+JavaScript - Atomics Objects
+JavaScript - Rest Parameter
+JavaScript - Page Redirect
+JavaScript - Dialog Boxes
+JavaScript - Page Printing
+JavaScript - Validations
+JavaScript - Animation
+JavaScript - Multimedia
+JavaScript - Image Map
+JavaScript - Browsers
+JavaScript - JSON
+JavaScript - Multiline Strings
+JavaScript - Date Formats
+JavaScript - Get Date Methods
+JavaScript - Set Date Methods
+JavaScript - Modules
+JavaScript - Dynamic Imports
+JavaScript - BigInt
+JavaScript - Blob
+JavaScript - Unicode
+JavaScript - Shallow Copy
+JavaScript - Call Stack
+JavaScript - Reference Type
+JavaScript - IndexedDB
+JavaScript - Clickjacking Attack
+JavaScript - Currying
+JavaScript - Graphics
+JavaScript - Canvas
+JavaScript - Debouncing
+JavaScript - Performance
+JavaScript - Style Guide
+JavaScript Useful Resources
+JavaScript - Questions And Answers
+JavaScript - Quick Guide
+JavaScript - Cheatsheet
+JavaScript - Functions
+JavaScript - Resources
+JavaScript - Online Editor
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+JavaScript Cheatsheet
+Write On-page JavaScript
+To add on-page JavaScript in an HTML document, use the following script tag −
+<script type="text/javascript">
+// Write your JavaScript code here
+</script>
+Insert an External JavaScript file
+You can insert an external JavaScript file in an HTML document using theHTML's <script> tagby specifying the file path with thesrcattribute.
+<script src="file.js"></script>
+Printing/Output
+JavaScript provides three ways to print anything on the screen.
+Console Output
+Alert Boxes
+Document Write
+Console Output (console.log())
+The console.log() prints on the web console. It is used for debugging and logging purposes.
+console.log("Hello, World!");
+Alert Boxes
+JavaScript alert() method displays a pop-up alert box on the browser with a specified message such as text, values of the variables, etc.,
+alert("Hello World!");
+var x = 10;
+alert("Value of x is :" + x);
+document.write()
+The document.write() method to write content directly to the HTML document.
+document.write("Hello World!");
+var x = 10;
+document.write("Value of x is :", x);
+Variables
+JavaScript variablescan be declared using thevar,let, orconstkeywords.
+var− Declares function-scoped variables and these can be reassigned.
+let− Declares block-scoped variables and these can be reassigned.
+const− Declares constants and their values cannot be reassigned.
+var x = 5; 
+let y = 10; 
+const z = 15;
+Data Types
+JavaScript data typescan be categorized into the following two categories −
+1. Primitive Types
+The primitive data types are:String,Number,Boolean,Undefined,Null,Symbol,BigInt
+2. Objects Types
+The objects data types are:{},arrays [],functions () => {}
+let str = "Kelly Hu"; 
+let num = 123; 
+let bool = true; 
+let und = undefined; 
+let n = null;
+Operators
+The following are theJavaScript operators−
+Arithmetic Operators
+The arithmetic operators are: +, -, *, /, %, ++, --
+let a = 10;
+let b = 3;
+console.log("a =", a, ", b =", b);
+
+// Addition (+)
+let sum = a + b;
+console.log("a + b =", sum);
+// Subtraction (-)
+let difference = a - b;
+console.log("a - b =", difference);
+// Multiplication (*)
+let product = a * b;
+console.log("a * b =", product);
+// Division (/)
+let quotient = a / b;
+console.log("a / b =", quotient);
+// Modulus (remainder) (%)
+let remainder = a % b;
+console.log("a % b =", remainder);
+// Increment (++)
+a++;
+console.log("After a++:", a);
+// Decrement (--)
+b--;
+console.log("After b--:", b);
+Assignment Operators
+The assignment operators are: =, +=, -=, *=, /=
+let x = 10;
+console.log("x:", x);
+x = 5;
+console.log("x:", x);
+x += 3;
+console.log("x:", x);
+x -= 2;
+console.log("x:", x);
+x *= 4;
+console.log("x:", x);
+x /= 6;
+console.log("x:", x);
+x %= 3;
+console.log("x:", x);
+Comparison Operators
+The comparison operators are: ==, ===, !=, !==, >, =,
+let x = 5;
+let y = "5";
+let z = 10;
+
+console.log(x == y); 
+console.log(x === y);
+console.log(x != z);
+console.log(x !== y);
+console.log(z > x);
+console.log(x < z);
+console.log(z >= 10);
+console.log(x <= 5);
+Logical Operators
+The logical operators are:&&(AND),||(OR), and!(NOT)
+let a = true;
+let b = false;
+let c = 5;
+let d = 10;
+
+console.log(a && c < d);
+console.log(b && c < d);
+console.log(a || b);
+console.log(b || d < c);
+console.log(!a);
+console.log(!b);
+Conditional Statements
+JavaScript conditional statementscontain different types of if-else statements and ternary operators.
+If else statements
+The syntax of if-else statements are −
+if (condition) {
+   // block of code
+} else if (condition) {
+   // block of code
+} else {
+   // block of code
+}
+Below is an example of if-else statements −
+let age = 20;
+
+if (age < 18) {
+   console.log("You are a minor.");
+} else if (age >= 18 && age < 65) {
+   console.log("You are an adult.");
+} else {
+   console.log("You are a senior citizen.");
+}
+Ternary Operator
+The ternary operator is a replacement for a simple if else statement. Below is the syntax of the ternary operator −
+let result = condition ? 'value1' : 'value2';
+An example of a ternary operator is as follows −
+let age = 20;
+
+let message = age < 18 
+   ? "You are a minor." 
+   : age >= 18 && age < 65 
+   ? "You are an adult." 
+   : "You are a senior citizen.";
+
+console.log(message);
+Loops
+JavaScript loopsare −
+The for Loop
+The while Loop
+The do-while Loop
+The for Loop
+The for loop is an entry control loop.
+for (let i = 0; i < 5; i++) {
+   console.log(i);
+}
+The while Loop
+The while loop is also an entry control loop where the condition is checked before executing the loop's body.
+let i = 0;
+while (i < 5) {
+   console.log(i);
+   i++;
+}
+The do-while loop is an exit control loop, where the condition is checked after executing the loop's body.
+let i=0;
+do {
+   console.log(i);
+   i++;
+} while (i < 5);
+Functions
+JavaScript functionsare the code blocks to perform specific tasks.
+User-defined Function
+Here is an example of a function to add two numbers −
+// Function Declaration
+function addNumbers(a, b) {
+   return a + b;  // Return the sum of a and b
+}
+
+// Example usage
+let sum = addNumbers(5, 10);
+console.log("The sum is:", sum);  // The sum is: 15
+Function Expression
+The function expression is as follows −
+const multiply = function(a, b) {
+   return a * b;
+}
+Arrow Function
+JavaScript arrow functionis used to write function expressions.
+Below is a simple statement to create an arrow function −
+const divide = (a, b) => a / b;
+Example of an arrow function to add two numbers −
+// Arrow function
+const addNumbers = (a, b) => a + b;
+// Calling
+let sum = addNumbers(5, 10);
+console.log("The sum is:", sum);
+Objects
+JavaScript objectsare collections of key-value pairs and are used to store different types of data, including other objects, functions, arrays, and primitive values.
+Here is an example to create an object in JS −
+const person = {
+   name: "Kelly Hu",
+   age: 27,
+   display: function() {
+      console.log("Hello, " + this.name);
+   }
+};
+
+console.log(person.name);  // Access property
+person.display();            // Call method
+Arrays
+JavaScript arraysstore multiple values of any type in a single variable.
+Array Declaration
+Syntax to declare an array is −
+let array_name = [value1, value2, value3, ];
+Array Example
+The following is an example of creating an array of integers.
+let arr = [10, 20, 30, 40, 50];
+// Printing array
+console.log("arr:", arr);
+Array Methods
+Commonly used array methods are −
+push()− It is used to add one or more elements in an array.
+pop()− It is used to remove the last element and returns the deleted element.
+shift()− It is used to remove the first element and return the delete element.
+unshift()− It is used to add one or more elements at the beginning of an array.
+concat()− It is used to add one or more arrays and returns a new array.
+join()− It is used to join all elements of an array into a string.
+Below is an example demonstrating all the above methods −
+// Initialize the original array
+let students = ["Kelly Hu", "Peter", "John"];
+// push()
+students.push("Bobby", "Catty");
+console.log(students); 
+// pop()
+console.log("Removed :", students.pop()); 
+// shift()
+console.log("Removed :", students.shift()); 
+// unshift()
+students.unshift("Julia", "Halle");
+console.log(students); 
+// concat()
+const newNames = ["Emma", "Reese"];
+const newArray = students.concat(newNames);
+console.log("After concat:", newArray); 
+// join()
+const str = students.join(", ");
+console.log("Joined string:", str);
+Loop through Array Elements
+You can loop through all array elements using the forEach() method −
+var arr = [10, 20, 30, 40, 50]
+arr.forEach((item) => console.log(item));
+DOM Manipulation
+JavaScript DOM manipulation allows you to manipulate the content and structure of web pages dynamically.
+let element = document.getElementById('myElement');
+element.innerHTML = 'New Content';  // Change content
+element.style.color = 'red';        // Change style
+document.querySelector('.class');   // Select by class
+Event Listeners
+JavaScript event listeners are allowed to execute code in response to various user actions, such as clicks, key presses, mouse movements, and more.
+Below is an example of button click event −
+element.addEventListener('click', function() {
+  alert('Clicked!');
+});
+Promises
+JavaScript promises represent the values that may be available now, or in the future, or never.
+// Promises
+let promise = new Promise((resolve, reject) => {
+   // asynchronous code
+   if (success) resolve('Success');
+   else reject('Error');
+});
+
+promise.then(result => console.log(result)).catch(err => console.log(err));
+Async/Await
+JavaScript Async/Awaitworks with asynchronous operations.
+The following is an example of Async/Await −
+async function fetchData() {
+   try {
+      let response = await fetch('url');
+      let data = await response.json();
+      console.log(data);
+   } catch (error) {
+      console.log(error);
+   }
+}
+Error Handling
+JavaScript error handling allows you to handle errors/exceptions that occur during runtime. The try, catch, and finally blocks are used to handle exceptions.
+Syntax of error handling is −
+try {
+   // Code that may throw an error
+} catch (error) {
+   console.log(error.message);  // Handle the error
+} finally {
+   console.log("Finally block executed");
+}
+The following is a simple example demonstrating the use of try, catch, and finally in JavaScript −
+function divideNumbers(num1, num2) {
+   try {
+      if (num2 === 0) {
+         throw new Error("Cannot divide by zero!");
+      }
+      const result = num1 / num2;
+      console.log(`Result: ${result}`);
+   } catch (error) {
+      console.error("Error:", error.message);
+   } finally {
+      console.log("Execution completed.");
+   }
+}
+
+// Calling 
+divideNumbers(10, 2);
+divideNumbers(10, 0);
+
+[Images saved with this article:]
+www.tutorialspoint.com_javascript_images_javascript-mini-logo.jpg

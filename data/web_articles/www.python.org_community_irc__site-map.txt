@@ -1,0 +1,48 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Python>>>
+IRC
+Internet Relay ChatThere are several Python-related channels on the libera IRC network.
+All channels are available by connecting to Internet Relay Chat serverLibera.Chat.The #python channel is for all discussion about the Python language,
+ecosystem, and community. You can get immediate help with programming
+questions. You will need to first register your nickname with Libera,
+using the nickname setup instructions (https://libera.chat/guides/registration).Spanish speakers can use the #pyar channel, from the Python Argentina user group.French speakers can join the #python-fr channel.Finnish speakers can join the #python.fi channel on a different network,IRCnet.(Note: prior to May 2021, these channels existed on Freenode. Some of them
+were forcibly removed by Freenode operators, after a change in management and network policy. The channels on Freenode are no longer under the PSF umbrella.)Other Channels#python-devis for CPython developers, where they can
+coordinate their work or discuss problems.  Bots post updates to the channel based on
+activity in the CPython source tree and bug tracker.#python-infrais for Python infrastructure discussion.#pydotorgis for discussion of this website, python.org.#distutilsand#pypaare for Python packaging discussion.Other SitesIRC clients for many platforms can be found in theInternet Relay Chat (IRC)
+Help Archive.
+Internet Relay Chat
+There are several Python-related channels on the libera IRC network.
+All channels are available by connecting to Internet Relay Chat serverLibera.Chat.
+The #python channel is for all discussion about the Python language,
+ecosystem, and community. You can get immediate help with programming
+questions. You will need to first register your nickname with Libera,
+using the nickname setup instructions (https://libera.chat/guides/registration).
+Spanish speakers can use the #pyar channel, from the Python Argentina user group.
+French speakers can join the #python-fr channel.
+Finnish speakers can join the #python.fi channel on a different network,IRCnet.
+(Note: prior to May 2021, these channels existed on Freenode. Some of them
+were forcibly removed by Freenode operators, after a change in management and network policy. The channels on Freenode are no longer under the PSF umbrella.)
+Other Channels
+#python-devis for CPython developers, where they can
+coordinate their work or discuss problems.  Bots post updates to the channel based on
+activity in the CPython source tree and bug tracker.
+#python-infrais for Python infrastructure discussion.
+#pydotorgis for discussion of this website, python.org.
+#distutilsand#pypaare for Python packaging discussion.
+Other Sites
+IRC clients for many platforms can be found in theInternet Relay Chat (IRC)
+Help Archive.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

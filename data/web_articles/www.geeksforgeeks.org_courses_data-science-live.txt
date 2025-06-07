@@ -1,0 +1,98 @@
+Courses
+Placement
+Data ScienceIBM
+GATE
+Practice
+Our website uses cookies
+All Courses
+Live
+Complete Machine Learning & Data Science Program
+TheComplete Machine Learning & Data Science Programis a comprehensive live course designed to take you from beginner to expert in machine learning and data science. Explore a 360-degree learning experience designed for geeks who wish to get hands-on Data Science and ML. Mentored by industry experts; learn to apply DS methods and techniques, and acquire analytical skills. Join us to gain practical knowledge andbecome proficient in Data Science.
+Master Machine Learning & Data Science at just INR 3999 and Earn Certifications!For further queries, reach us via Call/WhatsApp at: +91-9315258643
+Course Overview
+ML and Data Science Live Course - Overview
+The Complete Machine Learning & Data Science Program by GeeksforGeeks is an all-encompassing course designed to take you from a beginner to an advanced level in the world ofdata scienceandmachine learning.
+This6-month live Data Science courseis perfect for tech enthusiasts, students, and professionals alike who are eager to gain hands-on experience in the data science field. The complete Data Science course covers a wide array of topics, starting with Python programming basics and essential data science libraries like Numpy and Pandas.
+Learn data analytics, machine learning algorithms, and AI concepts, ensuring you build a strong foundation. You will also explore specialized areas like deep learning, image processing, and natural language processing (NLP). With 20+ programming tools and libraries, 40+ industry-relevant projects, and live sessions with industry mentors, this Complete Machine Learning & Data Science Program provides a robust and practical learning experience.
+NOTE - All sales are final, no refunds will be provided for offline and live courses.However, if needed, participants may be allowed to shift to a different batch of the same course, subject to availability and course policies.
+Machine Learning & Data Science Course - Highlights
+20+ Programming Tools & Libraries
+40+ Industry Projects
+Weekly Live Session with Industry Mentor
+Regular Live Doubt Solving Sessions with Industry Expert
+Career Essential Soft Skills Program
+Designed for both Students & Working Professionals
+Career Guidance Session
+6 months of one-on-one 24X7 Doubt Assistance
+SupplementaryCertification Questionsmaterials provided for certifications such asGoogle, AWS, and IBM.
+Projects We Covered:
+Black Friday Sales Data Analysis
+Data Visualization on Heart Disease Dataset
+What Sets Us Apart
+Project-Based Learning
+24 X 7 Doubt Support
+Expert Mentors
+Hands-on, practical exercises designed to enhance your learning experience and reinforce the concepts covered in the course. These projects serve as crucial components in the learning journey, as they allow you to apply the knowledge and skills gained in real-world scenarios.Eg: Wikipedia Scraper, PubG Predictive Analysis, Spell Checker& many more.Readmore
+Hands-on, practical exercises designed to enhance your learning experience and reinforce the concepts covered in the course. These projects serve as crucial components in the learning journey, as they allow you to apply the knowledge and skills gained in real-world scenarios.Eg: Wikipedia Scraper, PubG Predictive Analysis, Spell Checker& many more.
+What Sets Us Apart
+Hands-on, practical exercises designed to enhance your learning experience and reinforce the concepts covered in the course. These projects serve as crucial componen
+A dedicated service provided with this course for freeto help you overcome any doubt, at any time, and anywhere. So unlea
+With a passion for teaching, our mentor(s) sessions will providetailored guidance to all the aspiring coders. Launch a successful tech career with
+Course Content
+Introducing Python - Python Basics, Operators, Loops, Functions, Strings, List, Tuples, Dictionary, Set, Object-oriented concepts(OOPs) and much more.
+Introducing Python - Python Basics, Operators, Loops, Functions, Strings, List, Tuples, Dictionary, Set, Object-oriented concepts(OOPs) and much more.
+Data Toolkit - Getting started with Files, Inventory Management System with Files, Inventory Management System with JSON, Mastering Numpy Arrays, Getting Started with OS , Jupyter Notebook Setup, OS with Python, etc.
+Data Toolkit - Getting started with Files, Inventory Management System with Files, Inventory Management System with JSON, Mastering Numpy Arrays, Getting Started with OS , Jupyter Notebook Setup, OS with Python, etc.
+Libraries - Numpy, Pandas, Matplotlib, Streamlit, etc.
+Libraries - Numpy, Pandas, Matplotlib, Streamlit, etc.
+Maths for Data Analysis: Basic Probability for Data Science, Statistics, Probability Distribution, Inferential Statistics, and much more
+Maths for Data Analysis: Basic Probability for Data Science, Statistics, Probability Distribution, Inferential Statistics, and much more
+Maths for ML & AI: System of Linear Equation, Matrix, Vectors, and Calculus, etc
+Maths for ML & AI: System of Linear Equation, Matrix, Vectors, and Calculus, etc
+Data Analysis with Python: Getting started with Pandas, Data Preprocessing with Google Play store, Introduction to EDA, Data Cleaning, Data Visualization, Data AnalysisProjects: Sugarcane Production, Black Friday Sales Data Analysis, Data Visualization on Heart Disease Dataset, GDP Analysis
+Data Analysis with Python: Getting started with Pandas, Data Preprocessing with Google Play store, Introduction to EDA, Data Cleaning, Data Visualization, Data Analysis
+Projects: Sugarcane Production, Black Friday Sales Data Analysis, Data Visualization on Heart Disease Dataset, GDP Analysis
+Excel: Exploring Data, Preparing Data, Analysing Data, Important Interview QuestionsProjects: Sales Data Analysis Using Covered Functions and Pivot Tables
+Excel: Exploring Data, Preparing Data, Analysing Data, Important Interview Questions
+Projects: Sales Data Analysis Using Covered Functions and Pivot Tables
+Power BI - Introduction to Power BI, Understanding Parameters, Basic Plots, Fundamentals of Power BI, Designing the Plots, etcProjects: Superstore Sales Analysis Dashboard, Covid-19 World Dashboard
+Power BI - Introduction to Power BI, Understanding Parameters, Basic Plots, Fundamentals of Power BI, Designing the Plots, etc
+Projects: Superstore Sales Analysis Dashboard, Covid-19 World Dashboard
+Web Scraping - Learn how to Scrape, Selenium, Image Dataset Creation, and much moreProjects: Wikipedia Scraper, Youtube Scrapper, Stock Images Infinite Scroll
+Web Scraping - Learn how to Scrape, Selenium, Image Dataset Creation, and much more
+Projects: Wikipedia Scraper, Youtube Scrapper, Stock Images Infinite Scroll
+SQL - Databases Fundamentals, SQL Fundamentals, Data Manipulation(DML), Querying, Intermediate SQL Queries, Joining and combining Data, Set Theory Clauses, Subqueries, Window Functions, Data Preprocessing and analysis
+SQL - Databases Fundamentals, SQL Fundamentals, Data Manipulation(DML), Querying, Intermediate SQL Queries, Joining and combining Data, Set Theory Clauses, Subqueries, Window Functions, Data Preprocessing and analysis
+Introduction to AI, How Data Science Comes into Play,
+Introduction to AI, How Data Science Comes into Play,
+Linear Regression, Multiple Linear Regression & Polynomial Linear Regression,
+Linear Regression, Multiple Linear Regression & Polynomial Linear Regression,
+Support Vector Machines, Decision Trees, Random Forests,
+Support Vector Machines, Decision Trees, Random Forests,
+Classification Algorithms, Clustering Algorithms, Feature Engineering, and much more
+Classification Algorithms, Clustering Algorithms, Feature Engineering, and much more
+Upcoming Batches
+Reviews and Ratings
+Reviews and Ratings
+Frequently Asked Questions
+What are the benefits of a machine learning and data science program?
+How can a machine learning and data science program help me advance my career?
+What career opportunities are available after completing a machine learning and data science program?
+How will these classes be conducted?
+Is there any number to contact for query?
+How does the admission process work for this course?
+How long will the course content be available for?
+Can I make the payment through PayPal?
+How doubt support feature works?
+What is Data Science?
+What is Machine Learning?
+Why should I learn Data Science and Machine Learning?
+What are some common applications of Data Science and Machine Learning?
+What are some common tools used in Data Science and Machine Learning?
+Is Data Science hard to learn?
+What kind of jobs can I get with Data Science and Machine Learning skills?
+Can I learn Data Science and Machine Learning online?
+How do I keep my skills up to date in Data Science and Machine Learning?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_22_Web_Header_Frame_2013_t_1747487514.png

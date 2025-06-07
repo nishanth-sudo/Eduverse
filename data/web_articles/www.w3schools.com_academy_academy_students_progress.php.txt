@@ -1,0 +1,84 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Track student progress
+All your classes, students and tools in one place.So you can focus on teaching, not administration.
+See how your classes are progressing
+Get a clear view of student progress,spot who needs support, and keep your class moving forward.
+See who's active
+Check each student's status and license type.
+Track plans and assignments
+Get an instant overview of assigned study plans and tasks across your class.
+Assign with flexibility
+Support different needs by assigning tasks to individuals, groups or the whole class.
+Support every student
+Use real-time insights to follow up where it matters most, and make sure every student gets what they need to succeed.
+Heatmap overview
+The heat map gives you a fast, visual overview of class-wide progress. Each lesson is represented as a square, and the darker the color, the more students have completed it.
+In seconds, you can spot which topics are well understood, and which may need to be revisited.
+The heatmap can help you when comparing different classes, planning reviews, or discussing progress with other teachers.
+Track learning with detailed progress
+Stay ahead of every student's journey. The detailed progress view shows exactly how far each student has come, lesson by lesson so you can catch learning gaps early, offer timely support, and adjust your follow-ups.
+Because everything is logged and always up to date, it's also easier to handle everyday tasks like preparing for parent-teacher meetings, documenting individual learning plans, or reporting to school leadership. Without jumping between systems.
+Check exam results for your classes
+Get access to detailed exam results for each student. Get data on which exams they have completed, their scores, and how they performed in the different topics.
+Check exam results for your classes
+Get access to detailed exam results for each student. Get data on which exams they have completed, their scores, and how they performed have in the different topics.
+Students stay on track with their own dashboard
+Just like the teacher's dashboard shows what the students are doing, the students have their own dashboard where they can see study plans, activities, deadlines, and progress. The dashboard helps the students stay on track, and makes it easier for you to teach.
+Stay updated,with 40+ tutorials
+Keeping up with new technologies isn't always easy. New frameworks and languages appear all the time, and it can feel overwhelming on top of your work in the classroom.
+We're here to help you stay confident and up to date with best practices, so you can explore coding concepts at your own pace before introducing them to your students.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Frequently asked questions
+How can I track student progress?
+Access the dashboard to view real-time progress, completion rates, and performance metrics for all your students.
+What metrics are available?
+Track exercise completion, quiz scores, time spent learning, and overall course progress for each student.
+Can I monitor multiple classes?
+Yes, you can manage and track progress for multiple classes and individual students from one central dashboard.
+Are there progress reports?
+Yes, generate detailed progress reports for individuals or entire classes to track learning outcomes.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_student_progress_hero.png
+www.w3schools.com_academy_images_student_dashboard.png
+www.w3schools.com_academy_images_student_dashboard_mobile.png
+www.w3schools.com_academy_images_tutorials_overview.png
+www.w3schools.com_academy_images_tutorials_overview_mobile.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

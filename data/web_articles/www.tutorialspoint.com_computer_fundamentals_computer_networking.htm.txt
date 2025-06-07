@@ -1,0 +1,229 @@
+Computer - Home
+Computer - Overview
+Computer - Advantages & Disadvantages
+Computer - Classification
+Computer - Applications
+Computer - History & Evolution
+Computer - System Characteristics
+Computing Origins
+Computer - Origins
+Computer - Generations
+Computer - Types
+Computer Components
+Computer - Components
+Computer - CPU
+Computer - CPU Components
+Computer - Arithmetic Logic Unit (ALU)
+Computer - Control Unit
+Computer - Input Devices
+Computer - Output Devices
+Computer - Memory Units
+Computer Hardware
+Computer - Hardware
+Computer - Motherboard
+Computer - GPU
+Computer - PSU
+Computer Software
+Computer - Software
+Computer - Software Types
+Computer Data Storage & Memory
+Computer - Data Storage
+Computer - Types of Data Storage
+Computer - Hard Disk Drives (HDD)
+Computer - Solid State Drives (SSD)
+Computer - Memory Cards
+Computer - Optical Storage
+Computer - NAND Flash Memory
+Computer - NVMe Memory
+Computer - CompactFlash Card
+Computer - Cloud Storage
+Computer Memory
+Computer - Memory
+Computer - Primary Memory
+Computer - Secondary Memory
+Computer - RAM
+Computer - ROM
+Computer - DRAM
+Computer - VRAM
+Computer - Cache Memory
+Computer Internet & Intranet
+Computer - Internet and Intranet
+Computer - Internet
+Computer - Extranet
+Computer - Websites
+Computer Office Tools
+Computer - Word Processors
+Computer - Spread Sheet
+Computer - Power Presentations
+Computer - E-mail Tools
+Computer Miscellaneous
+Computer - Ports
+Computer - Number System
+Computer - Number Conversion
+Computer - Data and Information
+Computer - Networking
+Computer - Operating System
+Computer - Keyboard Shortcut Keys
+Computer - Virus
+Computer - Antivirus
+Computer - How to Buy?
+Computer - Available Courses
+Calculator Vs. Computer
+Brain Vs. Computer
+Analog Vs. Digital Computer
+Supercomputer Vs. Mainframe Computer
+Mainframe Vs. Minicomputer
+Printer Vs. Scanner
+OCR Vs. MICR
+File Vs. Folder
+exFAT Vs. FAT32
+FAT32 Vs. NTFS
+FAT32 Vs. exFAT Vs. NTFS
+CPU Vs. GPU
+GUI Vs. CLI
+GUI Vs. CUI
+Cache Memory Vs. Virtual Memory
+Register Vs. Memory
+RAM Vs. CAM
+SRAM Vs. DRAM
+DDR2 Vs. DDR3
+PROM Vs. EPROM
+CD Vs. DVD
+Blu-Ray Vs. DVD
+MMU Vs. MPU
+Computer Terminologies
+Microsoft Windows
+Desktop
+Monitor
+Microphone
+Keyboard
+Keypad
+Mouse
+Printer
+Webcam
+Floppy Disk Drive
+Compact Disc
+Program
+Incognito Mode
+Electronic Mail (E-Mail)
+Server
+Cloud Hosting
+Minicomputers
+Supercomputer
+Bit
+Byte
+Kilobyte
+Megabyte
+Terabyte
+Yottabyte
+Zettabyte
+Exabyte
+Petabyte
+JEDEC
+Hub
+Block Storage
+Username
+URL
+Num Lock
+BIOS
+PDF
+Bluetooth
+Computer Useful Resources
+Computer - Quick Guide
+Keyboard Function Keys
+Keyboard Shortcuts for Ubuntu
+Computer - Useful Resources
+Computer - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Basics of Computer Networking
+A computer network is a network of computer devices like computers, servers, routers, switches, or other related hardwares that are interlinked with one another to communicate and share resources, exchange data, and shared services.
+Characteristics of a Computer Network
+The following are the characteristics of a computer network −
+Share resources from one computer to another.
+Create files and store them in one computer, access those files from the other computer(s) connected over the network.
+Connect a printer, scanner, or a fax machine to one computer within the network and let other computers of the network use the machines available over the network.
+Types of a Computer Network
+A computer network can be categorized into three main categories −
+LAN (Local Area Network)
+MAN (Metropolitan Area Network)
+WAN (Wide Area Network)
+These networks can be built using geographical scope and the medium of connection (wired or wireless). A computer network allows to access network, file sharing, printing and collaboration between users at a time. Computer networks can be designed using network topologies (star, bus, ring, mesh) and protocols (TCP/IP, Ethernet, Wi-Fi) depending on the specific requirements and constraints of the environment they serve.
+Description of LAN, MAN and WAN are as follows −
+1. Local Area Network (LAN)
+As its name implies, A LAN is a network which is limited to local area only for example home, office building, school, or campus.  Hence, any network that exists within a single building, or even a group of adjacent buildings, is considered as LAN. It is often used to connect separate LANs together so they can communicate and exchange data. In a LAN, limited computer and networking devices are connected because its geographical area is small; it is specifically design for   shorter distance and used for sharing resources like files, printers, and internet connections among connected devices; the devices are physically connected with cables in wired LAN while in wireless LAN; devices are connected using wireless media.
+Overall, LANs are essential for communication, sharing of resources and communication between devices within a given area and facilitate its users for file sharing, printing, multimedia and streaming, which are common tasks for commercial and home networks.
+Characteristics of LANs
+Limited Geographic Area− A LAN network is dedicated for small area like a single building, campus, school, hospital.
+High Data Transfer Rates− A LAN network covers a short distance so the data transmits with high speed as compare to MANs and WANs.
+Ownership and Control− Because of its local network and small size; they are owned, controlled, and managed by individuals or organizations with full control over the network, access and security policies.
+Connectivity− Generally, A LAN connects using Ethernet cables, Wi-Fi, or both.
+Topology− Its a method to making a LAN; some common topologies are bus, star, ring, or mesh.
+2. Metropolitan Area Network (MAN)
+Metropolitan Area Network (MAN) is an extensive network that connects two or more LANs together within a specific geographical area, such as a city or a town. Usually MANs are not owned by sole organization. Their communication devices and equipment are maintained by a group or single network provider that sells its networking services to corporate customers. MANs often take the role of high-speed network that allows sharing of regional resources. MANs also can provide a mutual connection between two or more local networks.
+Characteristics of MANs
+Geographical Coverage− MANs cover a larger geographical as it combines multiple LANs across different locations; for example - a network of a city.
+High-Speed Connectivity− MANs provide high-speed data transmission between multiple LANs within interconnected devices in the metropolitan area.
+Public or Private Ownership− Municipal governments and telecommunications firms can own and operate MANs.
+Scalability− MANs are scalable networks, whenever network needs to span, MANs can be expanded or upgraded.
+Reliability and Redundancy− MANs use redundant network components and backup solutions to reduce network failure and down network. In case of equipment failure or network disturbances, alternate network paths, backup power sources, and failover processes preserve network availability.
+Support for Various Technologies− MANs support network technologies like Ethernet, fiber optics, wireless communication, and microwave links.
+Service Provisioning− A MAN provides services to its users like network access, data transfer, voice communication, video conferencing, and cloud services.
+Security Measures− MANs implement security measures to protect network resources, data, and communications from unauthorized access, cyber threats, and other security risks.
+Overall, MANs are well-suited to providing fast, reliable, and scalable connectivity to users and organisations in metropolitan regions, allowing for efficient communication, collaboration, and access to network resources.
+3. Wide Area Network (WAN)
+A network which combines multiple MANs and LANs is known as Wide Area Network; a WAN network covers wide geographical area typically covering multiple cities, regions, countries, or even continents.
+Example
+A company may have its corporate headquarters and manufacturing plant located in one city and marketing office in another city. Each site needs resources, data and programs locally, but it also needs to share data with other sites. To accomplish this, the company can attach devices that connect over public utilities to create a WAN.
+Characteristics of WANs
+Large Geographical Coverage− WANs includes cities, regions, and countries network and span it over the time as per the requirements increases. This covers worldwide geographical coverage.
+Interconnection of LANs− WANs interconnect geographically dispersed LANs. Users in one area can communicate with another whose location is different as well as access resources located in other locations.
+Use of Public and Private Telecommunication Infrastructure− WANs use leased lines, fibre optic cables, satellite links, and microwave links. The WAN's infrastructure allows long-distance data transfer.
+High Bandwidth and Long-Distance Communication− WANs provide quick data transfer and communication across vast distances with high-bandwidth connectivity. WAN bandwidth and speed depend on transmission medium and network technology.
+Multiprotocol Support− To fulfil communication needs, WANs enable multiple networking protocols and technologies. It includes TCP/IP, MPLS, Frame Relay, ATM etc.
+Centralized Management and Control− WANs use centralised administration and control to optimise performance, manage network resources, and enforce security regulations across different locations. Centralised management ensures network efficiency and consistency.
+Security Considerations− Encryption, virtual private networks (VPNs), firewalls, intrusion detection/prevention systems (IDS/IPS), and access control mechanisms are the security measures used by WANs to protect data and network resources against cyber threats and unauthorised access.
+Scalability and Flexibility− WANs are flexible and scalable, allows network growth, traffic volume, and new locations or users. WAN technologies can meet changing business needs and technology development.
+Hardware's / devices required to set up a computer network
+Network Cables
+Distributors
+Routers
+Internal Network Cards
+External Network Cards
+Network Cables
+Network cables are used to connect computers. The most commonly used cable is Category 5 cable RJ-45.
+Distributors
+A computer can be connected to another one via a serial port but if we need to connect many computers to produce a network, this serial connection will not work.
+The solution is to use a central body to which other computers, printers, scanners, etc. can be connected and then this body will manage or distribute network traffic.
+Router
+A router is a type of device which acts as the central point among computers and other devices that are a part of the network. It is equipped with holes called ports. Computers and other devices are connected to a router using network cables. Now-a-days router comes in wireless modes using which computers can be connected without any physical cable.
+Network Card
+Network card is a necessary component of a computer without which a computer cannot be connected over a network. It is also known as the network adapter or Network Interface Card (NIC). Most branded computers have network card pre-installed. Network cards are of two types: Internal and External Network Cards.
+Internal Network Cards
+Motherboard has a slot for internal network card where it is to be inserted. Internal network cards are of two types in which the first type uses Peripheral Component Interconnect (PCI) connection, while the second type uses Industry Standard Architecture (ISA). Network cables are required to provide network access.
+External Network Cards
+External network cards are of two types: Wireless and USB based. Wireless network card needs to be inserted into the motherboard, however no network cable is required to connect to the network.
+Universal Serial Bus (USB)
+USB card is easy to use and connects via USB port. Computers automatically detect USB card and can install the drivers required to support the USB network card automatically.
+
+[Images saved with this article:]
+www.tutorialspoint.com_computer_fundamentals_images_computer-mini-logo.jpg
+www.tutorialspoint.com_computer_fundamentals_images_computer_networks.jpg
+www.tutorialspoint.com_computer_fundamentals_images_lan.jpg
+www.tutorialspoint.com_computer_fundamentals_images_man.jpg
+www.tutorialspoint.com_computer_fundamentals_images_wan.jpg
+www.tutorialspoint.com_computer_fundamentals_images_network_cables.jpg
+www.tutorialspoint.com_computer_fundamentals_images_distributors.jpg
+www.tutorialspoint.com_computer_fundamentals_images_router.jpg
+www.tutorialspoint.com_computer_fundamentals_images_internal_network_cards.jpg
+www.tutorialspoint.com_computer_fundamentals_images_external_network_cards.jpg
+www.tutorialspoint.com_computer_fundamentals_images_usb.jpg

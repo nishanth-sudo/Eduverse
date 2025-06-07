@@ -1,0 +1,111 @@
+VB.Net - Home
+VB.Net - Overview
+VB.Net - Environment Setup
+VB.Net - Program Structure
+VB.Net - Basic Syntax
+VB.Net - Data Types
+VB.Net - Variables
+VB.Net - Constants
+VB.Net - Modifiers
+VB.Net - Statements
+VB.Net - Directives
+VB.Net - Operators
+VB.Net - Decision Making
+VB.Net - Loops
+VB.Net - Strings
+VB.Net - Date & Time
+VB.Net - Arrays
+VB.Net - Collections
+VB.Net - Functions
+VB.Net - Subs
+VB.Net - Classes & Objects
+VB.Net - Exception Handling
+VB.Net - File Handling
+VB.Net - Basic Controls
+VB.Net - Dialog Boxes
+VB.Net - Advanced Forms
+VB.Net - Event Handling
+VB.Net - Regular Expressions
+VB.Net - Database Access
+VB.Net - Excel Sheet
+VB.Net - Send Email
+VB.Net - XML Processing
+VB.Net - Web Programming
+VB.Net Useful Resources
+VB.Net - Quick Guide
+VB.Net - Useful Resources
+VB.Net - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+VB.Net Programming Tutorial
+VB.Net Tutorial
+Why to Learn VB.Net?
+VB.Net Applications
+Who Should Learn VB.Net
+Prerequisites to Learn VB.Net
+VB.Net Jobs and Opportunities
+Frequently Asked Questions about VB.Net
+VB.Net Tutorial
+VB.Net is a simple, modern, object-oriented computer programming language developed by Microsoft to combine the power of .NET Framework and the common language runtime with the productivity benefits that are the hallmark of Visual Basic. This tutorial will teach you basic VB.Net programming and will also take you through various advanced concepts related to VB.Net programming language.
+Why to Learn VB.Net?
+VB.Net was introduced in 2002 by Microsoft. It is an object-oriented language that can be used to develop software applications for Windows. So, if you are one who aspires to become a full stack developer, VB.Net must be your first programming language as it can be used to develop front-end as well as back-end of an application.
+In addition to this, following could be the reason for learning VB.Net −
+Object-Oriented Programming (OOP) Features −Learning VB.Net provides a solid foundation in OOP principles as it is an object-oriented language. These principles are applicable across various other programming languages like C++ and Java. OOP allows developers to write reusable code.
+Object-Oriented Programming (OOP) Features −Learning VB.Net provides a solid foundation in OOP principles as it is an object-oriented language. These principles are applicable across various other programming languages like C++ and Java. OOP allows developers to write reusable code.
+Support from Microsoft −As this language was developed by Microsoft, it provides strong support and integration with the .NET framework. Therefore, developers get access to a vast library of pre-coded solutions and a robust development environment in Visual Studio.
+Support from Microsoft −As this language was developed by Microsoft, it provides strong support and integration with the .NET framework. Therefore, developers get access to a vast library of pre-coded solutions and a robust development environment in Visual Studio.
+Community and Resources −There is a strong community of VB.Net developers who learn and build variety of applications. You could also be a part of that community after learning it.
+Community and Resources −There is a strong community of VB.Net developers who learn and build variety of applications. You could also be a part of that community after learning it.
+User-Friendly −VB.Net is designed to be user-friendly. Its syntax is very simple and straightforward. New programmers can quickly learn, adapt and start developing applications.
+User-Friendly −VB.Net is designed to be user-friendly. Its syntax is very simple and straightforward. New programmers can quickly learn, adapt and start developing applications.
+VB.Net Applications
+After integrating with the .NET framework, the Visual Basic programming language has become one of the preferred choices for building a wide range of software and applications. Following are the areas where VB.NET is used −
+Mobile and Web Applications −ASP.NET which is a framework designed for building web applications, works with VB.Net. Also, with the release of a cross-platform development tool named Xamarin, VB.Net can be used for developing mobile applications.
+Mobile and Web Applications −ASP.NET which is a framework designed for building web applications, works with VB.Net. Also, with the release of a cross-platform development tool named Xamarin, VB.Net can be used for developing mobile applications.
+Gaming −This programming language can also be used in gaming industry. Although it is not as popular in the gaming industry as other languages like C#, VB.Net can develop smaller-scale games for the Windows platform.
+Gaming −This programming language can also be used in gaming industry. Although it is not as popular in the gaming industry as other languages like C#, VB.Net can develop smaller-scale games for the Windows platform.
+Standard Window Software −This is the area where VB.Net is most commonly used.
+Standard Window Software −This is the area where VB.Net is most commonly used.
+Console Application −It is also a popular choice for developing console applications. These applications run using only a command line rather than a GUI.
+Console Application −It is also a popular choice for developing console applications. These applications run using only a command line rather than a GUI.
+Who Should Learn VB.Net
+This tutorial has been prepared for the beginners to help them understand basic VB.Net programming. After completing this tutorial, you will find yourself at a moderate level of expertise in VB.Net programming from where you can take yourself to next levels.
+Prerequisites to Learn VB.Net
+VB.Net programming is very much based on BASIC and Visual Basic programming languages, so if you have basic understanding on these programming languages, then it will be a fun for you to learn VB.Net programming language.
+VB.Net Jobs and Opportunities
+Following are the great companies who keep recruiting .Net professionals like DotNet MVC Developer, Dot net developer, Web developer, .Net/VB Scripting Developer, Business Manager etc:
+Intel
+Cisco
+Dell
+Leobit
+CSHARK
+Brainvire
+Brainhub
+Capgemini
+Many more...
+So, you could be the next potential employee for any of these major companies. Start learning VB.Net using our simple and effective tutorial anywhere and anytime absolutely at your pace.
+Frequently Asked Questions about VB.Net
+In this section, we will try to answer some of the Frequently Asked Questions(FAQ) about VB.Net:
+Visual Basic is an event-driven programming language that was first released in 1991. On the other hand, VB.Net is an object-oriented programming language introduced by Microsoft in 2002 as part of the .NET framework.
+JIT stands for Just-In-Time compilation. It is a part of the runtime execution environment in .NET and is used to optimize the performance.
+Trace is a class of the System.Diagnostics namespace. It provides methods to display information about the  execution of programs.
+Class access modifiers in VB.Net are keywords used to control the accessibility of classes and their members. There are six access modifiers which are Public, Private, Protected, Friend, Protected Friend, and Private Protected.
+The base class for all classes in VB.NET is the Object class.
+Delegates in VB.NET are similar to function pointers in C or C++ programming languages. They are used to encapsulate a reference to a method.
+The Common Language Runtime (CLR) is the virtual machine component of the .NET framework. It provides various services including garbage collection, security, and exception handling.
+Garbage collection in .NET is the process of automatically freeing memory occupied by objects that are no longer in use.
+The Global Assembly Cache (GAC) is a machine-wide code cache that stores .NET assemblies, which can be shared by several applications on the computer.
+A jagged array in VB.Net is an array of arrays, where each inner array can be of different lengths.
+
+[Images saved with this article:]
+www.tutorialspoint.com_vb.net_images_vb.net-mini-logo.jpg
+www.tutorialspoint.com_vb.net_images_vb.net.jpg

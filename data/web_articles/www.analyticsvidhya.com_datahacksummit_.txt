@@ -1,0 +1,582 @@
+The AI Trinity
+Powering the Future
+Generative | Agentic | Responsible
+August 20-23, 2025  •  Bengaluru
+1200+
+Attendees
+70+
+AI Talks
+30+
+Hack Sessions
+10+
+Workshops
+Hands-on AI Workshops
+From Beginner to Expert: Learning LLMs, Reinforcement Learning & AI Agents
+Joshua Starmer - StatQuest,Luis Serrano - Serrano Academy
+Agentic RAG Workshop: From Fundamentals to Real-World Implementations
+Arun Prakash Asokan - Novartis
+Agentic AI & Generative AI for Business Leaders
+David Zakkam - Uber
+Mastering Intelligent Agents: A Deep Dive into Agentic AI
+Dipanjan Sarkar - Analytics Vidhya
+Unleashing Multi-Agent Applications with CrewAI
+Alessandro Romano - Kuehne+Nagel
+Building Intelligent Multimodal Agents: Integrating Vision, Speech & Language
+Miguel Otero Pedrido - The Neural Maze
+Mastering LLMs: Training, Fine-Tuning, and Best Practices
+Raghav Bali - Delivery Hero
+LLMOps – Productionalizing Real-World Applications with LLMs
+Kartik Nighania - Typewise
+AgentOps: Building and Deploying AI Agents
+Bhaskarjit Sarmah - BlackRock
+Building Real-World LLM Agents: Evaluation, Optimization & Monitoring
+John Gilhuly - Arize AI,Srilakshmi Chavali - Arize AI
+Featured Speakers
+Joshua Starmer
+Founder and CEO
+StatQuest
+Luis Serrano
+Founder and Chief Education Officer
+Serrano Academy
+Miguel Otero Pedrido
+ML Engineer|Founder
+The Neural Maze
+Qingyun Wu
+Co-creator and Co-founder
+AG2
+John Gilhuly
+Head of Developer Relations
+Arize AI
+Anand S
+LLM Psychologist
+Straive
+Alessandro Romano
+Senior Data Scientist
+Kuehne+Nagel
+Tanika Gupta
+Director Data Science
+Sigmoid
+Agenda
+08:00 AM - 09:00 AMLobby
+09:00 AM - 09:15 AMAudi 1
+11:30 AM - 11:45 AMDining Area
+09:30AM - 05:30PM
+This full-day workshop equips business and enterprise leaders with the essential knowledge to confidently navigate the AI revolution.
+Through simple explanations, real-world examples, and live demos, you'll demystify AI and ML concepts, uncover actionable GenAI use cases, and master the art of prompting for better business outcomes.
+From foundational techniques to strategic adoption roadmaps, this session will empower you to spot opportunities, manage risks, and build a future-ready GenAI strategy — without needing a technical background.
+David Zakkam
+Data Science Director
+09:30AM - 05:30PM
+In this hands-on workshop, participants will explore the cutting-edge world of Large Language Models (LLMs), Reinforcement Learning (RL), and building autonomous AI agents. Combining theory with hands-on coding examples, this session is designed to bridge the gap between theoretical concepts and real-world applications. By the end of the workshop, participants will have a solid understanding of how to build, train, and fine-tune an LLM for specific applications as well as how to increase their utility with RAG and AI Agents.
+*Note: These are tentative details and are subject to change.
+Joshua Starmer
+Founder and CEO
+Luis Serrano
+Founder and Chief Education Officer
+09:30AM - 05:30PM
+Learn how to operationalize Large Language Models on AWS in this hands-on workshop.
+The curriculum covers the complete LLMOps lifecycle including CI/CD pipelines, SageMaker deployment, LangChain integration, and monitoring with Langfuse.
+Through practical labs, participants will build production-ready LLM systems incorporating best practices for scalability and reliability.
+*Note: These are tentative details and are subject to change.
+Kartik Nighania
+MLOps Engineer
+09:30AM - 05:30PM
+New to the world of Agentic AI and want to quickly get proficient in the key aspects of learning, building, deploying and monitoring Agentic AI Systems? This is the workshop for you! In this workshop you will get a comprehensive coverage of the breadth as well as deep dive into the depth of the vast world of Agentic AI Systems. Over the course of six modules, you will spend the entire day focusing on the following key areas:
+Learn essential concepts of Generative AI, Agentic AI and Agentic RAG Systems
+Deep dive into industry standard design patterns for architecting Agentic AI Systems - Tool-Use, Reflection, Planning, Multi-Agent
+Leverage Industry-Standard frameworks including LangChain, LangGraph and CrewAI to build simple and advanced Agentic AI & Agentic RAG Systems
+Learn basics of how to deploy Agentic AI Systems as APIs as well as debug and monitor them
+While we want to keep the discussions as framework and tool-agnostic as possible, since 90% of the workshop will be hands-on focused; we will be using LangChain and LangGraph (currently the leading framework used in the industry)  for most of the hands-on demos for building Agents and also a bit of CrewAI. While the focus of the workshop is more on building Agentic AI Systems we will also showcase how you can build a basic web service or API on top of an Agent using FastAPI and deploy and monitor it using frameworks like LangFuse or Arize AI Phoenix.
+Important Note:You may need to register for some platforms like Tavily, WeatherAPI etc for the workshop (no billing needed), we will send the instructions ahead of time. That will be essential for running the hands-on code demos live along with the instructor in the session.
+Additional Points
+Prerequisites:Solid understanding of Python, NLP and Generative AI will be useful
+Content Provided:Slides, complete code notebooks, datasets
+Infrastructure:Most of the hands-on demos we will do on Google Colab for the deployment and monitoring section we will provide the cloud infrastructure (either Colab or Runpod.io).
+*Note: These are tentative details and are subject to change.
+Dipanjan Sarkar
+Head of Community and Principal AI Scientist
+09:30AM - 05:30PM
+Agentic RAG adds a “brain” to the RAG pipeline – bringing reasoning, tool use, and adaptiveness – which translates to tangible business value in accuracy, flexibility, and user trust
+This workshop is a deep dive intoAgentic RAG (Retrieval-Augmented Generation)– an emerging approach that combines the power of LLM-based agents with retrieval techniques to build smarter AI applications. Over an 8-hour session (of course including breaks in between), participants will explore how to move beyond “vanilla” RAG pipelines and infuse them with agentic behavior for greater flexibility and intelligence. The workshop ishands-on, using Google Colab notebooks for each module so attendees can practice concepts live. We’ll leverageLangGraph(a LangChain-based framework for agent orchestration) along with the LangChain ecosystem (vector stores, tools, etc.) to design and implement these systems. The theme is highly relevant in today’s AI landscape – many enterprises are already moving from basic RAG to agent-driven systems to power next-generation assistants. In fact, new frameworks like LangGraph have emerged to meet this need, making now the perfect time to master Agentic RAG development. The workshop will also cover practical tips for building enterprise-grade agentic RAG applications
+Big Business Benefits of Agentic RAG
+Agentic RAG empowers large-scale, enterprise-ready AI systems by combining retrieval-augmented generation with intelligent, decision-making agents. The result? Smarter, more reliable, and adaptable GenAI solutions.
+Higher Accuracy & Trust: Agents reason through queries, validate retrieved information, and reduce hallucinations – essential for business-critical use cases.
+Dynamic Multi-Source Retrieval: Unlike traditional RAG limited to one vector DB, agents can pull context from multiple sources—internal files, databases, APIs, or the web—dynamically.
+Autonomous Problem Solving: Agentic systems can break down complex queries, reformulate them, and perform multi-step retrieval and reasoning with minimal human intervention.
+Scalable & Adaptable: Agent orchestration supports modular workflows that scale across domains, datasets, and tools—making the solution extensible and future-proof.
+💡Think of Agentic RAG as adding a decision-making brain to your RAG pipeline—boosting precision, flexibility, and business value.
+*Note: These are tentative details and are subject to change.
+Arun Prakash Asokan
+Associate Director Data Science
+09:30AM - 05:30PM
+This workshop introduces AgentOps, a subcategory of GenAIOps, which focuses on the operationalization of AI agents. It dives into how we can create, manage, and scale generative AI agents effectively within production environments. You’ll learn the essential principles of AgentOps, from external tool integration and memory management to task orchestration, multi-agent systems, and Agentic RAG. By the end of the workshop, participants will have the skills to build and deploy intelligent agents that can automate complex tasks, handle multi-step processes, and operate within enterprise environments.
+*Note: These are tentative details and are subject to change.
+Bhaskarjit Sarmah
+Director
+09:30AM - 05:30PM
+This workshop is designed to provide a comprehensive overview of LLMs, right from foundational NLP concepts to the latest in this domain. This workshop is aimed at working professionals but covers the required details to help beginners get started. You will gain valuable insights and hands-on experience to learn & adapt concepts to your professional lives.
+Key Takeaways:
+Understand the fundamentals of Language Models and Transformer architectures.
+Gain hands-on experience with LLMs and related concepts such as PEFT, Prompt Engineering, RAGs,  LLM frameworks like DSPY.
+Explore advanced topics such as Reinforcement Learning from Human Feedback (RLHF) and tool-calling through MCP
+*Note: These are tentative details and are subject to change.
+Raghav Bali
+Principal Data Scientist
+09:30AM - 05:30PM
+This hands-on workshop is designed to equip practitioners with the skills to build, evaluate, and optimize robust LLM-powered applications and agents. This workshop will cover everything from system foundations, observability, and advanced evaluation techniques to prompt optimization, retrieval-augmented generation, and production-grade monitoring. You'll learn how to debug, iterate, and continuously improve real-world systems with the right metrics, tools, and strategies. The workshop culminates in a collaborative capstone project where teams design and present solutions to real-world LLM challenges—turning theory into deployable action.
+John Gilhuly
+Head of Developer Relations
+Srilakshmi Chavali
+AI Engineer
+09:30AM - 05:30PM
+In this workshop, we’ll build a fully functional multimodal Telegram agent, putting into practice a wide range of concepts from the world of Agentic AI. This isn’t just another PoC — it's designed for those who are ready to level up and build complex, production-ready agentic applications.
+Throughout the session, you’ll learn how to build a Telegram agent you can chat with directly from your phone, master the creation and management of workflows with LangGraph, and set up a long-term memory system using Qdrant as a vector database.
+We’ll also leverage the fast Groq LLMs to power the agent’s responses, implement Speech-to-Text capabilities with Whisper, and integrate Text-to-Speech using ElevenLabs.
+Beyond language, you’ll learn to generate high-quality images using diffusion models, and process visual inputs with Vision-Language Models such as Llama 3.2 Vision.
+Finally, we’ll bring it all together by connecting the complete agentic application directly to Telegram, enabling a rich, multimodal user experience.
+Miguel Otero Pedrido
+ML Engineer|Founder
+09:30AM - 05:30PM
+In this hands-on technical workshop, we’ll explore multi-agent orchestration using CrewAI, diving into how autonomous agents can collaborate to solve complex problems. You’ll learn how to define, configure, and coordinate agents using CrewAI’s core components, all in Python.
+We’ll walk through the main classes of problems this approach is suited for and guide you step by step through building real-world workflows. Topics include agent creation, orchestration strategies, tool integration (including custom tools), and LLM-agnostic setups. We’ll also look at how to connect CrewAI with external libraries such as Streamlit to bring your solutions to life.
+What You’ll Learn:
+How to define agents and tasks in CrewAI
+Coordinating agents through orchestration flows
+Using and creating tools and custom tools
+Working with different LLMs (LLM-agnostic setups)
+Integrating with libraries like Streamlit
+Best practices for building maintainable and scalable agent systems
+Alessandro Romano
+Senior Data Scientist
+Sessions
+From LLMs to Agentic AI: Solving New Problems with Multi-Agent Systems
+Alessandro Romano - Kuehne+Nagel
+LLMs Are Boring. How Can We Make Them More Interesting?
+Harshad Khadilkar - Tata Group
+Quantifying Our Confidence in Neural Networks and AI
+Joshua Starmer - StatQuest
+Understanding AI Agents with MCP
+Nitin Agarwal - Toast  & 
+                                                
+                                                    Rutvik Acharya - Atlassian
+AI Voice Agent: The Future of Human-Computer Interaction
+Manoranjan Rajguru - Microsoft  & 
+                                                
+                                                    Ranjani Mani - Microsoft
+Automating Vehicle Inspections with Multimodal AI and Gemini on GCP
+Vignesh Kumar - Ford Motor Company
+Book Now & SaveUpto 35%
+Upto 35%
+DAYS
+HR
+MIN
+SEC
+₹13,000
+₹20,000
+Conference only
+20-22 Aug
+Access to all 70+ AI sessions
+Access to AI Exhibition
+Access to recording of all sessions
+Workshop Access of Choice
+Workshop Certificate
+₹22,100*
+₹34,000
+Conference + Workshop
+20-23 Aug
+Access to all 70+ AI sessions
+Access to AI Exhibition
+Access to recording of all sessions
+Workshop Access of Choice
+Workshop Certificate
+Why Attend DataHack Summit?
+Practitioner’s Conference
+Join top data scientists, GenAI scientists, researchers to create real-world AI solutions. Navigate the Agentic AI revolution, gaining insights you can immediately apply in your role.
+Ultimate GenAI & Agentic AI Experience
+Immerse yourself in live demos and interactive showcases of cutting-edge AI agents and generative AI tools, revealing transformative applications across industries.
+Power Networking with AI Leaders
+Connect directly with industry visionaries. Share strategic insights, build influential relationships, and unlock practical strategies to excel in the rapidly evolving AI landscape.
+Honoring Excellence in AI
+Celebrate visionary leaders shaping the future of AI. Join an inspiring gathering honoring bold achievements and transformative innovations driving the next generation of progress.
+Experience The AI Trinity
+Thought Provoking Keynotes
+Gain insights from AI pioneers as they break down Generative, Agentic, and Responsible AI - walk away ready to solve tomorrow’s toughest challenges.
+Hack Sessions
+Watch GenAI and Agentic AI in action! Experience real-time problem-solving and cutting-edge AI techniques through live demos that bring theory to life.
+Hands-on Workshops
+Dive into immersive, instructor-led sessions where you’ll design GenAI and Agentic AI solutions and walk away with ready-to-use skills.
+Exclusive Showcases
+Experience the AI Trinity in action - bold ideas, smart systems, and ethical impact changing the way businesses operate.
+Power Talks
+Engage with industry icons in high-impact discussions. Gain actionable strategies, big-picture insights, and the inspiration to drive AI-powered innovation
+Awards Evening
+Celebrate the game-changers, innovators, and visionaries leading AI’s evolution. Be part of a community shaping the next frontier of technology.
+Live the DataHack Summit Experience
+Feel the energy and innovation in action – get a glimpse of India’s most influential AI conference.
+Focus Area
+Agentic AI
+AgentOps
+Agentic RAG
+Agentic Memory & Frameworks
+Vibe Coding
+Prompt Engineering
+Large Language Models (LLMs)
+LLMOps
+Retrieval Augmented Generation (RAG)
+Multimodal Models
+Responsible AI
+Diffusion Models
+Stay updated! Enter your email to receive the conference agenda directly to your inbox. Don't miss out!
+Stellar Past Sponsors
+AV Luminary Awards
+Honoring the leaders whose relentless pursuit of innovation is shaping the world of tomorrow.
+Glimpse from the Past
+Contact Us
+Get in touch with us for sponsorship and event details
+Connect with us today!
+For Sponsorship & Corporate Bookings
+Shveta Gupta
++91 9871108700
++91 9871108700
+[email protected]
+[email protected]
+For Query Regarding Tickets
+Ummed Saini
++91 8368808185
++91 8368808185
+[email protected]
+[email protected]
+Frequently asked questions
+This is India's premier AI conference that brings together the brightest minds in the field of AI. Join the brightest minds as we dive into the transformative power of Generative, Agentic, and Responsible AI. Explore breakthrough technologies, build real-world skills, and connect with a vibrant community passionate about shaping AI that creates, decides, and leads responsibly.
+Set in the heart of Bengaluru, this event will take place from August 20–23, 2025. While the conference is for 3 days, the 4th day(last day) consists of day-long workshops which are conducted in a classroom setup. The workshop venue details will be announced shortly.
+The theme for this year’s edition is - ‘The AI Trinity: Powering the Future – Generative | Agentic | Responsible’
+                                This year’s theme explores the forces redefining tomorrow. Generative AI fuels creativity, Agentic AI drives intelligent action, and Responsible AI ensures ethical progress- transforming industries, healthcare, entertainment, and beyond. Join us to uncover the cutting edge of this trinity, learn to leverage its potential, and lead in a future powered by innovation and integrity.
+Yes, we offer exclusive group discounts to make your experience even more rewarding. Reach out to us at[email protected]or call us at+91 8368808185
+DataHack Summit 2025 offers two tailored ticket options -
+
+                                Conference + HackDay: Perfect for attendees eager to dive into cutting-edge technical sessions, connect with industry leaders, and experience hands-on AI hack sessions.
+                                Conference + HackDay + Workshop: This all-access pass includes everything above, plus an immersive, instructor-led workshop focused on solving a real-world AI challenge in depth.
+                                For pricing details and available discounts, please visit thepricing page.
+Tickets for DataHack Summit 2025 are now available on our official website: https://www.analyticsvidhya.com/datahacksummit/.
+                                We offer two main tracks, thoughtfully designed to cater to different learning goals and interests. You can review the details for each track on the website and choose the one that best aligns with your objectives.
+                                Alternatively, if you prefer a quicker checkout experience, you can book your tickets directlyhere.
+Yes, DataHack Summit 2025 welcomes speakers from diverse backgrounds and areas of expertise within Data Science and AI. We encourage you to submit your session proposal through our Call for Speakers page. It’s an opportunity to share your insights, inspire the next wave of AI talent, and contribute to one of the most impactful AI gatherings of the year.
+AI Hack Sessions provide brief, expert-led demonstrations of GenAI solutions in a relaxed setting, ideal for quick insights. In contrast, Workshops deliver extensive, interactive learning opportunities with hands-on problem-solving in a classroom setting, focusing on skill-building and deep understanding. Choose your path for a tailored experience at the summit.
+Absolutely. DataHack Summit 2025 is thoughtfully designed to foster meaningful collaboration and interaction among the brightest minds in AI. In addition to structured networking formats such as collaborative sessions, panel discussions- you’ll find countless informal moments to connect.
+                                Whether it’s during coffee breaks, hallway chats, or lunch conversations, the entire experience is built to spark insightful dialogue and lasting professional relationships with others who share your passion for AI.
+Yes, all attendees will be provided with lunch and high tea during the conference. These refreshment breaks are not just about recharging- they also serve as valuable moments for informal networking, idea exchange, and deepening conversations sparked during the sessions.
+Yes, DataHack Summit 2025 offers dynamic sponsorship opportunities for organizations aiming to showcase their brand, connect with key decision-makers, and align with the forefront of Generative and Agentic AI innovation.
+                                We provide a range of customizable sponsorship packages designed to meet diverse objectives and budgets. To explore partnership options and find the right fit for your brand, please reach out to our sponsorship team at[email protected]
+We understand that plans can change, but please note that all ticket sales are final. Tickets are non-refundable, non-transferable, and non-cancelable. We recommend confirming your availability before completing your purchase.
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+04
+04
+10
+10
+19
+19
+48
+48
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Download Brochure20% off
+Download Brochure20% off
+
+[Images saved with this article:]
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_From_Theory_to_Practice-_Training_LLMs_Reinforcement_Learning_and_AI_Agents_.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Agentic_RAG_Workshop__From_Fundamentals_to_Real-World_Implementations.png
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Generative_AI_for_Business_Leaders.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Mastering_Intelligent_Agents__A_Deep_Dive_into_Agentic_AI_Building_AI_Agents_PF49rXg.png
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Production-Ready_Multi-Agent_Application_1.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Mastering_Multimodal_Agents_Which_Sees_Talks__Thinks_1.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Mastering_LLMs__Training_Fine-Tuning_and_Best_Practices.png
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_LLMOps__Productionalizing_Real-World_Applications_with_LLMs.png
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_AgentOps__Building_and_Deploying_AI_Agents.png
+av-eks-dhs2024.s3.amazonaws.com_media_workshops_Building_Real-World_LLM_Agents-_Evaluation_Optimization__Monitoring.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_JOSHUA_nDsBcRR.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Luis.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Miguel_Otero_Pedrido_1.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_QingyunWu.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_nil.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Anand-s.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Alessandro_Romano.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_TANIKA-GUPTA.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_Registration_Copy.png
+imgcdn.analyticsvidhya.com_dhs_icons_opening_remarks_copy.png
+imgcdn.analyticsvidhya.com_dhs_icons_Tea_break_Copy.png
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_David_Zakkam.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_JOSHUA_nDsBcRR.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Luis.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_KARTIK_1.png
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_DIPANJAN__N5ZeXXb.png
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_arun_0bRMJ3g.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Bhaskar_KImDKgk.png
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_raghav_2.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_nil.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_srilakshmi_.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Miguel_Otero_Pedrido_1.jpg
+imgcdn.analyticsvidhya.com_dhs_icons_workshop_copy_8.png
+av-eks-dhs2024.s3.amazonaws.com_media_speakers_Alessandro_Romano.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_From_LLMs_to_Agentic_AI__Solving_New_Problems_with_Multi-Agent_Systems.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_LLMs_are_boring._How_can_we_make_them_more_interesting__11Nv8QY.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_Quantifying_Our_Confidence_in_Neural_Networks_and_AI.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_Understanding_AI_Agents_with_MCP.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_AI_Voice_Agents-_The_Future_of_Human-Computer_Interaction.jpg
+av-eks-dhs2024.s3.amazonaws.com_media_sessions_Multimodal_AI_in_Motion-_Automating_Vehicle_Inspections_with_Gemini_on_GCP.jpg
+imgcdn.analyticsvidhya.com_dhs2025_dhs-2024-thumb.jpg
+imgcdn.analyticsvidhya.com_dhs2025_dhs-thumb.jpg
+imgcdn.analyticsvidhya.com_dhs_ai_awards.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_slide1.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_past-1.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_group1.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_slide2.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_past-2.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_group2.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_slide3.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_past-3.png
+imgcdn.analyticsvidhya.com_dhs2025_slider_group3.png

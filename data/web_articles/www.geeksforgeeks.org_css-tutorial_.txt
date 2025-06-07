@@ -1,0 +1,306 @@
+CSS Tutorial
+CSS Exercises
+CSS Interview Questions
+CSS Selectors
+CSS Properties
+CSS Functions
+CSS Examples
+CSS Cheat Sheet
+CSS Templates
+CSS Frameworks
+Bootstrap
+Tailwind
+CSS Formatter
+Explore GfG Courses
+Share Your Experiences
+CSS Tutorial
+CSS Introduction
+CSS Syntax
+CSS Selectors
+CSS Comments
+CSS Colors
+CSS Borders
+CSS Margins
+CSS  Height and Width
+CSS Outline
+CSS Fonts
+CSS Icons
+CSS Links
+CSS Lists
+CSS Tables
+CSS Display Property
+CSS max-width Property
+CSS Positioning Elements
+CSS z-index Property
+CSS Overflow
+CSS Float
+CSS Align
+CSS Combinators
+CSS Pseudo-classes
+CSS Pseudo Elements
+CSS Opacity / Transparency
+CSS DropDowns
+CSS Image Gallery
+CSS Image Sprites
+CSS Attribute Selector
+CSS Counters
+CSS  Website Layout
+CSS Units
+CSS Specificity
+How to apply !important in CSS?
+CSS Text Formatting
+CSS Text Formatting
+CSS text-align-last Property
+CSS text-decoration Property
+CSS text-decoration-color Property
+CSS text-decoration-line Property
+CSS text-decoration-style Property
+CSS text-indent Property
+CSS text-justify Property
+CSS text-overflow Property
+CSS text-transform Property
+CSS text-shadow Property
+CSS letter-spacing Property
+CSS line-height Property
+CSS direction Property
+CSS word-spacing Property
+CSS Backgrounds
+CSS Background
+CSS background-color Property
+CSS background-image Property
+CSS background-attachment Property
+CSS background-position Property
+CSS background-origin property
+CSS background-clip Property
+CSS Lists
+CSS Lists
+CSS list-style-type Property
+CSS list-style-image Property
+CSS list-style-position Property
+CSS list-style Property
+CSS list-style-type Property
+CSS Box model
+CSS Box Model
+CSS  Height and Width
+CSS Margins
+CSS Borders
+CSS border Property
+CSS Positioning Elements
+CSS Positioning Elements
+Relative vs Absolute vs Fixed Position in CSS
+CSS bottom Property
+CSS flexbox
+Introduction to CSS Flexbox
+CSS Flexbox and Its Properties
+CSS flex Property
+CSS flex-grow Property
+CSS flex-shrink Property
+CSS flex-basis Property
+CSS flex-wrap property
+CSS Grid Layout
+CSS Grid Layout Module
+CSS column-gap Property
+CSS gap Property
+CSS grid Property
+CSS grid-area Property
+CSS grid-auto-columns Property
+CSS  grid-auto-flow Property
+CSS grid-auto-rows Property
+CSS grid-column Property
+CSS grid-column-end Property
+CSS grid-column-gap Property
+CSS grid-column-start Property
+CSS grid-gap Property
+CSS grid-row Property
+CSS grid-row-end Property
+CSS grid-row-gap Property
+CSS grid-row-start Property
+CSS grid-template Property
+CSS grid-template-areas Property
+CSS grid-template-columns Property
+CSS grid-template-rows Property
+Responsive Web Design
+Basics of Responsive Web Design - Media Queries
+Short note on Responsive Web Design
+Features of Responsive Web Design
+CSS Media Queries
+CSS Transitions
+CSS Transitions
+Transition shorthand with multiple properties in CSS?
+CSS transition Property
+CSS transition-duration  Property
+CSS transition-timing-function  Property
+CSS transition-delay Property
+CSS Animations
+CSS Animations
+CSS animation-name Property
+CSS animation-duration Property
+CSS animation-timing-function Property
+CSS animation-delay Property
+CSS animation-iteration-count Property
+CSS animation-direction Property
+CSS animation-fill-mode Property
+CSS animation-play-state Property
+CSS Exercises, Practice Questions and Solutions
+Full Stack DevelopmentCourse
+CSS TutorialLast Updated :27 Feb, 2025CommentsImproveSuggest changesLike ArticleLikeReportCSS stands forCascading Style Sheets.It is a stylesheet language used to style and enhance website presentation.CSS is one of the main three components of a webpage along with HTML and JavaScript.HTMLadds Structure to a web page.JavaScriptadds logic to it and CSS makes it visually appealing or stylish. It controls the layout of a web page i.e. how HTML elements will be displayed on a webpage.CSS was released (in 1996), 3 years after HTML (in 1993). The main idea behind its use is, it allows the separation of content (HTML) from presentation (CSS). This makes websites easier to maintain and more flexible.How to Add CSS to HTML?There are three different ways to add CSS styles to an HTML document:1. Inline CSSUse thestyle attributeon theHTML elementto add styles to the web page. It is used for small projects.HTML<!-- File name: index.html --><html><body><!-- Using Inline CSS --><h3style="text-align: center;">Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>2. Internal CSSPlace the CSS styles within a<style>tag inside the HTML file, usually inside the<head>section.HTML<!-- File name: index.html --><html><head><!-- Using Internal CSS --><style>h3{color:green;}</style></head><body><!-- CSS is applied here --><h3>Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>3. External CSSCreate a separate CSS file with a.css extensionand link this file to your HTML file using the<link> tag. It consider the best practice to add CSS into HTML File.HTML<!-- File name: index.html --><html><head><!-- Importing External CSS --><linkrel="stylesheet"href="style.css"/></head><body><p>CSS Tutorial - GeeksforGeeks</p></body></html>CSS/* Write CSS Here *//* External CSS *//* File name: style.css */p{text-align:center;}CSS FundamentalsThis section covers the fundamental topics of CSS.Introduction to CSSCSS SyntaxCSS CommentsCSS RulesetCSS SelectorsCSS CombinatorsCSS Measurement UnitsCSS PropertiesCSS DisplayCSS BackgroundsCSS BordersCSS FontCSS ColorsCSS MarginsCSS PaddingCSS PositionCSS White SpaceCSS Height and WidthCSS OverFlowCSS ShadowStyling HTML Elements with CSSThis Section contains all the information about various styling techniques in CSS.CSS TextCSS ImagesCSS ListsCSS TablesCSS FormsCSS linksCSS MediaCSS Projects for BeginnersNow you have a basic understanding of CSS. So start with some beginner level projects to clear your concept and to implement in real world applications.Design Geeks for Geeks logoMeet the Team Page DesignTribute Page DesignDesign a web pageContact Us Page DesignCreate Browsers WindowDesign Email NewsletterCSS Responsive DesignThis Section contains all the designing techniques in CSS used for various use casesCSS Website LayoutCSS Box ModelResponsive DesignCSS PositioningCSS Nesting style rulesLogic Implementations in CSSThis Section Covers all the mathematical logic that can be applied in CSS.CSS CountersCSS ColumnsCSS Conditional RulesCSS Logical PropertiesCSS Math functionsInteresting Facts in CSSThis section covers all the interesting facts and features that make CSS a powerful and versatile tool for web design.CSS Image StylingCSS Text StylingCSS GridCSS Box ModelCSS FlexboxComplete CSSAdvanced CSS TopicsThis Section contains various information about advanced topics in CSSCSS SpecificityCSS VariablesCSS InheritanceCSS TransformsCSS TransitionsCSS AnimationsCSS VariablesCSS FunctionCSS Shadow DOMCSS Online QuizzesTo achieve a solid understanding of CSS, it’s essential to engage with CSS quizzes and MCQs. These CSS quizzes can enhance your ability to solve similar questions and improve your problem-solving skills.Here are some quiz articles related to CSS 3:Basic CSS QuizIntermediate CSS QuizAdvanced CSS QuizCSS Interview QuestionsDon't miss our CSS Interview Questions and Answers before going for your interview.CSS Interview Questions and Answers (2025) For BeginnersAdvance CSS Interview Questions and Answers (2025) For ExperiencedBonus Resource:CSS Cheat-Sheet for Beginners (2025)-A Basic Guide to CSS.CSS FrameworksCSS Frameworksare a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.These CSS frameworks provide a set of standardized, reusable components and a predefined structure, allowing developers to create responsive and aesthetically pleasing websites with reduced effort.Other Useful CSS ResourcesCSS Complete Guide - A to Z CSS ConceptsLearn CSS: Free CSS Course For BeginnersCSS VersionsCSS 1:The foundation, released in 1996, introduced basic styling capabilities for fonts, colors, and margins.CSS 2:Expanded in 1998, adding positioning elements, pseudo-classes, and improved layout options.CSS 2.1:Further refinements in 2004, including improvements to inheritance and box model properties.CSS 3:Introduced from 2001 onwards, CSS3 isn't a single version but a collection of modules adding features like animations, media queries, and web fonts. It's constantly evolving.CSS PreprocessorsThis section contains information about the preprocessors used in CSS.CSS Preprocessor SASSCSS Preprocessor LESSCSS Preprocessors LESS vs SASSWhy learn CSS?CSS is essential for modern web development. Here's why you should learn it:1. Enhance Visual AppealCSS allows you to style your web pages, making them visually appealing and engaging. Here’s why it matters:User Experience (UX): Well-designed websites attract and retain users. CSS enables you to create beautiful layouts, choose fonts, and apply colors that resonate with your audience.2. Responsive DesignIn today’s mobile-first world, responsive design is crucial. CSS empowers you to:Media Queries: Adapt your layout based on screen size (desktop, tablet, mobile).Flexbox and Grid: Create flexible, adaptive designs that look great on any device.3. Improve Website Performance and SEOCSS indirectly impacts your site’s SEO. Here’s how:Page Load Speed: Well-organized CSS files load faster, improving user experience. Google considers page speed as a ranking factor.Structured Content: Properly styled HTML (thanks to CSS) enhances readability for search engines and users.Mobile Friendliness: Responsive CSS ensures your site performs well on mobile devices, positively affecting rankings.4. Efficient MaintenanceCSS promotes clean code and separation of concerns:Modularity: Separate CSS files allow easy updates without affecting other parts of your site.Consistency: Apply styles consistently across your site using classes and IDs.5. Career OpportunitiesLearning CSS opens doors to various roles:Front-End Developer: Mastering CSS is essential for front-end development.Web Designer: CSS skills are fundamental for creating stunning web layouts.Full-Stack Developer: Understanding CSS complements back-end skills.Next ArticleCSS IntroductionkartikImproveArticle Tags :Web TechnologiesCSSTutorialsWeb-Tech Tutorials
+CSS Tutorial
+CSS stands forCascading Style Sheets.It is a stylesheet language used to style and enhance website presentation.
+CSS is one of the main three components of a webpage along with HTML and JavaScript.HTMLadds Structure to a web page.JavaScriptadds logic to it and CSS makes it visually appealing or stylish. It controls the layout of a web page i.e. how HTML elements will be displayed on a webpage.
+HTMLadds Structure to a web page.
+JavaScriptadds logic to it and CSS makes it visually appealing or stylish. It controls the layout of a web page i.e. how HTML elements will be displayed on a webpage.
+CSS was released (in 1996), 3 years after HTML (in 1993). The main idea behind its use is, it allows the separation of content (HTML) from presentation (CSS). This makes websites easier to maintain and more flexible.
+How to Add CSS to HTML?
+There are three different ways to add CSS styles to an HTML document:
+1. Inline CSS
+Use thestyle attributeon theHTML elementto add styles to the web page. It is used for small projects.
+<!-- File name: index.html --><html><body><!-- Using Inline CSS --><h3style="text-align: center;">Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+<!-- File name: index.html --><html><body><!-- Using Inline CSS --><h3style="text-align: center;">Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+2. Internal CSS
+Place the CSS styles within a<style>tag inside the HTML file, usually inside the<head>section.
+<!-- File name: index.html --><html><head><!-- Using Internal CSS --><style>h3{color:green;}</style></head><body><!-- CSS is applied here --><h3>Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+<!-- File name: index.html --><html><head><!-- Using Internal CSS --><style>h3{color:green;}</style></head><body><!-- CSS is applied here --><h3>Welcome To GFG</h3><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+3. External CSS
+Create a separate CSS file with a.css extensionand link this file to your HTML file using the<link> tag. It consider the best practice to add CSS into HTML File.
+<!-- File name: index.html --><html><head><!-- Importing External CSS --><linkrel="stylesheet"href="style.css"/></head><body><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+<!-- File name: index.html --><html><head><!-- Importing External CSS --><linkrel="stylesheet"href="style.css"/></head><body><p>CSS Tutorial - GeeksforGeeks</p></body></html>
+/* Write CSS Here *//* External CSS *//* File name: style.css */p{text-align:center;}
+/* Write CSS Here *//* External CSS *//* File name: style.css */p{text-align:center;}
+CSS Fundamentals
+This section covers the fundamental topics of CSS.
+Introduction to CSS
+CSS Syntax
+CSS Comments
+CSS Ruleset
+CSS Selectors
+CSS Combinators
+CSS Measurement Units
+CSS Properties
+CSS Display
+CSS Backgrounds
+CSS Borders
+CSS Font
+CSS Colors
+CSS Margins
+CSS Padding
+CSS Position
+CSS White Space
+CSS Height and Width
+CSS OverFlow
+CSS Shadow
+Styling HTML Elements with CSS
+This Section contains all the information about various styling techniques in CSS.
+CSS Text
+CSS Images
+CSS Lists
+CSS Tables
+CSS Forms
+CSS links
+CSS Media
+CSS Projects for Beginners
+Now you have a basic understanding of CSS. So start with some beginner level projects to clear your concept and to implement in real world applications.
+Design Geeks for Geeks logo
+Meet the Team Page Design
+Tribute Page Design
+Design a web page
+Contact Us Page Design
+Create Browsers Window
+Design Email Newsletter
+CSS Responsive Design
+This Section contains all the designing techniques in CSS used for various use cases
+CSS Website Layout
+CSS Box Model
+Responsive Design
+CSS Positioning
+CSS Nesting style rules
+Logic Implementations in CSS
+This Section Covers all the mathematical logic that can be applied in CSS.
+CSS Counters
+CSS Columns
+CSS Conditional Rules
+CSS Logical Properties
+CSS Math functions
+Interesting Facts in CSS
+This section covers all the interesting facts and features that make CSS a powerful and versatile tool for web design.
+CSS Image Styling
+CSS Text Styling
+CSS Grid
+CSS Box Model
+CSS Flexbox
+Complete CSS
+Advanced CSS Topics
+This Section contains various information about advanced topics in CSS
+CSS Specificity
+CSS Variables
+CSS Inheritance
+CSS Transforms
+CSS Transitions
+CSS Animations
+CSS Variables
+CSS Function
+CSS Shadow DOM
+CSS Online Quizzes
+To achieve a solid understanding of CSS, it’s essential to engage with CSS quizzes and MCQs. These CSS quizzes can enhance your ability to solve similar questions and improve your problem-solving skills.
+Here are some quiz articles related to CSS 3:
+Basic CSS Quiz
+Intermediate CSS Quiz
+Advanced CSS Quiz
+CSS Interview Questions
+Don't miss our CSS Interview Questions and Answers before going for your interview.
+CSS Interview Questions and Answers (2025) For Beginners
+Advance CSS Interview Questions and Answers (2025) For Experienced
+Bonus Resource:CSS Cheat-Sheet for Beginners (2025)-A Basic Guide to CSS.
+CSS Frameworks
+CSS Frameworksare a collection of pre-written CSS files (and sometimes JavaScript components) that offer reusable code for common tasks such as buttons, grids, forms, and navigation menus.
+These CSS frameworks provide a set of standardized, reusable components and a predefined structure, allowing developers to create responsive and aesthetically pleasing websites with reduced effort.
+Other Useful CSS Resources
+CSS Complete Guide - A to Z CSS Concepts
+Learn CSS: Free CSS Course For Beginners
+CSS Versions
+CSS 1:The foundation, released in 1996, introduced basic styling capabilities for fonts, colors, and margins.
+CSS 2:Expanded in 1998, adding positioning elements, pseudo-classes, and improved layout options.
+CSS 2.1:Further refinements in 2004, including improvements to inheritance and box model properties.
+CSS 3:Introduced from 2001 onwards, CSS3 isn't a single version but a collection of modules adding features like animations, media queries, and web fonts. It's constantly evolving.
+CSS Preprocessors
+This section contains information about the preprocessors used in CSS.
+CSS Preprocessor SASS
+CSS Preprocessor LESS
+CSS Preprocessors LESS vs SASS
+Why learn CSS?
+CSS is essential for modern web development. Here's why you should learn it:
+1. Enhance Visual Appeal
+CSS allows you to style your web pages, making them visually appealing and engaging. Here’s why it matters:
+User Experience (UX): Well-designed websites attract and retain users. CSS enables you to create beautiful layouts, choose fonts, and apply colors that resonate with your audience.
+2. Responsive Design
+In today’s mobile-first world, responsive design is crucial. CSS empowers you to:
+Media Queries: Adapt your layout based on screen size (desktop, tablet, mobile).
+Flexbox and Grid: Create flexible, adaptive designs that look great on any device.
+3. Improve Website Performance and SEO
+CSS indirectly impacts your site’s SEO. Here’s how:
+Page Load Speed: Well-organized CSS files load faster, improving user experience. Google considers page speed as a ranking factor.
+Structured Content: Properly styled HTML (thanks to CSS) enhances readability for search engines and users.
+Mobile Friendliness: Responsive CSS ensures your site performs well on mobile devices, positively affecting rankings.
+4. Efficient Maintenance
+CSS promotes clean code and separation of concerns:
+Modularity: Separate CSS files allow easy updates without affecting other parts of your site.
+Consistency: Apply styles consistently across your site using classes and IDs.
+5. Career Opportunities
+Learning CSS opens doors to various roles:
+Front-End Developer: Mastering CSS is essential for front-end development.
+Web Designer: CSS skills are fundamental for creating stunning web layouts.
+Full-Stack Developer: Understanding CSS complements back-end skills.
+Web Technologies
+CSS
+Tutorials
+Web-Tech Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20230710124645_CSS.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_874_Web_Content_frontend-interview-webp_1739529920.webp
+media.geeksforgeeks.org_img-practice_prod_courses_244_Web_Content_CIP_1720782273.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

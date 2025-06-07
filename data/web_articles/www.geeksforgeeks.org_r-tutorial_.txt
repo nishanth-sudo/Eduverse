@@ -1,0 +1,442 @@
+Data Science IBM Certification
+Data Visualization
+Statistics in R
+Machine Learning in R
+Data Science in R
+Packages in R
+Data Types
+String
+Array
+Vector
+Lists
+Matrices
+Oops in R
+Explore GfG Courses
+Share Your Experiences
+R Tutorial | Learn R Programming Language
+Introduction
+R Programming Language - Introduction
+Interesting Facts about R Programming Language
+R vs Python
+Environments in R Programming
+Introduction to R Studio
+How to Install R and R Studio?
+Creation and Execution of R File in R Studio
+Clear the Console and the Environment in R Studio
+Hello World in R Programming
+Fundamentals of R
+Basic Syntax in R Programming
+Comments in R
+R Operators
+R - Keywords
+R Data Types
+Variables
+R Variables - Creating, Naming and Using Variables in R
+Scope of Variable in R
+Dynamic Scoping in R Programming
+Lexical Scoping in R Programming
+Input/Output
+Taking Input from User in R Programming
+Printing Output of an R Program
+Print the Argument to the Screen in R Programming - print() Function
+Control Flow
+Control Statements in R Programming
+Decision Making in R Programming - if, if-else, if-else-if ladder, nested if-else, and switch
+Switch case in R
+For loop in R
+R - while loop
+R - Repeat loop
+goto statement in R Programming
+Break and Next statements in R
+Functions
+Functions in R Programming
+Function Arguments in R Programming
+Types of Functions in R Programming
+Recursive Functions in R Programming
+Conversion Functions in R Programming
+Data Structures
+Data Structures in R Programming
+R Strings
+R Vectors
+R - Lists
+R - Array
+R - Matrices
+R Factors
+R - Data Frames
+Object Oriented Programming
+R - Object Oriented Programming
+Classes in R Programming
+R - Objects
+Encapsulation in R Programming
+Polymorphism in R Programming
+R - Inheritance
+Abstraction in R Programming
+Looping over Objects in R Programming
+S3 class in R Programming
+Explicit Coercion in R Programming
+Error Handling
+Handling Errors in R Programming
+Condition Handling in R Programming
+Debugging in R Programming
+File Handling
+File Handling in R Programming
+Reading Files in R Programming
+Writing to Files in R Programming
+Working with Binary Files in R Programming
+Packages in R
+Packages in R Programming
+Data visualization with R and ggplot2
+dplyr Package in R Programming
+Grid and Lattice Packages in R Programming
+Shiny Package in R Programming
+tidyr Package in R Programming
+What Are the Tidyverse Packages in R Language?
+Data Munging in R Programming
+Data Interfaces
+Data Handling in R Programming
+Importing Data in R Script
+Exporting Data from scripts in R Programming
+Working with CSV files in R Programming
+Working with XML Files in R Programming
+Working with Excel Files in R Programming
+Working with JSON Files in R Programming
+Working with Databases in R Programming
+Data Visualization
+Getting started with Data Visualization in R
+R - Line Graphs
+R - Bar Charts
+Histograms in R language
+Scatter plots in R Language
+R - Pie Charts
+Boxplots in R Language
+Statistics
+R - Statistics
+Mean, Median and Mode in R Programming
+Exploring Statistical Measures in R: Average, Variance, and Standard Deviation Explained
+Descriptive Analysis in R Programming
+Normal Distribution in R
+Binomial Distribution in R Programming
+ANOVA (Analysis of Variance) Test in R Programming
+Covariance and Correlation in R Programming
+Skewness in R Programming
+Hypothesis Testing in R Programming
+Bootstrapping in R Programming
+Time Series Analysis in R
+Machine Learning
+Introduction to Machine Learning in R
+Setting up Environment for Machine Learning with R Programming
+Supervised and Unsupervised Learning in R Programming
+Regression and its Types in R Programming
+Classification in R Programming
+Naive Bayes Classifier in R Programming
+KNN Classifier in R Programming
+Clustering in R Programming
+Decision Tree in R Programming
+Random Forest Approach in R Programming
+Hierarchical Clustering in R Programming
+DBScan Clustering in R Programming
+Deep Learning in R Programming
+Top 50 R Interview Questions with Answers
+DSA to DevelopmentCourse
+R Tutorial | Learn R Programming LanguageLast Updated :03 Dec, 2024CommentsImproveSuggest changesLike ArticleLikeReportRis aninterpretedprogramming language widely used for statistical computing, data analysis and visualization. R language is open-source with large community support. R provides structured approach to data manipulation, along with decent libraries and packages like Dplyr, Ggplot2, shiny, Janitor and more.Hello World Program in R LanguageHere is an example of the first Hello World program in R Programming Language. To print in R language you just need to use a Print function.R# Codeprint("Hello World!")OutputHello World!R-BasicsIntroduction to R Programming LanguageInteresting Facts about RR vs PythonHow to Install R Studio on Windows and Linux?Creation and Execution of R File in R StudioHello World in R ProgrammingFundamentals of RBasic SyntaxCommentsOperatorsKeywordsData TypesVariablesVariablesScope of VariableDynamic ScopingLexical ScopingLexical Scoping vs Dynamic ScopingInput and OutputTaking Input from UserPrinting Output of R ProgramPrint the Argument to the Screen – print() FunctionData StructuresIntroduction to Data StructuresVectorsIntroduction to VectorsOperations on VectorsAppend Operation on VectorsDot Product of VectorsTypes of VectorsAssigning VectorsLength of Vectors – length() FunctionCreating a Vector of sequenced elements – seq() FunctionGet Min and Max element of a Vector – range() FunctionFormatting Numbers and Strings – format() FunctionReplace the Elements of a Vector – replace() FunctionSorting of a Vector – sort() FunctionConvert elements of a Vector to Strings – toString() FunctionExtracting Substrings from a Character Vector – substring() Function>>> More Functions on VectorsListsIntroduction to ListsTwo Dimensional ListOperations on ListsList of VectorsList of DataframesNamed ListCheck if the Object is a List – is.list() FunctionConvert an Object to List – as.list() FunctionApply a Function over a List of elements – lapply() FunctionOperations on Multiple Lists simultaneously – mapply() Function>>> More Functions on ListsMatricesIntroduction to MatricesCreate Matrix from VectorsOperations on MatricesMatrix MultiplicationAlgebraic Operations on a MatrixCombining MatricesMatrix TransposeInverse of MatrixWorking with Sparse MatricesCheck if the Object is a Matrix – is.matrix() FunctionConvert an Object into a Matrix – as.matrix() FunctionGet or Set Dimensions of a Matrix – dim() FunctionCalculate Cumulative Sum of a Numeric Object – cumsum() FunctionCompute the Sum of Rows of a Matrix or Array – rowSums Function>>> More Functions on MatricesDataFramesIntroduction to Data FramesMatrix vs DataframeDataFrame OperationsDataFrame ManipulationJoining of DataframesThe Factor Issue in a DataFrameData ReshapingCreating a Data Frame from VectorsData Wrangling – Data TransformationData Wrangling – Working with TibblesMelting and CastingSubsetting of DataFramesHandling Missing ValuesConvert an Object to Data Frame – as.data.frame() FunctionGet the number of columns of an Object – ncol() FunctionGet the number of rows of an Object – nrow() FunctionGet Addition of the Objects passed as Arguments – sum() FunctionCreate Subsets of a Data frame – subset() Function>>> More Functions on DataFramesArraysIntroduction to ArraysMultidimensional ArrayArray OperationsSorting of ArraysConvert values of an Object to Logical Vector – as.logical() FunctionPerforming different Operations on Two Arrays – outer() FunctionIntersection of Two Objects – intersect() FunctionGet Exclusive Elements between Two Objects – setdiff() Function>>> More Functions on ArraysFactorsIntroduction to FactorsLevel Ordering of FactorsConvert Factor to Numeric and Numeric to FactorCheck if a Factor is an Ordered Factor – is.ordered() FunctionConvert Unordered Factor to Ordered Factor  – as.ordered() FunctionChecking if the Object is a Factor – is.factor() FunctionConvert a Vector into Factor – as.factor() Function>>> More Functions on FactorsStringsIntroduction to StringsWorking with TextString ManipulationConcatenate Two StringsString MatchingHow to find a SubString?Finding the length of string – nchar() methodAdding elements in a vector – append() methodConvert string from Lowercase to Uppercase – toupper() functionConvert String from Uppercase to Lowercase – tolower() methodSplitting Strings – strsplit() methodPrint a Formatted string – sprintf() Function>>> More Functions on StringsDecision MakingDecision Makingif statementif-else statementSwitch caseControl FlowIntroduction to Control StatementsLoops (for, while, repeat)For loopwhile loopRepeat loopgoto statementBreak and Next statementsNext StatementFunctionsIntroduction to FunctionsFunction ArgumentsTypes of FunctionsRecursive FunctionsConversion FunctionsObject Oriented ProgrammingIntroduction to Object-Oriented ProgrammingClassesObjectsEncapsulationPolymorphismInheritanceAbstractionLooping over ObjectsCreating, Listing, and Deleting Objects in MemoryS3 classExplicit CoercionR6 ClassesGetting attributes of Objects – attributes() and attr() FunctionGet or Set names of Elements of an Object – names() FunctionGet the Minimum element of an Object – min() FunctionGet the Maximum element of an Object – max() Function>>> More Functions on R ObjectsFile HandlingIntroduction to File HandlingReading FilesWriting to FilesRead Lines from a File – readLines() FunctionWorking with Binary FilesPackages in RIntroduction to Packagesdplyr Packageggplot2 packageGrid and Lattice PackagesShiny Packagetidyr PackageWhat Are the Tidyverse Packages?Data MungingData InterfacesData HandlingImporting Data in R ScriptHow To Import Data from a File?Exporting Data from scriptsWorking with CSV filesWorking with XML FilesWorking with Excel FilesWorking with JSON FilesReading Tabular Data from filesWorking with DatabasesDatabase ConnectivityManipulate Data Frames Using SQLError HandlingIntroduction to Error HandlingCondition HandlingDebugging in R ProgrammingData VisualizationGraph PlottingGraphical ModelsData VisualizationCharts and GraphsAdd Titles to a GraphAdding Colors to ChartsAdding Text to PlotsAdding axis to a PlotSet or View the Graphics PalettePlotting of Data using Generic plotsBar ChartsLine GraphsAdding Straight Lines to a PlotAddition of Lines to a PlotHistogramsPie ChartsScatter plotsCreate Dot ChartsBoxplots in R LanguageStratified BoxplotCreate a HeatmapPareto ChartWaffle ChartQuantile-Quantile PlotCreating 3D PlotsDescribe Parts of a Chart in Graphical FormPrincipal Component AnalysisSocial Network AnalysisStatisticsIntroduction to StatisticsCalculate the Mean, Median, and ModeCalculate the Average, Variance, and Standard DeviationHomogeneity of Variance TestCovariance and CorrelationCorrelation MatrixVisualize correlation matrix using correlogramDistance Matrix by GPUDescriptive AnalysisNormal DistributionBinomial DistributionCompute the Negative Binomial DensityPoisson FunctionsANOVA TestMANOVA TestNaive Bayes ClassifierK-NN ClassifierCentral TendencyVariabilitySkewness and KurtosisAbsolute and Relative FrequencyPermutation Hypothesis TestAB TestingCompletely Randomized DesignRandomized Block DesignBartlett’s TestTree EntropyTukey’s Five-number SummaryCompute Summary Statistics of SubsetsHypothesis TestingBootstrappingTime Series AnalysisT-Test ApproachMachine Learning with RIntroduction to Machine LearningSetting up Environment for Machine LearningSupervised and Unsupervised LearningClassificationRegression and its TypesRegression AnalysisDecision TreeRandom Forest ApproachRoot-Mean-Square ErrorClusteringHierarchical ClusteringDBScan ClusteringDeep LearningBuilding a Simple Neural NetworkHow Neural Networks are used for Regression?Multi Layered Neural NetworksSurvival AnalysisStem and Leaf PlotsWhy Use R Programming Language?R programming language is a best resource for data science, data analysis, data visualization and machine learning. R provides various statistical techniques like statistical tests, clustering and data reduction. Graph making is easy eg. pie chart, histogram, box, plot, etc. R is totally free and open-source Programming language. The community support with the R language is very large and it works on all OS. R programming comes with many packages (libraries of functions) to solve various problems.Applications of R Programming LanguageSome of the important applications of R Programming Language are listed below:R is used in wide range of industries for example academics, government, insurance, retail, energy, media, technology, and electronics.R helps in importing and cleaning data and data analysis.R is used in data science. R language provides us many libraries for data science e.g. Dplyr, Ggplot2, shiny, Lubridate, Knitr, Caret, Janitor.Next ArticleR Programming Language - Introductionabhishek1ImproveArticle Tags :R Language
+R Tutorial | Learn R Programming Language
+Ris aninterpretedprogramming language widely used for statistical computing, data analysis and visualization. R language is open-source with large community support. R provides structured approach to data manipulation, along with decent libraries and packages like Dplyr, Ggplot2, shiny, Janitor and more.
+Hello World Program in R Language
+Here is an example of the first Hello World program in R Programming Language. To print in R language you just need to use a Print function.
+# Codeprint("Hello World!")
+# Codeprint("Hello World!")
+Output
+Hello World!
+R-Basics
+Introduction to R Programming Language
+Interesting Facts about R
+R vs Python
+How to Install R Studio on Windows and Linux?
+Creation and Execution of R File in R Studio
+Hello World in R Programming
+Fundamentals of R
+Basic Syntax
+Comments
+Operators
+Keywords
+Data Types
+Variables
+Variables
+Scope of Variable
+Dynamic Scoping
+Lexical Scoping
+Lexical Scoping vs Dynamic Scoping
+Input and Output
+Taking Input from User
+Printing Output of R Program
+Print the Argument to the Screen – print() Function
+Data Structures
+Introduction to Data Structures
+Vectors
+Introduction to Vectors
+Operations on Vectors
+Append Operation on Vectors
+Dot Product of Vectors
+Types of Vectors
+Assigning Vectors
+Length of Vectors – length() Function
+Creating a Vector of sequenced elements – seq() Function
+Get Min and Max element of a Vector – range() Function
+Formatting Numbers and Strings – format() Function
+Replace the Elements of a Vector – replace() Function
+Sorting of a Vector – sort() Function
+Convert elements of a Vector to Strings – toString() Function
+Extracting Substrings from a Character Vector – substring() Function
+>>> More Functions on Vectors
+Lists
+Introduction to Lists
+Two Dimensional List
+Operations on Lists
+List of Vectors
+List of Dataframes
+Named List
+Check if the Object is a List – is.list() Function
+Convert an Object to List – as.list() Function
+Apply a Function over a List of elements – lapply() Function
+Operations on Multiple Lists simultaneously – mapply() Function
+>>> More Functions on Lists
+Matrices
+Introduction to Matrices
+Create Matrix from Vectors
+Operations on Matrices
+Matrix Multiplication
+Algebraic Operations on a Matrix
+Combining Matrices
+Matrix Transpose
+Inverse of Matrix
+Working with Sparse Matrices
+Check if the Object is a Matrix – is.matrix() Function
+Convert an Object into a Matrix – as.matrix() Function
+Get or Set Dimensions of a Matrix – dim() Function
+Calculate Cumulative Sum of a Numeric Object – cumsum() Function
+Compute the Sum of Rows of a Matrix or Array – rowSums Function
+>>> More Functions on Matrices
+DataFrames
+Introduction to Data Frames
+Matrix vs Dataframe
+DataFrame Operations
+DataFrame Manipulation
+Joining of Dataframes
+The Factor Issue in a DataFrame
+Data Reshaping
+Creating a Data Frame from Vectors
+Data Wrangling – Data Transformation
+Data Wrangling – Working with Tibbles
+Melting and Casting
+Subsetting of DataFrames
+Handling Missing Values
+Convert an Object to Data Frame – as.data.frame() Function
+Get the number of columns of an Object – ncol() Function
+Get the number of rows of an Object – nrow() Function
+Get Addition of the Objects passed as Arguments – sum() Function
+Create Subsets of a Data frame – subset() Function
+>>> More Functions on DataFrames
+Arrays
+Introduction to Arrays
+Multidimensional Array
+Array Operations
+Sorting of Arrays
+Convert values of an Object to Logical Vector – as.logical() Function
+Performing different Operations on Two Arrays – outer() Function
+Intersection of Two Objects – intersect() Function
+Get Exclusive Elements between Two Objects – setdiff() Function
+>>> More Functions on Arrays
+Factors
+Introduction to Factors
+Level Ordering of Factors
+Convert Factor to Numeric and Numeric to Factor
+Check if a Factor is an Ordered Factor – is.ordered() Function
+Convert Unordered Factor to Ordered Factor  – as.ordered() Function
+Checking if the Object is a Factor – is.factor() Function
+Convert a Vector into Factor – as.factor() Function
+>>> More Functions on Factors
+Strings
+Introduction to Strings
+Working with Text
+String Manipulation
+Concatenate Two Strings
+String Matching
+How to find a SubString?
+Finding the length of string – nchar() method
+Adding elements in a vector – append() method
+Convert string from Lowercase to Uppercase – toupper() function
+Convert String from Uppercase to Lowercase – tolower() method
+Splitting Strings – strsplit() method
+Print a Formatted string – sprintf() Function
+>>> More Functions on Strings
+Decision Making
+Decision Making
+if statement
+if-else statement
+Switch case
+Control Flow
+Introduction to Control Statements
+Loops (for, while, repeat)
+For loop
+while loop
+Repeat loop
+goto statement
+Break and Next statements
+Next Statement
+Functions
+Introduction to Functions
+Function Arguments
+Types of Functions
+Recursive Functions
+Conversion Functions
+Object Oriented Programming
+Introduction to Object-Oriented Programming
+Classes
+Objects
+Encapsulation
+Polymorphism
+Inheritance
+Abstraction
+Looping over Objects
+Creating, Listing, and Deleting Objects in Memory
+S3 class
+Explicit Coercion
+R6 Classes
+Getting attributes of Objects – attributes() and attr() Function
+Get or Set names of Elements of an Object – names() Function
+Get the Minimum element of an Object – min() Function
+Get the Maximum element of an Object – max() Function
+>>> More Functions on R Objects
+File Handling
+Introduction to File Handling
+Reading Files
+Writing to Files
+Read Lines from a File – readLines() Function
+Working with Binary Files
+Packages in R
+Introduction to Packages
+dplyr Package
+ggplot2 package
+Grid and Lattice Packages
+Shiny Package
+tidyr Package
+What Are the Tidyverse Packages?
+Data Munging
+Data Interfaces
+Data Handling
+Importing Data in R Script
+How To Import Data from a File?
+Exporting Data from scripts
+Working with CSV files
+Working with XML Files
+Working with Excel Files
+Working with JSON Files
+Reading Tabular Data from files
+Working with Databases
+Database Connectivity
+Manipulate Data Frames Using SQL
+Error Handling
+Introduction to Error Handling
+Condition Handling
+Debugging in R Programming
+Data Visualization
+Graph Plotting
+Graphical Models
+Data Visualization
+Charts and Graphs
+Add Titles to a Graph
+Adding Colors to Charts
+Adding Text to Plots
+Adding axis to a Plot
+Set or View the Graphics Palette
+Plotting of Data using Generic plots
+Bar Charts
+Line Graphs
+Adding Straight Lines to a Plot
+Addition of Lines to a Plot
+Histograms
+Pie Charts
+Scatter plots
+Create Dot Charts
+Boxplots in R Language
+Stratified Boxplot
+Create a Heatmap
+Pareto Chart
+Waffle Chart
+Quantile-Quantile Plot
+Creating 3D Plots
+Describe Parts of a Chart in Graphical Form
+Principal Component Analysis
+Social Network Analysis
+Statistics
+Introduction to Statistics
+Calculate the Mean, Median, and Mode
+Calculate the Average, Variance, and Standard Deviation
+Homogeneity of Variance Test
+Covariance and Correlation
+Correlation Matrix
+Visualize correlation matrix using correlogram
+Distance Matrix by GPU
+Descriptive Analysis
+Normal Distribution
+Binomial Distribution
+Compute the Negative Binomial Density
+Poisson Functions
+ANOVA Test
+MANOVA Test
+Naive Bayes Classifier
+K-NN Classifier
+Central Tendency
+Variability
+Skewness and Kurtosis
+Absolute and Relative Frequency
+Permutation Hypothesis Test
+AB Testing
+Completely Randomized Design
+Randomized Block Design
+Bartlett’s Test
+Tree Entropy
+Tukey’s Five-number Summary
+Compute Summary Statistics of Subsets
+Hypothesis Testing
+Bootstrapping
+Time Series Analysis
+T-Test Approach
+Machine Learning with R
+Introduction to Machine Learning
+Setting up Environment for Machine Learning
+Supervised and Unsupervised Learning
+Classification
+Regression and its Types
+Regression Analysis
+Decision Tree
+Random Forest Approach
+Root-Mean-Square Error
+Clustering
+Hierarchical Clustering
+DBScan Clustering
+Deep Learning
+Building a Simple Neural Network
+How Neural Networks are used for Regression?
+Multi Layered Neural Networks
+Survival Analysis
+Stem and Leaf Plots
+Why Use R Programming Language?
+R programming language is a best resource for data science, data analysis, data visualization and machine learning. R provides various statistical techniques like statistical tests, clustering and data reduction. Graph making is easy eg. pie chart, histogram, box, plot, etc. R is totally free and open-source Programming language. The community support with the R language is very large and it works on all OS. R programming comes with many packages (libraries of functions) to solve various problems.
+Applications of R Programming Language
+Some of the important applications of R Programming Language are listed below:
+R is used in wide range of industries for example academics, government, insurance, retail, energy, media, technology, and electronics.
+R helps in importing and cleaning data and data analysis.
+R is used in data science. R language provides us many libraries for data science e.g. Dplyr, Ggplot2, shiny, Lubridate, Knitr, Caret, Janitor.
+R Language
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20241014113537733149_Rtutoril.webp
+media.geeksforgeeks.org_img-practice_prod_courses_1699342871_Web_Content_complete-python-program-in-data-analytics-and-data-science-live-thumbnail.web
+media.geeksforgeeks.org_img-practice_prod_courses_287_Web_Content_c_1722949071.webp
+media.geeksforgeeks.org_wp-content_uploads_20241228104608348548_GATE-CSE--2026-live-online-classes.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

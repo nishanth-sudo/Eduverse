@@ -1,0 +1,37 @@
+Blue Prism - Home
+Blue Prism - Introduction to RPA
+Blue Prism - Introduction
+Blue Prism - Object Studio
+Blue Prism - Application Modeller
+Blue Prism - Process Studio
+Blue Prism - Exceptions Handling
+Blue Prism - Work Queues
+Blue Prism - Credentials Manager
+User, Role and Log Management
+Email and Surface Automation
+Blue Prism - Schedule Management
+Blue Prism Useful Resources
+Blue Prism - Quick Guide
+Blue Prism - Useful Resources
+Blue Prism - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Blue Prism Tutorial
+RPA is the process of automating routine tasks by using software robots such that these tasks are performed automatically without any human intervention. These tasks include IT management, sales operations, procurement process, data entry, data extraction, auto generation of reports, customer service operations, etc. This tutorial provides basic understanding of RPA and its implementation using Blue Prism.
+Audience
+This tutorial is targeted for beginners in RPA and gives you the basic understanding of the tool from where it could be taken to advanced level of expertise.
+Prerequisites
+There are no prerequisites for learning RPA. A little of analytical and logical thought procedure to build a process is required.
+
+[Images saved with this article:]
+www.tutorialspoint.com_blue_prism_images_blueprism-logo.jpg
+www.tutorialspoint.com_blue_prism_images_blueprism.jpg

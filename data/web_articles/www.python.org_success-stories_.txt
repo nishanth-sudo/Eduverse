@@ -1,0 +1,72 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+Cuong Do, Software Architect
+YouTube.com
+Newest success stories
+Zama Concrete ML: Simplifying Homomorphic Encryption for Python Machine Learning
+To simplify the adoption of FHE, which involves a complex and resource-intensive technological stack, Zama developed tools that streamline the integration of FHE into applications. Since Python is the de facto standard for building machine learning (ML) applications, it was an obvious choice to create an open-source FHE library in Python.Read more
+Building Robust Codebases with Python's Type Annotations
+Maintaining our ever-evolving Python codebase poses an intricate challenge: how do we make updates to reflect the changing rules and regulations of 200+ global markets without compromising access to the systems that our engineers and traders use on a daily basis? While an inner layer of shared business logic enables coherency in our codebase performance, it also means small regulatory changes can impact many systems.
+
+In this article, Python Engineer John Lekberg details how we use Python type annotations to minimize the time and risk involved in manual verification.Read more
+Building a Dependency Graph of Our Python Codebase
+Prioritizing cutting-edge speed and supporting the rapid growth of Hudson River Trading’s codebase can have unintended effects that require innovative solutions. For those working on our Python codebase, this means addressing “code tangling,” the coupling of unrelated code through unintuitive import cycles. In this article, George Farcasiu, Noah Kim, Jacob Brugh, and Jiahao Li discuss how they mitigate the cost and time burden of this issue by creating new tools to analyze and untangle dependencies efficiently.Read more
+Lincoln Loop: Building a sustainable business inspired by Python’s ethos
+Since its founding in 2007, Lincoln Loop has been building sites for their clients with Python and Django. They credit Python's philosophy of practicality and explicitness, along with the rich ecosystem of open-source libraries available on PyPI, as keys to their success. Additionally, the inclusivity, openness, and strong culture of collaboration in the Python community have enabled the agency to find and hire great people who are lifelong learners.Read more
+Newest success stories by category
+Arts
+See All
+Business
+Lincoln Loop: Building a sustainable business inspired by Python’s ethos
+Using Python for commercial cloud backup
+Using Python to make unstable APIs reliable
+Python for Financial Machine Learning at Union Investment
+Python in a classic enterprise setting - hand-rolled microservices for supply chain / ERP
+See All
+Data Science
+How HyperFinity Is Streamlining Its Serverless Architecture with Snowflake's Snowpark for Python
+Reimagining data science with Python-based operators in Einblick’s visual canvas
+Using Python with Gretel.ai to Generate Synthetic Location Data
+See All
+Education
+Elementary school education: Is it love or just Python?
+Using Python to Automate Tedious Tasks
+Python in the Blind Audio Tactile Mapping System
+See All
+Engineering
+Python for Collaborative Robots
+Abridging clinical conversations using Python
+Getting to Know Python
+See All
+Government
+Python Powered CrossCompute Report Automation for eReliability Tracker Leads to Cost and Time Savings for the American Public Power Association
+Saving the world with Open Data and Python
+Frequentis TAPtools® - Python in Air Traffic Control
+See All
+Scientific
+Why Python Matters for the VR Community
+Python for Collaborative Drug Discovery
+Python To Help Meteorologists
+Python for Scientific Data Visualization
+Simulating Biomolecules with Python
+See All
+Software Development
+Zama Concrete ML: Simplifying Homomorphic Encryption for Python Machine Learning
+Building Robust Codebases with Python's Type Annotations
+Building a Dependency Graph of Our Python Codebase
+Bleeding Edge Dependency Testing Using Python
+How We Created a Python Development Framework for Non-Developers
+See All
+Submit Yours!
+Python users want to know more about Python in the wild.Tell us your story
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

@@ -1,0 +1,120 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+AI ML DS - How To Get Started?
+Data Analysis (Analytics) Tutorial
+Machine Learning Tutorial
+Deep Learning Tutorial
+Natural Language Processing (NLP) Tutorial
+Computer Vision Tutorial
+Data Science Tutorial
+Artificial Intelligence Tutorial | AI Tutorial
+AI ML DS Interview Series
+AI ML DS - Projects
+DSA to DevelopmentCourse
+AI ML DS - How To Get Started?Last Updated :16 Dec, 2024CommentsImproveSuggest changesLike ArticleLikeReportArtificial Intelligence (AI),Machine Learning (ML), andData Science (DS)are three interrelated fields in computer science and statistics. AI focuses on creating intelligent systems, ML enables computers to learn from data and make predictions, and DS leverages data to extract insights and drive decision-making. These three fields often overlap and complement each other in solving real-world problems and advancing technology.Data ScienceData Sciencecombines statistical and computational tools to process and analyze large amounts of data. DS practitioners use their insights from data to inform decisions, predict trends, and improve the effectiveness of processes.Prerequisites for Data ScienceMaths for Data ScienceStatistics for Data ScienceLinear Algebra for Data ScienceCalculus for Data ScienceImportant LibrariesPandas TutorialNumPy TutorialData AnalysisData CleaningHandling Missing DataOutlier DetectionExploratory Data Analysis (EDA)Statistical AnalysisTime Series AnalysisData VisualizationData Visualization using MatplotlibData Visualization using SeabornData Visualization using PlotlyData Visualization using BokehPower BI TutorialTableau TutorialMachine LearningMachine Learning is a subset of AI focused on building systems that learn from data, identify patterns, and make decisions with minimal human intervention. ML algorithms improve their performance as the amount of data they're exposed to increases.Supervised Machine LearningInsupervised machine learning, the model is trained on the label data to predict outcomes for new or unseen data.Linear RegressionLogistic RegressionSupport Vector Machine (SVM)Decision TreesRandom ForestNaive BayesK-Nearest Neighbour (KNN)XGBoostSemi-Supervised Learninguses a small amount of labeled data and a large amount of unlabeled data to improve learning accuracy.Unsupervised Machine LearningInunsupervised machine learning, the model learns patters and structures from unlabeled data without defined output labels.K-Means ClusteringHierarchical ClusteringDBSCANPrincipal Component Analysis (PCA)Independent Component Analysis (ICA)Gaussian Mixture Models (GMM)t-SNE (t-Distributed Stochastic Neighbor Embedding)Reinforcement LearningInreinforcement learning, agent learns to make decisions by interacting with an environment and receiving rewards or penalties based on its actions.Q LearningSARSA (State-Action-Reward-State-Action)REINFORCE AlgorithmActor-Critic MethodProximal Policy Optimization (PPO)To learn more about machine learning, you can follow this tutorial:Machine Learning TutorialDeep LearningDeep learning is a specialized area within ML. Deep learning uses neural networks with many layers (deep neural networks) to automatically learn features and representations from large datasets.PerceptronMulti-Layer PerceptronArtificial Neural NetworkConvolutional Neural Networks (CNNs)Recurrent Neural Networks (RNNs)Long Short-Term Memory Networks (LSTMs)Generative Adversarial Networks (GANs)To learn more about deep learning, you can follow this tutorial:Deep Learning TutorialArtificial Intelligence (AI)Artificial Intelligencerefers to the capability of a machine to imitate intelligent human behavior. It encompasses a broad range of technologies that enable machines to perceive, comprehend, act, and learn.Search AlgorithmsOptimization AlgorithmsAdversarial Search AlgorithmsConstraint Satisfaction ProblemsKnowledge RepresentationReasoningPlanningUncertain KnowledgeRoboticsTo learn more, you can follow these tutorials:Artificial Intelligence TutorialComputer Vision TutorialNatural Language Processing TutorialGenerative AI TutorialNext ArticleData Analysis (Analytics) TutorialkartikImproveArticle Tags :Artificial IntelligenceTutorials
+AI ML DS - How To Get Started?
+Artificial Intelligence (AI),Machine Learning (ML), andData Science (DS)are three interrelated fields in computer science and statistics. AI focuses on creating intelligent systems, ML enables computers to learn from data and make predictions, and DS leverages data to extract insights and drive decision-making. These three fields often overlap and complement each other in solving real-world problems and advancing technology.
+Data Science
+Data Sciencecombines statistical and computational tools to process and analyze large amounts of data. DS practitioners use their insights from data to inform decisions, predict trends, and improve the effectiveness of processes.
+Prerequisites for Data Science
+Maths for Data Science
+Statistics for Data Science
+Linear Algebra for Data Science
+Calculus for Data Science
+Important Libraries
+Pandas Tutorial
+NumPy Tutorial
+Data Analysis
+Data Cleaning
+Handling Missing Data
+Outlier Detection
+Exploratory Data Analysis (EDA)
+Statistical Analysis
+Time Series Analysis
+Data Visualization
+Data Visualization using Matplotlib
+Data Visualization using Seaborn
+Data Visualization using Plotly
+Data Visualization using Bokeh
+Power BI Tutorial
+Tableau Tutorial
+Machine Learning
+Machine Learning is a subset of AI focused on building systems that learn from data, identify patterns, and make decisions with minimal human intervention. ML algorithms improve their performance as the amount of data they're exposed to increases.
+Supervised Machine Learning
+Insupervised machine learning, the model is trained on the label data to predict outcomes for new or unseen data.
+Linear Regression
+Logistic Regression
+Support Vector Machine (SVM)
+Decision Trees
+Random Forest
+Naive Bayes
+K-Nearest Neighbour (KNN)
+XGBoost
+Semi-Supervised Learninguses a small amount of labeled data and a large amount of unlabeled data to improve learning accuracy.
+Unsupervised Machine Learning
+Inunsupervised machine learning, the model learns patters and structures from unlabeled data without defined output labels.
+K-Means Clustering
+Hierarchical Clustering
+DBSCAN
+Principal Component Analysis (PCA)
+Independent Component Analysis (ICA)
+Gaussian Mixture Models (GMM)
+t-SNE (t-Distributed Stochastic Neighbor Embedding)
+Reinforcement Learning
+Inreinforcement learning, agent learns to make decisions by interacting with an environment and receiving rewards or penalties based on its actions.
+Q Learning
+SARSA (State-Action-Reward-State-Action)
+REINFORCE Algorithm
+Actor-Critic Method
+Proximal Policy Optimization (PPO)
+To learn more about machine learning, you can follow this tutorial:Machine Learning Tutorial
+Deep Learning
+Deep learning is a specialized area within ML. Deep learning uses neural networks with many layers (deep neural networks) to automatically learn features and representations from large datasets.
+Perceptron
+Multi-Layer Perceptron
+Artificial Neural Network
+Convolutional Neural Networks (CNNs)
+Recurrent Neural Networks (RNNs)
+Long Short-Term Memory Networks (LSTMs)
+Generative Adversarial Networks (GANs)
+To learn more about deep learning, you can follow this tutorial:Deep Learning Tutorial
+Artificial Intelligence (AI)
+Artificial Intelligencerefers to the capability of a machine to imitate intelligent human behavior. It encompasses a broad range of technologies that enable machines to perceive, comprehend, act, and learn.
+Search Algorithms
+Optimization Algorithms
+Adversarial Search Algorithms
+Constraint Satisfaction Problems
+Knowledge Representation
+Reasoning
+Planning
+Uncertain Knowledge
+Robotics
+To learn more, you can follow these tutorials:
+Artificial Intelligence Tutorial
+Computer Vision Tutorial
+Natural Language Processing Tutorial
+Generative AI Tutorial
+Artificial Intelligence
+Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240417121018_AIMLDS.webp
+media.geeksforgeeks.org_img-practice_prod_courses_808_Web_Content_ai-for-kids-webp_1728467027.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_647_Web_Content_genai_1722948634.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

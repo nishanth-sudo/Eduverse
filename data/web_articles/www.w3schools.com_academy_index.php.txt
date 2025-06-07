@@ -1,0 +1,151 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+W3Schools Academy
+Tools for teaching coding
+Supporting teachers, helping students
+Less admin, more teaching
+Focus on what you do best: teaching.
+          Everything is structured and easy to manage, so you spend less time organizing and more time guiding your students.
+Everything in one place
+No switching between platforms.
+Valuable insights
+Track student progress and identify learning gaps.
+Simple to use
+No installations, no complicated setup.
+No experience needed
+Suits both beginners and experienced teachers.
+All in one platform
+We know you already manage multiple platforms,
+              LMS tools, communication apps, tracking systems,
+              homework platforms, and digital textbooks.
+W3Schools Academy makes it easier to teach coding by keeping 
+              everything in one place. No extra software, no complicated setup.
+We know you already manage multiple platforms. LMS tools, communication apps, tracking systems, homework platforms, and digital textbooks.
+W3Schools Academy makes it easier to teach coding by keeping 
+              everything in one place. No extra software, no complicated setup.
+Access to allcertification exams
+Students get access to all W3Schools certification exams.Each exam is automatically graded, giving you a clearoverview of your students' progress without extra work.
+Certificates are a great way for studentsto prove their skills and add somethingvaluable to their portfolio.
+Support your students at every step
+From the first lesson to the final exam, students progress through structured courses,
+          hands-on challenges, and certification exams, building real skills and staying focused.
+Step-by-step materials
+Tutorials that break down coding concepts into manageable parts, making them easy to understand.
+Progress is always visible
+Students can see what they've completed and what's next, making it easier to stay on track.
+Learning by doing
+Coding challenges and projects help them explore, experiment, and apply what they learn.
+Certifications that matter
+When students pass the final exam, they earn a certificate that proves their skills.
+Online IDE for your classroom
+With W3Schools Spaces, students can build and test projects directly in the browser, no setup required. It's
+        an easy way for students to apply their skills, experiment with code, and share their work with others.
+30+ coding languages
+Students can build projects using HTML, CSS, JavaScript, Python, and more.
+Quick start with templates
+Students can choose from over 75 templates or customize their own.
+Create projects their way
+Students can build websites, web apps, or fullstack solutions.
+The tools that give you control
+Teacher dashboard
+Track student progress, manage assignments, and get real-time insights.
+Study plans
+Save time with ready-made study plans or customize them to fit your classroom.
+Challenges & projects
+Practice with challenges and projects, working alone or in teams. Use the library or create your own.
+Learning content
+Ready-made courses and tutorials, to keep learning structured and up to date.
+Online IDE
+For building websites and applications. Code, test, and deploy. Easy to use, no setup required.
+Exams & certifications
+Assess student skills with exams and certifications, giving them proof of their achievements.
+Stay updated,with 40+ tutorials
+Keeping up with new technologies isn't always easy. New frameworks and languages appear all the time, and it can feel overwhelming on top of your work in the classroom.
+We're here to help you stay confident and up to date with best practices, so you can explore coding concepts at your own pace before introducing them to your students.
+Student data stays private and secure
+W3Schools Academy is designed for education, not data collection.Schools and organizations can trust that student information is protected.
+No targeted ads or data sharing
+Student data is not used for marketing or sold to third parties.
+Minimal data collection
+We only collect what's necessary for learning, nothing more.
+Built to meet privacy standards
+Complies with GDPR, FERPA, COPPA, and other regulations to keep student data safe.
+Control over student data
+Teachers and students own their content and can request access or deletion at any time.
+Secure by design
+Includes encryption, secure access controls, and regular security updates.
+Transparent Practices
+We are transparent about how we use data and provide tools for managing privacy.
+What educators say
+Nesta Paul Katende
+Founder & CEO in Otic Foundation
+We chose W3Schools Academy because of its proven ability to deliver high-quality education. With clear, concise, and interactive tutorials, W3Schools makes learning accessible to everyone.
+Brian Moran
+Co-Founder in Boolean Girl
+Boolean Girl was looking for a single platform to teach Python and Web development to students. We already used W3Schools as a reference platform in our teaching so it made sense to also use the development environment.
+Gavin Taylor
+Head of Adult Education in LearnTech
+W3Schools classroom solution allows students to complete the courses, and our tutors to monitor progress, set goals and provide support where needed. We recommend this classroom tool with W3Schools courses.
+Supporting teachersfor 25+ years
+For over 25 years, W3Schools has been a trusted resource for coding education. While other platforms cover many subjects, we focus only on programming.
+Our courses, challenges, and exams are designed to help students build real coding skills, making it easier for teachers to create structured and engaging lessons.
+Tools your budget can afford
+$5.99
+Admin dashboard
+All exams with certifications
+Track students progress
+Code challenges
+Study plans
+Collaboration tools
+Fullstack Spaces
+Ad-free learning
+Minimum 10 students and 3-month commitment required
+Get in touch with us
+We're here to help!Fill out the form, and our team will reach out to you as soon as possible.
+Your form has been sent successfully!
+Your form could not be saved. Please try again.
+Join a growing network
+W3Schools has been a trusted resource for millions of learners worldwide.
+With a global reach and decades of experience,we provide you a platform that supports both teachers and students.
+Frequently asked questions
+Do students need a W3Schools account?
+Yes. Each student gets their own W3Schools login. If a student already has an account, they can continue to use it.
+Do I need to install anything?
+No. You only need a browser and internet connection.
+Can I create different study plans for my students?
+Yes. You can make individual adjustments as you see fit for your students.
+Can I see how my students are doing?
+Yes. You can track student activity, results, and progress in real time.
+Do students get feedback on their work?
+Yes. The teachers can give manual feedback through messages in their classroom. Students get automatic feedback by the system for code challenges and quizzes.
+Can I add more than one teacher to a class?
+Yes. You can add other teachers or admins to the same class.
+Can students work from home and at their own pace?
+Yes. Students can log in anytime and work from anywhere, at their own pace.
+Can students earn certificates?
+Yes. You can schedule certification exams. Students get three attempts and receive a W3Schools certificate if they pass.
+How is the price calculated?
+The price is $5.99 per student per month. Minimum 10 students and 3 months required.
+What happens after a student license expires?
+When a student license expires, you need to renew it to keep access. The student's data is saved and not deleted.
+Is the student data safe?
+Yes. We comply with GDPR and other international privacy laws. Student data is never sold or used for marketing.
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_less_admin_mobile.png
+www.w3schools.com_academy_images_web_hosting_and_deployment.png
+www.w3schools.com_academy_images_web_hosting_and_deployment_mobile.png
+www.w3schools.com_academy_images_tutorials_overview.png
+www.w3schools.com_academy_images_tutorials_overview_mobile.png
+www.w3schools.com_academy_images_teacher_nesta_paul.png
+www.w3schools.com_academy_images_teacher_brian_moran.png
+www.w3schools.com_academy_images_teacher_gavin_taylor.png

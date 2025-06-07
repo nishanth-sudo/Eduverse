@@ -1,0 +1,195 @@
+DSA Course
+DSA Tutorial
+Data Structures
+Algorithms
+Array
+Strings
+Linked List
+Stack
+Queue
+Tree
+Graph
+Searching
+Sorting
+Recursion
+Dynamic Programming
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Divide & Conquer
+Mathematical
+Geometric
+Bitwise
+Greedy
+Backtracking
+Branch and Bound
+Matrix
+Pattern Searching
+Randomized
+Explore GfG Courses
+Share Your Experiences
+DSA Tutorial - Learn Data Structures and Algorithms
+Array Data Structure  Guide
+String in Data Structure
+Matrix Data Structure
+Searching Algorithms
+Sorting Algorithms
+Hashing in Data Structure
+Two Pointers Technique
+Sliding Window Technique
+Prefix Sum Array - Implementation and Applications
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Recursive Algorithms
+Tree Data Structure
+Heap Data Structure
+Greedy Algorithms
+Dynamic Programming or DP
+Divide and Conquer Algorithm
+Graph  Algorithms
+Competitive Programming - A Complete Guide
+DSA to DevelopmentCourse
+DSA Tutorial - Learn Data Structures and AlgorithmsLast Updated :23 May, 2025CommentsImproveSuggest changesLike ArticleLikeReportDSA (DataStructuresandAlgorithms)is the study of organizing data efficiently using data structures like arrays, stacks, and trees, paired with step-by-step procedures (or algorithms) to solve problems effectively. Data structures manage how data is stored and accessed, while algorithms focus on processing this data.Why to Learn DSA?Learning DSA boosts your problem-solving abilities and make you a stronger programmer.DSA is foundation for almost every software like GPS, Search Engines, AI ChatBots, Gaming Apps, Databases, Web Applications, etcTop Companies likeGoogle, Microsoft, Amazon, Apple, Metaand many other heavily focus on DSAin interviews.Do you know the basics already and looking to prepare in limited time?Try our free courseGfG 160where we have 160 most asked problems along with well written editorials and video explanations. The course also has 90 bonus problems.How to learn DSA?Learn at-least one programming language (C++,Java,PythonorJavaScript) and build your basic logic.Learn about Time and Space complexitiesLearn Data Structures (Arrays, Linked List, etc) and Algorithms (Searching, Sorting, etc).Once you learn main topics, it is important tosolve coding problemsagainst some predefined test cases,Solve problems daily usingGfG Problem of the DayHoping you have learned a programming language of your choice, here comes the next stage of the roadmap - Learn about Time and Space Complexities.1. Logic BuildingOnce you have learned basics of a programming language, it is recommended that you learn basic logic buildingLogic Building GuideQuiz on Logic Building2. Learn about ComplexitiesTo analyze algorithms, we mainly measure order of growth of time or space taken in terms of input size.  We do this in the worst case scenario in most of the cases. Please refer the below links for a clear understanding of these concepts.Complexity Analysis GuideQuiz on Complexity Analysis3. ArrayArrayis a linear data structure where elements are allocatedcontiguous memory, allowing forconstant-time access.Array Data Structure GuideQuiz on Arrays4. Searching AlgorithmsSearching algorithmsare used to locate specific data within a large set of data. It helpsfind a target valuewithin the data. There are various types of searching algorithms, each with its own approach and efficiency.Searching Algorithms GuideQuiz on Searching5. Sorting AlgorithmSorting algorithmsare used toarrangethe elements of a list in aspecific order, such as numerical or alphabetical. It organizes the items in a systematic way, making it easier to search for and access specific elements.Sorting Algorithms GuideQuiz on Sorting6. HashingHashing is a technique that generates a fixed-size output (hash value) from an input of variable size using mathematical formulas called hash functions. Hashing is commonly used in data structures for efficient searching, insertion and deletion.Hashing GuideQuiz on Hashing7. Two Pointer TechniqueIn Two Pointer Technique, we typically use two index variables from two corners of an array. We use the two pointer technique for searching a required point or value in an array.Two Pointer TechniqueQuiz on Two Pointer Technique8. Window Sliding TechniqueIn Window Sliding Technique, we use the result of previous subarray to quickly compute the result of current.Window Sliding TechniqueQuiz on Sliding Window9. Prefix Sum TechniqueIn Prefix Sum Technique, we compute prefix sums of an array to quickly find results for a subarray.Prefix Sum TechniqueQuiz on Prefix Sum10. StringStringis a sequence of characters, typically immutable and have limited set of elements (lower case or all English alphabets).Strings GuideQuiz on Strings11. RecursionRecursionis a programming technique where a functioncalls itselfwithin its own definition. It is usually used to solve problems that can be broken down into smaller instances of the same problem.Recursive Algorithms GuideQuiz on Recursion12. Matrix/GridMatrixis a two-dimensional array of elements, arranged inrowsandcolumns. It is represented as a rectangular grid, with each element at the intersection of a row and column.Matrix GuideQuiz on Matrix/Grid.13. Linked ListLinked listis a linear data structure that stores data in nodes, which are connected by pointers. Unlike arrays, nodes of linked lists are not stored in contiguous memory locations and can only beaccessed sequentially, starting from the head of list.Linked List GuideQuiz on Linked List14. StackStackis a linear data structure that follows theLast In, First Out (LIFO)principle. Stacks play an important role in managing function calls, memory, and are widely used in algorithms like stock span problem, next greater element and largest area in a histogram.Stack GuideQuiz on Stack15. QueueQueueis a linear data structure that follows theFirst In, First Out (FIFO)principle. Queues play an important role in managing tasks or data in order, scheduling and message handling systems.Queue GuideQuiz on Queue16. DequeAdeque(double-ended queue) is a data structure that allows elements to be added or removed from both ends efficiently.Deque GuideQuiz on Deque17. TreeTreeis anon-linear, hierarchicaldata structure consisting of nodes connected by edges, with a top node called therootand nodes having child nodes. It is widely used infile systems,databases,decision-making algorithms, etc.Tree Data Structure GuideQuiz on Tree18. HeapHeapis acomplete binary treedata structure that satisfies theheap property. Heaps are usually used to implementpriority queues, where thesmallestorlargestelement is always at the root of the tree.Heap GuideQuiz on Heap19. GraphGraphis anon-lineardata structure consisting of a finite set ofvertices(or nodes) and a set ofedges(or links)that connect a pair of nodes. Graphs are widely used to represent relationships between entities.Graph GuideQuiz on Graph20. Greedy AlgorithmGreedy Algorithmbuilds up the solution one piece at a time and chooses the next piece which gives the most obvious and immediate benefit i.e., which is the mostoptimal choice at that moment. So the problems where choosinglocally optimalalso leads to the global solutions are best fit for Greedy.Greedy Algorithms GuideQuiz on Greedy21. Dynamic ProgrammingDynamic Programmingis a method used to solve complex problems by breaking them down into simplersubproblems. By solving each subproblem onlyonceandstoring the results, it avoids redundant computations, leading to moreefficient solutionsfor a wide range of problems.Dynamic Programming GuideQuiz on DP22. Other AlgorithmsBitwise Algorithms:Operate on individual bits of numbers.Bitwise Algorithms GuideQuiz on Bit MagicBacktracking Algorithm :Follow Recursionwith the option torevert and traces backif the solution from current point is not feasible.Backtracking GuideQuiz on BacktrackingDivide and conquer:A strategy to solve problems by dividing them intosmaller subproblems, solving those subproblems, and combining the solutions to obtain the final solution.Divide and Conquer GuideQuiz on Divide and ConquerBranch and Bound :Used in combinatorial optimization problems to systematically search for the best solution. It works by dividing the problem into smaller subproblems, or branches, and then eliminating certain branches based on bounds on the optimal solution. This process continues until the best solution is found or all branches have been explored.Branch and Bound AlgorithmGeometric algorithmsare a set of algorithms that solve problems related toshapes,points,linesand polygons.Geometric AlgorithmsPractice Geometric AlgorithmsRandomized algorithmsare algorithms that userandomnessto solve problems. They make use of random input to achieve their goals, often leading tosimplerand moreefficient solutions. These algorithms maynot product same resultbut are particularly useful in situations when aprobabilistic approachis acceptable.Randomized Algorithms23. Advanced Data Structure and AlgorithmsAdvanced Data Structures likeTrie,Segment Tree,Red-Black TreeandBinary Indexed Treeoffer significant performance improvements for specific problem domains. They provide efficient solutions for tasks like fast prefix searches, range queries, dynamic updates, and maintaining balanced data structures, which are crucial for handling large datasets and real-time processing. By optimizing time complexity, they enable better scalability and faster execution in many computational problems.TrieSegment TreeRed-Black TreeBinary Indexed TreePractice Advanced Data StructuresCheat SheetsSDE SHEET – A Complete Guide for SDE PreparationGeeksforGeeks Master Sheet – List of all Cheat SheetsNext ArticleArray Data Structure  GuideRRishabhPrabhuImproveArticle Tags :DSATutorialsDSA Tutorials
+DSA Tutorial - Learn Data Structures and Algorithms
+DSA (DataStructuresandAlgorithms)is the study of organizing data efficiently using data structures like arrays, stacks, and trees, paired with step-by-step procedures (or algorithms) to solve problems effectively. Data structures manage how data is stored and accessed, while algorithms focus on processing this data.
+Why to Learn DSA?
+Learning DSA boosts your problem-solving abilities and make you a stronger programmer.
+DSA is foundation for almost every software like GPS, Search Engines, AI ChatBots, Gaming Apps, Databases, Web Applications, etc
+Top Companies likeGoogle, Microsoft, Amazon, Apple, Metaand many other heavily focus on DSAin interviews.
+Do you know the basics already and looking to prepare in limited time?
+Try our free courseGfG 160where we have 160 most asked problems along with well written editorials and video explanations. The course also has 90 bonus problems.
+How to learn DSA?
+Learn at-least one programming language (C++,Java,PythonorJavaScript) and build your basic logic.
+Learn about Time and Space complexities
+Learn Data Structures (Arrays, Linked List, etc) and Algorithms (Searching, Sorting, etc).
+Once you learn main topics, it is important tosolve coding problemsagainst some predefined test cases,
+Solve problems daily usingGfG Problem of the Day
+Hoping you have learned a programming language of your choice, here comes the next stage of the roadmap - Learn about Time and Space Complexities.
+1. Logic Building
+Once you have learned basics of a programming language, it is recommended that you learn basic logic building
+Logic Building Guide
+Quiz on Logic Building
+2. Learn about Complexities
+To analyze algorithms, we mainly measure order of growth of time or space taken in terms of input size.  We do this in the worst case scenario in most of the cases. Please refer the below links for a clear understanding of these concepts.
+Complexity Analysis Guide
+Quiz on Complexity Analysis
+3. Array
+Arrayis a linear data structure where elements are allocatedcontiguous memory, allowing forconstant-time access.
+Array Data Structure Guide
+Quiz on Arrays
+4. Searching Algorithms
+Searching algorithmsare used to locate specific data within a large set of data. It helpsfind a target valuewithin the data. There are various types of searching algorithms, each with its own approach and efficiency.
+Searching Algorithms Guide
+Quiz on Searching
+5. Sorting Algorithm
+Sorting algorithmsare used toarrangethe elements of a list in aspecific order, such as numerical or alphabetical. It organizes the items in a systematic way, making it easier to search for and access specific elements.
+Sorting Algorithms Guide
+Quiz on Sorting
+6. Hashing
+Hashing is a technique that generates a fixed-size output (hash value) from an input of variable size using mathematical formulas called hash functions. Hashing is commonly used in data structures for efficient searching, insertion and deletion.
+Hashing Guide
+Quiz on Hashing
+7. Two Pointer Technique
+In Two Pointer Technique, we typically use two index variables from two corners of an array. We use the two pointer technique for searching a required point or value in an array.
+Two Pointer Technique
+Quiz on Two Pointer Technique
+8. Window Sliding Technique
+In Window Sliding Technique, we use the result of previous subarray to quickly compute the result of current.
+Window Sliding Technique
+Quiz on Sliding Window
+9. Prefix Sum Technique
+In Prefix Sum Technique, we compute prefix sums of an array to quickly find results for a subarray.
+Prefix Sum Technique
+Quiz on Prefix Sum
+10. String
+Stringis a sequence of characters, typically immutable and have limited set of elements (lower case or all English alphabets).
+Strings Guide
+Quiz on Strings
+11. Recursion
+Recursionis a programming technique where a functioncalls itselfwithin its own definition. It is usually used to solve problems that can be broken down into smaller instances of the same problem.
+Recursive Algorithms Guide
+Quiz on Recursion
+12. Matrix/Grid
+Matrixis a two-dimensional array of elements, arranged inrowsandcolumns. It is represented as a rectangular grid, with each element at the intersection of a row and column.
+Matrix Guide
+Quiz on Matrix/Grid.
+13. Linked List
+Linked listis a linear data structure that stores data in nodes, which are connected by pointers. Unlike arrays, nodes of linked lists are not stored in contiguous memory locations and can only beaccessed sequentially, starting from the head of list.
+Linked List Guide
+Quiz on Linked List
+14. Stack
+Stackis a linear data structure that follows theLast In, First Out (LIFO)principle. Stacks play an important role in managing function calls, memory, and are widely used in algorithms like stock span problem, next greater element and largest area in a histogram.
+Stack Guide
+Quiz on Stack
+15. Queue
+Queueis a linear data structure that follows theFirst In, First Out (FIFO)principle. Queues play an important role in managing tasks or data in order, scheduling and message handling systems.
+Queue Guide
+Quiz on Queue
+16. Deque
+Adeque(double-ended queue) is a data structure that allows elements to be added or removed from both ends efficiently.
+Deque Guide
+Quiz on Deque
+17. Tree
+Treeis anon-linear, hierarchicaldata structure consisting of nodes connected by edges, with a top node called therootand nodes having child nodes. It is widely used infile systems,databases,decision-making algorithms, etc.
+Tree Data Structure Guide
+Quiz on Tree
+18. Heap
+Heapis acomplete binary treedata structure that satisfies theheap property. Heaps are usually used to implementpriority queues, where thesmallestorlargestelement is always at the root of the tree.
+Heap Guide
+Quiz on Heap
+19. Graph
+Graphis anon-lineardata structure consisting of a finite set ofvertices(or nodes) and a set ofedges(or links)that connect a pair of nodes. Graphs are widely used to represent relationships between entities.
+Graph Guide
+Quiz on Graph
+20. Greedy Algorithm
+Greedy Algorithmbuilds up the solution one piece at a time and chooses the next piece which gives the most obvious and immediate benefit i.e., which is the mostoptimal choice at that moment. So the problems where choosinglocally optimalalso leads to the global solutions are best fit for Greedy.
+Greedy Algorithms Guide
+Quiz on Greedy
+21. Dynamic Programming
+Dynamic Programmingis a method used to solve complex problems by breaking them down into simplersubproblems. By solving each subproblem onlyonceandstoring the results, it avoids redundant computations, leading to moreefficient solutionsfor a wide range of problems.
+Dynamic Programming Guide
+Quiz on DP
+22. Other Algorithms
+Bitwise Algorithms:Operate on individual bits of numbers.
+Bitwise Algorithms Guide
+Quiz on Bit Magic
+Backtracking Algorithm :Follow Recursionwith the option torevert and traces backif the solution from current point is not feasible.
+Backtracking Guide
+Quiz on Backtracking
+Divide and conquer:A strategy to solve problems by dividing them intosmaller subproblems, solving those subproblems, and combining the solutions to obtain the final solution.
+Divide and Conquer Guide
+Quiz on Divide and Conquer
+Branch and Bound :Used in combinatorial optimization problems to systematically search for the best solution. It works by dividing the problem into smaller subproblems, or branches, and then eliminating certain branches based on bounds on the optimal solution. This process continues until the best solution is found or all branches have been explored.
+Branch and Bound Algorithm
+Geometric algorithmsare a set of algorithms that solve problems related toshapes,points,linesand polygons.
+Geometric Algorithms
+Practice Geometric Algorithms
+Randomized algorithmsare algorithms that userandomnessto solve problems. They make use of random input to achieve their goals, often leading tosimplerand moreefficient solutions. These algorithms maynot product same resultbut are particularly useful in situations when aprobabilistic approachis acceptable.
+Randomized Algorithms
+23. Advanced Data Structure and Algorithms
+Advanced Data Structures likeTrie,Segment Tree,Red-Black TreeandBinary Indexed Treeoffer significant performance improvements for specific problem domains. They provide efficient solutions for tasks like fast prefix searches, range queries, dynamic updates, and maintaining balanced data structures, which are crucial for handling large datasets and real-time processing. By optimizing time complexity, they enable better scalability and faster execution in many computational problems.
+Trie
+Segment Tree
+Red-Black Tree
+Binary Indexed Tree
+Practice Advanced Data Structures
+Cheat Sheets
+SDE SHEET – A Complete Guide for SDE Preparation
+GeeksforGeeks Master Sheet – List of all Cheat Sheets
+R
+DSA
+Tutorials
+DSA Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20240917121350_5-Steps-to-learn-DSA-from-scratch.webp
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_img-practice_prod_courses_198_Web_Content_dsa_1723009292.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

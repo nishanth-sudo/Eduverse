@@ -1,0 +1,1477 @@
+C++ Home
+C++ Overview
+C++ Environment Setup
+C++ Basic Syntax
+C++ Comments
+C++ Hello World
+C++ Omitting Namespace
+C++ Tokens
+C++ Constants/Literals
+C++ Keywords
+C++ Identifiers
+C++ Data Types
+C++ Numeric Data Types
+C++ Character Data Type
+C++ Boolean Data Type
+C++ Variable Types
+C++ Variable Scope
+C++ Multiple Variables
+C++ Basic Input/Output
+C++ Modifier Types
+C++ Storage Classes
+C++ Numbers
+C++ Enumeration
+C++ Enum Class
+C++ References
+C++ Date & Time
+C++ Operators
+C++ Arithmetic Operators
+C++ Relational Operators
+C++ Logical Operators
+C++ Bitwise Operators
+C++ Assignment Operators
+C++ sizeof Operator
+C++ Conditional Operator
+C++ Comma Operator
+C++ Member Operators
+C++ Casting Operators
+C++ Pointer Operators
+C++ Operators Precedence
+C++ Unary Operators
+C++ Control Statements
+C++ Decision Making
+C++ if Statement
+C++ if else Statement
+C++ Nested if Statements
+C++ switch Statement
+C++ Nested switch Statements
+C++ Loop Types
+C++ while Loop
+C++ for Loop
+C++ do while Loop
+C++ Foreach Loop
+C++ Nested Loops
+C++ break Statement
+C++ continue Statement
+C++ goto Statement
+C++ Strings
+C++ Strings
+C++ Loop Through a String
+C++ String Length
+C++ String Concatenation
+C++ String Comparison
+C++ Functions
+C++ Functions
+C++ Multiple Function Parameters
+C++ Recursive Function
+C++ Return Values
+C++ Function Overloading
+C++ Function Overriding
+C++ Default Arguments
+C++ Arrays
+C++ Arrays
+C++ Multidimensional Arrays
+C++ Pointer to an Array
+C++ Passing Arrays to Functions
+C++ Return Array from Functions
+C++ Structure & Union
+C++ Structures
+C++ Unions
+C++ Pointers
+C++ Pointers
+C++ Dereferencing
+C++ Modify Pointers
+C++ Class and Objects
+C++ Object Oriented
+C++ Classes & Objects
+C++ Class Member Functions
+C++ Class Access Modifiers
+C++ Static Class Members
+C++ Static Data Members
+C++ Static Member Function
+C++ Inline Functions
+C++ this Pointer
+C++ Friend Functions
+C++ Pointer to Classes
+C++ Constructors
+C++ Constructor & Destructor
+C++ Default Constructors
+C++ Parameterized Constructors
+C++ Copy Constructor
+C++ Constructor Overloading
+C++ Constructor with Default Arguments
+C++ Delegating Constructors
+C++ Constructor Initialization List
+C++ Dynamic Initialization Using Constructors
+C++ Inheritance
+C++ Inheritance
+C++ Multiple Inheritance
+C++ Multilevel Inheritance
+C++ Object-oriented
+C++ Overloading
+C++ Polymorphism
+C++ Abstraction
+C++ Encapsulation
+C++ Interfaces
+C++ Virtual Function
+C++ Pure Virtual Functions & Abstract Classes
+C++ File Handling
+C++ Files and Streams
+C++ Reading From File
+C++ Advanced
+C++ Exception Handling
+C++ Dynamic Memory
+C++ Namespaces
+C++ Templates
+C++ Preprocessor
+C++ Signal Handling
+C++ Multithreading
+C++ Web Programming
+C++ Socket Programming
+C++ Concurrency
+C++ Advanced Concepts
+C++ Lambda Expression
+C++ unordered_multiset
+C++ Useful Resources
+C++ Questions and Answers
+C++ Quick Guide
+C++ Cheatsheet
+C++ STL Tutorial
+C++ Standard Library
+C++ Useful Resources
+C++ Discussion
+C++ Online Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+C++ Cheatsheet
+ThisC++ programing cheat sheetcan be very handy to use and provides key information in a short time frame. It is tailormade for people who want to address important topics and leap into the world ofprogramming in C++. This includes all major and minor details one might need to surf through, and contains examples and code snippets to guide people on how to practically use this language.
+First Program - Hello World
+The very foundation of any programming language is the process of it's development. And any beginner starts to learn a programming language by learning it's syntax. So, let's start by writing the very first program in C++, ie.Printing Hello World−
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+// main() is where program execution begins.
+int main() {
+
+   cout<<"Hello World"<<endl;
+
+   // This is where you write your code
+   return 0;
+}
+Output
+Hello World
+Comments
+Comments in C++are used to write extra information that are useful to the programmer. C supports single-line comment // is used to indicate the single-line comment, whereas /* is used to start a multi-line comment and */ to end it.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+   /* This is multi-lined comment.
+   The below statement will only print Hello World*/
+
+   cout<<"Hello World"<<endl;
+
+   // This is a single-lined comment
+
+   return 0;
+}
+Output
+Hello World
+Input and Output Statements
+Here, "cin" is the input statement, accompanied by ">>", whereas "cout" is the output statement, accompanied by ">>".
+Read also:C++ Basic Input/Output
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	
+   //declaration of an integer variable
+   int age;
+   cout << "Enter your age: "<<endl;
+   cin >> age;
+   cout << "Your age is: " << age << endl;
+   return 0;
+}
+Variables
+Variablesare areas of storage where different types of data can be invariably stored. The variables in c++ must be declared before using, and the names of variables must start with an alphabet, and can contain letters, numbers and underscore(_).
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	
+   // Declaring multiple variables
+   int a, b, c;
+   char ch;
+   string s;
+   return 0;
+}
+Keywords
+Keywordsare special type of words that are reserved by the compiler of a specific language and cant be explicitly used by the programmer. Some of these keywords are as follows −
+asm
+else
+new
+this
+auto
+enum
+operator
+throw
+bool
+explicit
+private
+true
+break
+export
+protected
+try
+case
+extern
+public
+typedef
+catch
+false
+register
+typeid
+char
+float
+reinterpret_cast
+typename
+class
+for
+return
+union
+const
+friend
+short
+unsigned
+const_cast
+goto
+signed
+using
+continue
+if
+sizeof
+virtual
+default
+inline
+static
+void
+delete
+int
+static_cast
+volatile
+do
+long
+struct
+wchar_t
+double
+mutable
+switch
+while
+dynamic_cast
+namespace
+template
+Data Types
+Data typesare types of available classifications of storage where variables are stored in the memory. Data types can be categorized into three sections −
+1. Primitive data types
+Primitive data types are already existing in thec++ language libraries.These can be used without any modification.
+1.1. Int
+The keyword used for integer data types is int. Integers typically require 4 bytes of memory space and range from -2147483648 to 2147483647.
+1.2. Float
+Floating Point data type is used for storing single-precision floating-point values or decimal values. The keyword used for the floating-point data type is float. Float variables typically require 4 bytes of memory space.
+1.3. Char
+Character data typeis used for storing characters. The keyword used for the character data type is char. Characters typically require 1 byte of memory space and range from -128 to 127 or 0 to 255.
+1.4. Double
+Double Floating Point data type is used for storing double-precision floating-point values or decimal values. The keyword used for the double floating-point data type is double.
+1.5. String
+String data type is used for storing multiple characters together in a single variable.
+1.6. Bool
+Boolean data typeis used for storing Boolean or logical values. A Boolean variable can store either true or false. The keyword used for the Boolean data type is bool.
+Example
+int main() {
+	
+   int age=12; 
+   //takes only whole numbers, size is 4 Bytes
+
+   float weight=70.4; 
+   //takes decimal valued numbers, size is 4 Bytes
+
+   char alpha='a'; 
+   //takes single characters as per ASCII, size is 1 Bytes
+
+   string s="hey siri"; 
+   //takes multiple characters, size is variable
+
+   double d=2.2222; 
+   //takes more precise floating point numbers, size is 8 Bytes
+
+   bool k=true; 
+   //takes only true or false values (or 0/1)
+	    
+   return 0;
+}
+2. Derived data types
+These are derived from the primitive datatypes , and are referred to as Derived Data Types. These can be of four types namely −
+Function
+Array
+Pointer
+Reference
+These are briefly discussed in the further sections.
+3. User-defined data types
+These datatypes are defined by the user itself, and can be customized as per the user's wish. These are of five types mainly −
+3.1. Class
+The concept of classes and objects is explained in OOPS section of this cheatsheet. Examples can be referred here.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+class MyClass {       
+   public:             
+      int myNum;        
+      string myString;  
+};
+
+int main() {
+   MyClass myObj;  
+
+   myObj.myNum = 1234567; 
+   myObj.myString = "Helloooo";
+
+   cout << myObj.myNum << "\n";
+   cout << myObj.myString;
+   return 0;
+}
+Output
+1234567
+Helloooo
+3.2. Structure
+The syntax of defining a structure is as follows.
+struct structName{
+   char  varName[size];
+   int varName;
+};
+3.3. Union
+The syntax of defining a union is as follows.
+Union_Name{
+   // Declaration of data members
+}; union_variables;
+3.4. Enumeration
+The syntax of defining an enum variable is as follows.
+enum  nameOfEnum {
+   varName1 = 1, varName2 = 0
+};
+3.5. Typedef
+The syntax of defining a typedef is as follows.
+typedef typeName;
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+typedef unsigned char BYTE; 
+
+int main() { 
+   BYTE b1, b2; 
+   b1 = 'c'; 
+   cout << " " << b1; 
+   return 0; 
+}
+Output
+c
+Conditional Statements
+Conditional statementscontrol the flow of the program, and can be used when we need to define different cases and conditions. The primitives "if", "else", "else if", "switch" and the ternary operator are used in such cases.
+if Statement
+if-else Statement
+if-else-if Statement
+Nested if-else Statement
+Switch Statement
+Ternary Operator
+1. If statement
+If statement executes a block of code if and only if the given condition is true.
+2. if-else Statement
+If the condition inside the if statement is true, then the code inside the if block will get executed, otherwise code inside the else block will get executed.
+3. if-else-if Statement
+The else if statement allows you to check for multiple conditions sequentially.
+4. Nested if Statements
+Multiple if statements can be nested inside each other to form different cases as per requirement.
+5. Ternary Operator
+It works as a conditional statement which takes a conditional statement and returns either the first statement or the second statement.
+6. Switch Case
+In case of multiple conditions, we can simply use switch case statements to make it easier to handle such conditions.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+	
+   //program to explain if, else if and else conditions
+   int age=12; 
+   if(age<12) cout<<"YES"<<endl;
+
+   else if(age>24) cout<<"NO"<<endl;
+
+   else cout<<"MAYBE"<<endl;
+
+
+   //program to explain ternary operator
+   bool x=true;
+   x==1 ? cout<<"true"<<endl : cout<<"false"<<endl;
+
+
+   //program to explain switch case with break and default
+
+   switch (x & x){
+      case 0 :
+         cout<<"false"<<endl;
+      break;
+
+      case 1 :
+         cout<<"true"<<endl;
+      break;
+
+      default:
+         cout<<"invalid"<<endl;
+      break;
+   }
+   return 0;
+}
+Output
+MAYBE
+true
+true
+Operators
+Operators in C++can be classified into 6 types −
+1. Arithmetic Operators
+These operators are used to perform arithmetic or mathematical operations on the operands. For example, + is used for addition, - is used for subtraction * is used for multiplication, etc.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   int a = 8, b = 3;
+
+   // Addition operator
+   cout << "a + b = " << (a + b) << endl;
+  
+   // Subtraction operator
+   cout << "a - b = " << (a - b) << endl;
+  
+   // Multiplication operator
+   cout << "a * b = " << (a * b) << endl;
+  
+   // Division operator
+   cout << "a / b = " << (a / b) << endl;
+  
+   // Modulo operator
+   cout << "a % b = " << (a % b) << endl;
+
+   //unary operators
+   a++;
+   cout<<a<<endl;
+
+   a--;
+   cout<<a<<endl;
+
+   int k=++a + ++b;
+   cout<<k<<endl;
+
+   k=++a - --b;
+   cout<<k<<endl;
+
+   return 0;
+}
+Output
+a + b = 11
+a - b = 5
+a * b = 24
+a / b = 2
+a % b = 2
+9
+8
+13
+7
+2. Relational Operators
+These operators are used for the comparison of the values of two operands. For example, > checks if one operand is greater than the other operand or not, etc. The result returns a Boolean value, i.e., true or false.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   int a = 6, b = 4;
+
+   // Equal to operator
+   cout << "a == b is " << (a == b) << endl;
+  
+   // Greater than operator
+   cout << "a > b is " << (a > b) << endl;
+  
+   // Greater than or Equal to operator
+   cout << "a >= b is " << (a >= b) << endl;
+  
+   //  Lesser than operator
+   cout << "a < b is " << (a < b) << endl;
+  
+   // Lesser than or Equal to operator
+   cout << "a <= b is " << (a <= b) << endl;
+  
+   // true
+   cout << "a != b is " << (a != b) << endl;
+
+   return 0;
+}
+Output
+a == b is 0
+a > b is 1
+a >= b is 1
+a < b is 0
+a <= b is 0
+a != b is 1
+3. Logical Operators
+These operators are used to combine two or more conditions or constraints, or to complement the evaluation of the original condition in consideration. The result returns a Boolean value, i.e., true or false.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   int a = 6, b = 4;
+
+   // Logical AND operator
+   cout << "a && b is " << (a && b) << endl;
+  
+   // Logical OR operator
+   cout << "a || b is " << (a || b) << endl;
+  
+   // Logical NOT operator
+   cout << "!b is " << (!b) << endl;
+
+   return 0;
+}
+Output
+a && b is 1
+a || b is 1
+!b is 0
+4. Bitwise Operators
+These operators are used to perform bit-level operations on the operands. The operators are first converted to bit-level and then the calculation is performed on the operands. Mathematical operations such as addition, subtraction, multiplication, etc. can be performed at the bit level for faster processing.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   int a = 6, b = 4;
+
+   // Binary AND operator
+   cout << "a & b is " << (a & b) << endl;
+
+   // Binary OR operator
+   cout << "a | b is " << (a | b) << endl;
+
+   // Binary XOR operator
+   cout << "a ^ b is " << (a ^ b) << endl;
+
+   // Left Shift operator
+   cout << "a<<1 is " << (a << 1) << endl;
+
+   // Right Shift operator
+   cout << "a>>1 is " << (a >> 1) << endl;
+
+   // Ones Complement operator
+   cout << "~(a) is " << ~(a) << endl;
+
+   return 0;
+}
+Output
+a & b is 4
+a | b is 6
+a ^ b is 2
+a<<1 is 12
+a>>1 is 3
+~(a) is -7
+5. Assignment Operators
+These operators are used to assign value to a variable. The left side operand of the assignment operator is a variable and the right side operand of the assignment operator is a value. The value on the right side must be of the same data type as the variable on the left side otherwise the compiler will raise an error.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   int a = 6, b = 4;
+
+   // Assignment Operator
+   cout << "a = " << a << endl;
+  
+   //  Add and Assignment Operator
+   cout << "a += b is " << (a += b) << endl;
+  
+   // Subtract and Assignment Operator
+   cout << "a -= b is " << (a -= b) << endl;
+  
+   //  Multiply and Assignment Operator
+   cout << "a *= b is " << (a *= b) << endl;
+  
+   //  Divide and Assignment Operator
+   cout << "a /= b is " << (a /= b) << endl;
+
+   return 0;
+}
+Output
+a = 6
+a += b is 10
+a -= b is 6
+a *= b is 24
+a /= b is 6
+Loops
+Looping statementsare used to traverse through some data in a contiguous manner. Loops are used extensively indata structureslikearrays, linked lists, graphs, trees and so on. These are the building blocks of concepts like recursion, dynamic programming and graph theory, which are advanced concepts. There are mainly three types of looping statements −
+1. For loop
+For loops are used to travel a certain data stucture for a specific number of times before ending the loop at an ending condition.
+Example
+#include <iostream>
+using namespace std;
+int main() {
+   for(int i=0;i<6;i++){
+      cout<<"hello"<<endl;
+   }
+   return 0;
+}
+Output
+hello
+hello
+hello
+hello
+hello
+hello
+2. While loop
+While loops are used to run a looping statement until the specified condition turns false, otherwise the loops runs continuously.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+   int i=0;
+   while(i<6){
+      cout<<"hello"<<endl;
+      i++;
+   }
+   return 0;
+}
+Output
+hello
+hello
+hello
+hello
+hello
+hello
+3. Do-while loop
+In do-while loops, the loop runs the first time on a given condition and then checks the while statement to run further.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+   int i=0;
+   do{
+      cout<<"hello"<<endl;
+      i++;
+   }while(i<6);
+
+   return 0;
+}
+Output
+hello
+hello
+hello
+hello
+hello
+hello
+References and Pointers
+Referencesandpointersare used to describe the place and the face value of the variable declared by the user.
+1. References
+References are used to create a new name for the same memory location and the value stored there. We can create reference to any variable using ampersand($) symbol next to the variable name.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+   int i=3;
+   int &k=i;
+
+   cout<<i<<k<<endl;
+   return 0;
+}
+Output
+33
+2. Pointers
+Pointersare variables that are used to store the address of the variable that they point to, and the * is used to declare a pointer to any variable.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+   int a=4;
+   int *ptr=&a;
+
+   cout<<a<<ptr<<*ptr<<endl;
+
+   return 0;
+}
+Output
+40x7ffeb2bcfb0c4
+Arrays
+Anarrayis a sequence of elements of same data type that are stored in contiguous memory locations in the storage. The array can be declared with and without the number of elements.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main() {    
+   int arr1[]={1,2,3,4,4,3,2,1};
+   int arr2[8]={0};
+
+   for(int i=0;i<8;i++){
+      cout<<arr1[i]<<arr2[i]<<endl;
+   }
+     
+   return 0; 
+}
+Output
+10
+20
+30
+40
+40
+30
+20
+10
+Multidimensional Arrays
+Arrays can also be defined in more than one dimensions, with all elements of the same datatype.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main() {    
+   int arr[2][3]={{1,2,3},{4,4,3}};
+    
+   for(int i=0;i<2;i++){
+      for(int j=0;j<3;j++){
+         cout<<arr[i][j]<<endl;
+      }
+   }
+   return 0; 
+}
+Output
+1
+2
+3
+4
+4
+3
+Functions
+Functionsare parts of the code that can be called if defined previously, and help to make the code concise and readable. Functions can be created as part of the program or in the class body as well. The first function executed by thecompiler in c++is the main function.
+The function has a name, a return type (which can also be void), input variables and a method body. The example below showcases how functions are defined and used in c++.
+Functions in c++ can be of two types −
+Primitive Functionswhich are already defined in the c++ library.
+Examples of primitive functions are math functions like sin(), cos(), min(), max() and so on.
+User Defined Functions, which are defined as per the requirement of the user and can be customized accordingly.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+void sum1(int &a, int &b){
+   b+=a;
+}
+int main(){
+   int a=10, b=12;
+   sum1(a,b);    
+   cout<<b<<a<<endl;
+   return 0; 
+}
+Output
+2210
+Math Functions
+C++ being a superset of C, supports a large number of usefulmathematical functions.These functions are available in standard C++ to support various mathematical calculations.
+Instead of focusing on implementation, these functions can be directly used to simplify code and programs. In order to use these functions you need to include a header file − <math.h> or <cmath>.
+The below example shows the use of many such math functions that can be directly used instead of complex calculations.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+   double x = 2.3;
+   cout << "Sine value of x=2.3 : " << sin(x) << endl;
+   cout << "Cosine value of x=2.3 : " << cos(x) << endl;
+   cout << "Tangent value of x=2.3 : " << tan(x) << endl;
+ 
+   double y = 0.25;
+   cout << "Square root value of y=0.25 : " << sqrt(y)
+      << endl;
+ 
+   int z = -10;
+   cout << "Absolute value of z=-10 : " << abs(z) << endl;
+   cout << "Power value: x^y = (2.3^0.25) : " << pow(x, y)
+      << endl;
+ 
+   x = 3.0;
+   y = 4.0;
+   cout << "Hypotenuse having other two sides as x=3.0 and"
+      << " y=4.0 : " << hypot(x, y) << endl;
+ 
+   x = 4.56;
+   cout << "Floor value of x=4.56 is : " << floor(x)
+      << endl;
+ 
+   x = -4.57;
+   cout << "Absolute value of x=-4.57 is : " << fabs(x)
+      << endl;
+ 
+   x = 1.0;
+   cout << "Arc Cosine value of x=1.0 : " << acos(x)
+      << endl;
+   cout << "Arc Sine value of x=1.0 : " << asin(x) << endl;
+   cout << "Arc Tangent value of x=1.0 : " << atan(x)
+      << endl;
+ 
+   y = 12.3;
+   cout << "Ceiling value of y=12.3 : " << ceil(y) << endl;
+ 
+   x = 57.3; // in radians
+   cout << "Hyperbolic Cosine of x=57.3 : " << cosh(x)
+      << endl;
+   cout << "Hyperbolic tangent of x=57.3 : " << tanh(x)
+      << endl;
+ 
+   y = 100.0;
+   // Natural base with 'e'
+   cout << "Log value of y=100.0 is : " << log(y) << endl;
+ 
+   return 0;
+}
+Output
+Sine value of x=2.3 : 0.745705
+Cosine value of x=2.3 : -0.666276
+Tangent value of x=2.3 : -1.11921
+Square root value of y=0.25 : 0.5
+Absolute value of z=-10 : 10
+Power value: x^y = (2.3^0.25) : 1.23149
+Hypotenuse having other two sides as x=3.0 and y=4.0 : 5
+Floor value of x=4.56 is : 4
+Absolute value of x=-4.57 is : 4.57
+Arc Cosine value of x=1.0 : 0
+Arc Sine value of x=1.0 : 1.5708
+Arc Tangent value of x=1.0 : 0.785398
+Ceiling value of y=12.3 : 13
+Hyperbolic Cosine of x=57.3 : 3.83746e+24
+Hyperbolic tangent of x=57.3 : 1
+Log value of y=100.0 is : 4.60517
+Object-Oriented Programming
+OOPS conceptsexist in C++ as well. This basically means the program can be subcategorized into classes and objects.
+1. Class
+A class is a user-defined data type that has two components, the variables and the methods. The class can be initialized using aconstructor.
+2. Objects
+An object is an instance or a variable of the class. Objects occupy memory in the storage space.
+3. Encapsulation
+Encapsulation is wrapping up the data and methods together under a single class or category. For this, classes are used.
+4. Abstraction
+This includes hiding details using a certain level of security.
+5. Polymorphism
+Using same name and body to create multiple instances of an object or method is known as polymorphism.
+There are types of polymorphism:
+1. Compile-time Polymorphism
+Compile-time Polymorphism can be achieved using −
+Operator overloading
+Function overloading
+2. Runtime Polymorphism
+Runtime Polymorphism can be achieved using −
+Function overloading
+Viral Functions
+6. Inheritance
+Deriving the properties of a class ( Parent class ) to another class ( Child class ) is known as Inheritance.
+File Handling
+The different operations in file handling are as follows −
+Open file− To open a file, use the open() method of the ofstream class.
+Read a file− To read a file, use the getline() method of the ifstream class.
+Write a file− Use the "<<" operator to write on a file while it is opened.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+int main(){ 
+   ofstream outputFile("file1.txt"); 
+
+   // Open the file for writing 
+
+   outputFile.open("file1.txt"); 
+   if (outputFile.is_open()) { 
+
+      // Write data to the file 
+
+      outputFile << "Hello, World!" << endl; 
+      outputFile << 1333113 << endl; 
+      outputFile.close(); // Close the file 
+   }else { 
+
+      // Failed to open the file 
+      cout << "Error"<< endl; 
+      return 1; 
+   } 
+
+   // Reading from a file 
+
+   ifstream inputFile("file1.txt"); 
+   if (inputFile.is_open()) { 
+      string line; 
+      while (getline(inputFile, line)) { 
+         // Print each line 
+         cout << line << endl; 
+      } 
+      // Close the file 
+      inputFile.close(); 
+   }else { 
+
+      // Failed to open the file 
+      cout << "Error"<< endl; 
+      return 1; 
+   } 
+
+   return 0; 
+}
+Exception Handling
+When working with classes and objects, variouserrors and exceptionsare possible due to some fault either in the program written by the user or due to some machine fault, like memory or execution. These errors may be fatal to the smooth execution of a program, and hence need to be handled using try and catch blocks.
+When an error occurs, C++ will normally stop and generate an error message. The technical term for this is: C++ will throw an exception (throw an error).
+Try Block− The try statement allows you to define a block of code to be tested for errors while it is being executed.
+Throw− The throw keyword throws an exception when a problem is detected, which lets us create a custom error.
+Catch Block− The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
+Syntax for Try-Catch Exception handling
+try {
+   // Block of code to try
+   throw exception; // Throw an exception when a problem arise
+}
+catch () {
+   // Block of code to handle errors
+}
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+try {
+   int bmi=30;
+   if (bmi>28) {
+      cout << "You are overweight.";
+   } else {
+      throw (bmi);
+   }
+}
+catch (int x) {
+   cout << "You are underweight.";
+   cout << "Weight is: " << x;
+}
+Preprocessor
+The preprocessors are keywords that give directions to the compiler to process the instructions before the actual compilation starts. These begin with a #, and do not need any ; at the end as these are not statements.
+Examples of preprocessors are #include, #define and many more.
+Let us look at the important preprocessors in C++ library −
+#include
+#define
+1. #include
+It is used to include header files and libraries that are required to execute the methods and functions used in the program. As stated earlier, the actual implementation of the method is not shown, and the end result is displayed.
+Example
+#include <math.h>
+#include <iostream>
+
+using namespace std;
+
+//the iostream is used for input and output stream of data
+//the math.h is used for including math functions like pow(x,y)
+
+int main(void){   
+   cout<<pow(2,3);
+   return 0;
+}
+Output
+8
+2. #define
+The #define preprocessor directive creates symbolic constants. The symbolic constant is called a macro and the general form of the directive is the symbol # followed by define statement and the definition of the constant that needs to be defined. When this format appears in a file, all subsequent occurrences of macro in that file will be replaced by replacement-text before the program is compiled.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+#define A 45
+//defining value of A as 45
+
+int main(void){   
+   int a= A;
+   cout<<a;
+   return 0;
+}
+Output
+45
+Namespaces
+A namespace is used to define two functions of the same name in a program. This way, the compiler knows which method to use when calling calling a function. Using namespace, you can define the context in which names are defined. In essence, a namespace defines a scope.
+Defining a namespace is easy. You can just write namespace followed by the code inside the method. This function can be used inside a program by mentioning the namespace where it is from, along with :: symbol in between.
+Example 1
+#include <bits/stdc++.h>
+using namespace std;
+
+// first name space
+namespace first_space {
+   void func() {
+      cout << "Inside first_space" << endl;
+   }
+}
+
+// second name space
+namespace second_space {
+   void func() {
+      cout << "Inside second_space" << endl;
+   }
+}
+
+int main () {
+   // Calls function from first name space.
+   first_space::func();
+   
+   // Calls function from second name space.
+   second_space::func(); 
+
+   return 0;
+}
+Output
+Inside first_space
+Inside second_space
+The using keyword can be used in form of a directive to direct the following code to adhere to the mentioned namespace. The std keyword is similarly used to mention that all of the code is going to adhere to the standard namespace.
+To know more about namespaces, refer to this articleNamespaces in C++
+Example 2
+#include <bits/stdc++.h>
+using namespace std;
+
+// first name space
+namespace first_space {
+   void func() {
+      cout << "Inside first_space" << endl;
+   }
+}
+
+// second name space
+namespace second_space {
+   void func() {
+      cout << "Inside second_space" << endl;
+   }
+}
+
+using namespace first_space;
+int main () {
+   // Calls function from first name space.
+   func();
+
+   return 0;
+}
+Output
+Inside first_space
+Templates
+A template is a blueprint or formula for creating a genericclassor afunction. The library containers like iterators and algorithms have been developed using template concept.
+There are two types of templates available in C++ −
+Class Template
+Function Template
+1. Class Template
+Class templates can be used to define different data structures like linked lists, stack, queue, priority queue, tree and so on. Class template can be defined in the following way −
+Syntax
+template <class type> class class-name {
+   .
+   .
+   .
+}
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+template <typename T> class Array {
+   T* pointer;
+   int size;
+
+   public:
+      Array(T a[], int s);
+      void show();
+};
+
+template <typename T> Array<T>::Array(T a[], int s){
+   pointer = new T[s];
+   size = s;
+   for (int i = 0; i < size; i++)
+      pointer[i] = a[i];
+}
+
+template <typename T> void Array<T>::show(){
+   for (int i = 0; i < size; i++)
+      cout << *(pointer + i)<<endl;
+   cout << endl;
+}
+
+int main(){   
+   int size=7;
+   int a[size] = { 12, 21, 45, 34, 19, 55, 66 };
+   Array<int> a1(a, 7);
+   a1.show();
+   return 0;
+}
+Output
+12
+21
+45
+34
+19
+55
+66
+2. Function Template
+These can be used to create generic functions using template libraries, with inbuilt functionalities. Some examples of function templates are max(), min(), sin(), floor(), etc.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+template <typename T> T minof3(T x, T y, T z){
+   if(x<y && x<z) return x;
+   if(y<x && y<z) return y;
+   if(z<x && z<y) return z;
+   // else return "Not applicable !!!";
+}
+
+int main(){
+   // Call minof3 for int
+   cout << minof3<int>(32,58,97) << endl;
+   // call minof3 for double
+   cout << minof3<double>(13.0,12.0, 17.0) << endl;
+   // call minof3 for char
+   cout << minof3<char>('g', 'e', 't') << endl;
+   // call minof3 for string
+   cout << minof3<string>("apple", "ball", "cat")<<endl;
+
+   return 0;
+}
+Output
+32
+12
+e
+apple
+Dynamic Memory
+Memory in C++ is divided into 2 parts −
+Stack Memory− All variables declared inside the function will take up memory from the stack.
+Heap Memory− This is unused memory of the program and can be used to allocate the memory dynamically when program runs.
+When you write a program, sometimes it might occur that the memory required would not be known beforehand, and hence extra space from the heap memory would be required at runtime. This is dynamic memory allocation, and this can be implemented using the new keyword. After utilizing this space, the data can be deallocated using the delete keyword.
+The malloc() function from C, still exists in C++, but it is recommended to avoid using malloc() function. The main advantage of new over malloc() is that new doesn't just allocate memory, it constructs objects which is prime purpose of C++.
+Example
+#include <bits/stdc++.h>
+using namespace std;
+
+int main () {
+   int  *ptr  = NULL; // Pointer initialized with null
+   ptr  = new int;   // Request memory for the variable
+ 
+   *ptr = 31;     // Store value at allocated address
+   cout << "Value of pointer : " << *ptr << endl;
+
+   delete ptr;         // free up the memory.
+
+   return 0;
+}
+Output
+Value of pointer : 31
+Similarly, dynamic memory can be allocated while implementing arrays and classes as well. For any more information regarding Dynamic Memory allocation- refer to this article on Dyamic Memory Allocation.
+Signal Handling
+Signal handling is the process of controlling interrupt signals delivered during the execution of the program. There are various kinds of interrupts, which can prematurely end the program and generate different responses. For example, in Linux/Unix command line interface (CLI) the CTRL+C command generate the end program interrupt. Similarly, there exist many interrupts in C++ programming language as well. These are defined in the <csignal> library.
+Sr.No
+Signal & Description
+1
+SIGABRTAbnormal termination of the program, such as a call toabort.
+SIGABRT
+Abnormal termination of the program, such as a call toabort.
+2
+SIGFPEAn erroneous arithmetic operation, such as a divide by zero or an operation resulting in overflow.
+SIGFPE
+An erroneous arithmetic operation, such as a divide by zero or an operation resulting in overflow.
+3
+SIGILLDetection of an illegal instruction.
+SIGILL
+Detection of an illegal instruction.
+4
+SIGINTReceipt of an interactive attention signal.
+SIGINT
+Receipt of an interactive attention signal.
+5
+SIGSEGVAn invalid access to storage.
+SIGSEGV
+An invalid access to storage.
+6
+SIGTERMA termination request sent to the program.
+SIGTERM
+A termination request sent to the program.
+1. signal() Function
+The signal function is provided by the <csignal> library, and is used to trap unwanted or bad interrupts at once. Here is the usage of signal() function, which takes two inputs, first one is the signal number, and the second is the signal handling function.
+Example
+#include <csignal> 
+#include <iostream>
+using namespace std; 
+
+void handler_func(int signal_num){ 
+   cout << endl<<"You have interrupted: (" << signal_num 
+      << "). \n"; 
+
+   //using exit to terminate 
+   exit(signal_num); 
+} 
+
+int main(){ 
+   //initialize signal 
+   signal(SIGABRT, handler_func); 
+
+   while (true) {
+      cout << "You can't stop me !!!" << endl;
+      this_thread::sleep_for(chrono::seconds(1));
+      //this is used for delay 
+   }
+   return 0; 
+
+   //press ctrl+c to interrupt the program execution!!!
+}
+2. raise() Function
+The signal function is provided by the <csignal> library, and is used generate interrupts with their numbers. Here is the usage of raise() function, which takes onw input which is the signal number.
+Example
+#include <csignal> 
+#include <iostream>
+
+using namespace std; 
+
+void signal_handler(int signum){ 
+   cout << "You generated this interrupt: (" << signum << ").\n"; 
+
+   // terminate program
+   exit(signum); 
+} 
+
+int main(){ 
+   int i = 0; 
+   signal(SIGABRT, signal_handler); 
+
+   while (++i) { 
+      cout << "You can't stop me !!!" << endl; 
+      if (i == 10) 
+         raise(SIGABRT); 
+   } 
+   return 0; 
+}
+Multithreading
+Multithreading is part of the operating systems concept of multitasking on a processor. Multitasking is generally subcategorized into two parts- Process based and Thread based.
+In process based multitasking, two or more processes or programs run concurrently on a processor while executing, and it is completely dependent on the prowess of the processor to handle the tasks.
+In thread based multitasking, each program is divided into threads, which can be thought of as smaller subprograms that concurrently run on a processor and generate response together. Hence, multiple threads combine together to become a single program. This is known as Multithreading.
+In C++, there was no built-in support of multithreading before the launch of C++ 11.  C++ uses POSIX Threads, or Pthreads which are available on many Unix-like POSIX systems. The following operations can be performed on pthreads −
+Creating threads
+Terminating threads
+Passing arguments to threads
+Joining and detaching threads
+Creating threads
+Threads can be created using the routine pthread_create, in the <pthread.h> library. These can be created anywhere inside the program.
+Syntax
+#include <pthread.h>
+pthread_create (thread, attr, start_routine, arg);
+Sr.No
+Parameter & Description
+1
+threadAn opaque, unique identifier for the new thread returned by the subroutine.
+thread
+An opaque, unique identifier for the new thread returned by the subroutine.
+2
+attrAn opaque attribute object that may be used to set thread attributes. You can specify a thread attributes object, or NULL for the default values.
+attr
+An opaque attribute object that may be used to set thread attributes. You can specify a thread attributes object, or NULL for the default values.
+3
+start_routineThe C++ routine that the thread will execute once it is created.
+start_routine
+The C++ routine that the thread will execute once it is created.
+4
+argA single argument that may be passed to start_routine. It must be passed by reference as a pointer cast of type void. NULL may be used if no argument is to be passed.
+arg
+A single argument that may be passed to start_routine. It must be passed by reference as a pointer cast of type void. NULL may be used if no argument is to be passed.
+Terminating a thread
+The pthread_exit() is used to terminate a thread after it has completed its execution and is no longer required in the program. This helps clear the space assigned to the thread in the first place.
+Syntax
+#include <pthread.h>
+pthread_exit (status);
+Example
+#include <iostream>
+#include <cstdlib>
+#include <pthread.h>
+
+using namespace std;
+
+#define NUM_THREADS 5
+
+void *PrintHello(void *threadid) {
+   long tid;
+   tid = (long)threadid;
+   cout << "Hello World! Thread ID, " << tid << endl;
+   pthread_exit(NULL);
+}
+
+int main () {
+   pthread_t threads[NUM_THREADS];
+   int rc;
+   int i;
+
+   for( i = 0; i < NUM_THREADS; i++ ) {
+      cout << "main() : creating thread, " << i << endl;
+      rc = pthread_create(&threads[i], NULL, PrintHello, (void *)i);
+
+      if (rc) {
+         cout << "Error:unable to create thread," << rc << endl;
+         exit(-1);
+      }
+   }
+   pthread_exit(NULL);
+}
+Output
+main() : creating thread, 0
+main() : creating thread, 1
+Hello World! Thread ID, 0
+main() : creating thread, 2
+Hello World! Thread ID, 1
+main() : creating thread, 3
+Hello World! Thread ID, 2
+main() : creating thread, 4
+Hello World! Thread ID, 3
+Hello World! Thread ID, 4
+Joining and detaching threads
+The following routine is used to join and detatch threads in a program −
+Syntax
+pthread_join (threadid, status) 
+pthread_detach (threadid)
+Example
+#include <iostream>
+#include <cstdlib>
+#include <pthread.h>
+#include <unistd.h>
+
+using namespace std;
+
+#define NUM_THREADS 5
+
+void *wait(void *t) {
+   int i;
+   long tid;
+
+   tid = (long)t;
+
+   sleep(1);
+   cout << "Sleeping in thread " << endl;
+   cout << "Thread with id : " << tid << "  ...exiting " << endl;
+   pthread_exit(NULL);
+}
+
+int main () {
+   int rc;
+   int i;
+   pthread_t threads[NUM_THREADS];
+   pthread_attr_t attr;
+   void *status;
+
+   // Initialize and set thread joinable
+   pthread_attr_init(&attr);
+   pthread_attr_setdetachstate(&attr, PTHREAD_CREATE_JOINABLE);
+
+   for( i = 0; i < NUM_THREADS; i++ ) {
+      cout << "main() : creating thread, " << i << endl;
+      rc = pthread_create(&threads[i], &attr, wait, (void *)i );
+      if (rc) {
+         cout << "Error:unable to create thread," << rc << endl;
+         exit(-1);
+      }
+   }
+
+   // free attribute and wait for the other threads
+   pthread_attr_destroy(&attr);
+   for( i = 0; i < NUM_THREADS; i++ ) {
+      rc = pthread_join(threads[i], &status);
+      if (rc) {
+         cout << "Error:unable to join," << rc << endl;
+         exit(-1);
+      }
+      cout << "Main: completed thread id :" << i ;
+      cout << "  exiting with status :" << status << endl;
+   }
+
+   cout << "Main: program exiting." << endl;
+   pthread_exit(NULL);
+}
+Output
+main() : creating thread, 0
+main() : creating thread, 1
+main() : creating thread, 2
+main() : creating thread, 3
+main() : creating thread, 4
+Sleeping in thread 
+Thread with id : 0  ...exiting 
+Sleeping in thread 
+Thread with id : 2  ...exiting 
+Sleeping in thread 
+Thread with id : 1  ...exiting 
+Main: completed thread id :0  exiting with status :0
+Sleeping in thread Main: completed thread id :1  exiting with status :0
+Main: completed thread id :2  exiting with status :0
+
+Thread with id : 4  ...exiting 
+Sleeping in thread 
+Thread with id : 3  ...exiting 
+Main: completed thread id :3  exiting with status :0
+Main: completed thread id :4  exiting with status :0
+Main: program exiting.
+Passing arguments to threads
+The following program demonstrates how to pass arguments and statements inside threads using multithreading.
+Example
+#include <iostream>
+#include <cstdlib>
+#include <pthread.h>
+
+using namespace std;
+
+#define NUM_THREADS 5
+
+struct thread_data {
+   int  thread_id;
+   char *message;
+};
+
+void *PrintHello(void *threadarg) {
+   struct thread_data *my_data;
+   my_data = (struct thread_data *) threadarg;
+
+   cout << "Thread ID : " << my_data->thread_id ;
+   cout << " Message : " << my_data->message << endl;
+
+   pthread_exit(NULL);
+}
+
+int main () {
+   pthread_t threads[NUM_THREADS];
+   struct thread_data td[NUM_THREADS];
+   int rc;
+   int i;
+
+   for( i = 0; i < NUM_THREADS; i++ ) {
+      cout <<"main() : creating thread, " << i << endl;
+      td[i].thread_id = i;
+      td[i].message = "This is message";
+      rc = pthread_create(&threads[i], NULL, PrintHello, (void *)&td[i]);
+
+      if (rc) {
+         cout << "Error:unable to create thread," << rc << endl;
+         exit(-1);
+      }
+   }
+   pthread_exit(NULL);
+}
+Output
+main() : creating thread, 0
+main() : creating thread, 1
+main() : creating thread, 2
+Thread ID : 0 Message : This is message
+Thread ID : 1 Message : This is message
+main() : creating thread, 3
+Thread ID : 2 Message : This is message
+main() : creating thread, 4
+Thread ID : 3 Message : This is message
+Thread ID : 4 Message : This is message
+There has been a lot of change in the world ofC++ programmingsince its inception, and it is becoming ever more important to be aware of the new syntax that is being introduced. This article provides a summary of the most popular syntaxes in C++ and has been designed to lay out all the basics for those who are early on in their programming journey. For those who are more experienced, this article will provide an overview of what is happening in the world of C++.
+
+[Images saved with this article:]
+www.tutorialspoint.com_cplusplus_images_cpp-mini-logo.jpg
+www.tutorialspoint.com_cplusplus_images_cpp_language_cheatsheet.jpg

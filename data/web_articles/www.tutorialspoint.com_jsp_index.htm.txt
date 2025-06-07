@@ -1,0 +1,114 @@
+JSP - Home
+JSP - Overview
+JSP - Environment Setup
+JSP - Architecture
+JSP - Lifecycle
+JSP - Syntax
+JSP - Directives
+JSP - Actions
+JSP - Implicit Objects
+JSP - Client Request
+JSP - Server Response
+JSP - Http Status Codes
+JSP - Form Processing
+JSP - Writing Filters
+JSP - Cookies Handling
+JSP - Session Tracking
+JSP - File Uploading
+JSP - Handling Date
+JSP - Page Redirect
+JSP - Hits Counter
+JSP - Auto Refresh
+JSP - Sending Email
+JSP - Standard Tag Library
+JSP - Database Access
+JSP - XML Data
+JSP - Java Beans
+JSP - Custom Tags
+JSP - Expression Language
+JSP - Exception Handling
+JSP - Debugging
+JSP - Security
+JSP - Internationalization
+JSP Useful Resources
+JSP - Questions and Answers
+JSP - Quick Guide
+JSP - Useful Resources
+JSP - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+JSP Tutorial
+Java Server Pages (JSP) is a server-side programming technology that enables the creation of dynamic, platform-independent method for building Web-based applications. JSP have access to the entire family of Java APIs, including the JDBC API to access enterprise databases. This tutorial will teach you how to use Java Server Pages to develop your web applications in simple and easy steps.
+Why to Learn JSP?
+JavaServer Pages often serve the same purpose as programs implemented using theCommon Gateway Interface (CGI). But JSP offers several advantages in comparison with the CGI.
+Performance is significantly better because JSP allows embedding Dynamic Elements in HTML Pages itself instead of having separate CGI files.
+Performance is significantly better because JSP allows embedding Dynamic Elements in HTML Pages itself instead of having separate CGI files.
+JSP are always compiled before they are processed by the server unlike CGI/Perl which requires the server to load an interpreter and the target script each time the page is requested.
+JSP are always compiled before they are processed by the server unlike CGI/Perl which requires the server to load an interpreter and the target script each time the page is requested.
+JavaServer Pages are built on top of the Java Servlets API, so like Servlets, JSP also has access to all the powerful Enterprise Java APIs, includingJDBC, JNDI, EJB, JAXP,etc.
+JavaServer Pages are built on top of the Java Servlets API, so like Servlets, JSP also has access to all the powerful Enterprise Java APIs, includingJDBC, JNDI, EJB, JAXP,etc.
+JSP pages can be used in combination with servlets that handle the business logic, the model supported by Java servlet template engines.
+JSP pages can be used in combination with servlets that handle the business logic, the model supported by Java servlet template engines.
+Finally, JSP is an integral part of Java EE, a complete platform for enterprise class applications. This means that JSP can play a part in the simplest applications to the most complex and demanding.
+Hello World using JSP.
+Just to give you a little excitement about JSP, I'm going to give you a small conventional JSP Hello World program
+<html>
+   <head><title>Hello World</title></head>
+   
+   <body>
+      Hello World!<br/>
+      <%
+         out.println("Your IP address is " + request.getRemoteAddr());
+      %>
+   </body>
+</html>
+Applications of JSP
+As mentioned before, JSP is one of the most widely used language over the web. I'm going to list few of them here:
+JSP vs. Active Server Pages (ASP)
+The advantages of JSP are twofold. First, the dynamic part is written in Java, not Visual Basic or other MS specific language, so it is more powerful and easier to use. Second, it is portable to other operating systems and non-Microsoft Web servers.
+JSP vs. Pure Servlets
+It is more convenient to write (and to modify!) regular HTML than to have plenty of println statements that generate the HTML.
+JSP vs. Server-Side Includes (SSI)
+SSI is really only intended for simple inclusions, not for "real" programs that use form data, make database connections, and the like.
+JSP vs. JavaScript
+JavaScript can generate HTML dynamically on the client but can hardly interact with the web server to perform complex tasks like database access and image processing etc.
+JSP vs. Static HTML
+Regular HTML, of course, cannot contain dynamic information.
+Audience
+This tutorial has been prepared for the beginners to help them understand basic functionality of Java Server Pages (JSP) to develop your web applications. After completing this tutorial you will find yourself at a moderate level of expertise in using JSP from where you can take yourself to next levels.
+Prerequisites
+We assume you have little knowledge of how web applications work over HTTP, what is web server and what is web browsers. It will be great if you have some knowledge of web application development using any programming language.
+Frequently Asked Questions about JSP
+There are some very Frequently Asked Questions(FAQ) about JSP, this section tries to answer them briefly.
+The full form of JSP is JavaServer Pages. In some textbooks, you can find that JSP stands for Jakarta Server Pages.
+JSP is a front-end technology used to develop a graphical user interface of a Java application.
+The JSP technology is supported by several web servers. The most popular are Apache Tomcat, GlassFish, Apache TomEE, WildFly and many more.
+There are four steps involved in JSP life cycle, which are −
+JSP Compilation− In this step, JSP is parsed and converted into a servlet for the compilation.
+JSP Initialization− The initialization is performed by invoking thejspInit()method.
+JSP Execution− In the following step, all the requests are handled.
+JSP Cleanup− The final step involves removal of JSP from use.
+JSP was released by Sun Microsystems in 1999.
+The syntax of JSP is very simple, we simply need to start JSP tag with "<%" and end with "%>". Then, save the JSP file with the extension ".jsp".
+The latest version of JSP is 3.1 which was released on 31st April 2022.
+Both Servlet and JSP are used to create web applications using Java programming language. Both have their unique characteristic and functionality. Servlet is faster as compared to JSP, however, JSP is more flexible than servlet.
+In JSP, we use errorPage and isErrorPage attributes to handle exceptions.
+Here is the summarized list of tips which you can follow to learn JSP −
+First and most important to make up your mind to learn JSP.
+Install the required IDE and other software that are essential for JSP on your computer system.
+Follow our tutorial step by step starting from the very beginning.
+Read more articles, watch online courses or buy a book on JSP to enhance your knowledge.
+Try to develop small software or projects using JSP.
+
+[Images saved with this article:]
+www.tutorialspoint.com_jsp_images_jsp-mini-logo.jpg
+www.tutorialspoint.com_jsp_images_jsp-interview.jpg

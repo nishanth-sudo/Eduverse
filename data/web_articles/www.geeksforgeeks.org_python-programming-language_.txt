@@ -1,0 +1,350 @@
+Python Course
+Python Tutorial
+Interview Questions
+Python Quiz
+Python Glossary
+Python Projects
+Practice Python
+Data Science With Python
+Python Web Dev
+DSA with Python
+Python OOPs
+Explore GfG Courses
+Share Your Experiences
+Python Tutorial | Learn Python Programming Language
+Python Fundamentals
+Python Introduction
+Input and Output in Python
+Python Variables
+Python Operators
+Python Keywords
+Python Data Types
+Conditional Statements in Python
+Loops in Python - For, While and Nested Loops
+Python Functions
+Python def Keyword
+Python return statement
+Global and Local Variables in Python
+Recursion in Python
+*args and **kwargs in Python
+Python Lambda Functions
+Python map() function
+Python Data Structures
+Python String
+Python Lists
+Python Tuples
+Dictionaries in Python
+Python Sets
+Python Arrays
+List Comprehension in Python
+Python OOPs Concepts
+Python Exception Handling
+File Handling in Python
+Python Database Handling
+Python MongoDB Tutorial
+Python MySQL
+Python Packages or Libraries
+Python Modules
+Python DSA Libraries
+List of Python GUI Library and Packages
+Data Science with Python
+Python NumPy
+Pandas Tutorial
+Matplotlib Tutorial
+Introduction to Seaborn - Python
+StatsModel Library- Tutorial
+Learning Model Building in Scikit-learn
+XGBoost
+TensorFlow Tutorial
+What is PyTorch ?
+Web Development with Python
+Flask Tutorial
+Django Tutorial | Learn Django Framework
+Django ORM - Inserting, Updating & Deleting Data
+Templating With Jinja2 in Flask
+Django Templates
+Python | Build a REST API using Flask
+How to Create a basic API using Django Rest Framework ?
+Python Quiz
+Python Coding Practice Problems
+Python Interview Questions and Answers
+DSA to DevelopmentCourse
+Python Tutorial | Learn Python Programming LanguageLast Updated :03 May, 2025CommentsImproveSuggest changesLike ArticleLikeReportPython Tutorial– Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.Python is:A high-level language, used in web development, data science, automation, AI and more.Known for its readability, which means code is easier to write, understand and maintain.Backed by library support, so we don’t have to build everything from scratch, there’s probably a library that already does what we need.Why to Learn Python?Python requires fewer lines of code compared to other programming languages.Python is in high demand as it provides many job opportunities in Software Development, Data Science and AI/ML.Python provides popular Web Development, AI/ML, Data Science and Data Analysis Libraries like Django, Flask, Pandas, Tensorflow, Scikit-learn and many more.Python is an object oriented programming language which encapsulates code within object.Python is cross-platform which works on Windows, Mac and Linux without major changes.Python is used by big companies like Google, Netflix and NASA.First Python ProgramHere is a simple Python code, printing a string. We recommend you to edit the code and try to print your own name.Pythonprint("Hello World")OutputHello World1. Python BasicsIn this section, we’ll cover the basics of Python programming, including installing Python, writing first program, understanding comments and working with variables, keywords and operators. These are essential building blocks to get started with Python coding.Before starting to learn python we need toinstall pythonon our system.IntroductionInput and OutputVariablesOperatorsQuiz:Basics,I/OKeywordsData TypesQuiz:Data Types,Numbers,BooleanConditional StatementsPython LoopsQuiz :Control Flow,Loops2. Python FunctionsPython Functionsare the backbone of organized and efficient code in Python. Here, in this section of Python 3 tutorial we'll explore their syntax, parameter handling, return values and variable scope. From basic concepts to advanced techniques like closures and decorators. Along the way, we'll also introduce versatile functions like range(), map, filter and lambda functions.def keywordUse of pass Statement in FunctionReturn statementGlobal and Local VariablesRecursion in Python*args and **kwargs in Function‘Self’ as Default ArgumentFirst Class FunctionLambda FunctionMap,ReduceandFilter FunctionInner FunctionDecoratorsQuiz:Functions3. Python Data StructuresPython offers versatile collections of data types, including lists, string, tuples, sets, dictionaries and arrays. In this section, we will learn about each data types in detail.StringsListQuiz:List,StringTuplesDictionaryQuiz:Tuples,DictionarySetsArraysList ComprehensionQuiz:Sets,Arrays,List ComprehensionPython's collections module offers essential data structures, including the following:CountersHeapqDequeOrderedDictDefaultdictQuiz:Data StructuresTo learn data structure and algorithm with python in detail, you can refer to ourDSA with PythonTutorial.4. Python OOPs ConceptsIn this section ofPython OOPs, we'll explore the core principles of object-oriented programming (OOP) in Python. From encapsulation to inheritance, polymorphism, abstract classes and iterators, we'll cover the essential concepts that helps you to build modular, reusable and scalable code.Classes and ObjectsPolymorphismInheritanceAbstractEncapsulationIteratorsQuiz:OOPs5. Python Exception HandlingIn this section of Python Tutorial, we'll explorePython Exception Handlingthat how Python deals with unexpected errors, enabling us to write fault-tolerant code. We'll cover file handling, including reading from and writing to files.Exception handlingTry and ExceptBuilt-in ExceptionUser defined ExceptionQuiz:Exception Handling6. File HandlingIn this section, we will cover file handling, including reading from and writing to files.File HandlingDifferent File ModesRead FilesWrite/Create FilesOS Modulepathlib ModuleDirectory ManagementQuiz:File Handling7. Python Database HandlingIn this section we will learn how to access and work with MySQL and MongoDB databasesPython MongoDB TutorialPython MySQL Tutorial8. Python Packages or LibrariesPython is a huge collection ofPython Packagesstandard libraries that make development easier. These libraries help with a wide range of tasks and can save you a lot of time by providing ready-to-use tools.Some commonly used types of libraries in Python include:Built-in Modules in PythonPython DSA LibrariesPython GUI Libraries9. Data Science with Python1. Foundational Libraries: These are the libraries that form the base for all data science work. Start here to build a strong foundation.NumPyPandasMatplotlib2. Advanced Visualization and Statistical Tools:Once you’re comfortable with basic data handling and visualization, move to creating cleaner visuals and performing statistical analysis.SeabornStatsmodel3. Machine Learning Libraries:After data manipulation and visualization, learn machine learning, starting with simpler models and moving to advanced ones.Scikit-learnXGBoost/LightGBM4.Deep Learning Frameworks:If you’re interested in AI and deep learning, these libraries will allow you to build and train neural networks.TensorFlowandKerasPyTorchTo learn more, you can refer toPython for Data Science.10. Web Development with Python1. Core Web Frameworks (Backend Development with Python):These are the tools for building Python-based web applications.FlaskDjango2. Database Integration:Learn how to connect Python web frameworks to databases for storing and retrieving data.SQLiteSQLAlchemyDjango ORM3. Front-End and Backend Integration:Learn how to connect Python backends with front-end technologies to create dynamic, full-stack web applications.Jinja2 (Flask)Django Templates4. API Development:Learn to build APIs (Application Programming Interfaces) for connecting your backend with front-end apps or other services.Flask-RESTfulDjango REST Framework (DRF)To learn more, you can refer toPython for Web Development.Python QuizzesPython quiz page covers topics including variables, data types and how to manage output effectively. You'll explore operators and control flow to structure our code, along with loops (for and while) for repetitive tasks. Additionally, you'll gain knowledge with Python data structures such as lists, tuples, dictionaries and sets.QuizzesPython PracticeThe Python Coding Practice Problems page offers exercises for all skill levels, covering basics, loops, functions and OOP. You'll work with lists, strings, dictionaries, sets and advanced structures like heaps and deques. These problems help build a strong foundation and boost confidence in solving real-world coding challenges.Python Coding ProblemsFeatures of PythonPython stands out because of its simplicity and versatility, making it a top choice for both beginners and professionals. Here are some key features or characteristics:Easy to Read and Write:Python’s syntax is clean and simple, making the code easy to understand and write. It is suitable for beginners.Interpreted Language:Python executes code line by line, which helps in easy debugging and testing during development.Object-Oriented and Functional:Python supports both object-oriented and functional programming, giving developers flexibility in how they structure their code.Dynamically Typed:You don’t need to specify data types when declaring variables; Python figures it out automatically.Extensive Libraries:Python has a rich collection of libraries for tasks like web development, data analysis, machine learning and more.Cross-Platform:Python can run on different operating systems like Windows, macOS and Linux without modification.Community Support:Python has a large, active community that continuously contributes resources, libraries and tools, making it easier to find help or solutions.This Python tutorial is updated based on latest Python 3.13.1 version.Applications of PythonWeb Development:Frameworks like Django and Flask can be used to create dynamic websites and web applications quickly and efficiently.Data Science&Analysis:Python is most preferred language for data analysis, visualization and handling large datasets. Because of extensive libraries like Pandas, NumPy and Matplotlib.Machine Learning&AI:Python is popular in AI and machine learning because of its powerful libraries like TensorFlow, Keras and Scikit-learn.Scripting & Automation:Python’s simplicity makes it ideal for writing scripts that automate tasks in different systems, from server management to file handling. Python is commonly used to automate repetitive tasks, making processes faster and more efficient.Web Scraping:Libraries like Beautiful Soup and Scrapy.Desktop App Development:Python can be used to build desktop applications using frameworks like Tkinter and PyQt. Python is also used for game development, with libraries like Pygame to create simple games.Python vs. Other Programming LanguagesBelow is the comparison of Python with C, C++ andJava:FeaturePythonC/C++JavaScriptJavaTypeInterpretedCompiledInterpretedCompiled and InterpretedParadigmMulti-paradigm (object-oriented, procedural, functional)Procedural (C), Multi-paradigm (C++: object-oriented, generic)Multi-paradigm (event-driven, functional, object-oriented)Object-oriented, structuredMemory ManagementAutomaticManualAutomaticAutomaticSyntaxSimpleComplexSimpleComplexUse CasesWeb development, data analysis, machine learningSystem programming, embedded systems, game/high-performance developmentLarge-scale applications, enterprise softwareLarge-scale applications, enterprise softwareNotable Frameworks/LibrariesDjango, FlaskStandard Library, BoostSpring, HibernateSpring, HibernateCommunity SupportStrongStrongStrongStrongJob MarketAbundantAbundantAbundantAbundantList of Companies Using PythonThese are some Popular companies that use Python in their workflow:CompanyDescriptionGoogleUses Python for various applications, including their search engine and machine learning projects.InstagramThe backend of Instagram is built using Python, enabling it to handle millions of users efficiently.SpotifyPython is used for data analysis and backend services, helping improve user recommendations.DropboxPython powers the desktop client of Dropbox, making it easy to sync files across devices.NetflixPython helps Netflix with data analysis and managing its content recommendation algorithms.RedditOne of the largest online communities, Reddit, uses Python for its core functionalities.UberUber uses Python for various features, including dynamic pricing and data analysis.PinterestPython plays a key role in the backend of Pinterest, helping scale and manage user content.Career & Jobs in PythonPython offer diverse opportunities across industries, here we have listed all the best career opportunity that anyone can pursue after learning Python.CareerAverage Salary (INR) Per AnnumAverage Salary (USD) Per AnnumPython Developer₹500,000 – ₹1,200,000$60,000 – $110,000Data Scientist₹600,000 – ₹1,500,000$70,000 – $130,000Machine Learning Engineer₹700,000 – ₹1,800,000$75,000 – $140,000Full Stack Developer₹600,000 – ₹1,300,000$65,000 – $120,000DevOps Engineer₹800,000 – ₹2,000,000$80,000 – $140,000Automation Engineer₹500,000 – ₹1,200,000$55,000 – $100,000Data Analyst₹400,000 – ₹900,000$50,000 – $90,000Software Engineer₹500,000 – ₹1,500,000$65,000 – $120,000Backend Developer₹600,000 – ₹1,300,000$70,000 – $125,000AI Engineer₹900,000 – ₹2,500,000$90,000 – $160,000Python Latest & Upcoming FeaturesPython 3.13 is the most recent stable release of the programming language, featuring a blend of updates to its syntax, implementation and standard library. Key enhancements include the introduction of a revamped interactive interpreter, experimental capabilities for operating in a free-threaded mode (as outlined in PEP 703) and the addition of a Just-In-Time (JIT) compiler (detailed in PEP 744).The upcoming version of Python is Python 3.14 and it is expected to include the following notable updates: UTF-8 Mode Default (PEP 686), Shorthand Syntax for Keyword Arguments, Enhanced f-strings, JSON-based Simple API (PEP 691).--> In this tutorial, we've provided the latestPython 3.13 versioncompiler where you can edit and compile your written code directly with just one click of the RUN Button. So test yourself with Python first exercises.Next ArticlePython IntroductionkartikImproveArticle Tags :PythonPython ProgramspythonTutorialsPractice Tags :pythonpython
+Python Tutorial | Learn Python Programming Language
+Python Tutorial– Python is one of the most popular programming languages. It’s simple to use, packed with features and supported by a wide range of libraries and frameworks. Its clean syntax makes it beginner-friendly.
+Python is:
+A high-level language, used in web development, data science, automation, AI and more.
+Known for its readability, which means code is easier to write, understand and maintain.
+Backed by library support, so we don’t have to build everything from scratch, there’s probably a library that already does what we need.
+Why to Learn Python?
+Python requires fewer lines of code compared to other programming languages.
+Python is in high demand as it provides many job opportunities in Software Development, Data Science and AI/ML.
+Python provides popular Web Development, AI/ML, Data Science and Data Analysis Libraries like Django, Flask, Pandas, Tensorflow, Scikit-learn and many more.
+Python is an object oriented programming language which encapsulates code within object.
+Python is cross-platform which works on Windows, Mac and Linux without major changes.
+Python is used by big companies like Google, Netflix and NASA.
+First Python Program
+Here is a simple Python code, printing a string. We recommend you to edit the code and try to print your own name.
+print("Hello World")
+print("Hello World")
+Hello World
+1. Python Basics
+In this section, we’ll cover the basics of Python programming, including installing Python, writing first program, understanding comments and working with variables, keywords and operators. These are essential building blocks to get started with Python coding.
+Before starting to learn python we need toinstall pythonon our system.
+Introduction
+Input and Output
+Variables
+Operators
+Quiz:Basics,I/O
+Keywords
+Data Types
+Quiz:Data Types,Numbers,Boolean
+Conditional Statements
+Python Loops
+Quiz :Control Flow,Loops
+2. Python Functions
+Python Functionsare the backbone of organized and efficient code in Python. Here, in this section of Python 3 tutorial we'll explore their syntax, parameter handling, return values and variable scope. From basic concepts to advanced techniques like closures and decorators. Along the way, we'll also introduce versatile functions like range(), map, filter and lambda functions.
+def keyword
+Use of pass Statement in Function
+Return statement
+Global and Local Variables
+Recursion in Python
+*args and **kwargs in Function
+‘Self’ as Default Argument
+First Class Function
+Lambda Function
+Map,ReduceandFilter Function
+Inner Function
+Decorators
+Quiz:Functions
+3. Python Data Structures
+Python offers versatile collections of data types, including lists, string, tuples, sets, dictionaries and arrays. In this section, we will learn about each data types in detail.
+Strings
+List
+Quiz:List,String
+Tuples
+Dictionary
+Quiz:Tuples,Dictionary
+Sets
+Arrays
+List Comprehension
+Quiz:Sets,Arrays,List Comprehension
+Python's collections module offers essential data structures, including the following:
+Counters
+Heapq
+Deque
+OrderedDict
+Defaultdict
+Quiz:Data Structures
+To learn data structure and algorithm with python in detail, you can refer to ourDSA with PythonTutorial.
+4. Python OOPs Concepts
+In this section ofPython OOPs, we'll explore the core principles of object-oriented programming (OOP) in Python. From encapsulation to inheritance, polymorphism, abstract classes and iterators, we'll cover the essential concepts that helps you to build modular, reusable and scalable code.
+Classes and Objects
+Polymorphism
+Inheritance
+Abstract
+Encapsulation
+Iterators
+Quiz:OOPs
+5. Python Exception Handling
+In this section of Python Tutorial, we'll explorePython Exception Handlingthat how Python deals with unexpected errors, enabling us to write fault-tolerant code. We'll cover file handling, including reading from and writing to files.
+Exception handling
+Try and Except
+Built-in Exception
+User defined Exception
+Quiz:Exception Handling
+6. File Handling
+In this section, we will cover file handling, including reading from and writing to files.
+File Handling
+Different File Modes
+Read Files
+Write/Create Files
+OS Module
+pathlib Module
+Directory Management
+Quiz:File Handling
+7. Python Database Handling
+In this section we will learn how to access and work with MySQL and MongoDB databases
+Python MongoDB Tutorial
+Python MySQL Tutorial
+8. Python Packages or Libraries
+Python is a huge collection ofPython Packagesstandard libraries that make development easier. These libraries help with a wide range of tasks and can save you a lot of time by providing ready-to-use tools.
+Some commonly used types of libraries in Python include:
+Built-in Modules in Python
+Python DSA Libraries
+Python GUI Libraries
+9. Data Science with Python
+1. Foundational Libraries: These are the libraries that form the base for all data science work. Start here to build a strong foundation.
+NumPy
+Pandas
+Matplotlib
+2. Advanced Visualization and Statistical Tools:Once you’re comfortable with basic data handling and visualization, move to creating cleaner visuals and performing statistical analysis.
+Seaborn
+Statsmodel
+3. Machine Learning Libraries:After data manipulation and visualization, learn machine learning, starting with simpler models and moving to advanced ones.
+Scikit-learn
+XGBoost/LightGBM
+4.Deep Learning Frameworks:If you’re interested in AI and deep learning, these libraries will allow you to build and train neural networks.
+TensorFlowandKeras
+PyTorch
+To learn more, you can refer toPython for Data Science.
+10. Web Development with Python
+1. Core Web Frameworks (Backend Development with Python):These are the tools for building Python-based web applications.
+Flask
+Django
+2. Database Integration:Learn how to connect Python web frameworks to databases for storing and retrieving data.
+SQLite
+SQLAlchemy
+Django ORM
+3. Front-End and Backend Integration:Learn how to connect Python backends with front-end technologies to create dynamic, full-stack web applications.
+Jinja2 (Flask)
+Django Templates
+4. API Development:Learn to build APIs (Application Programming Interfaces) for connecting your backend with front-end apps or other services.
+Flask-RESTful
+Django REST Framework (DRF)
+To learn more, you can refer toPython for Web Development.
+Python Quizzes
+Python quiz page covers topics including variables, data types and how to manage output effectively. You'll explore operators and control flow to structure our code, along with loops (for and while) for repetitive tasks. Additionally, you'll gain knowledge with Python data structures such as lists, tuples, dictionaries and sets.
+Quizzes
+Python Practice
+The Python Coding Practice Problems page offers exercises for all skill levels, covering basics, loops, functions and OOP. You'll work with lists, strings, dictionaries, sets and advanced structures like heaps and deques. These problems help build a strong foundation and boost confidence in solving real-world coding challenges.
+Python Coding Problems
+Features of Python
+Python stands out because of its simplicity and versatility, making it a top choice for both beginners and professionals. Here are some key features or characteristics:
+Easy to Read and Write:Python’s syntax is clean and simple, making the code easy to understand and write. It is suitable for beginners.
+Interpreted Language:Python executes code line by line, which helps in easy debugging and testing during development.
+Object-Oriented and Functional:Python supports both object-oriented and functional programming, giving developers flexibility in how they structure their code.
+Dynamically Typed:You don’t need to specify data types when declaring variables; Python figures it out automatically.
+Extensive Libraries:Python has a rich collection of libraries for tasks like web development, data analysis, machine learning and more.
+Cross-Platform:Python can run on different operating systems like Windows, macOS and Linux without modification.
+Community Support:Python has a large, active community that continuously contributes resources, libraries and tools, making it easier to find help or solutions.
+This Python tutorial is updated based on latest Python 3.13.1 version.
+Applications of Python
+Web Development:Frameworks like Django and Flask can be used to create dynamic websites and web applications quickly and efficiently.
+Data Science&Analysis:Python is most preferred language for data analysis, visualization and handling large datasets. Because of extensive libraries like Pandas, NumPy and Matplotlib.
+Machine Learning&AI:Python is popular in AI and machine learning because of its powerful libraries like TensorFlow, Keras and Scikit-learn.
+Scripting & Automation:Python’s simplicity makes it ideal for writing scripts that automate tasks in different systems, from server management to file handling. Python is commonly used to automate repetitive tasks, making processes faster and more efficient.
+Web Scraping:Libraries like Beautiful Soup and Scrapy.
+Desktop App Development:Python can be used to build desktop applications using frameworks like Tkinter and PyQt. Python is also used for game development, with libraries like Pygame to create simple games.
+Python vs. Other Programming Languages
+Below is the comparison of Python with C, C++ andJava:
+Feature
+Python
+C/C++
+JavaScript
+Java
+Type
+Interpreted
+Compiled
+Interpreted
+Compiled and Interpreted
+Paradigm
+Multi-paradigm (object-oriented, procedural, functional)
+Procedural (C), Multi-paradigm (C++: object-oriented, generic)
+Multi-paradigm (event-driven, functional, object-oriented)
+Object-oriented, structured
+Memory Management
+Automatic
+Manual
+Automatic
+Automatic
+Syntax
+Simple
+Complex
+Simple
+Complex
+Use Cases
+Web development, data analysis, machine learning
+System programming, embedded systems, game/high-performance development
+Large-scale applications, enterprise software
+Large-scale applications, enterprise software
+Notable Frameworks/Libraries
+Django, Flask
+Standard Library, Boost
+Spring, Hibernate
+Spring, Hibernate
+Community Support
+Strong
+Strong
+Strong
+Strong
+Job Market
+Abundant
+Abundant
+Abundant
+Abundant
+List of Companies Using Python
+These are some Popular companies that use Python in their workflow:
+Company
+Description
+Google
+Uses Python for various applications, including their search engine and machine learning projects.
+Instagram
+The backend of Instagram is built using Python, enabling it to handle millions of users efficiently.
+Spotify
+Python is used for data analysis and backend services, helping improve user recommendations.
+Dropbox
+Python powers the desktop client of Dropbox, making it easy to sync files across devices.
+Netflix
+Python helps Netflix with data analysis and managing its content recommendation algorithms.
+Reddit
+One of the largest online communities, Reddit, uses Python for its core functionalities.
+Uber
+Uber uses Python for various features, including dynamic pricing and data analysis.
+Pinterest
+Python plays a key role in the backend of Pinterest, helping scale and manage user content.
+Career & Jobs in Python
+Python offer diverse opportunities across industries, here we have listed all the best career opportunity that anyone can pursue after learning Python.
+Career
+Average Salary (INR) Per Annum
+Average Salary (USD) Per Annum
+Python Developer
+₹500,000 – ₹1,200,000
+$60,000 – $110,000
+Data Scientist
+₹600,000 – ₹1,500,000
+$70,000 – $130,000
+Machine Learning Engineer
+₹700,000 – ₹1,800,000
+$75,000 – $140,000
+Full Stack Developer
+₹600,000 – ₹1,300,000
+$65,000 – $120,000
+DevOps Engineer
+₹800,000 – ₹2,000,000
+$80,000 – $140,000
+Automation Engineer
+₹500,000 – ₹1,200,000
+$55,000 – $100,000
+Data Analyst
+₹400,000 – ₹900,000
+$50,000 – $90,000
+Software Engineer
+₹500,000 – ₹1,500,000
+$65,000 – $120,000
+Backend Developer
+₹600,000 – ₹1,300,000
+$70,000 – $125,000
+AI Engineer
+₹900,000 – ₹2,500,000
+$90,000 – $160,000
+Python Latest & Upcoming Features
+Python 3.13 is the most recent stable release of the programming language, featuring a blend of updates to its syntax, implementation and standard library. Key enhancements include the introduction of a revamped interactive interpreter, experimental capabilities for operating in a free-threaded mode (as outlined in PEP 703) and the addition of a Just-In-Time (JIT) compiler (detailed in PEP 744).
+The upcoming version of Python is Python 3.14 and it is expected to include the following notable updates: UTF-8 Mode Default (PEP 686), Shorthand Syntax for Keyword Arguments, Enhanced f-strings, JSON-based Simple API (PEP 691).
+--> In this tutorial, we've provided the latestPython 3.13 versioncompiler where you can edit and compile your written code directly with just one click of the RUN Button. So test yourself with Python first exercises.
+Python
+Python Programs
+python
+Tutorials
+python
+python
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_256_Web_Content_py_1723007763.webp
+media.geeksforgeeks.org_img-practice_prod_courses_1699342871_Web_Content_complete-python-program-in-data-analytics-and-data-science-live-thumbnail.web
+media.geeksforgeeks.org_img-practice_prod_courses_261_Web_Content_dspy_1723008711.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

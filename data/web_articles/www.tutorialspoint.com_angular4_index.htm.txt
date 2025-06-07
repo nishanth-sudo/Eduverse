@@ -1,0 +1,240 @@
+Angular Tutorial
+Angular - Home
+Angular - Overview
+Angular - Features
+Angular - Advantages & Disadvantages
+Angular Basics
+Angular - Environment setup
+Angular - First Application
+Angular - MVC Architecture
+Angular Components
+Angular - Components
+Angular - Component Lifecycle
+Angular - View Encapsulation
+Angular - Component Interaction
+Angular - Component Styles
+Angular - Nested Components
+Angular - Content projection
+Angular - Dynamic components
+Angular - Elements
+Angular Templates
+Angular - Templates
+Angular - Template statements
+Angular - Template Variables
+Angular - SVG as Templates
+Angular Binding
+Angular - Data Binding
+Angular - Interpolation
+Angular - Event Binding
+Angular - Property Binding
+Angular - Attribute Binding
+Angular - Class Binding
+Angular - Style Binding
+Angular - Two-way Binding
+Angular Directives
+Angular - Directives
+Angular - Attribute Directives
+Angular - Structural Directives
+Angular - Custom Directives
+Angular Pipes
+Angular - Pipes
+Angular - Built-in Pipes
+Angular - Custom Pipes
+Angular Forms
+Angular - Forms
+Angular - Template Driven Forms
+Angular - Reactive Forms
+Angular - Form Validation
+Angular - Dynamic Forms
+Angular Dependency Injection
+Angular - Dependency Injection
+Angular - Injectable Service
+Angular Routing
+Angular - Routing
+Angular - Dynamic Routes
+Angular - Wildcard Routes
+Angular - Nested Routes
+Angular - Navigation
+Angular - Routing in SPA
+Angular - Custom Route Matches
+Angular - Router Reference
+Angular HTTP Client programming
+Angular - Services
+Angular - HTTP Client
+Angular - Request
+Angular - Response
+Angular - GET
+Angular - POST
+Angular - PUT
+Angular - DELETE
+Angular - JSONP
+Angular - CRUD Operations Using HTTP
+Angular Modules
+Angular - Introduction to Modules
+Angular - Root Module
+Angular - Feature Module
+Angular - Sharing Module
+Angular - Routing Module
+Angular - NgModules
+Angular Animation
+Angular - Animations
+Angular Service Workers & PWA
+Angular - Service Workers & PWA
+Angular Testing
+Angular - Testing Overview
+Angular Design Patterns
+Angular - Design Patterns
+Angular - Lazy Loading
+Angular - Singleton Pattern
+Angular - Observer Pattern
+Angular Libraries
+Angular - Libraries
+Angular - Angular Material
+Angular - PrimeNG
+Angular - RxJS
+Angular Advanced
+Angular - Signals
+Angular - Authentication & Authorization
+Angular - Internationalization
+Angular - Standalone Component
+Angular - Accessibility
+Angular - Web Workers
+Angular - Server Side Rendering
+Angular - Ivy Compiler
+Angular - Building with Bazel
+Angular - Backward Compatibility
+Angular - Reactive Programming
+Angular Tools
+Angular - CLI
+Angular Material UI Elements
+Angular - Paginator
+Angular - Datepicker
+Angular - Select Drop-down
+Angular Miscellaneous
+Angular - Third Party Controls
+Angular - Configuration
+Angular - Displaying Data
+Angular - Decorators & Metadata
+Angular - Basic Example
+Angular - Error Handling
+Angular - Testing & Building a Project
+Angular - Lifecycle Hooks
+Angular - User Input
+Angular - What's New?
+Angular Useful Resources
+Angular - Quick Guide
+Angular - Useful Resources
+Angular - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Angular Tutorial
+What is Angular?
+Who should Learn Angular?
+Prerequisites to Learn Angular
+Angular Jobs and Opportunities
+Angular Example
+Angular Basics
+Angular Intermediate
+Angular Advanced
+Frequently Asked Questions about Angular
+ThisAngular tutorialstarts with the architecture of Angular, setting up a simple project, and data binding, then walks through forms and templates and explains Angular's new features. This tutorial is designed for beginners and experienced developers who want to learn Angular from scratch or enhance their skills.
+What is Angular?
+Angularis an open source,TypeScriptbased front end web application framework. It has been released byGoogle's Angularcommunity.
+Angular provides a large collection of tools, APIs, and libraries to build dynamic and interactive single-page applications (SPAs) with ease. It helps maintain an organized and scalable codebase, thanks to its component model and flexible dependency injection system.
+Angular Example
+In this example, we will write aHello World!program in Angular. For this, create an Angular application and navigate tosrcfolder. Inside this folder, you will find theapp.component.htmlandapp.component.tsfiles. Copy and paste the following code inside those files:
+app.component.ts
+import { Component } from '@angular/core';
+import { RouterOutlet } from '@angular/router';
+
+@Component({
+  selector: 'app-root',
+  standalone: true,
+  imports: [RouterOutlet],
+  templateUrl: './app.component.html',
+  styleUrl: './app.component.css'
+})
+export class AppComponent {
+  title = 'Hello World App';
+}
+app.component.html
+<h3>{{title}}</h3>
+<p>Hello World!</p>
+On running this application, you will get the following result −
+Angular Basics
+Before diving deep into Angular, understand the fundamental concepts of Angular first −
+Angular - Environment Setup
+Angular - MVC Architecture
+Angular - Components
+Angular - Templates
+Angular - Data Binding
+Angular - Directives
+Angular - Pipes
+Angular - Forms
+Angular - Modules
+Angular - Elements
+Angular Intermediate
+Next, start learning the concepts given below −
+Angular - Component Interaction
+Angular - Dynamic Components
+Angular - Services
+Angular - Routing
+Angular - Animations
+Angular - Testing Overview
+Angular Advanced
+After completing the above two sections you can proceed with the advanced part of this tutorial −
+Angular - Dependency Injection
+Angular - Authentication & Authorization
+Who should Learn Angular?
+This tutorial is prepared for professionals who are aspiring to make a career in the field of Web application developer. This tutorial is intended to make you comfortable in getting started with the Angular concepts with examples.
+Prerequisites to Learn Angular
+Before proceeding with the various types of concepts given in this tutorial, we assume that the readers have the basic knowledge onHTML,CSSand OOPS concepts. In addition to this, it will be very helpful, if the readers have a sound knowledge on TypeScript andJavaScript.
+Angular Jobs and Opportunities
+In this era of technology, you can find a wide range of programming languages, libraries and frameworks to learn and work with. But, one must opt for that technology, which helps to make more money and have a great future scope. Angular is one such technology.
+Learning Angular can open doors to various job opportunities, especially in fields that require proficiency in front-end and full stack development. Job roles you can apply after learning Angular are −
+Web Developer
+Front-end Developer
+Full Stack Developer
+UI/UX Developer
+Angular Developer
+List of companies to which you can apply after learning Angular is −
+IBM
+Wipro
+Capgemini
+Tech Mahindra
+Google
+Forbes
+Samsung
+Many more...
+So, you could be the next potential employee in any company listed here or any other IT company that hires Angular experts. Angular is one of the latest technology to learn and a great skill to invest your time, effort and resources. Start learning it using our simple and effective tutorial anywhere and anytime absolutely at your pace.
+Frequently Asked Questions about Angular
+In this section, we will provide brief answers to some of the Frequently Asked Questions(FAQ) about Angular.
+TypeScript is known as a superset of JavaScript. As the name suggests, it adds types on top of JavaScript syntax.
+The most significant difference between AngularJS and Angular is that AngularJS uses JavaScript while Angular uses TypeScript. And, the AngularJS uses Model-View-Controller (MVC) architecture, but, Angular replaces it with Components.
+Those web applications that load only one web page and update its content dynamically without reloading are called Single Page Application.
+In Angular,decoratorsare methods more specifically design patterns that are prefixed with @symbol. They provides configuration metadata that specifies how a component, class, or method should be processed and used at runtime. Types of decorators are −
+Property Decorators
+Class Decorators
+Parameter Decorators
+Method Decorators
+In Angular, templates are a form of HTML. They are used to instruct Angular how to produces views or user-interface.
+Directives in Angular are classes that are used to add new behaviour to the elements. Types of Angular directives are −
+Component Directives
+Structural Directives
+Attribute Directives
+The Angular components are the fundamental building blocks of an Angular application. They control the views and behaviour of the application as they contain an HTML template, Selector and TypeScript class.
+Services in Angular are used to share data, functions with different components of an Angular application.
+
+[Images saved with this article:]
+www.tutorialspoint.com_angular_images_angular-mini-logo.jpg
+www.tutorialspoint.com_angular_images_angular.jpg
+www.tutorialspoint.com_angular_images_hello-world.jpg

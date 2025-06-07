@@ -1,0 +1,96 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+Code Challenges for Teaching
+Introduction:Teaching programming can be complex, but code challenges can make the process simpler, more interactive, and fun.
+W3Schools Academy offers hands-on code challenges that let students apply their skills to solve real-world problems.
+With hundreds of exercises, customizable tools, and collaborative features, teaching and learning programming has never been easier.
+What Are Code Challenges?
+Code challenges are practical exercises made to teach programming through problem-solving.
+They help students learn everything from basic syntax to advanced concepts across many programming languages.
+Pre-built Library:Hundreds of challenges covering fundamental to advanced topics.
+Make your own:In addition to our challenges, you can create your own.
+Instant Feedback:Auto-graded tasks for quick learning.
+Personalized Reviews:Manually graded tasks with teacher feedback.
+Collaborative Tools:Enable group problem-solving and peer learning.
+Adaptable Design:Challenges tailored for all skill levels and learning styles.
+See an example of a Python Challenge with Booleans & Operators:
+Learn More »
+Build Your Own Challenges
+Teachers can create their own custom challenges using the Academy Studio.
+The challenges can be used in astudy planor as a standalone assignment.
+The challenge builder is user-friendly and guides you step by step.
+Choose the programming language and difficulty.
+Define the problem, expected inputs, and outputs.
+Add auto-grading criteria or select manual grading.
+Custom challenges help you align exercises with your curriculum and they can address your students' individual needs.
+It is easy to create your own challenges.
+Our challenge builder will guide you through the process.
+How to get started in a few steps:
+Get started:You can get started by clicking the "+" button in the Challenges Section or from your Dashboard shortcuts.
+1. Select the programming language, challenge name and description.
+2. Select concept and the focus for generating the challenge. Click "Create" and wait for the magic..
+3. Create or retry if you want to change something.
+3. Ta-da! Your challenge is ready. Add it to your study plan or use it as an assignment.
+Note:Teachers can experience teaching coding as a fragmented experience.
+Many use several different resources and platforms that don't talk to each other.
+In addition, they make their own content to supplement their teaching.
+This is a time consuming process and it can be overwhelming.
+W3Schools Academyis made to give you everything you need, all in one place.
+Collaborate and Learn Together
+Collaboration makes learning more impactful.
+W3Schools Academy offers tools for students to work together, share solutions, and learn as a team.
+This can build a supportive learning environment and encourage peer-to-peer learning.
+Collaboration Benefits:
+Assign group-based challenges.
+Foster peer learning with built-in tools.
+Develop teamwork and communication skills in a shared coding space.
+Benefits for Teachers
+W3Schools Academy simplifies teaching with tools that make coding education interactive, engaging, and fun.
+Ready-to-Use Content:Save time with pre-designed challenges.
+Custom Challenges:Create tailored exercises for your class.
+Syllabus and Study Plans:Use a provensyllabusandstudy plans.
+Benefits for Students
+Students gain real-world programming skills by solving problems.
+Learn by Doing:Apply concepts through hands-on challenges.
+Instant Feedback:Auto-grading can help the student learn faster.
+Build Confidence:Gain skills for real-world scenarios.
+How It Works
+Pick a Challenge: Select challenges from the pre-built library
+Solve the Problem: Use the built-in code editor
+Collaborate: Work with peers on group tasks
+Submit and Learn: Get instant feedback or detailed teacher reviews
+Track Progress: Use performance insights to improve
+Why Focus on Code Challenges?
+W3Schools Academy offers a complete platform for teaching programming with maximum impact.
+Classroom-Friendly:Aligns with key programming topics.
+Scalable for All Levels:From beginners to advanced learners.
+Accessible:Works anywhere—classroom, home, or on the go.
+Customizable Content:Design challenges that fit your goals.
+Collaboration-Ready:Tools to encourage teamwork and peer support.
+Ready to Get Started?
+Simplify teaching, engage students, and make programming education interactive and effective. Explore the W3Schools Academy Code Challenges today.
+Are You a Teacher?
+Are you interested in learning how you can useW3Schools Academyto Teach 
+Coding?
+Watch a demo ofW3Schools Academy. You'll see how it works and discover how it can make teaching programming easier and more engaging.
+Watch Demo »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_academy_challenge_example.png
+www.w3schools.com_academy_images_academy_code_challenges_3.png
+www.w3schools.com_academy_images_academy_code_challenges_5.png
+www.w3schools.com_academy_images_academy_code_challenges_7.png
+www.w3schools.com_academy_images_academy_code_challenges_10.png
+www.w3schools.com_python_syllabus-webinar.png
+www.w3schools.com_images_img_fa_up_300.png
+www.w3schools.com_images_colorpicker2000.png

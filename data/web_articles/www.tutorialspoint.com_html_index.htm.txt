@@ -1,0 +1,319 @@
+HTML Home
+HTML Roadmap
+HTML Introduction
+HTML History & Evolution
+HTML Editors
+HTML Basic Tags
+HTML Elements
+HTML Attributes
+HTML Headings
+HTML Paragraphs
+HTML Fonts
+HTML Blocks
+HTML Style Sheet
+HTML Formatting
+HTML Quotations
+HTML - Comments
+HTML - Colors
+HTML - Images
+HTML - Image Map
+HTML - Frames
+HTML - Iframes
+HTML - Phrase Elements
+HTML - Code Elements
+HTML - Meta Tags
+HTML - Classes
+HTML - IDs
+HTML - Backgrounds
+HTML Tables
+HTML - Tables
+HTML - Table Headers & Captions
+HTML - Table Styling
+HTML - Table Colgroup
+HTML - Nested Tables
+HTML Lists
+HTML - Lists
+HTML - Unordered Lists
+HTML - Ordered Lists
+HTML - Definition Lists
+HTML Links
+HTML - Text Links
+HTML - Image Links
+HTML - Email Links
+HTML Color Names & Values
+HTML - Color Names
+HTML - RGB & RGBA Colors
+HTML - HEX Colors
+HTML - HSL & HSLA Colors
+HTML - HSL Color Picker
+HTML Forms
+HTML - Forms
+HTML - Form Attributes
+HTML - Form Control
+HTML - Input Attributes
+HTML Media
+HTML - Video Element
+HTML - Audio Element
+HTML - Embed Multimedia
+HTML Header
+HTML - Head Element
+HTML - Adding Favicon
+HTML - Javascript
+HTML Layouts
+HTML - Layouts
+HTML - Layout Elements
+HTML - Layout using CSS
+HTML - Responsiveness
+HTML - Symbols
+HTML - Emojis
+HTML - Style Guide
+HTML Graphics
+HTML - SVG
+HTML - Canvas
+HTML APIs
+HTML - Geolocation API
+HTML - Drag & Drop API
+HTML - Web Workers API
+HTML - WebSocket
+HTML - Web Storage
+HTML - Server Sent Events
+HTML Miscellaneous
+HTML - Document Object Model (DOM)
+HTML - MathML
+HTML - Microdata
+HTML - IndexedDB
+HTML - Web Messaging
+HTML - Web CORS
+HTML - Web RTC
+HTML Demo
+HTML - Audio Player
+HTML - Video Player
+HTML - Web slide Desk
+HTML Tools
+HTML - Velocity Draw
+HTML - QR Code
+HTML - Modernizer
+HTML - Validation
+HTML - Color Picker
+HTML References
+HTML - Cheat Sheet
+HTML - Tags Reference
+HTML - Attributes Reference
+HTML - Events Reference
+HTML - Fonts Reference
+HTML - ASCII Codes
+ASCII Table Lookup
+HTML - Color Names
+HTML - Character Entities
+MIME Media Types
+HTML - URL Encoding
+Language ISO Codes
+HTML - Character Encodings
+HTML - Deprecated Tags
+HTML Resources
+HTML - Quick Guide
+HTML - Useful Resources
+HTML - Color Code Builder
+HTML - Online Editor
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+HTML Tutorial
+What is HTML?
+Basic HTML Structure
+HTML Elements
+Hello World in HTML
+Comments in HTML
+Online HTML Editor
+Creating an HTML Document
+Why to Learn HTML?
+HTML Advantages
+HTML Applications
+Audience
+Prerequisites
+Careers
+Practices & Preparation
+HTML Complete Reference
+HTML Articles
+FAQs
+HTMLis a standard markup language, which stands forHyper Text Markup Language. It is widely used language to create webpages. HTML invented by Tim Berners-Lee in late 1991, but it's first version "HTML 1.0" was released in 1993, and "HTML 2.0" was the first standard HTML specification, which was published in 1995.
+ThisHTML tutorialcovers everything from basic HTML fundamental concepts and tags to advanced techniques, such as forms, modal boxes, multimedia, and HTML5. This tutorial is designed to help both beginners and experienced designers become experts in building dynamic and responsive websites.
+What is HTML?
+HTML(HyperText Markup Language) is a standard markup language to design the structure of a webpage.HTMLis the combination ofHyperTextandMarkup Language.HyperTextdefines the internal links between webpages, andMarkup languagedefines the layout and presentation of text and media.
+Basic HTML Structure
+The basic structure of an HTML document contains the few mandatory tags, that must be used to create a webpage. This structure must be followed to create any type of HTML document.
+Here is the basic structure of an HTML document −
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Page title</title>
+</head>
+<body>
+   <h1>Webpage's Heading</h1>
+   <p>Content (Your first paragraph).</p>
+</body>
+</html>
+Elements of HTML Basic Structure
+The following are the basic tags that define the basic HTML structure −
+1. <!DOCTYPE html>
+This element defines thedocument type as HTML. This element must be written before writing any HTML document.
+2. <html>...</html>
+The<html> tagis the parent tag for all HTML elements. Everything related to create an HTML document must be written inside the <html> tag. CSS, JavaScript, and jQuery must also be written inside this tag.
+3. <head>...</head>
+The<head> tagis a container tag for all those elements that are not directly displayed on the webpage but required for the page functionalities. It contains meta tags (which are used for SEO purposes), title tag, script tags, etc.
+4. <title>...</title>
+The<title> tagis used to define the title of the webpage that you can see in the browser's tab, bookmarks list, and search engine results. This tag is also very important for SEO purposes to help search engine to understand the content of the webpage.
+5. <body>...<body>
+The<body> tagis the container tag for all those elements, which represents the main content of a webpage that displays on the browser.
+6. <h1>...</h1>
+The <h1> tag is one of theheading tags. It is the most important heading tag, which defines the main title or headline of the webpage. Any text written inside <h1> and </h1> is a top-level heading of the content.
+7. <p>...</p>
+The<p> tagdefines aparagraph, anything written inside <p> and </p> displays as a paragraph on the webpage. Use multiple <p> tags to display text in different paragraphs.
+Writing Hello World in HTML
+By using the above basic HTML structure, we can write an HTML document to display "Hello World" on the webpage.
+Below is the HTML code to display Hello World on the webpage in a paragraph −
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Hello World Example by TutorialsPoint</title>
+</head>
+<body>
+   <h1>Hello, World!</h1>
+</body>
+</html>
+</pre>
+The above example will display "Hello, World!" on the browser inside top-level heading (h1).
+Comments in HTML
+Just like other programming languages, you can keep any text as acomment inside an HTML document. To create a comment in HTML, use <!-- and -->.
+Any text written inside <!-- and --> considers as comment and it does not display on the website.
+Example
+Below is the example of HTML comment −
+<!--<h1>Hello World Example</h1>-->
+Online HTML Editor
+We offer anHTML Online Editorthat enables you to edit and execute HTML code directly within your web browser. By clicking on the "Edit & Run" button, you can check its output and edit the code as well.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online HTML Editor</title>
+</head>
+<body>
+    <h1>Online HTML Editor</h1>
+    <p>Hello World</p>
+</body>
+</html>
+Creating an HTML Document
+An HTML document is a file containing HTML code with the ".htm" or ".html" extension. To create an HTML document, you need a text editor. And, to display it, you need a Web browser.
+The steps to create an HTML document are as follows −
+Open a text editor.
+Write HTML code.
+Save the file with the ".htm" or ".html" extension.
+And, finally, open the file in the browser by typing the file name with a complete path, or just open it by right-clicking and opening with a browser.
+Why to Learn HTML?
+Originally,HTMLwas developed with the intent of defining the structure of documents like headings, paragraphs, lists, and so forth to facilitate the sharing of scientific information between researchers. Now, HTML is being widely used to format web pages with the help of different tags available in the HTML language.
+HTML is a MUST for students and working professionals to become great software engineers, especially when they are working in the web development domain.
+Advantages of Learning HTML
+The following are some of the key advantages of learning HTML −
+Create a web site− You can create a website or customize an existing web template if you know HTML well.
+Become a web designer− If you want to start a career as a professional web designer, HTML and CSS designing is a must-have skill.
+Understand web− If you want to optimize your website, to boost its speed and performance, it is good to know HTML to yield the best results.
+Learn other languages− Once you understand the basics of HTML, then other related technologies like JavaScript, PHP, or Angular are easier to understand.
+Applications of HTML
+As mentioned before, HTML is one of the most widely used languages on the web. Here are some of the applications of HTML −
+Website development− HTML is used to create webpages (websites) that are rendered over the web. Almost every page of the web has html tags in it to render its details in the browser.
+Internet Navigation− HTML provides tags that are used to navigate from one page to another and is heavily used in internet navigation.
+Responsive UI− HTML pages now-a-days work well on all platforms, mobile, tabs, desktops, or laptops owing to responsive design strategy.
+Offline support− HTML pages, once loaded, can be made available offline on the machine without any need of internet.
+Game development− HTML5 has native support for rich experiences and is now useful in the gaming development arena as well.
+Mobile application development− HTML with CSS3 and JavaScript can be used for developing cross-platform mobile applications.
+Multimedia and video streaming− HTML5 offers support for multimedia elements like video and audio, which enables seamless media playback directly in web browsers.
+Audience: Who can Learn HTML?
+ThisHTML tutorialis designed for aspiring web designers and developers with a need to understand the HTML in enough detail along with its simple overview and practical examples. This tutorial will give you enough ingredients to start with HTML, from where you can take yourself to a higher level of expertise.
+Prerequisites to Learn HTML
+Before proceeding with thisHTML tutorial,you should have a basic working knowledge of the Windows or Linux operating system; additionally, you must be familiar with −
+Experience with any text editor likeNotepad,Notepad++, orEdit Plusetc.
+How to create directories and files on your computer.
+How to navigate through different directories.
+How to type content in a file and save it on a computer.
+Understanding about images in different formats like JPEG, PNG format.
+Careers in HTML
+HTML is the basics for web development. Good knowledge of HTML helps you to build your career in the following fields −
+Front-end developer
+Web designer
+Full stack developer
+Email developer
+Web design reviewer
+HTML Practices and Preparation
+After completing HTML tutorial, you can prepare for interview and practice HTML through our −
+HTML Cheat Sheet
+HTML Interview Questions
+HTML Quiz
+HTML Mock Test
+HTML Complete Reference
+Here is the complete HTML reference of elements, attributes, color name, color code, etc.
+HTML Tags Reference
+HTML Attributes Reference
+HTML Events Reference
+HTML Fonts Reference
+HTML Articles
+Explore our 2000+ HTML articles to find the solutions to your web design and development related problems. Visit:HTML Articles
+Frequently Asked Questions about HTML
+1. What is the Full Form of HTML?
+2. Why is HTML Used in Web Pages?
+HTML is used in web pages for the following reasons −
+It is used to provide a basic structure to web pages.
+The HTML tags help search engines understand the content of the web page.
+The HTML forms enable user interactions and include call-to-action buttons, text fields, checkboxes, and many more.
+Using HTML, we can embed various types of media like images, audio, video, etc., into a web page.
+It is also used in the creation of hyperlinks that can point to other web pages, different sections of the same page, or other resources on the web.
+3. How to Save an HTML file?
+To save an HTML file, follow these simple steps −
+Open a text editor (like Notepad, Sublime Text, Atom, etc.) on your system.
+Write your HTML code.
+Click on the "File" menu in your text editor.
+Click on "Save As".
+In the dialogue box, choose the location where you want to save the file.
+Type a name for your file, followed by the .html extension so that the browser interprets it as an HTML file. For example, index.html.
+Click "Save".
+4. Who Invented HTML, and in Which Year?
+5. What are the Main Features of HTML?
+HTML has several key features as follows −
+Simplicity− HTML is easy to learn and use. It has a clear and straightforward syntax which makes it simpler for beginners also.
+Flexibility− HTML allows developers to create a wide variety of web documents, from simple static web pages to complex web applications.
+Platform Independent− HTML is a standard that is supported by all modern web browsers. This means that an HTML document can be displayed in any web browser on any operating system.
+Linking− One of the key features of HTML is the ability to create links to other web pages.
+Embedding Media− It also allows embedding various types of media like images, audio, video, etc., into a web page.
+Interactivity− HTML provides elements to create interactive forms that allow users to input data. This is crucial for tasks like user registration, submitting search queries, and more.
+Semantics− HTML5 introduced semantic elements that convey the meaning of the content to the browser and developer. Examples include <header>, <footer>, <article>, and <section>.
+Integration− HTML works well with other languages that are commonly used in web development, such as CSS (Cascading Style Sheets) and JavaScript. CSS is used for styling and layout of web pages while JavaScript is used for interactivity.
+6. What is the Latest Version of HTML?
+7. Is HTML a Programming Language?
+8. What is HTML Web Storage?
+HTML Web Storage (DOM storage) is a feature of HTML5 that allows web applications to store data locally within the user's browser. It stores data in the form of key-value pairs.
+There are two types of web storage −
+localStorage− This object stores data with no expiration date. The data will not be erased when the browser is closed and will be available in the next session.
+sessionStorage− This object stores data for one session. The data is lost when the browser tab is closed.
+9. How to Run an HTML File in a Browser?
+10. What are HTML Components?
+HTML components, also known as HTML elements, are the building blocks of HTML pages. They represent parts of a webpage and are defined by HTML tags. Here are some of the main components −
+DOCTYPE Declaration− An HTML document starts with a <!DOCTYPE html> declaration followed by a <html> tag.
+Headings− HTML provides six levels of headings from <h1> to <h6>, with <h1> being the highest (or most important) level and <h6> the lowest.
+Paragraphs− The <p> tag defines a paragraph.
+Links− The <a> tag defines a hyperlink, which is used to link from one page to another.
+Images− The <img> tag is used to embed images in an HTML page.
+Lists− HTML supports ordered, unordered, and definition lists.
+Tables− The <table> tag defines a table in HTML.
+Forms− The <form> tag is used to create an HTML form for user input.
+Divisions & Sections− The <div> tag is a container unit that encapsulates other page elements and divides the HTML document into sections. HTML5 introduced semantic elements like <section>, <article>, <header>, <footer>, <nav>, etc., which serve a similar purpose but provide additional semantic information.
+Media Elements− HTML5 introduced media elements like <video> and <audio> which can be used to embed video and audio files in an HTML document.
+
+[Images saved with this article:]
+www.tutorialspoint.com_html_images_html-mini-logo.jpg
+www.tutorialspoint.com_html_images_html.jpg

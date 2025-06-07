@@ -1,0 +1,734 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+What are Large Language Models(LLMs)?
+A large language model is a computer program that learns and generates human-like language using a transformer architecture trained on vast training data. Large Language Models (LLMs) are foundational machine learning models that use deep learning algorithms to process and understand natural language. These models are trained on massive amounts of text data to learn patterns and entity relationships in the language. LLMs can perform many types of language tasks, such as translating languages, analyzing sentiments, chatbot conversations, and more. They can understand complex textual data, identify entities and relationships between them, and generate new text that is coherent and grammatically accurate, making them ideal for sentiment analysis.In this article you will get to know about large language model with llm architecture, llm model architecture explained in this article.
+This article will explain the concept of large language models (LLMs) and their functioning. We will explore the primary purposes of LLMs, such as generating and interpreting language. Discover how LLMs excel over humans in certain areas and the insights gained from the data they analyze. We will also examine popular LLMs by providing examples and offering a variety of different models, as well as details about courses related to LLMs.
+Learning Objectives
+Understand the concept and meaning of Large Language Model (LLMs) and their importance in natural language processing.
+Know about different types of popular LLMs, such as BERT, GPT-3, GPT-4, and T5.
+Discuss the applications and use cases of Open Source LLMs.
+Hugging Face APIs for LLMs.
+Explore the future implications of LLMs, including their potential impact on job markets, communication, and society as a whole.
+This article was published as a part of theData Science Blogathon.
+Table of contents
+What are LLMs used for?
+How a Large Language Model (LLM) is Built?
+How do LLMs work?
+Difference Between Large Language Models and Generative AI
+General Architecture
+Examples of Large Language Models (LLMs)Llama 3.1GPT 4oGemma 2Claude 3.5 Sonnet
+Llama 3.1
+GPT 4o
+Gemma 2
+Claude 3.5 Sonnet
+Large Language Models Use Cases
+Open Source Large Language Model(LLM)
+Bloom Architecture
+Hugging Face APIsUse Case 1: Sentence CompletionUse Case 2: Question AnswersUse Case 3: Summarization
+Use Case 1: Sentence Completion
+Use Case 2: Question Answers
+Use Case 3: Summarization
+LLMs vs SLMs
+Future Implications of LLMs
+ConclusionKey Takeaways
+Key Takeaways
+What is a Large Language Model (LLM)?
+LLMs are the types of artificial intelligence (AI) systems that can produce written answers to questions that resemble those of a human. They are known as large language models (LLMs). In order to understand how language functions, LLMs are trained on vast volumes of textual data, including books and articles, using deep learning architectures.
+In contrast, the definition of a language model refers to the concept of assigning probabilities to sequences of words, based on the analysis of text corpora. Alanguage modelcan be of varying complexity, from simple n-gram models to more sophisticated neural network models. However, the term “large language model” usually refers to models that use deep learning techniques and have a large number of parameters, which can range from millions to billions. These AI models can capture complex patterns in language and produce text that is often indistinguishable from that written by humans.
+Types of LLMs
+Autoregressive Models: These models generate text one token at a time based on the previously generated tokens. Examples include OpenAI’s GPT series and Google’s BERT.
+Conditional Generative Models: These models generate text conditioned on some input, such as a prompt or context. They are often used in applications like text completion and text generation with specific attributes or styles.
+What are LLMs used for?
+Large language models (LLMs) are finding application in a wide range of tasks that involve understanding and processing language. Here are some of the common uses:
+Content creation and communication:LLMs can be used to generate different creative text formats, like poems, code, scripts, musical pieces, emails, and letters. They can also be used to summarize information, translate languages, and answer your questions in an informative way.
+Analysis and insights:LLMs are capable of analyzing massive amounts of text data to identify patterns and trends. This can be useful for tasks like market research, competitor analysis, and legal document review.
+Education and training:LLMs can be used to create personalized learning experiences and provide feedback to students. They can also be used to develop chatbots that can answer student questions and provide support.pen_spark
+How a Large Language Model (LLM) is Built?
+A large-scale transformer model known as a “large language model” is typically too massive to run on a single computer and is, therefore, provided as a service over an API or web interface. These models are trained on vast amounts of text data from sources such as books, articles, websites, and numerous other forms of written content. By analyzing the statistical relationships between words, phrases, and sentences through this training process, the models can generate coherent and contextually relevant responses to prompts or queries. Also, Fine-tuning these models involves training them on specific datasets to adapt them for particular applications, improving their effectiveness and accuracy.
+ChatGPT’s GPT-3, a large language model, was trained on massive amounts of internet text data, allowing it to understand various languages and possess knowledge of diverse topics. As a result, it can produce text in multiple styles. While its capabilities, including translation, text summarization, and question-answering, may seem impressive, they are not surprising, given that these functions operate using special “grammars” that match up with prompts.
+Also, you can Checkout this articleSteps to Master Large Language Models
+How do LLMs work?
+Large language models like GPT-3 (Generative Pre-trained Transformer 3) work based on a transformer architecture. Here’s a simplified explanation of how they Work:
+Learning from Lots of Text: These models start by reading a massive amount of text from the internet. It’s like learning from a giant library of information.
+Innovative Architecture: They use a unique structure called a transformer, which helps them understand and remember lots of information.
+Breaking Down Words: They look at sentences in smaller parts, like breaking words into pieces. This helps them work with language more efficiently.
+Understanding Words in Sentences: Unlike simple programs, these models understand individual words and how words relate to each other in a sentence. They get the whole picture.
+Getting Specialized: After the general learning, they can be trained more on specific tasks to get good at certain things, like answering questions or writing about particular subjects.
+Doing Tasks: When you give them a prompt (a question or instruction), they use what they’ve learned to respond. It’s like having an intelligent assistant that can understand and generate text.
+Difference Between Large Language Models and Generative AI
+Aspect
+Generative AI
+Large Language Models (LLMs)
+Scope
+Generative AI encompasses a broad range of technologies and techniques aimed at generating or creating new content, including text, images, or other forms of data.
+Large Language Models are a specific type of AI that primarily focus on processing and generating human language.
+Specialization
+It covers various domains, including text, image, and data generation, with a focus on creating novel and diverse outputs.
+LLMs are specialized in handling language-related tasks, such as language translation, text generation, question answering, and language-based understanding.
+Tools and Techniques
+Generative AI employs a range of tools such as GANs (Generative Adversarial Networks), VAEs (Variational Autoencoders), and evolutionary algorithms to create content.
+Large Language Models typically utilize transformer-based architectures, large-scale training data, and advanced language modeling techniques to process and generate human-like language.
+Role
+Generative AI acts as a powerful tool for creating new content, augmenting existing data, and enabling innovative applications in various fields.
+LLMs are designed to excel in language-related tasks, providing accurate and coherent responses, translations, or language-based insights.
+Evolution
+Generative AI continues to evolve, incorporating new techniques and advancing the state-of-the-art in content generation.
+Large Language Models are constantly improving, with a focus on handling more complex language tasks, understanding nuances, and generating more human-like responses.
+So, generative AI is the whole playground, and LLMs are the language experts in that playground.
+Also Read:Build Large Language Models from Scratch
+General Architecture
+The architecture of Large Language Model primarily consists of multiple layers of neural networks, like recurrent layers, feedforward layers, embedding layers, and attention layers. These layers work together to process the input text and generate output predictions.
+The embedding layer converts each word in the input text into a high-dimensional vector representation. These embeddings capture semantic and syntactic information about the words and help the model to understand the context.
+The feedforward layers of Large Language Models have multiple fully connected layers that apply nonlinear transformations to the input embeddings. These layers help the model learn higher-level abstractions from the input text.
+The recurrent layers of LLMs interpret information from the input text sequentially. These layers hold a hidden state that updates at each time step, enabling the model to capture dependencies between words in a sentence.
+The attention mechanism is another important part of LLMs, which allows the model to focus selectively on different parts of the input text. This self-attention helps the model attend to the input text’s most relevant parts and generate more accurate predictions.
+Examples of Large Language Models (LLMs)
+Let’s take a look at some popular large language models(LLM):
+Llama 3.1
+Another notable LLM isLlama 3.1,a family of language models released by Meta. Available in sizes of 8B, 70B, and 405B parameters, Llama 3.1 excels in multilingual capabilities, math, coding, and tool usage, establishing itself as a significant competitor in the AI landscape. Its open-source nature and diverse parameter options make it a valuable asset for research and experimentation.
+How to use Llama 3.1?
+Install Required Libraries
+!pip install --upgrade transformers
+!pip install --upgrade torch
+!pip install --upgrade huggingface_hub
+!pip install --upgrade transformers
+!pip install --upgrade torch
+!pip install --upgrade huggingface_hub
+Set-up Hugging Face Access Token
+!huggingface-cli login
+!huggingface-cli login
+Import Necessary Libraries and Load Llama 3.1
+import transformers
+import torch
+
+# Define the model ID for LLaMA 3.1
+model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+
+# Initialize the text generation pipeline with LLaMA 3.1 model
+llama3 = transformers.pipeline(
+    "text-generation",
+    model=model_id,
+    model_kwargs={"torch_dtype": torch.bfloat16},  # Using bfloat16 for efficient computation
+    device_map="auto",  # Automatically maps model to available GPU or CPU
+)
+
+Create LLaMA 3.1 Completion Access Function
+def get_completion_llama(prompt, model_pipeline=llama3):
+    messages = [{"role": "user", "content": prompt}]
+    response = model_pipeline(
+        messages,
+        max_new_tokens=2000
+    )
+    return response[0]["generated_text"][-1]['content']
+Let’s try out Llama 3.1
+
+
+response = get_completion_llama(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+import transformers
+import torch
+
+# Define the model ID for LLaMA 3.1
+model_id = "meta-llama/Meta-Llama-3.1-8B-Instruct"
+
+# Initialize the text generation pipeline with LLaMA 3.1 model
+llama3 = transformers.pipeline(
+    "text-generation",
+    model=model_id,
+    model_kwargs={"torch_dtype": torch.bfloat16},  # Using bfloat16 for efficient computation
+    device_map="auto",  # Automatically maps model to available GPU or CPU
+)
+
+Create LLaMA 3.1 Completion Access Function
+def get_completion_llama(prompt, model_pipeline=llama3):
+    messages = [{"role": "user", "content": prompt}]
+    response = model_pipeline(
+        messages,
+        max_new_tokens=2000
+    )
+    return response[0]["generated_text"][-1]['content']
+Let’s try out Llama 3.1
+
+
+response = get_completion_llama(prompt='Explain Generative AI in 2 bullet points')
+display(Markdown(response))
+Output:
+GPT 4o
+In the rapidly evolving field of AI, several large language models (LLMs) stand out for their advanced capabilities and unique features.GPT 4o, one of the most advanced LLMs to date, impresses with its ability to generate human-quality text, translate languages, and write various forms of creative content. Its performance in coding and answering questions is noteworthy, though its large size and computational demands can be challenging for some applications.
+How to use GPT 4o?
+We will demonstrate a practical use case of GPT4o for text completion.
+Install Required Libraries
+!pip install openai
+!pip install openai
+Enter Open AI API Key
+We enter our Open AI key using the getpass() function so we don’t accidentally expose our key in the code:
+from getpass import getpass
+
+OPENAI_KEY = getpass('Enter Open AI API Key: ')
+from getpass import getpass
+
+OPENAI_KEY = getpass('Enter Open AI API Key: ')
+Setup Open AI API Key
+Next, we setup our API key to use with the OpenAI library:
+import openai
+
+from IPython.display import HTML, Markdown, display
+
+openai.api_key = openai_key
+import openai
+
+from IPython.display import HTML, Markdown, display
+
+openai.api_key = openai_key
+Create ChatGPT Completion Access Function
+This function will use the Chat Completion API to access ChatGPT for us and return responses based on GPT-4o mini:
+def get_completion_gpt(prompt, model="gpt-4o-mini"):
+
+    messages = [{"role": "user", "content": prompt}]
+
+    response = openai.chat.completions.create(
+
+        model=model,
+
+        messages=messages,
+
+        temperature=0.0, # degree of randomness of the model's output
+
+    )
+
+    return response.choices[0].message.content
+def get_completion_gpt(prompt, model="gpt-4o-mini"):
+
+    messages = [{"role": "user", "content": prompt}]
+
+    response = openai.chat.completions.create(
+
+        model=model,
+
+        messages=messages,
+
+        temperature=0.0, # degree of randomness of the model's output
+
+    )
+
+    return response.choices[0].message.content
+Let’s Try Out the GPT-4o Mini
+We can quickly test the above function to see if our code can access OpenAI’s servers and use GPT-40 mini:
+response = get_completion_gpt(prompt='Explain Generative AI in 2 bullet points')
+
+display(Markdown(response))
+response = get_completion_gpt(prompt='Explain Generative AI in 2 bullet points')
+
+display(Markdown(response))
+Output:
+Gemma 2
+Gemma 2from Google offers high efficiency and performance across its 27B and 9B parameter versions. This LLM model outperforms many larger models, including LLama 3, due to its optimization for diverse hardware, enhancing AI accessibility and customization.
+How to use Gemma 2?
+Install Necessary Libraries
+!pip install -q  -U transformers accelerate bitsandbytes huggingface_hub
+!pip install -q  -U transformers accelerate bitsandbytes huggingface_hub
+Import Necessary Libraries
+import torch
+
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+import torch
+
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+Set-up Quantization Configuration
+quantization_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=torch.bfloat16
+)
+quantization_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_compute_dtype=torch.bfloat16
+)
+Load Tokenizer and Model
+tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-9b-it", device="cuda")
+
+model = AutoModelForCausalLM.from_pretrained(
+
+    "google/gemma-2-9b-it",
+
+    quantization_config=quantization_config,
+
+    device_map="cuda")
+tokenizer = AutoTokenizer.from_pretrained("google/gemma-2-9b-it", device="cuda")
+
+model = AutoModelForCausalLM.from_pretrained(
+
+    "google/gemma-2-9b-it",
+
+    quantization_config=quantization_config,
+
+    device_map="cuda")
+Prepare Input Text and Tokenize
+input_text = "For the below sentence extract the names and \
+
+organizations in a json format\nElon Musk is the CEO of SpaceX"
+
+input_ids = tokenizer(input_text, return_tensors="pt").to("cuda")
+input_text = "For the below sentence extract the names and \
+
+organizations in a json format\nElon Musk is the CEO of SpaceX"
+
+input_ids = tokenizer(input_text, return_tensors="pt").to("cuda")
+Generate Output
+outputs = model.generate(**input_ids, max_length = 512)
+outputs = model.generate(**input_ids, max_length = 512)
+Decode and Print Output
+print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+Output:
+Claude 3.5 Sonnet
+Claude 3.5 Sonnet, Anthropic’s latest generative AI model, excels in reasoning, coding, multilingual tasks, and visual capabilities. With robust safety measures and promises of future advancements through models like Haiku and Opus, Claude 3.5 Sonnet contributes significantly to the ongoing development of AI.
+We can also access the model through Anthropic API. It costs $3 / 1 Million tokens, and $15 / 1 Million tokens for input and output respectively.
+How to use Claude 3.5 Sonnet?
+Let’s see this with Customer Support Chatbot”
+Installation of the Anthropic Python Package
+pip install anthropic
+pip install anthropic
+Import the Anthropic Module
+import anthropic
+import anthropic
+Create an Instance of the Anthropic API Client
+client = anthropic.Anthropic(api_key='your_api_key_here')  
+
+# Define a customer support inquiry 
+
+customer_message = "Hi, I need help with resetting my password. Can you guide me?"
+
+# Send the customer support inquiry to the Claude 
+
+model response = client.messages.create( model="claude-3-5-sonnet-20240620", max_tokens=150, messages=[{"role": "user", "content": customer_message}] ) 
+
+# Print the response from the model 
+
+print("AI Response:", response['completion'])
+client = anthropic.Anthropic(api_key='your_api_key_here')  
+
+# Define a customer support inquiry 
+
+customer_message = "Hi, I need help with resetting my password. Can you guide me?"
+
+# Send the customer support inquiry to the Claude 
+
+model response = client.messages.create( model="claude-3-5-sonnet-20240620", max_tokens=150, messages=[{"role": "user", "content": customer_message}] ) 
+
+# Print the response from the model 
+
+print("AI Response:", response['completion'])
+Output:
+AI Response: Sure, I can help you with that! Here are the steps to reset your password:1. Go to the login page of our website.2. Click on the "Forgot Password?" link below the login form.3. Enter your registered email address in the provided field.4. Check your email inbox for a password reset link. If you don'tsee it, check your spam or junk folder.5. Click on the link and follow the instructions to createa new password.6. Make sure your new password is strong and unique,combining letters, numbers, and special characters.If you encounter any issues or don't receive the reset email,please let me know, and I'll assist you further!
+Large Language Models Use Cases
+Large Language Models (LLMs) are advanced AI systems designed to process and generate human-like text, finding applications across various industries. Here are some of the most prominent use cases:
+Content Generation:LLMs can create articles, blog posts, and marketing materials that sound natural and engaging.
+Customer Support:They power chatbots that provide quick answers to customer questions, improving service efficiency.
+Language Translation:LLMs translate text between different languages while maintaining the original meaning.
+Text Summarization:They can summarize long documents or articles into shorter, easy-to-read versions.
+Code Generation:LLMs assist programmers by generating code snippets based on user prompts, saving time and effort.
+Open Source Large Language Model(LLM)
+The availability of open-source LLMs has revolutionized the field of natural language processing, making it easier for researchers, developers, and businesses to build applications that leverage the power of these models to build products at scale for free. One such example is Bloom. It is the first multilingual Large Language Model (LLM) trained in complete transparency by the largest collaboration of AI researchers ever involved in a single research project.
+With its 176 billion parameters (larger than OpenAI’s GPT-3), BLOOM can generate text in 46 natural languages and 13 programming languages. It is trained on 1.6TB of text data, 320 times the complete works of Shakespeare.
+Bloom Architecture
+The architecture of BLOOM shares similarities with GPT3 (auto-regressive model for next token prediction), but has been trained in 46 different languages and 13 programming languages. It consists of a decoder-only architecture with several embedding layers and multi-headed attention layers.
+Bloom’s architecture is suited for training in multiple languages and allows the user to translate and talk about a topic in a different language. We will look at these examples below in the code.
+Other LLMs
+We can utilize the APIs connected to pre-trained models of many of the widely available LLMs through Hugging Face.
+Hugging Face APIs
+Let’s look into how Hugging Face APIs can help generate text using LLMs like Bloom, Roberta-base, etc. First, we need to sign up for Hugging Face and copy the token for API access. After signup, hover over to the profile icon on the top right, click on settings, and then Access Tokens.
+Use Case 1: Sentence Completion
+Let’s look at how we can use Bloom for sentence completion. The code below uses the hugging face token for API to send an API call with the input text and appropriate parameters for getting the best response.
+import requests
+from pprint import pprint
+
+API_URL = 'https://api-inference.huggingface.co/models/bigscience/bloomz'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+# The Entertheaccesskeyhere is just a placeholder, which can be changed according to the user's access key
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': 'Sherlock Holmes is a',
+    'parameters': params,
+})
+
+print(output)
+import requests
+from pprint import pprint
+
+API_URL = 'https://api-inference.huggingface.co/models/bigscience/bloomz'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+# The Entertheaccesskeyhere is just a placeholder, which can be changed according to the user's access key
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': 'Sherlock Holmes is a',
+    'parameters': params,
+})
+
+print(output)
+import requests
+from pprint import pprint
+
+API_URL = 'https://api-inference.huggingface.co/models/bigscience/bloomz'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+# The Entertheaccesskeyhere is just a placeholder, which can be changed according to the user's access key
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': 'Sherlock Holmes is a',
+    'parameters': params,
+})
+
+print(output)
+Temperature and top_k values can be modified to get a larger or smaller paragraph while maintaining the relevance of the generated text to the original input text. We get the following output from the code:
+[{'generated_text': 'Sherlock Holmes is a private investigator whose cases '
+                    'have inspired several film productions'}]
+[{'generated_text': 'Sherlock Holmes is a private investigator whose cases '
+                    'have inspired several film productions'}]
+[{'generated_text': 'Sherlock Holmes is a private investigator whose cases '
+                    'have inspired several film productions'}]
+Let’s look at some more examples using other LLMs.
+Use Case 2: Question Answers
+We can use the API for the Roberta-base model which can be a source to refer to and reply to. Let’s change the payload to provide some information about myself and ask the model to answer questions based on that.
+API_URL = 'https://api-inference.huggingface.co/models/deepset/roberta-base-squad2'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': {
+            "question": "What's my profession?",
+            "context": "My name is Suvojit and I am a Senior Data Scientist"
+        },
+    'parameters': params
+})
+
+pprint(output)
+API_URL = 'https://api-inference.huggingface.co/models/deepset/roberta-base-squad2'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': {
+            "question": "What's my profession?",
+            "context": "My name is Suvojit and I am a Senior Data Scientist"
+        },
+    'parameters': params
+})
+
+pprint(output)
+API_URL = 'https://api-inference.huggingface.co/models/deepset/roberta-base-squad2'
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+  
+params = {'max_length': 200, 'top_k': 10, 'temperature': 2.5}
+output = query({
+    'inputs': {
+            "question": "What's my profession?",
+            "context": "My name is Suvojit and I am a Senior Data Scientist"
+        },
+    'parameters': params
+})
+
+pprint(output)
+The code prints the below output correctly to the question – What is my profession?:
+{'answer': 'Senior Data Scientist',
+ 'end': 51,
+ 'score': 0.7751647233963013,
+ 'start': 30}
+{'answer': 'Senior Data Scientist',
+ 'end': 51,
+ 'score': 0.7751647233963013,
+ 'start': 30}
+{'answer': 'Senior Data Scientist',
+ 'end': 51,
+ 'score': 0.7751647233963013,
+ 'start': 30}
+Use Case 3: Summarization
+We can summarize using Large Language Models. Let’s summarize a long text describing large language models using the Bart LargeCNN model. We modify the API URL and added the input text below:
+API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+    
+params = {'do_sample': False}
+
+full_text = '''AI applications are summarizing articles, writing stories and 
+engaging in long conversations — and large language models are doing 
+the heavy lifting.
+
+A large language model, or LLM, is a deep learning model that can 
+understand, learn, summarize, translate, predict, and generate text and other 
+content based on knowledge gained from massive datasets.
+
+Large language models - successful applications of 
+transformer models. They aren’t just for teaching AIs human languages, 
+but for understanding proteins, writing software code, and much, much more.
+
+In addition to accelerating natural language processing applications — 
+like translation, chatbots, and AI assistants — large language models are 
+used in healthcare, software development, and use cases in many other fields.'''
+
+output = query({
+    'inputs': full_text,
+    'parameters': params
+})
+
+print(output)
+API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+    
+params = {'do_sample': False}
+
+full_text = '''AI applications are summarizing articles, writing stories and 
+engaging in long conversations — and large language models are doing 
+the heavy lifting.
+
+A large language model, or LLM, is a deep learning model that can 
+understand, learn, summarize, translate, predict, and generate text and other 
+content based on knowledge gained from massive datasets.
+
+Large language models - successful applications of 
+transformer models. They aren’t just for teaching AIs human languages, 
+but for understanding proteins, writing software code, and much, much more.
+
+In addition to accelerating natural language processing applications — 
+like translation, chatbots, and AI assistants — large language models are 
+used in healthcare, software development, and use cases in many other fields.'''
+
+output = query({
+    'inputs': full_text,
+    'parameters': params
+})
+
+print(output)
+API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-cnn"
+headers = {'Authorization': 'Entertheaccesskeyhere'}
+
+
+def query(payload):
+    response = requests.post(API_URL, headers=headers, json=payload)
+    return response.json()
+    
+params = {'do_sample': False}
+
+full_text = '''AI applications are summarizing articles, writing stories and 
+engaging in long conversations — and large language models are doing 
+the heavy lifting.
+
+A large language model, or LLM, is a deep learning model that can 
+understand, learn, summarize, translate, predict, and generate text and other 
+content based on knowledge gained from massive datasets.
+
+Large language models - successful applications of 
+transformer models. They aren’t just for teaching AIs human languages, 
+but for understanding proteins, writing software code, and much, much more.
+
+In addition to accelerating natural language processing applications — 
+like translation, chatbots, and AI assistants — large language models are 
+used in healthcare, software development, and use cases in many other fields.'''
+
+output = query({
+    'inputs': full_text,
+    'parameters': params
+})
+
+print(output)
+The output will print the summarized text about LLMs:
+[{'summary_text': 'Large language models - most successful '
+                  'applications of transformer models. They aren’t just for '
+                  'teaching AIs human languages, but for understanding '
+                  'proteins, writing software code, and much, much more. They '
+                  'are used in healthcare, software development and use cases '
+                  'in many other fields.'}]
+[{'summary_text': 'Large language models - most successful '
+                  'applications of transformer models. They aren’t just for '
+                  'teaching AIs human languages, but for understanding '
+                  'proteins, writing software code, and much, much more. They '
+                  'are used in healthcare, software development and use cases '
+                  'in many other fields.'}]
+[{'summary_text': 'Large language models - most successful '
+                  'applications of transformer models. They aren’t just for '
+                  'teaching AIs human languages, but for understanding '
+                  'proteins, writing software code, and much, much more. They '
+                  'are used in healthcare, software development and use cases '
+                  'in many other fields.'}]
+These were some of the examples of using Hugging Face API for common large language models.
+Also Read:How to Build Your AI Chatbot with Conversational AI and NLP in Python?
+LLMs vs SLMs
+Here’s the information in a table format:
+Aspect
+LLMs (Large Language Models)
+SLMs (Specialized Language Models)
+Task Performance
+Excel in tasks requiring broad knowledge and complex reasoning.
+Can outperform LLMs in specific, well-defined tasks within their domain of expertise.
+Resource Requirements
+Often require cloud-based deployment and significant computational resources.
+Can often run on local machines or edge devices, suitable for offline or privacy-sensitive applications.
+Customization and Fine-tuning
+Can be adapted to various tasks through prompt engineering or few-shot learning.
+Easier to fine-tune for specific applications, allowing for more precise control over their behavior.
+Deployment Scenarios
+Ideal for cloud-based services handling diverse queries or generating complex content.
+Well-suited for embedded systems, mobile applications, or scenarios with limited connectivity or computational resources.
+Development and Maintenance
+Require significant resources for training and updating, often limited to large tech companies or research institutions.
+Can be developed and maintained by smaller teams or organizations, allowing for more specialized and agile development cycles.
+Ethical and Privacy Considerations
+May pose greater risks in generating biased or misleading information due to their broad knowledge base.
+More focused, potentially easier to audit and control for specific use cases, reducing certain ethical risks.
+Parameter Size
+Billions to trillions
+Millions to a few billion
+Training Cost
+Very high (requires massive datasets)
+Relatively low
+Inference Speed
+Slower(higher latency)
+Faster(lower latency)
+Computational Resources
+Requires powerful GPUs/TPUs
+Can run on less powerful hardware
+Fine-Tuning Needs
+Minimal(often effective with few-shot learning)
+Requires fine-tuning for optimal performance
+Future Implications of LLMs
+In recent years, there has been specific interest in large language model (LLMs) like GPT-3, and chatbots like ChatGPT, which can generate natural language text that has very little difference from that written by humans. Thesefoundation modelshave seen a breakthrough in the field of artificial intelligence (AI). While LLMs have seen a breakthrough in the field of artificial intelligence (AI), there are concerns about their impact on job markets, communication, and society.
+One major concern about LLMs is their potential to disrupt job markets. Large Language Model, with time, will be able to perform tasks by replacing humans like legal documents and drafts, customer support chatbots, writing news blogs, etc. This could lead to job losses for those whose work can be easily automated.
+However, it is important to note that LLMs are not a replacement for human workers. They are simply a tool that can help people to be more productive and efficient in their work through automation. While some jobs may be automated, new jobs will also be created as a result of the increased efficiency and productivity enabled by LLMs. For example, businesses may be able to create new products or services that were previously too time-consuming or expensive to develop. By leveraging LLMs, they canoptimizeprocesses and improve efficiency, leading to innovation and growth.
+LLMs have the potential to impact society in several ways. For example, LLMs could be used to create personalized education or healthcare plans, leading to better patient and student outcomes. LLMs can be used to help businesses and governments make better decisions by analyzing large amounts of data and generating insights.
+Conclusion
+Large Language Model (LLMs) have revolutionized the field of natural language processing, allowing for new advancements in text generation and understanding. LLMs can learn from big data, understand its context and entities, and answer user queries. This makes them a great alternative for regular usage in various tasks in several industries. However, there are concerns about the ethical implications and potential biases associated with these models. It is important to approach LLMs with a critical eye and evaluate their impact on society. With careful use and continued development, LLMs have the potential to bring about positive changes in many domains, but we should be aware of their limitations and ethical implications.
+Also, you can check this article forEvolution of Large Language Models.
+I hope you enjoy the article! LLM architecture is the structure of big language models, including different kinds of LLMs. Comprehending the explanation of LLM architecture is beneficial for utilizing their potential in automation and AI purposes.
+Key Takeaways
+Large Language Models (LLMs) can understand complex sentences, understand relationships between entities and user intent, and generate new text that is coherent and grammatically correct
+The article explores the architecture of some LLMs, including embedding, feedforward, recurrent, and attention layers.
+The article discusses some of the popular LLMs like BERT, BERT, Bloom, and GPT3 and the availability of open-source LLMs.
+Hugging Face APIs can be helpful for users to generate text using LLMs like Bart-large-CNN, Roberta, Bloom, and Bart-large-CNN.
+LLMs are expected to revolutionize certain domains in the job market, communication, and society in the future.
+A. The top large language models include GPT-3, GPT-2, BERT, T5, and RoBERTa. These models are capable of generating highly realistic and coherent text and performing various natural language processing tasks, such as language translation, text summarization, and question-answering.
+A. Large language models are used because they can generate human-like text, perform a wide range of natural language processing tasks, and have the potential to revolutionize many industries. They can improve the accuracy of language translation, help with content creation, improve search engine results, and enhance virtual assistants’ capabilities. Large language models are also valuable for scientific research, such as analyzing large volumes of text data in fields such as medicine, sociology, and linguistics.
+A. LLMs in AI refer to Language Models in Artificial Intelligence, which are models designed to understand and generate human-like text using natural language processing techniques.
+A. The full form of LLM model is “Large Language Model.” These models are trained on vast amounts of text data and can generate coherent and contextually relevant text.
+A. LLMs for Education:Personalized learningIntelligent tutoringLanguage learningContent creationAccessibility
+The media shown in this article is not owned by Analytics Vidhya and is used at the Author’s discretion.
+Suvojit is a Senior Data Scientist at DunnHumby. He enjoys exploring new and innovative ideas and techniques in the field of AI and tries to solve real-world machine learning problems by thinking out of the box. He writes about the latest advancements in Computer Vision and Natural Language processing. You can follow him on LinkedIn.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Google Gemma, the Open-Source LLM Powerhouse
+Google Gemma, the Open-Source LLM Powerhouse
+How to Build a Multilingual Chatbot using Large...
+How to Build a Multilingual Chatbot using Large...
+Build Large Language Models from Scratch
+Build Large Language Models from Scratch
+Beyond Words: Unleashing the Power of Large Lan...
+Beyond Words: Unleashing the Power of Large Lan...
+A Survey of Large Language Models (LLMs)
+A Survey of Large Language Models (LLMs)
+From GPT-3 to Future Generations of Language Mo...
+From GPT-3 to Future Generations of Language Mo...
+12 Free And Paid LLMs for Your Daily Tasks
+12 Free And Paid LLMs for Your Daily Tasks
+Top 10 Real Life Applications of LLMs
+Top 10 Real Life Applications of LLMs
+30+ LLM Interview Questions and Answers
+30+ LLM Interview Questions and Answers
+The Inner Workings of LLMs: A Deep Dive into La...
+The Inner Workings of LLMs: A Deep Dive into La...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_YiVRE0H.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_09_image.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-1-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_09_image-3.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_image-2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_08_bloom-thumbnail_webp-600x300-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_08_token-thumbnail_webp-600x300-1.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_YiVRE0H.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

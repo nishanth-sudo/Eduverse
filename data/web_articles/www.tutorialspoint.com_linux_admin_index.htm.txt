@@ -1,0 +1,54 @@
+Home
+CentOS Overview
+Basic CentOS Linux Commands
+File / Folder Management
+User Management
+Quota Management
+Systemd Services Start and Stop
+Resource Mgmt with systemctl
+Resource Mgmt with crgoups
+Process Management
+Firewall Setup
+Configure PHP in CentOS Linux
+Set Up Python with CentOS Linux
+Configure Ruby on CentOS Linux
+Set Up Perl for CentOS Linux
+Install and Configure Open LDAP
+Create SSL Certificates
+Install Apache Web Server CentOS 7
+MySQL Setup On CentOS 7
+Set Up Postfix MTA and IMAP/POP3
+Install Anonymous FTP
+Remote Management
+Traffic Monitoring in CentOS
+Log Management
+Backup and Recovery
+System Updates
+Shell Scripting
+Package Management
+Volume Management
+Linux Admin - Quick Guide
+Linux Admin - Useful Resources
+Linux Admin - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Linux Admin Tutorial
+Linux was designed based on the Unix philosophy of "small, precise tools chained together simplifying larger tasks". Linux, at its root, does not have large single-purpose applications for one specific use a lot of the time. Instead, there are hundreds of basic utilities that when combined offer great power to accomplish big tasks with efficiency.
+Unique amongst business class Linux distributions, CentOS stays true to the open-source nature that Linux was founded on. This tutorial gives a complete understanding on Linux Admin and explains how to use it for benefit.
+Audience
+This tutorial has been prepared for beginners to help them understand the fundamentals of Linux Admin. It will specifically be useful for Linux administration professionals. After completing this tutorial, you will find yourself at a moderate level of expertise from where you can take yourself to the next levels.
+Prerequisites
+Before you go ahead with this tutorial, we assume that you have a basic knowledge of Linux and Administration fundamentals.
+
+[Images saved with this article:]
+www.tutorialspoint.com_linux_admin_images_linux-admin-mini-logo.jpg
+www.tutorialspoint.com_linux_admin_images_linux-admin.jpg

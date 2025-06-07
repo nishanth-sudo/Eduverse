@@ -1,0 +1,309 @@
+DSA - Home
+DSA - Overview
+DSA - Environment Setup
+DSA - Algorithms Basics
+DSA - Asymptotic Analysis
+Data Structures
+DSA - Data Structure Basics
+DSA - Data Structures and Types
+DSA - Array Data Structure
+DSA - Skip List Data Structure
+Linked Lists
+DSA - Linked List Data Structure
+DSA - Doubly Linked List Data Structure
+DSA - Circular Linked List Data Structure
+Stack & Queue
+DSA - Stack Data Structure
+DSA - Expression Parsing
+DSA - Queue Data Structure
+DSA - Circular Queue Data Structure
+DSA - Priority Queue Data Structure
+DSA - Deque Data Structure
+Searching Algorithms
+DSA - Searching Algorithms
+DSA - Linear Search Algorithm
+DSA - Binary Search Algorithm
+DSA - Interpolation Search
+DSA - Jump Search Algorithm
+DSA - Exponential Search
+DSA - Fibonacci Search
+DSA - Sublist Search
+DSA - Hash Table
+Sorting Algorithms
+DSA - Sorting Algorithms
+DSA - Bubble Sort Algorithm
+DSA - Insertion Sort Algorithm
+DSA - Selection Sort Algorithm
+DSA - Merge Sort Algorithm
+DSA - Shell Sort Algorithm
+DSA - Heap Sort Algorithm
+DSA - Bucket Sort Algorithm
+DSA - Counting Sort Algorithm
+DSA - Radix Sort Algorithm
+DSA - Quick Sort Algorithm
+Matrices Data Structure
+DSA - Matrices Data Structure
+DSA - Lup Decomposition In Matrices
+DSA - Lu Decomposition In Matrices
+Graph Data Structure
+DSA - Graph Data Structure
+DSA - Depth First Traversal
+DSA - Breadth First Traversal
+DSA - Spanning Tree
+DSA - Topological Sorting
+DSA - Strongly Connected Components
+DSA - Biconnected Components
+DSA - Augmenting Path
+DSA - Network Flow Problems
+DSA - Flow Networks In Data Structures
+DSA - Edmonds Blossom Algorithm
+DSA - Maxflow Mincut Theorem
+Tree Data Structure
+DSA - Tree Data Structure
+DSA - Tree Traversal
+DSA - Binary Search Tree
+DSA - AVL Tree
+DSA - Red Black Trees
+DSA - B Trees
+DSA - B+ Trees
+DSA - Splay Trees
+DSA - Range Queries
+DSA - Segment Trees
+DSA - Fenwick Tree
+DSA - Fusion Tree
+DSA - Hashed Array Tree
+DSA - K-Ary Tree
+DSA - Kd Trees
+DSA - Priority Search Tree Data Structure
+Recursion
+DSA - Recursion Algorithms
+DSA - Tower of Hanoi Using Recursion
+DSA - Fibonacci Series Using Recursion
+Divide and Conquer
+DSA - Divide and Conquer
+DSA - Max-Min Problem
+DSA - Strassen's Matrix Multiplication
+DSA - Karatsuba Algorithm
+Greedy Algorithms
+DSA - Greedy Algorithms
+DSA - Travelling Salesman Problem (Greedy Approach)
+DSA - Prim's Minimal Spanning Tree
+DSA - Kruskal's Minimal Spanning Tree
+DSA - Dijkstra's Shortest Path Algorithm
+DSA - Map Colouring Algorithm
+DSA - Fractional Knapsack Problem
+DSA - Job Sequencing with Deadline
+DSA - Optimal Merge Pattern Algorithm
+Dynamic Programming
+DSA - Dynamic Programming
+DSA - Matrix Chain Multiplication
+DSA - Floyd Warshall Algorithm
+DSA - 0-1 Knapsack Problem
+DSA - Longest Common Sub-sequence Algorithm
+DSA - Travelling Salesman Problem (Dynamic Approach)
+Hashing
+DSA - Hashing Data Structure
+DSA - Collision In Hashing
+Disjoint Set
+DSA - Disjoint Set
+DSA - Path Compression And Union By Rank
+Heap
+DSA - Heap Data Structure
+DSA - Binary Heap
+DSA - Binomial Heap
+DSA - Fibonacci Heap
+Tries Data Structure
+DSA - Tries
+DSA - Standard Tries
+DSA - Compressed Tries
+DSA - Suffix Tries
+Treaps
+DSA - Treaps Data Structure
+Bit Mask
+DSA - Bit Mask In Data Structures
+Bloom Filter
+DSA - Bloom Filter Data Structure
+Approximation Algorithms
+DSA - Approximation Algorithms
+DSA - Vertex Cover Algorithm
+DSA - Set Cover Problem
+DSA - Travelling Salesman Problem (Approximation Approach)
+Randomized Algorithms
+DSA - Randomized Algorithms
+DSA - Randomized Quick Sort Algorithm
+DSA - Karger’s Minimum Cut Algorithm
+DSA - Fisher-Yates Shuffle Algorithm
+Miscellaneous
+DSA - Infix to Postfix
+DSA - Bellmon Ford Shortest Path
+DSA - Maximum Bipartite Matching
+DSA Useful Resources
+DSA - Questions and Answers
+DSA - Selection Sort Interview Questions
+DSA - Merge Sort Interview Questions
+DSA - Insertion Sort Interview Questions
+DSA - Heap Sort Interview Questions
+DSA - Bubble Sort Interview Questions
+DSA - Bucket Sort Interview Questions
+DSA - Radix Sort Interview Questions
+DSA - Cycle Sort Interview Questions
+DSA - Quick Guide
+DSA - Useful Resources
+DSA - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Data Structures and Algorithms (DSA) Tutorial
+Data Structures and Algorithms (DSA) Tutorial
+Data structures and algorithms (DSA) are two important aspects of any programming language. Every programming language has its own data structures and different types of algorithms to handle these data structures.
+Data Structures are used to organise and store data to use it in an effective way when performing data operations.
+Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. Algorithms are generally created independent of underlying languages, i.e. an algorithm can be implemented in more than one programming language.
+Almost every enterprise application uses various types of data structures in one or the other way. So, as a programmer, data structures and algorithms are really important aspects of day-to-day programming.
+This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures.
+Why to Learn Data Structures & Algorithms (DSA)?
+As applications are getting complex and data rich, there are three common problems that applications face now-a-days.
+Data Search− Consider an inventory of 1 million(106) items of a store. If the application is to search an item, it has to search an item in 1 million(106) items every time slowing down the search. As data grows, search will become slower.
+Data Search− Consider an inventory of 1 million(106) items of a store. If the application is to search an item, it has to search an item in 1 million(106) items every time slowing down the search. As data grows, search will become slower.
+Processor speed− Processor speed although being very high, falls limited if the data grows to billion records.
+Processor speed− Processor speed although being very high, falls limited if the data grows to billion records.
+Multiple requests− As thousands of users can search data simultaneously on a web server, even the fast server fails while searching the data.
+Multiple requests− As thousands of users can search data simultaneously on a web server, even the fast server fails while searching the data.
+To solve the above-mentioned problems, data structures come to rescue. Data can be organized in a data structure in such a way that all items may not be required to be searched, and the required data can be searched almost instantly.
+How to start learning Data Structures & Algorithms (DSA)?
+The basic steps to learn DSA is as follows:
+Step 1 - Learn Time and Space complexities
+Time and Space complexities are the measures of the amount of time required to execute the code (Time Complexity) and amount of space required to execute the code (Space Complexity).
+Step 2 - Learn Different Data Structures
+Here we learn different types of data structures like Array, Stack, Queye, Linked List et.
+Step 3 - Learn Different Algorithms
+Once you have good undertanding about various data sturtcures then you can start learning associated algorithms to process the data stored in these data structures. These algorithms include searching, sorting, and other different algorithms.
+Applications of Data Structures & Algorithms (DSA)
+From the data structure point of view, following are some important categories of algorithms −
+Search− Algorithm to search an item in a data structure.
+Search− Algorithm to search an item in a data structure.
+Sort− Algorithm to sort items in a certain order.
+Sort− Algorithm to sort items in a certain order.
+Insert− Algorithm to insert item in a data structure.
+Insert− Algorithm to insert item in a data structure.
+Update−  Algorithm to update an existing item in a data structure.
+Update−  Algorithm to update an existing item in a data structure.
+Delete− Algorithm to delete an existing item from a data structure.
+Delete− Algorithm to delete an existing item from a data structure.
+The following computer problems can be solved using Data Structures −
+Fibonacci number series
+Knapsack problem
+Tower of Hanoi
+All pair shortest path by Floyd-Warshall
+Shortest path by Dijkstra
+Project scheduling
+Who Should Learn DSA
+This tutorial has been designed for Computer Science Students as well as Software Professionals who are willing to learn data Structures and Algorithm (DSA) Programming in simple and easy steps.
+After completing this tutorial you will be at intermediate level of expertise from where you can take yourself to higher level of expertise.
+DSA Online Editor & Compiler
+In this tutorial, we will work with data structures and algorithms in four different programming languages: C, C++, Java, Python. So, we provide Online Compilers for each of these languages to execute the given code. Doing so, we are aiming to compromise the need for local setup for the compilers.
+#include <stdio.h>
+int main(){
+   int LA[3] = {}, i;
+   for(i = 0; i < 3; i++) {
+      LA[i] = i + 2;
+      printf("LA[%d] = %d \n", i, LA[i]);
+   }
+   return 0;
+}
+Output
+LA [0] = 2
+LA [1] = 3
+LA [2] = 4
+#include <iostream>
+using namespace std;
+int main(){
+   int LA[3] = {}, i;
+   for(i = 0; i < 3; i++) {
+      LA[i] = i + 2;
+      cout << "LA[" << i <<"] = " << LA[i] << endl;
+   }
+   return 0;
+}
+Output
+LA [0] = 2
+LA [1] = 3
+LA [2] = 4
+public class ArrayDemo {
+   public static void main(String []args) {
+      int LA[] = new int[3];
+      for(int i = 0; i < 3; i++) {
+         LA[i] = i+2;
+         System.out.println("LA[" + i + "] = " + LA[i]);
+      }
+   }
+}
+Output
+LA [0] = 2
+LA [1] = 3
+LA [2] = 4
+LA = [0, 0, 0]
+x = 0
+for x in range(len(LA)):
+   LA[x] = x+2;
+   print("LA", [x], " = " , LA[x])
+Output
+LA [0] = 2
+LA [1] = 3
+LA [2] = 4
+Prerequisites to Learn DSA
+Before proceeding with this tutorial, you should have a basic understanding of C programming language, text editor, and execution of programs, etc.
+DSA Online Quiz
+This Data Structures Algorithms tutorial helps you prepare for technical interviews and certification exams. We have provided various quizzes and assignments to check your learning level. Given quizzes have multiple choice type of questions and their answers with short explanation.
+Following is a sample quiz, try to attempt any of the given answers:
+Q- A complete graph can have
+A- n2spanning trees
+B- nn - 2spanning trees
+C- nn + 1spanning trees
+D- nnspanning trees
+Answer : B
+Explanation
+At maximum, a complete graph can have nn - 1spanning trees.
+Start your online quizStart Data Structures Algorithms Quiz.
+DSA Jobs and Opportunities
+Professionals in DSA are in high demands as more and more organizations rely on them to solve complex problems and make data-driven decisions. You can earn competitive salaries, and the specific pay can vary based on your location, experience, and job role.
+Many top companies are actively recruiting experts in DSA, and they offer roles such as Software Engineer, Data Scientist, Machine Learning Engineer, and more. These companies need individuals who can solve complex problems, analyse data, and create algorithms to drive their business forward. Here is the list of few such companies −
+Google
+Amazon
+Microsoft
+Apple
+Adobe
+JPMorgan Chase
+Goldman Sachs
+Walmart
+Johnson & Johnson
+Airbnb
+Tesla
+These are just a few examples, and the demand for DSA professionals is continually growing across various sectors. By developing expertise in these areas, you can open up a wide range of career opportunities in some of the world's leading companies.
+To get started, there are user-friendly tutorials and resources available to help you master DSA. These materials are designed to prepare you for technical interviews and certification exams, and you can learn at your own pace, anytime and anywhere.
+Frequently Asked Questions about DSA
+There are many Frequently Asked Questions (FAQs) on Data Structures and Algorithms due to the complex nature of this concept. In this section, we will try to answer some of them briefly.
+A data structure is a collection of similar or different data types, and is used to store and modify data using programming languages. And, an algorithm is defined as a set of instructions that must be followed to solve a problem.
+Data Structures and Algorithms is a study of such data structures and the algorithms that use them.
+The best programming language to work with data structures is C++, due to its efficiency and abundant resources for data structures. Despite that, any programming language can be the best pick to work with data structures if you are fluent in it.
+Here are the summarized list of tips which you can follow to start learning Data Structures.
+Follow our tutorial step by step from the very beginning.
+Read more articles, watch online courses or buy reference books on Data Structures to enhance your knowledge.
+Try to execute a small program using data structures in any programming language to check your knowledge in these concepts.
+A datatype is a type of value a variable holds. These values can be numeric, string, characters, etc. An array is defined as a collection of similar type of values stored together. Hence, it is more likely to be a data structures storing values of same datatype.
+Data Structures organize the data used in algorithms. They are the foundation of computations performed using algorithms. Hence, learning data structures is recommended first, as it becomes easier to understand the concept of Algorithms with all the prior knowledge.
+Not only in software development, but we can observe the use of data structures in our day-to-day life as well. For instance, piling up plates and removing them one-by-one is the simpler example on how stack data structure organizes its data. Similarly, queueing up to buy movie tickets has the same mechanism as inserting and deleting the data from a queue.
+In software development, developing navigation maps using graph data structure is also a common real life application.
+Machine Learning and Deep Learning work with mathematical computations and large sets of data. Organizing this data properly becomes crucial in order to process these data-sets for training and deploying suitable models on them. Hence, having a deep knowledge in Data Structures and Algorithms is important while working with Machine Learning and Deep Learning.
+A datatype defines the type of value stored in a variable. This decides the type of operations performed and functions called on these values. Whereas, a data structure is a collection of similar or different types of data, which is used to organize and manipulate data in a program.
+
+[Images saved with this article:]
+www.tutorialspoint.com_data_structures_algorithms_images_data-structure-mini-logo.jpg
+www.tutorialspoint.com_data_structures_algorithms_images_data-structure-algorithm.jpg

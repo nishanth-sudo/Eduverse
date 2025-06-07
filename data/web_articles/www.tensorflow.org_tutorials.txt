@@ -1,0 +1,102 @@
+English
+Español – América Latina
+Français
+Indonesia
+Italiano
+Polski
+Português – Brasil
+Tiếng Việt
+Türkçe
+Русский
+עברית
+العربيّة
+فارسی
+हिंदी
+বাংলা
+ภาษาไทย
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+TensorFlow Core
+TensorFlowLearnTensorFlow CoreStay organized with collectionsSave and categorize content based on your preferences.The TensorFlow tutorials are written as Jupyter notebooks and run directly in Google Colab—a hosted notebook environment that requires no setup. At the top of each tutorial, you'll see aRun in Google Colabbutton. Click the button to open the notebook and run the code yourself.For beginnersThe best place to start is with the user-friendly Keras sequential API. Build models by plugging together building blocks. After these tutorials, read theKeras guide.Beginner quickstartThis "Hello, World!" notebook shows the Keras Sequential API andmodel.fit.Keras basicsThis notebook collection demonstrates basic machine learning tasks using Keras.Load dataThese tutorials usetf.datato load various data formats and build input pipelines.For expertsThe Keras functional and subclassing APIs provide a define-by-run interface for customization and advanced research. Build your model, then write the forward and backward pass. Create custom layers, activations, and training loops.Advanced quickstartThis "Hello, World!" notebook uses the Keras subclassing API and a custom training loop.CustomizationThis notebook collection shows how to build custom layers and training loops in TensorFlow.Distributed trainingDistribute your model training across multiple GPUs, multiple machines or TPUs.The Advanced section has many instructive notebooks examples, includingNeural machine translation,Transformers, andCycleGAN.Video tutorialsCheck out these videos for an introduction to machine learning with TensorFlow:TensorFlow ML Zero to HeroBasic Computer Vision with MLLibraries and extensionsExplorelibrariesto build advanced models or methods using TensorFlow, and access domain-specific application packages that extend TensorFlow. This is asampleof the tutorials available for these projects.chevron_rightTensorBoardGet started with TensorBoardLogging training metrics in Keraschevron_rightTensorFlow HubObject detectionArbitrary style transferchevron_rightModel OptimizationMagnitude-based weight pruning with KerasPost-training quantizationchevron_rightTensorFlow FederatedFederated learning for image classificationFederated learning for text generationchevron_rightNeural Structured LearningNatural graph regularization for document classificationSynthetic graph regularization for sentiment classificationchevron_rightTensorFlow GraphicsObject pose alignmentMesh segmentationchevron_rightSIG AddonsImage operations in TensorFlow AddonsNormalization layers in TensorFlow Addons.chevron_rightTFXTFX developer tutorialServe a model with TensorFlow Servingchevron_rightDatasetsUsing TensorFlow Datasetschevron_rightProbabilityTensorFlow distributions introductionProbabilistic regressionchevron_rightXLAClassifying CIFAR-10 with XLAUse XLA with tf.functionchevron_rightDecision ForestsTrain a decision forest modelUse text and NN features with decision forestschevron_rightTensorFlow AgentsTrain a deep-Q network with TF AgentsReinforcement learning environmentschevron_rightTensorFlow RankingTF-Ranking Keras user guideTF Ranking for sparse featureschevron_rightMagentaGenerating Piano music with TransformerGANSynthTensorFlow updatesSubscribe to theTensorFlow blog,YouTube channel, andTwitterfor the latest updates.
+TensorFlow
+Learn
+TensorFlow Core
+The TensorFlow tutorials are written as Jupyter notebooks and run directly in Google Colab—a hosted notebook environment that requires no setup. At the top of each tutorial, you'll see aRun in Google Colabbutton. Click the button to open the notebook and run the code yourself.
+For beginners
+Beginner quickstart
+model.fit
+Keras basics
+Load data
+tf.data
+For experts
+Advanced quickstart
+Customization
+Distributed training
+Video tutorials
+TensorFlow ML Zero to Hero
+Basic Computer Vision with ML
+Libraries and extensions
+chevron_rightTensorBoardGet started with TensorBoardLogging training metrics in Keras
+TensorBoard
+Get started with TensorBoard
+Logging training metrics in Keras
+chevron_rightTensorFlow HubObject detectionArbitrary style transfer
+TensorFlow Hub
+Object detection
+Arbitrary style transfer
+chevron_rightModel OptimizationMagnitude-based weight pruning with KerasPost-training quantization
+Model Optimization
+Magnitude-based weight pruning with Keras
+Post-training quantization
+chevron_rightTensorFlow FederatedFederated learning for image classificationFederated learning for text generation
+TensorFlow Federated
+Federated learning for image classification
+Federated learning for text generation
+chevron_rightNeural Structured LearningNatural graph regularization for document classificationSynthetic graph regularization for sentiment classification
+Neural Structured Learning
+Natural graph regularization for document classification
+Synthetic graph regularization for sentiment classification
+chevron_rightTensorFlow GraphicsObject pose alignmentMesh segmentation
+TensorFlow Graphics
+Object pose alignment
+Mesh segmentation
+chevron_rightSIG AddonsImage operations in TensorFlow AddonsNormalization layers in TensorFlow Addons.
+SIG Addons
+Image operations in TensorFlow Addons
+Normalization layers in TensorFlow Addons.
+chevron_rightTFXTFX developer tutorialServe a model with TensorFlow Serving
+TFX
+TFX developer tutorial
+Serve a model with TensorFlow Serving
+chevron_rightDatasetsUsing TensorFlow Datasets
+Datasets
+Using TensorFlow Datasets
+chevron_rightProbabilityTensorFlow distributions introductionProbabilistic regression
+Probability
+TensorFlow distributions introduction
+Probabilistic regression
+chevron_rightXLAClassifying CIFAR-10 with XLAUse XLA with tf.function
+XLA
+Classifying CIFAR-10 with XLA
+Use XLA with tf.function
+chevron_rightDecision ForestsTrain a decision forest modelUse text and NN features with decision forests
+Decision Forests
+Train a decision forest model
+Use text and NN features with decision forests
+chevron_rightTensorFlow AgentsTrain a deep-Q network with TF AgentsReinforcement learning environments
+TensorFlow Agents
+Train a deep-Q network with TF Agents
+Reinforcement learning environments
+chevron_rightTensorFlow RankingTF-Ranking Keras user guideTF Ranking for sparse features
+TensorFlow Ranking
+TF-Ranking Keras user guide
+TF Ranking for sparse features
+chevron_rightMagentaGenerating Piano music with TransformerGANSynth
+Magenta
+Generating Piano music with Transformer
+GANSynth
+TensorFlow updates
+Except as otherwise noted, the content of this page is licensed under theCreative Commons Attribution 4.0 License, and code samples are licensed under theApache 2.0 License. For details, see theGoogle Developers Site Policies. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2023-09-19 UTC.

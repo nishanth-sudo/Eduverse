@@ -1,0 +1,606 @@
+Java - Home
+Java - Overview
+Java - History
+Java - Features
+Java Vs. C++
+JVM - Java Virtual Machine
+Java - JDK vs JRE vs JVM
+Java - Environment Setup
+Java - Hello World Program
+Java - Comments
+Java - Basic Syntax
+Java - Variables
+Java - Data Types
+Java - Type Casting
+Java - Unicode System
+Java - User Input
+Java - Date & Time
+Java Operators
+Java - Operators
+Java - Arithmetic Operators
+Java - Assignment Operators
+Java - Relational Operators
+Java - Logical Operators
+Java - Bitwise Operators
+Java Operator Precedence & Associativity
+Java Control Statements
+Java - Decision Making
+Java - If Else Statement
+Java - Switch Statement
+Java - Loop Control
+Java - For Loop
+Java - For-Each Loop
+Java - While Loop
+Java - Do While Loop
+Java - Break Statement
+Java - Continue Statement
+Object Oriented Programming
+Java - OOPs Concepts
+Java - Object & Classes
+Java - Class Attributes
+Java - Class Methods
+Java - Methods
+Java - Variables Scope
+Java - Constructors
+Java - Access Modifiers
+Java - Inheritance
+Java - Aggregation
+Java - Polymorphism
+Java - Overriding
+Java - Method Overloading
+Java - Dynamic Binding
+Java - Static Binding
+Java - Instance Initializer Block
+Java - Abstraction
+Java - Encapsulation
+Java - Interfaces
+Java - Packages
+Java - Inner Classes
+Java - Static Class
+Java - Anonymous Class
+Java - Singleton Class
+Java - Wrapper Classes
+Java - Enums
+Java - Enum Constructor
+Java - Enum Strings
+Java Built-in Classes
+Java - Number
+Java - Boolean
+Java - Characters
+Java - Arrays
+Java - Math Class
+Java File Handling
+Java - Files
+Java - Create a File
+Java - Write to File
+Java - Read Files
+Java - Delete Files
+Java - Directories
+Java - I/O Streams
+Java Error & Exceptions
+Java - Exceptions
+Java - try-catch Block
+Java - try-with-resources
+Java - Multi-catch Block
+Java - Nested try Block
+Java - Finally Block
+Java - throw Exception
+Java - Exception Propagation
+Java - Built-in Exceptions
+Java - Custom Exception
+Java Multithreading
+Java - Multithreading
+Java - Thread Life Cycle
+Java - Creating a Thread
+Java - Starting a Thread
+Java - Joining Threads
+Java - Naming Thread
+Java - Thread Scheduler
+Java - Thread Pools
+Java - Main Thread
+Java - Thread Priority
+Java - Daemon Threads
+Java - Thread Group
+Java - Shutdown Hook
+Java Synchronization
+Java - Synchronization
+Java - Block Synchronization
+Java - Static Synchronization
+Java - Inter-thread Communication
+Java - Thread Deadlock
+Java - Interrupting a Thread
+Java - Thread Control
+Java - Reentrant Monitor
+Java Networking
+Java - Networking
+Java - Socket Programming
+Java - URL Processing
+Java - URL Class
+Java - URLConnection Class
+Java - HttpURLConnection Class
+Java - Socket Class
+Java - Generics
+Java Collections
+Java - Collections
+Java - Collection Interface
+Java Interfaces
+Java - List Interface
+Java - Queue Interface
+Java - Map Interface
+Java - SortedMap Interface
+Java - Set Interface
+Java - SortedSet Interface
+Java  Data Structures
+Java - Data Structures
+Java - Enumeration
+Java Collections Algorithms
+Java - Iterators
+Java - Comparators
+Java - Comparable Interface in Java
+Advanced Java
+Java - Command-Line Arguments
+Java - Lambda Expressions
+Java - Sending Email
+Java - Applet Basics
+Java - Javadoc Comments
+Java - Autoboxing and Unboxing
+Java - File Mismatch Method
+Java - REPL (JShell)
+Java - Multi-Release Jar Files
+Java - Private Interface Methods
+Java - Inner Class Diamond Operator
+Java - Multiresolution Image API
+Java - Collection Factory Methods
+Java - Module System
+Java - Nashorn JavaScript
+Java - Optional Class
+Java - Method References
+Java - Functional Interfaces
+Java - Default Methods
+Java - Base64 Encode Decode
+Java - Switch Expressions
+Java - Teeing Collectors
+Java - Microbenchmark
+Java - Text Blocks
+Java - Dynamic CDS archive
+Java - Z Garbage Collector (ZGC)
+Java - Null Pointer Exception
+Java - Packaging Tools
+Java - Sealed Classes
+Java - Record Classes
+Java - Hidden Classes
+Java - Pattern Matching
+Java - Compact Number Formatting
+Java - Garbage Collection
+Java - JIT Compiler
+Java Miscellaneous
+Java - Recursion
+Java - Regular Expressions
+Java - Serialization
+Java - Strings
+Java - Process API Improvements
+Java - Stream API Improvements
+Java - Enhanced @Deprecated Annotation
+Java - CompletableFuture API Improvements
+Java - Streams
+Java - Datetime Api
+Java 8 - New Features
+Java 9 - New Features
+Java 10 - New Features
+Java 11 - New Features
+Java 12 - New Features
+Java 13 - New Features
+Java 14 - New Features
+Java 15 - New Features
+Java 16 - New Features
+Java APIs & Frameworks
+JDBC Tutorial
+SWING Tutorial
+AWT Tutorial
+Servlets Tutorial
+JSP Tutorial
+Java Class References
+Java - Scanner
+Java - Arrays
+Java - Strings
+Java - Date
+Java - ArrayList
+Java - Vector
+Java - Stack
+Java - PriorityQueue
+Java - LinkedList
+Java -  ArrayDeque
+Java - HashMap
+Java - LinkedHashMap
+Java - WeakHashMap
+Java - EnumMap
+Java - TreeMap
+Java - IdentityHashMap
+Java - HashSet
+Java - EnumSet
+Java - LinkedHashSet
+Java - TreeSet
+Java - BitSet
+Java - Dictionary
+Java - Hashtable
+Java - Properties
+Java - Collection
+Java - Array
+Java Useful Resources
+Java - Cheatsheet
+Java - Questions and Answers
+Java 8 - Questions and Answers
+Java - Quick Guide
+Java - Useful Resources
+Java - Discussion
+Java - Online Compiler
+Java - Examples
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Java Cheatsheet
+Java Program Structure
+// Package Declaration (Optional)
+// Example: package mypackage;
+
+// Import Statements (Optional)
+// Example: import java.util.Scanner;
+
+// Class Declaration
+public class Class_name{
+   // Main Method
+   public static void main(String[] args) { }
+}
+Printing Hello World
+The following codeprints Hello Worldon the console −
+public class HelloWorld {
+   public static void main(String args[]) {
+      System.out.println("Hello World");
+   }
+}
+public static void main
+The main() method is the starting point where JVM (Java Virtual Machine) begins executing the Java program.
+public static void main(String[] args)
+Output - System.out.println()
+We can useSystem.out.println()to print something to the output console in Java.
+public class HelloWorld {
+   public static void main(String args[]) {
+      System.out.println("Hello World");
+   }
+}
+The println() method
+The println() method is used to print text in Java. A new line will be added after each call.
+System.out.println("Hello World");
+Double Quotes
+In Java, double quotes are used to define string literals.
+System.out.println("If you forget the double quotes, a compilation error will occur");
+The Print() Method
+The println() method is used to print text in Java. A new line will be added after each call.
+System.out.print("Hello World");
+User Input
+In Java, we use theScanner classto getinput from the user. It is in thejava.util package.
+import java.util.Scanner; 
+Scanner myObj = new Scanner(System.in); 
+System.out.println("Enter username"); 
+String userName = myObj.nextLine();
+Java Comments
+Java commentsare two types: single-line and multi-line comments.
+Single Line comment
+Single-line comments in Java start with double forward slashes // and text between them are ignored by the Java compiler.
+// This is a comment
+System.out.println("Hello World");
+Multi-line Comments
+Multi-line comments in Java start with /* and end with */ and text between is ignored by the Java compiler.
+Access Modifiers in Java
+In Java,access modifiersare keywords used to set the accessibility of classes, methods, constructors, and fields.
+Types of Access Modifiers
+Public− Can be accessed from any other class or package.
+Private− Restricted to the defining class only; not accessible from outside.
+Protected− Accessible within the same package and by subclasses,even in different packages.
+Default (no modifier)− Accessible only within classes in the same package.
+Variables
+Java Variablesare containers that hold data values, with each variable being defined according to its assigned data type.
+Types of Variables
+Local Variables− A local variable is defined within a method, block, or constructor and is only accessible within that specific scope.
+Instance Variables− Instance variables are non-static and are declared within a class but outside of any method, constructor, or block.
+Static Variables− Static variables are declared using the static keyword within a class, outside of any method, constructor, or block.
+Built-in Type Variables
+The eight primitives defined in Java are int, byte, short, long, float, double, boolean, and char.
+byte
+byte is a primitive data type that only takes up 8 bits of memory. It can store numbers from -128 to 127.
+long
+Long is another primitive data type related to integers that can store whole numbers from -9223372036854775808 to 9223372036854775808. long takes up 64 bits of memory.
+float
+The float keyword is a data type that can store fractional numbers from 3.4e038 to 3.4e+038.
+char
+Char is a 16-bit integer representing a Unicode-encoded character.
+int
+The int keyword is a primitive data type that can store numbers from -2147483648 to 2147483647.
+short
+The short keyword is a data type that can store numbers from -32768 to 32767.
+Control Flow
+If-Else Statement
+In Java, anif-else statementexecutes a block of code based on a condition.
+if (x > 0) { 
+   // code block } 
+else { 
+   // code block }
+Switch Statement
+Theswitch statementselects one of many code blocks to be executed. It is similar to the if-else-if ladder statement.
+switch (day) {     
+   case 1: 
+   // code block         
+   break;
+   case 2: 
+   // code block
+   break;
+   default:
+   // code block
+}
+For Loop
+TheJava for loopis used to iterate a block of code a specified number of times.
+for (int i = 0; i < 10; i++) { 
+   // code block 
+}
+While Loop
+TheJava while loopis used to iterate a block of code while a condition is true.
+while (x < 10) {
+   // code block 
+}
+Break Statement
+TheJava breakstatement is used to terminate the current flow of the program at specified conditions.
+public class BreakExample {  
+   public static void main(String[] args) {  
+      for(int i=1;i<=10;i++){  
+         if(i==5){  
+            //Using Break Statement 
+            break;  
+         }  
+      System.out.println(i);  
+      }  
+   }  
+}
+Continue Statement
+TheJava continue statementis used to continue the current flow of the program. It is used to jump to the next part of the program.
+public class ContinueExample {  
+   public static void main(String[] args) {  
+      //for loop  
+      for(int i=1;i<=10;i++){  
+         if(i==5){  
+            continue;//it will jump to the next statement  
+         }
+         System.out.println(i);
+      }
+   }  
+}
+Java OOP Concepts
+1. Classes and Objects
+Class− A blueprint for creating objects.
+Object− An instance of a class.
+2. Inheritance
+Inheritanceallows a class to inherit fields and methods from another class.
+Example
+class Animal {
+   void eat() {
+      System.out.println("This animal eats food.");
+   }
+}
+class Cat extends Animal {
+   void meow() {
+      System.out.println("Cat says meow!");
+   }
+}
+
+public class Main {
+   public static void main(String[] args) {
+      Cat cat = new Cat();
+      cat.eat(); // Output: This animal eats food.
+      cat.meow(); // Output: Cat says meow!
+   }
+}
+3. Polymorphism
+Polymorphismallows methods to do different things based on the object it is acting upon.
+Example
+class Animal {
+   void sound() {
+      System.out.println("Animal makes sound");
+   }
+}
+class Dog extends Animal {
+   void sound() {
+      System.out.println("Dog barks");
+   }
+}
+class Cat extends Animal {
+   void sound() {
+      System.out.println("Cat meows");
+   }
+}
+public class Main {
+   public static void main(String[] args) {
+      Animal myDog = new Dog();
+      Animal myCat = new Cat();
+      myDog.sound(); // Output: Dog barks
+      myCat.sound(); // Output: Cat meows
+   }
+}
+4. Encapsulation
+Encapsulationis the technique of wrapping data (variables) and code (methods) together as a single unit.
+Example
+class BankAccount {
+   private double balance;
+   public void deposit(double amount) {
+      if (amount > 0) {
+         balance += amount;
+      }
+   }
+
+   public double getBalance() {
+      return balance;
+   }
+}
+public class Main {
+   public static void main(String[] args) {
+      BankAccount account = new BankAccount();
+      account.deposit(100.0);
+      System.out.println("Balance: " + account.getBalance()); // Output: Balance: 100.0
+   }
+}
+5. Abstraction
+Abstractionis the concept of hiding the complex implementation details and showing only the essential features of the object.
+Example
+abstract class Shape {
+   abstract void draw();
+}
+class Circle extends Shape {
+   void draw() {
+      System.out.println("Drawing a circle");
+   }
+}
+class Rectangle extends Shape {
+   void draw() {
+      System.out.println("Drawing a rectangle");
+   }
+}
+public class Main {
+   public static void main(String[] args) {
+      Shape circle = new Circle();
+      Shape rectangle = new Rectangle();
+      circle.draw(); // Output: Drawing a circle
+      rectangle.draw(); // Output: Drawing a rectangle
+   }
+}
+Constructors
+In Java, aconstructoris a code block that initializes a new class instance. It is called when an object is created, allocating memory for it.
+Types of Constructors
+Default Constructor− This type of constructor does not require any parameters. If no constructor is explicitly declared in a class, the compiler automatically generates a default constructor with no arguments.
+Parameterized Constructor− This type of constructor requires parameters and is used to assign custom values to a class’s fields during initialization.
+Arrays
+Arraysare data structures that store multiple values of the same data type in contiguous memory locations.
+Single-Dimensional Arrays
+int arr[] = new int[20];
+int[] arr = new int[20];
+Example
+public class SingleDimensional {
+   public static void main(String[] args) {
+      int[] arr = new int[5];
+      arr[0] = 10;
+      arr[1] = 20;
+      arr[2] = 30;
+      arr[3] = 40;
+      arr[4] = 50;
+      for (int i = 0; i < arr.length; i++) {
+         System.out.println("arr[" + i + "] : " + arr[i]);
+      }
+   }
+}
+Multi-Dimensional Arrays
+Arrays can also be multi-dimensional, allowing the storage of data in a matrix format.
+int[][] arr = new int[3][3];
+int arr[][] = new int[3][3];
+Here is a Java program to implement 2-Dimensional arrays −
+public class MultiDimensional {
+   public static void main(String args[]) {
+      int arr[][] = {
+         { 1, 2, 3 },
+         { 4, 5, 6 },
+         { 7, 8, 9 }
+      };
+      for (int i = 0; i < arr.length; i++) {
+         for (int j = 0; j < arr[i].length; j++) {
+            System.out.print(arr[i][j] + " ");
+         }
+         System.out.println();
+      }
+   }
+}
+Strings
+Java stringsrepresent a sequence of characters.
+String Methods
+length()− Returns the length of the string.
+charAt()− Returns the character at the specified index.
+substring()− Returns a substring from the specified index to the end.
+indexOf()− Returns the index of the first occurrence of the specified substring.
+toLowerCase()− Converts the string to lowercase.
+toUpperCase()− Converts the string to uppercase.
+trim()− Removes leading and trailing whitespace.
+String Concatenation
+String concatenation is the process of combining two or more strings into a single string.
+The + Operator
+String str1 = "Hello, ";
+String str2 = "world!";
+String result = str1 + str2;
+The concat() Method
+String str1 = "Hello, ";
+String str2 = "world!";
+String result = str1.concat(str2);
+String Comparison
+When comparing strings in Java, you need to be aware of the difference between comparing string references and string content.
+Using equals() Method
+String str1 = "Hello";
+String str2 = "Hello";
+boolean areEqual = str1.equals(str2);
+Using == Operator
+String str1 = new String("Hello");
+String str2 = new String("Hello");
+boolean areSameReference = (str1 == str2);
+Using compareTo() Method
+String str1 = "apple";
+String str2 = "banana";
+int comparisonResult = str1.compareTo(str2);
+Exception Handling
+Java exception handlingis a process to handle runtime errors to maintain the flow of the program.
+Java try-catch block
+The Try-catch block is used to handle the code that may throw the exception.
+Syntax
+try { 
+   // code that may throw an exception 
+} catch (Exception e) { 
+   // code to handle the exception 
+}
+Java finally block
+The finally block is used to execute the specific code whether the exception is handled or not.
+Example
+public class FinallyExample {
+   public static void main(String[] args) {
+      try {
+         System.out.println("Inside try block.");
+         int result = 10 / 0; // This will cause an exception
+      } catch (ArithmeticException e) {
+         System.out.println("Caught an exception: " + e.getMessage());
+      } finally {
+         System.out.println("This block always executes.");
+      }
+   }
+}
+Java throw Exception
+TheJava throw keywordis used to throw an exception explicitly.
+Syntax
+throw new exception_class("error statement ");
+Example
+public class ThrowExample {
+   public static void main(String[] args) {
+      try {
+         checkAge(15); // This will throw an exception
+      } catch (IllegalArgumentException e) {
+         System.out.println("Caught an exception: " + e.getMessage());
+      }
+   }
+   static void checkAge(int age) {
+      if (age < 18) {
+         throw new IllegalArgumentException("Age must be 18 or older.");
+      }
+      System.out.println("Age is valid.");
+   }
+}
+
+[Images saved with this article:]
+www.tutorialspoint.com_java_images_java-mini-logo.jpg

@@ -1,0 +1,254 @@
+Data Science IBM Certification
+Data Science
+Data Science Projects
+Data Analysis
+Data Visualization
+Machine Learning
+ML Projects
+Deep Learning
+NLP
+Computer Vision
+Artificial Intelligence
+Explore GfG Courses
+Share Your Experiences
+Data Analysis (Analytics) Tutorial
+Prerequisites for Data Analysis
+Exploratory Data Analysis (EDA) with NumPy, Pandas, Matplotlib and Seaborn
+SQL for Data Analysis
+Python | Math operations for Data analysis
+Python - Data visualization tutorial
+Free Public Data Sets For Analysis
+Data Analysis Libraries
+Pandas Tutorial
+NumPy Tutorial - Python Library
+Data Analysis with SciPy
+Understanding the Data
+What is Data ?
+Understanding Data Attribute Types | Qualitative and Quantitative
+Univariate, Bivariate and Multivariate data and its analysis
+Attributes and its Types in Data Analytics
+Loading the Data
+Pandas Read CSV in Python
+Export Pandas dataframe to a CSV file
+Pandas - Parsing JSON Dataset
+Exporting Pandas DataFrame to JSON File
+Working with Excel files using Pandas
+Data Cleaning
+What is Data Cleaning?
+ML | Overview of Data Cleaning
+Best Data Cleaning Techniques for Preparing Your Data
+Handling Missing Data
+Working with Missing Data in Pandas
+Drop rows from Pandas dataframe with missing values or NaN in columns
+Count NaN or missing values in Pandas DataFrame
+ML | Handling Missing Values
+Working with Missing Data in Pandas
+ML | Handle Missing Data with Simple Imputer
+How to handle missing values of categorical variables in Python?
+Replacing missing values using Pandas in Python
+Outliers Detection
+Box Plot
+Detect and Remove the Outliers using Python
+Z score for Outlier Detection - Python
+Clustering-Based approaches for outlier detection in data mining
+Exploratory Data Analysis
+What is Exploratory Data Analysis?
+EDA - Exploratory Data Analysis in Python
+Time Series Data Analysis
+Time Series Analysis & Visualization in Python
+What is a trend in time series?
+Basic DateTime Operations in Python
+How to deal with missing values in a Timeseries in Python?
+Data visualization Tools for Data Analysis
+Tableau Tutorial
+Power BI Tutorial | Learn Power BI
+Data Analysis Career Guide
+30+ Top Data Analytics Projects in 2025 [With Source Codes]
+Top 80+ Data Analyst Interview Questions and Answers
+Data Analyst Roadmap 2025 - A Complete Guide
+DSA to DevelopmentCourse
+Data Analysis (Analytics) TutorialLast Updated :12 Dec, 2024CommentsImproveSuggest changesLike ArticleLikeReportData Analysis or Data Analytics is studying, cleaning, modeling, and transforming data to find useful information, suggest conclusions, and support decision-making. ThisData Analytics Tutorialwill cover all the basic to advanced concepts of Excel data analysis like data visualization, data preprocessing, time series, data analysis tools, etc.Data Analysis TutorialData Analysis ProcessData Analysis is developed by the statistician John Tukey in the 1970s. It is a procedure for analyzing data, methods for interpreting the results of such systems, and modes of planning the group of data to make its analysis easier, more accurate, or more factual.Therefore, data analysis is a process for getting large, unstructured data from different sources and converting it into information that is gone through the below process:Data Requirements SpecificationData CollectionData ProcessingData CleaningData AnalysisCommunicationPrerequisites for Data AnalysisTo strong skill for Data Analysis we needs to learn this resources to have a best practice in this domains.Python For Data AnalysisSQL For Data AnalysisPython Data VisulizationData Analysis DatasetsData Analysis LibrariesPandas TutorialLearn Pandas to unlock powerful tools for data analysis in Python. This essential library offers versatile data structures like DataFrames, enabling efficient data manipulation, analysis, and visualization. Mastering Pandas will significantly enhance your ability to handle and extract insights from complex datasets, making it an indispensable skill for any data analyst or scientist.Numpy TutorialLearn NumPy to master numerical computing in Python. This foundational library provides support for arrays, matrices, and high-level mathematical functions, making data manipulation and computation highly efficient. Understanding NumPy is crucial for performing advanced data analysis and scientific computing, and it serves as a cornerstone for many other data science libraries.Understanding the DataWhat is Data?Sample Vs Population StatisticDifferent Data Types:Qualitative vs Quantitative (or categorical vs numerical)Univariate Vs Multivariate Data typesAttributes of Nominal, Ordinal Vs Interval Data TypesRead and Loading the data set:Read Dataset with PandasPython | Read CSVExport Pandas dataframe to a CSV filePandas | Parsing JSON DatasetExporting Pandas DataFrame to JSON FileWorking with Excel files using PandasSlicing, Indexing, Manipulating, and Cleaning Pandas DataframeData Preprocessing:Data preparation is a critical step in any data analysis or machine learning project. It involves a variety of tasks aimed at transforming raw data into a clean and usable format. Properly prepared data ensures more accurate and reliable analysis results, leading to better decision-making and more effective predictive models. This guide will cover key aspects of data preparation, including data formatting, data cleaning, outlier detection, data transformation, and data sampling.Data FormattingFormatting float column of the data frame in PandasHow to Check the Data Type in Pandas DataFrame?How to change the Pandas datetime format in Python?Convert the column type from string to datetime format in Pandas data frameData CleaningOverview of Data CleaningMissing valuesWorking with Missing Data in PandasDrop rows from Pandas dataframe with missing values or NaN in columnsCount NaN or missing values in Pandas DataFrameHandling Missing ValuesWorking with Missing DataHandle Missing Data with Simple ImputerHandle missing values of categorical variablesReplacing missing values using Pandas in PythonOutliers DetectionBoxplotsDetect and Remove the Outliers using PythonZ-score for outlier DetectionDensity-based method for outlier DetectionClustering-Based approaches for outlier detectionDBSCAN Clustering for outlier detectionBinningBinning or DiscretizationBinning method for data smoothingIsolation Forest  for outlier detectionSupport Vector Machine for outlier detectionData TransformationNormalization and ScalingData NormalizationDifference between Data Normalization and ScalingData Normalization with PandasHow to Standardize Data in a Pandas DataFrame?Max-Min NormalizationZ-score NormalizationDecimal scaling normalizationStandard Deviation NormalizationStandardizationLog TransformationPower transformationData sampling:Probability samplingSimple Random SamplingClustered SamplingStratified Random samplingSystematic SamplingNon-Probability samplingExploratory Data AnalysisExploratory Data Analysis (EDA) is also crucial step in the data analysis process that involves summarizing the main characteristics of a dataset, often with visual methods. The goal of EDA is to understand the data’s underlying structure, detect patterns and anomalies, test hypotheses, and check assumptions. EDA is essential for making informed decisions about data preprocessing, feature engineering, and modeling.What is Exploratory Data AnalysisExploratory Data Analysis in PythonExploratory Data Analysis in RUnivariate Data  EDA:Measures of Central TendencyMeasures of spreadinterquartile range (IQR)ANOVASkewnessCalculate Skewness and Kurtosis in PythonDifference between Skewness vs kurtosisHistogramInterpretations of HistogramBoxplotsQuantile-Quantile plotsQuantile-Quantile Plot in PythonQuantile-Quantile Plot in RMultivariate Data EDACross-tabulationCorrelation & Correlation MatrixCorrelation and CovarianceFactor AnalysisCluster AnalysisMANOVA(Multivariate Analysis of Variance)Canonical Correlation AnalysisCorrespondence AnalysisMultiDimensional ScalingProbability DistributionsCentral Limit TheoremCumulative Distribution FunctionsCalculate and plot a Cumulative Distribution functionPlot Cumulative Distribution Function in RProbability Density FunctionsProbability Density Estimation & Maximum Likelihood EstimationExponential DistributionNormal DistributionNormal Distribution functionNormal Distribution in PythonNormal Distribution in RBinomial DistributionPython – Binomial DistributionBernoulli Distribution in RPoisson DistributionP - ValueZ - ScoreT-distributionT-distributiont-distribution in Rt-distribution in PythonPoint EstimateConfidence IntervalsChi-Squared TestsHypothesis TestingHypothesis Testing FormulaOne-Tailed Test & Two-Tailed TestTime Series Data Analysis:Time series data analysis involves examining data points collected or recorded at specific time intervals. This type of data is ubiquitous in various fields, such as finance, economics, environmental science, and many others. The primary goal is to understand the underlying structure and patterns to make accurate predictions or decisions.Define Time Series DataData and Time function in PythonTime Series Data PlottingDeal with missing values in a Time seriesMoving Averages in Time Series DataStationarity in Time Series DataSeasonality Detection in Time Series DataTrend in Time Series DataTesting for Mean ReversionAugmented Dickey-Fuller TestWhat is Autocorrelation?Data Analysis Tools:Excel TutorialTableau TutorialPower BI TutorialNeed for Data AnalysisData analytics is significant for business optimization performance. An organization can also use data analytics to make better business decisions and support analyzing customer trends and fulfillment, which can lead to unknown and better products and services. Executing it into the business model indicates businesses can help reduce costs by recognizing more efficient modes of doing business.Applications of Data AnalysisBetter decision-making:The Key advantage of data analysis is better decision-making in the long term. Rather than depending only on knowledge, businesses are increasingly looking at data before deciding.Identification of potential risks:Companies in today's world succeed in high-risk conditions, but those environments require critical risk management processes, and extensive data has contributed to developing new risk management solutions. Data can enhance the effectiveness of actual simulations to predict future risks and create better planning.Increase the efficiency of work:Data analysis allows you to analyze a large set of data and present it in a structured way to help reach your organization’s objectives. Possibilities and progress within the organization are reflected, and activities can increase work efficiency and productivity. It enables a culture of efficiency and collaboration by allowing managers to share detailed data with employees.Delivering relevant products:Products are the oil for every organization, and often the most important asset of organizations. The role of the product management team is to determine trends that drive strategic creation, and activity plans for unique functions and services.Track customer behavioral changes:Consumers have a lot to choose from in products available in the markets. Organizations have to pay attention to consumer demands and expectations, So to analyze the behavior of the customer data analysis is very important.Next ArticleExploratory Data Analysis (EDA) with NumPy, Pandas, Matplotlib and Seabornpawan_kumar_gunjanImproveArticle Tags :Data AnalysisAI-ML-DSTutorialsAI-ML-DS With Python
+Data Analysis (Analytics) Tutorial
+Data Analysis or Data Analytics is studying, cleaning, modeling, and transforming data to find useful information, suggest conclusions, and support decision-making. ThisData Analytics Tutorialwill cover all the basic to advanced concepts of Excel data analysis like data visualization, data preprocessing, time series, data analysis tools, etc.
+Data Analysis Process
+Data Analysis is developed by the statistician John Tukey in the 1970s. It is a procedure for analyzing data, methods for interpreting the results of such systems, and modes of planning the group of data to make its analysis easier, more accurate, or more factual.
+Therefore, data analysis is a process for getting large, unstructured data from different sources and converting it into information that is gone through the below process:
+Data Requirements Specification
+Data Collection
+Data Processing
+Data Cleaning
+Data Analysis
+Communication
+Prerequisites for Data Analysis
+To strong skill for Data Analysis we needs to learn this resources to have a best practice in this domains.
+Python For Data Analysis
+SQL For Data Analysis
+Python Data Visulization
+Data Analysis Datasets
+Data Analysis Libraries
+Pandas Tutorial
+Learn Pandas to unlock powerful tools for data analysis in Python. This essential library offers versatile data structures like DataFrames, enabling efficient data manipulation, analysis, and visualization. Mastering Pandas will significantly enhance your ability to handle and extract insights from complex datasets, making it an indispensable skill for any data analyst or scientist.
+Numpy Tutorial
+Learn NumPy to master numerical computing in Python. This foundational library provides support for arrays, matrices, and high-level mathematical functions, making data manipulation and computation highly efficient. Understanding NumPy is crucial for performing advanced data analysis and scientific computing, and it serves as a cornerstone for many other data science libraries.
+Understanding the Data
+What is Data?
+Sample Vs Population Statistic
+Different Data Types:Qualitative vs Quantitative (or categorical vs numerical)Univariate Vs Multivariate Data typesAttributes of Nominal, Ordinal Vs Interval Data Types
+Qualitative vs Quantitative (or categorical vs numerical)
+Univariate Vs Multivariate Data types
+Attributes of Nominal, Ordinal Vs Interval Data Types
+Read and Loading the data set:
+Read Dataset with PandasPython | Read CSVExport Pandas dataframe to a CSV filePandas | Parsing JSON DatasetExporting Pandas DataFrame to JSON FileWorking with Excel files using Pandas
+Python | Read CSV
+Export Pandas dataframe to a CSV file
+Pandas | Parsing JSON Dataset
+Exporting Pandas DataFrame to JSON File
+Working with Excel files using Pandas
+Slicing, Indexing, Manipulating, and Cleaning Pandas Dataframe
+Data Preprocessing:
+Data preparation is a critical step in any data analysis or machine learning project. It involves a variety of tasks aimed at transforming raw data into a clean and usable format. Properly prepared data ensures more accurate and reliable analysis results, leading to better decision-making and more effective predictive models. This guide will cover key aspects of data preparation, including data formatting, data cleaning, outlier detection, data transformation, and data sampling.
+Data FormattingFormatting float column of the data frame in PandasHow to Check the Data Type in Pandas DataFrame?How to change the Pandas datetime format in Python?Convert the column type from string to datetime format in Pandas data frame
+Formatting float column of the data frame in Pandas
+How to Check the Data Type in Pandas DataFrame?
+How to change the Pandas datetime format in Python?
+Convert the column type from string to datetime format in Pandas data frame
+Data CleaningOverview of Data CleaningMissing valuesWorking with Missing Data in PandasDrop rows from Pandas dataframe with missing values or NaN in columnsCount NaN or missing values in Pandas DataFrameHandling Missing ValuesWorking with Missing DataHandle Missing Data with Simple ImputerHandle missing values of categorical variablesReplacing missing values using Pandas in PythonOutliers DetectionBoxplotsDetect and Remove the Outliers using PythonZ-score for outlier DetectionDensity-based method for outlier DetectionClustering-Based approaches for outlier detectionDBSCAN Clustering for outlier detectionBinningBinning or DiscretizationBinning method for data smoothingIsolation Forest  for outlier detectionSupport Vector Machine for outlier detection
+Overview of Data Cleaning
+Missing valuesWorking with Missing Data in PandasDrop rows from Pandas dataframe with missing values or NaN in columnsCount NaN or missing values in Pandas DataFrameHandling Missing ValuesWorking with Missing DataHandle Missing Data with Simple ImputerHandle missing values of categorical variablesReplacing missing values using Pandas in Python
+Working with Missing Data in Pandas
+Drop rows from Pandas dataframe with missing values or NaN in columns
+Count NaN or missing values in Pandas DataFrame
+Handling Missing Values
+Working with Missing Data
+Handle Missing Data with Simple Imputer
+Handle missing values of categorical variables
+Replacing missing values using Pandas in Python
+Outliers DetectionBoxplotsDetect and Remove the Outliers using PythonZ-score for outlier DetectionDensity-based method for outlier DetectionClustering-Based approaches for outlier detectionDBSCAN Clustering for outlier detectionBinningBinning or DiscretizationBinning method for data smoothingIsolation Forest  for outlier detectionSupport Vector Machine for outlier detection
+Boxplots
+Detect and Remove the Outliers using Python
+Z-score for outlier Detection
+Density-based method for outlier DetectionClustering-Based approaches for outlier detectionDBSCAN Clustering for outlier detection
+Clustering-Based approaches for outlier detection
+DBSCAN Clustering for outlier detection
+BinningBinning or DiscretizationBinning method for data smoothing
+Binning or Discretization
+Binning method for data smoothing
+Isolation Forest  for outlier detection
+Support Vector Machine for outlier detection
+Data TransformationNormalization and ScalingData NormalizationDifference between Data Normalization and ScalingData Normalization with PandasHow to Standardize Data in a Pandas DataFrame?Max-Min NormalizationZ-score NormalizationDecimal scaling normalizationStandard Deviation NormalizationStandardizationLog TransformationPower transformation
+Normalization and ScalingData NormalizationDifference between Data Normalization and ScalingData Normalization with PandasHow to Standardize Data in a Pandas DataFrame?Max-Min NormalizationZ-score NormalizationDecimal scaling normalizationStandard Deviation NormalizationStandardizationLog TransformationPower transformation
+Data Normalization
+Difference between Data Normalization and Scaling
+Data Normalization with Pandas
+How to Standardize Data in a Pandas DataFrame?
+Max-Min Normalization
+Z-score Normalization
+Decimal scaling normalization
+Standard Deviation Normalization
+Standardization
+Log Transformation
+Power transformation
+Data sampling:Probability samplingSimple Random SamplingClustered SamplingStratified Random samplingSystematic SamplingNon-Probability sampling
+Probability samplingSimple Random SamplingClustered SamplingStratified Random samplingSystematic Sampling
+Simple Random Sampling
+Clustered Sampling
+Stratified Random sampling
+Systematic Sampling
+Non-Probability sampling
+Exploratory Data Analysis
+Exploratory Data Analysis (EDA) is also crucial step in the data analysis process that involves summarizing the main characteristics of a dataset, often with visual methods. The goal of EDA is to understand the data’s underlying structure, detect patterns and anomalies, test hypotheses, and check assumptions. EDA is essential for making informed decisions about data preprocessing, feature engineering, and modeling.
+What is Exploratory Data AnalysisExploratory Data Analysis in PythonExploratory Data Analysis in R
+Exploratory Data Analysis in Python
+Exploratory Data Analysis in R
+Univariate Data  EDA:Measures of Central TendencyMeasures of spreadinterquartile range (IQR)ANOVASkewnessCalculate Skewness and Kurtosis in PythonDifference between Skewness vs kurtosisHistogramInterpretations of HistogramBoxplotsQuantile-Quantile plotsQuantile-Quantile Plot in PythonQuantile-Quantile Plot in R
+Measures of Central Tendency
+Measures of spread
+interquartile range (IQR)
+ANOVA
+Skewness
+Calculate Skewness and Kurtosis in Python
+Difference between Skewness vs kurtosis
+Histogram
+Interpretations of Histogram
+Boxplots
+Quantile-Quantile plotsQuantile-Quantile Plot in PythonQuantile-Quantile Plot in R
+Quantile-Quantile Plot in Python
+Quantile-Quantile Plot in R
+Multivariate Data EDACross-tabulationCorrelation & Correlation MatrixCorrelation and CovarianceFactor AnalysisCluster AnalysisMANOVA(Multivariate Analysis of Variance)Canonical Correlation AnalysisCorrespondence AnalysisMultiDimensional Scaling
+Cross-tabulation
+Correlation & Correlation Matrix
+Correlation and Covariance
+Factor Analysis
+Cluster Analysis
+MANOVA(Multivariate Analysis of Variance)
+Canonical Correlation Analysis
+Correspondence Analysis
+MultiDimensional Scaling
+Probability DistributionsCentral Limit TheoremCumulative Distribution FunctionsCalculate and plot a Cumulative Distribution functionPlot Cumulative Distribution Function in RProbability Density FunctionsProbability Density Estimation & Maximum Likelihood EstimationExponential DistributionNormal DistributionNormal Distribution functionNormal Distribution in PythonNormal Distribution in RBinomial DistributionPython – Binomial DistributionBernoulli Distribution in RPoisson DistributionP - ValueZ - ScoreT-distributionT-distributiont-distribution in Rt-distribution in PythonPoint EstimateConfidence IntervalsChi-Squared TestsHypothesis TestingHypothesis Testing FormulaOne-Tailed Test & Two-Tailed Test
+Central Limit Theorem
+Cumulative Distribution FunctionsCalculate and plot a Cumulative Distribution functionPlot Cumulative Distribution Function in R
+Calculate and plot a Cumulative Distribution function
+Plot Cumulative Distribution Function in R
+Probability Density Functions
+Probability Density Estimation & Maximum Likelihood Estimation
+Exponential Distribution
+Normal DistributionNormal Distribution functionNormal Distribution in PythonNormal Distribution in R
+Normal Distribution functionNormal Distribution in PythonNormal Distribution in R
+Normal Distribution in Python
+Normal Distribution in R
+Binomial DistributionPython – Binomial DistributionBernoulli Distribution in R
+Python – Binomial Distribution
+Bernoulli Distribution in R
+Poisson Distribution
+P - Value
+Z - Score
+T-distributionT-distributiont-distribution in Rt-distribution in Python
+T-distributiont-distribution in Rt-distribution in Python
+t-distribution in R
+t-distribution in Python
+Point Estimate
+Confidence Intervals
+Chi-Squared Tests
+Hypothesis TestingHypothesis Testing FormulaOne-Tailed Test & Two-Tailed Test
+Hypothesis Testing Formula
+One-Tailed Test & Two-Tailed Test
+Time Series Data Analysis:
+Time series data analysis involves examining data points collected or recorded at specific time intervals. This type of data is ubiquitous in various fields, such as finance, economics, environmental science, and many others. The primary goal is to understand the underlying structure and patterns to make accurate predictions or decisions.
+Define Time Series Data
+Data and Time function in Python
+Time Series Data Plotting
+Deal with missing values in a Time series
+Moving Averages in Time Series Data
+Stationarity in Time Series Data
+Seasonality Detection in Time Series Data
+Trend in Time Series Data
+Testing for Mean Reversion
+Augmented Dickey-Fuller Test
+What is Autocorrelation?
+Data Analysis Tools:
+Excel Tutorial
+Tableau Tutorial
+Power BI Tutorial
+Need for Data Analysis
+Data analytics is significant for business optimization performance. An organization can also use data analytics to make better business decisions and support analyzing customer trends and fulfillment, which can lead to unknown and better products and services. Executing it into the business model indicates businesses can help reduce costs by recognizing more efficient modes of doing business.
+Applications of Data Analysis
+Better decision-making:The Key advantage of data analysis is better decision-making in the long term. Rather than depending only on knowledge, businesses are increasingly looking at data before deciding.
+Identification of potential risks:Companies in today's world succeed in high-risk conditions, but those environments require critical risk management processes, and extensive data has contributed to developing new risk management solutions. Data can enhance the effectiveness of actual simulations to predict future risks and create better planning.
+Increase the efficiency of work:Data analysis allows you to analyze a large set of data and present it in a structured way to help reach your organization’s objectives. Possibilities and progress within the organization are reflected, and activities can increase work efficiency and productivity. It enables a culture of efficiency and collaboration by allowing managers to share detailed data with employees.
+Delivering relevant products:Products are the oil for every organization, and often the most important asset of organizations. The role of the product management team is to determine trends that drive strategic creation, and activity plans for unique functions and services.
+Track customer behavioral changes:Consumers have a lot to choose from in products available in the markets. Organizations have to pay attention to consumer demands and expectations, So to analyze the behavior of the customer data analysis is very important.
+Data Analysis
+AI-ML-DS
+Tutorials
+AI-ML-DS With Python
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20230413154237_Data-Analysis-Tutorial.webp
+media.geeksforgeeks.org_img-practice_prod_courses_715_Mobile_Other_data_analytics_1720850111.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_261_Web_Content_dspy_1723008711.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

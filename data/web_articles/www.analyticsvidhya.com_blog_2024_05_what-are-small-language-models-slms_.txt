@@ -1,0 +1,156 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+What are Small Language Models (SLMs)?
+Everyone’s talking aboutLarge Language Models, or LLMs, and how amazing they are. But there’s also something exciting happening with Small Language Models (SLMs) that are starting to get more attention. Big advancements in the field ofNLPcome from powerful or “Large” models likeGPT-4andGemini, which are experts in handling tasks such as translating languages, summarizing text, and having conversations. These models are great because they process language much like humans do.
+But, there’s a catch with these big models: they need a lot of compute power and storage, which can be expensive and hard to manage, especially in places where there’s not a lot of advanced technology.
+To fix this problem, experts have come up with Small Language Models or SLMs. These smaller models don’t use as much compute and are easier to handle, making them perfect for places with less tech resources. Even though they’re smaller, they’re still powerful and can do many of the same jobs as the bigger models. So, they’re small in size but big in what they can do.
+Table of contents
+What are Small Language Models?
+What is “Small” in Small Language Models?
+Examples of Small Language Models
+How do Small Language Models Work?
+Differences Between Small Language Models (SLMs) and Large Language Models (LLMs)
+Pros and Cons of SLMs
+Conclusion
+What are Small Language Models?
+Small language models are simple and efficient types ofneural networksmade for handling language tasks. They work almost as well as bigger models but use far fewer resources and need less computing power.
+Imagine a language model as a student learning a new language. A small language model is like a student with a smaller notebook to write down vocabulary and grammar rules. They can still learn and use the language, but they might not be able to remember as many complex concepts or nuances as a student with a larger notebook (a larger language model).
+The advantage of SLMs is that they are faster and require less computing power than their larger counterparts. This makes them more practical to use in applications where resources are limited, such as on mobile devices or in real-time systems.
+However, the trade-off is that SMLs may not perform as well as larger models on more complex language tasks, such as understanding context, answering complicated questions, or generating highly coherent and nuanced text.
+What is “Small” in Small Language Models?
+The term “small” in small language models refers to the reduced number of parameters and the overall size of the model compared to large language models. While LLMs can have billions or even trillions of parameters, SLMs typically have a few million to a few hundred million parameters(in a few cases up to a couple of billions as well).
+The number of parameters in a language model determines its capacity to learn and store information during training. More parameters generally allow a model to capture more complex patterns and nuances in the training data, leading to better performance on natural language tasks.
+However, the exact definition of “small” can vary depending on the context and the current state of the art in language modeling. As model sizes have grown exponentially in recent years, what was once considered a large model might now be regarded as small.
+Checkout about the 7-Step Guide for Small Language Models on Local CPU
+Examples of Small Language Models
+Some examples of small language models include:
+GPT-2 Small:OpenAI’s GPT-2 Small model has 117 million parameters, which is considered small compared to its larger counterparts, such as GPT-2 Medium (345 million parameters) and GPT-2 Large (774 million parameters).Click here.
+DistilBERT:This is a distilled version of BERT (Bidirectional Encoder Representations from Transformers) that retains 95% of BERT’s performance while being 40% smaller and 60% faster. DistilBERT has around 66 million parameters.Click here.
+TinyBERT:Another compressed version of BERT, TinyBERT is even smaller than DistilBERT, with around 15 million parameters.Click here.
+While SLMs typically have a few hundred million parameters,  some larger models with 1-3 billion parameters can also be classified as SLMs because they can still be run on standard GPU hardware. Here are some of the examples of such models:
+Phi3 Mini:Phi-3-mini is a compact language model with 3.8 billion parameters, trained on a vast dataset of 3.3 trillion tokens. Despite its smaller size, it competes with larger models like Mixtral 8x7B and GPT-3.5, achieving notable scores of 69% on MMLU and 8.38 on MT-bench.Click here.
+Google Gemma 2B:Google Gemma 2B is a part of the Gemma family, lightweight open models designed for various text generation tasks. With a context length of 8192 tokens, Gemma models are suitable for deployment in resource-limited environments like laptops, desktops, or cloud infrastructures.Click here.
+Databricks Dolly 3B:Databricks’ dolly-v2-3b is a commercial-grade instruction-following large language model trained on the Databricks platform. Derived from pythia-2.8b, it’s trained on around 15k instruction/response pairs covering various domains. While not state-of-the-art, it exhibits surprisingly high-quality instruction-following behavior.Click here.
+How do Small Language Models Work?
+Small language models use the same basic ideas as large language models, like self-attention mechanisms and transformer structures. However, they use different methods to make the model smaller and require less computing power:
+Model Compression: SLMs use methods like pruning, quantization, and low-rank factorization to cut down the number of parameters. This means they simplify the model without losing much performance.
+Knowledge Distillation: In this technique, a smaller model learns to act like a larger, already trained model. The student model tries to produce results similar to the teacher, effectively squeezing the essential knowledge from the big model into a smaller one.
+Efficient Architectures: SLMs often use specially designed structures that focus on being efficient, such as Transformer-XL and Linformer. These designs modify the usual transformer structure to be less complex and use less memory.
+Differences Between Small Language Models (SLMs) and Large Language Models (LLMs)
+Criteria
+Small Language Models (SLMs)
+Large Language Models (LLMs)
+Number of Parameters
+Few million to a few hundred million
+Billions of parameters
+Computational Requirements
+Lower, suitable for resource-constrained devices
+Higher, require substantial computational resources
+Ease of Deployment
+Easier to deploy on resource-constrained devices
+Challenging to deploy due to high resource requirements
+Training and Inference Speed
+Faster, more efficient
+Slower, more computationally intensive
+Performance
+Competitive, but may not match state-of-the-art results on certain tasks
+State-of-the-art performance on various NLP tasks
+Model Size
+Significantly smaller, typically 40% to 60% smaller than LLMs
+Large, requiring substantial storage space
+Real-world Applications
+Suitable for applications with limited computational resources
+Primarily used in resource-rich environments, such as cloud services and high-performance computing systems
+Pros and Cons of SLMs
+Here are some pros and cons of Small Language Models:
+Pros:
+Computationally efficient, requiring fewer resources for training and inference
+Easier to deploy on resource-constrained devices like mobile phones and edge devices
+Faster training and inference times compared to LLMs
+Smaller model size, making them more storage-friendly
+Enable wider adoption of NLP technologies in real-world applications
+Cons:
+May not achieve the same level of performance as LLMs on certain complex NLP tasks
+Require additional techniques like model compression and knowledge distillation, which can add complexity to the development process
+May have limitations in capturing long-range dependencies and handling highly context-dependent tasks
+The trade-off between model size and performance needs to be carefully considered for each specific use case
+May require more extensive fine-tuning or domain adaptation compared to LLMs to achieve optimal performance on specific tasks
+Despite these limitations, SMLs offer a promising approach to making NLP more accessible and efficient, enabling a wider range of applications and use cases in resource-constrained environments.
+Conclusion
+Small Language Models are a good alternative to Large Language Models because they are efficient, less expensive, and easier to manage. They can do many different language tasks and are becoming more popular in artificial intelligence and machine learning.
+Before you decide to use a Large Language Model for your project, take a moment to think about whether a Small Language Model could work just as well. This is like in the past when people used to pick complex Deep Learning models, even though simpler machine learning models could have done the job too—and that’s still something to consider today.
+I’m a data lover who enjoys finding hidden patterns and turning them into useful insights. As the Manager - Content and Growth at Analytics Vidhya, I help data enthusiasts learn, share, and grow together.
+Thanks for stopping by my profile - hope you found something you liked :)
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Google Gemma, the Open-Source LLM Powerhouse
+Google Gemma, the Open-Source LLM Powerhouse
+GPT-4o mini: Features, Performance and Application
+GPT-4o mini: Features, Performance and Application
+Small Language Models for Your Team’s Eve...
+Small Language Models for Your Team’s Eve...
+When to Use SLM over LLM?
+When to Use SLM over LLM?
+Performance Evaluation of Small Language Models...
+Performance Evaluation of Small Language Models...
+SLMs vs LLMs: The Ultimate Comparison Guide
+SLMs vs LLMs: The Ultimate Comparison Guide
+Fine-tuning & Inference of Small Language M...
+Fine-tuning & Inference of Small Language M...
+Top 13 Small Language Models (SLMs)
+Top 13 Small Language Models (SLMs)
+7-Step Guide for Small Language Models on Local...
+7-Step Guide for Small Language Models on Local...
+How to Work with Nvidia Nemotron-Mini-4B-Instruct?
+How to Work with Nvidia Nemotron-Mini-4B-Instruct?
+Responses From Readers
+Thanks for sharing this!
+Thank you so much for this valuable source
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_WxTrFfG.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_WxTrFfG.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+av-eks-lekhak.s3.amazonaws.com_media_article_images_converted_image_UE65TQn.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

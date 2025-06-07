@@ -1,0 +1,233 @@
+DSA Course
+DSA Tutorial
+Data Structures
+Algorithms
+Array
+Strings
+Linked List
+Stack
+Queue
+Tree
+Graph
+Searching
+Sorting
+Recursion
+Dynamic Programming
+Binary Tree
+Binary Search Tree
+Heap
+Hashing
+Divide & Conquer
+Mathematical
+Geometric
+Bitwise
+Greedy
+Backtracking
+Branch and Bound
+Matrix
+Pattern Searching
+Randomized
+Explore GfG Courses
+Share Your Experiences
+DSA Tutorial - Learn Data Structures and Algorithms
+Array Data Structure  Guide
+String in Data Structure
+Matrix Data Structure
+Searching Algorithms
+Sorting Algorithms
+Hashing in Data Structure
+Two Pointers Technique
+Sliding Window Technique
+Prefix Sum Array - Implementation and Applications
+Linked List Data Structure
+Stack Data Structure
+Queue Data Structure
+Recursive Algorithms
+Tree Data Structure
+Heap Data Structure
+Greedy Algorithms
+Dynamic Programming or DP
+Divide and Conquer Algorithm
+Graph  Algorithms
+Competitive Programming - A Complete Guide
+DSA to DevelopmentCourse
+Competitive Programming - A Complete GuideLast Updated :24 Nov, 2024CommentsImproveSuggest changesLike ArticleLikeReportCompetitive Programmingis a mental sport that enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.Related CourseCompetitive Programming CourseGet ready to level up your programming skills with thisCompetitive Programming - Self Paced Course. Learn theFundamentals of programming, DSA, Mathematical algorithms, and much more. So, why wait? Dive into the world of Programming by enrolling in this course today!Table of ContentWhat is Competitive Programming?Basics of Competitive ProgrammingBasics Of Array , String, Greedy and Bit ManipulationNumber Theory and CombinatoricsSearching, Sorting and Basic Data StructuresTree and GraphsRecursion and Dynamic ProgrammingString AlgorithmsGeometry and Game TheoryAdvance Data StructuresWhat is Competitive Programming?Competitive programmingis amind sport, where people compete against each other to solve some programming questions/logic with an efficient approach and within a time constraint. The goal of competitive programming is to write code to solve a problem within a given timeframe.For those aiming to dive into competitive programming, theGeeksforGeeks Practice Platformoffers a wide variety of problems to help you build speed and accuracy.Why Should You Do Competitive Programming?Competitive programming is the best way to master youranalytical thinking,andlogical thinkingand improve your coding skills. It is now being considered by many tech giants likeGoogleandFacebook. Also,Facebookorganizes theMeta Hacker Cupannually to promote all the Competitive Programmers around the world to compete against one another and earn a chance to get hired at Meta.Here are some reasons about why you should start Competitive Programming:Mental Agility and Quick Thinking:By practicing competitive programming, you start thinking quickly and within the given timeframe and this improves your mental agility and helps enhance your thinking ability.Competitive Spirit:Competitive programming can be fun for those who enjoy the thrill of competition. Solving challenging problems that too within a timeframeboosts confidenceand a sense of accomplishment.Career Prospect:Competitive programming is very important when it comes to technical interviews for software engineering-related jobs. Many tech giants use competitive programming contests as a medium of recruitment. Companies likeGoogle,ServiceNow,Atlassian, etc. have technical interviews based on competitive programming problems.Learning Opportunity:In Competitive programming, we get a wide range of variety of problems andvarious arithmetic concepts. Competitive programming exposes various data structures and algorithms which help us better understand the complexity of problems.Personal Growth as a Programmer:Competitive programming is one of the best ways to grow as a programmer. It helps you get a command over problem-solving, as you’ve to solve challenging problems within a time limit.Networking:Participating in various coding contests gives you a chance to be a part of communities with like-minded people. Here in these communities, you get various important resources and guidance from experts who can help you get so many opportunities like referrals, job-opening information, mentorship, etc.Basics of Competitive Programming:What is Competitive Programming and How to Prepare for It?Competitive Programming (CP) Handbook with Complete RoadmapFast I/O:CPP,Java,PythonUseful libraries:CPP,Java,PythonInput/Output Files:Set 1,Set 2Tips and Tricks:Set 1,Set 2Input Methods:CPP,Java,PythonTemplate:CPPLanguage:CPP,Java,PythonTime Complexity:AnalysisSetting up Competitive Programming Environment:Sublime: CPP,Visual Studio: CPP and PythonCSES Problem SetBasics Of Array , String, Greedy and Bit ManipulationReverse an array(Related Problems:Problem 1,Problem 2)Sum of DigitsProgram to Check if a Given String is Palindrome in C,Python(RelatedProblem)Sum of array elements(RelatedProblem)Maximum and Minimum element of array(RelatedProblem)Counting frequencies of array elements(Related Problems:Problem 1,Problem 2)Float and Precision:CPP,Java,PythonPrefix sum,2D Prefix Sum,Difference Array | Range update query in O(1):(Related Problems:Problem 1,Problem 2)Coordinate Compression:(RelatedProblem)Kadane Algorithm:(RelatedProblem)Activity Selection Problem: (RelatedProblem)Job Sequencing Problem: (RelatedProblem)Sliding Window:(RelatedProblem)Logical Operators:CPP Set 1,Set 2,Java,PythonBit Manipulation:Set 1,Set 2,Set 3(Related Problems:Problem 1,Problem 2,Problem 3)Bitset CPPTop 50 Array Coding Problems for InterviewsTop 50 String Coding Problems for InterviewsNumber Theory and CombinatoricsPrime Number(RelatedProblem)Sieve of Eratosthenes(RelatedProblem)Segmented Sieve(RelatedProblem)Find all divisors of a natural number(RelatedProblem)Least prime factor of numbers upto N(RelatedProblem)All prime factors of a number(RelatedProblem)Prime Factorization using Sieve O(log n) for multiple queriesSum of all factors of a number(RelatedProblem)Gcd of Two numbers,Lcm of two numbers(RelatedProblem)Linear Diophantine EquationsEuclidean algorithms (Basic and Extended)Euler’s Totient Function(RelatedProblem)Euler’s Totient function for all numbers smaller than or equal to nInclusion Exclusion PrinciplePigeon Hole PrincipleModular OperationsModular Inverse:(RelatedProblem 1,Problem 2)Chinese Remainder Theorem:Set 1,Set 2Power(x, y) in O( logN )Power(x, y) % mod:(RelatedProblem 1,Problem 2)Matrix Exponentiation:(RelatedProblem)Permutation and Combination:Set 1,Set 2,Quiz 1,Quiz 2nCr:Set 1,Set 2nCr % mod:Set1,Set 2:(RelatedProblem)nCr % mod for multiple queries:(RelatedProblem)Catalan numbers:Applicationsand RelatedProblemGaussian EliminationSearching, Sorting and Basic Data StructuresLinear Search(Related Problems:Problem 1,Problem 2)Binary Search,Unbounded Binary Search(Related Problems :Problem 1,Problem 2,Problem 3)Inbuilt sorting O(logN):CPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3,Problem 4)Merge Sort(Related Problems:Problem 1,Problem 2)Quick Sort(Related Problems:Problem)Stack:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)Queue:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)Deque:Implementation inCPP,Java,Python(Related Problems:Problem)Priority Queue:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)Tree and GraphsTree BFS,Tree DFS(Related Problems:Problem 1,Problem 2,Problem 3)Graph BFS,Graph BFS 2,Graph DFS(Related Problems:Problem 1,Problem 2)Dijkstra’s Shortest Path Algorithm(Related Problems:Problem 1,Problem 2)Bellman – Ford Algorithm(RelatedProblem)Floyd Warshall Algorithm(RelatedProblem)0-1 BFS,Dial’s AlgorithmDetect cycle:Directed,Undirected(Related Problems:Problem 1,Problem 2)Disjoint set(union-find):Set 1,Set 2,Set 3(RelatedProblem)Topological Sorting,Kahn’s Algorithm(RelatedProblem)Minimum Spanning Tree:Prim’s Algorithm,Kruskal Algorithm(RelatedProblem)Bipartite or not,M-Coloring(Related Problems:Problem 1,Problem 2,Problem 3)Strongly Connected Components:Tarjan,Kosaraju(Related Problems:Problem 1,Problem 2)Euler Path:Undirected,Directed(RelatedProblem)Flow Algorithms:Set 1,Set 2,Dinic’s Algorithm(Related Problems:Problem 1,Problem 2)Diameter of TreeCentroid DecompositionLowest Common AncestorTop 50 Tree Coding Problems for InterviewsRecursion and Dynamic ProgrammingRecursion:Quiz 1,Quiz 2,Quiz 3,Quiz 4,Quiz 5,Quiz 6,Quiz 7(Related Problems:Problem 1,Problem 2,Problem 3)Backtracking: (Related Problems:Problem 1,Problem 2)Dp Introduction:Set 1,Set 2,Set 3,Set 4,Set 5Most useful Dynamic Programming questionsAdditional DP Problems :Problem 1,Problem 2,Problem 3,Problem 4Dp on Trees:Set 1,Set 2Dp on Bit Masking:Set 1,Set 2,Set 3Digit DpTop 50 Dynamic Programming Coding Problems for InterviewsString AlgorithmsSuffix Tree:Set 1,Set 2Z AlgorithmKMP Algorithm,Rabin-Karp Algorithm(RelatedProblem)Manacher’s Algorithm:Set 1,Set 2,Set 3,Set 4Suffix Automation:Set 1,Set 2Geometry and Game TheoryClosest Pair of PointsHow to check if two given line segments intersect?(RelatedProblem)How to check if a given point lies inside or outside a polygon?Convex Hull:Set 1,Set 2(RelatedProblem)Given n line segments, find if any two segments intersectCheck whether a given point lies inside a triangle or notHow to check if given four points form a square:(RelatedProblem)Combinatorial Game Theory:Set 1,Set 2,Set 3,Set 4Minimax Algorithm in Game Theory:Set 1,Set 2,Set 3,Set 4,Set 5Variation in Nim GameFind the winner in nim-gameOptimal Strategy for a GameAdvance Data StructuresTrie:Set 1,Set 2,Set 3, (Related Problems:Problem 1,Problem 2,Problem 3,Problem 4,Problem 5)Fenwick Tree:Set 1,Set 2,Set 3,Set 4, (RelatedProblem)Segment Tree:Set 1,Set 2,Set 3(RelatedProblem)Sparse Table:Set 1,Set 2Sqrt Decomposition:Set 1,Set 2Heavy Light Decomposition:Set 1,Set 2Meet in the MiddleMO’s Algorithm,ProblemPolicy based Data StructureYou may also checkGeeksforgeeks Online Coursesto Learn Data Structures and Algorithms, well designed courses taught by Industry Experts.GeeksforGeeks CoursesCompetitive Programming - Self Paced CourseGet ready to take your programming skills to the next level? ThisCompetitive Programming - Coursewill help you enhance your problem-solving skills to be a programmer for a top company and gain a competitive edge over other candidates in SDE interviews. LearnBasics of programming, Data structure and algorithms, Efficient implementation of mathematical algorithmsand much more. Then, why wait? Take your first step towards becoming a better programmer, see you in the course!DSA Self PacedMaster Data Structures and Algorithms, trusted by over 75,000 students! Prepare for the interviews with leading IT giants like Microsoft, Amazon, Adobe, etc. Built with years of experience by top industry experts and gives you a complete package of video lectures, practice problems, quizzes, discussion forums and contests. Learn and master DSA at the most affordable price possible with GeeksforGeeksDSA Self-Paced Course. Join Today!Language Foundation Courses[C Programming/C++/JAVA/Python]Master any programming language from scratch and understand all its core fundamental concepts for a strong programming foundation at budget-friendly prices with help of GeeksforGeeks Language Foundation Courses –C Programming|Java Foundation|Python Foundation|C++ Foundation. These courses are for complete beginners who want to get started with programming and build their foundations. Start your coding journey today!.kartikImproveArticle Tags :MiscCompetitive ProgrammingDSAPractice Tags :Misc
+Competitive Programming - A Complete Guide
+Competitive Programmingis a mental sport that enables you to code a given problem under provided constraints. The purpose of this article is to guide every individual possessing a desire to excel in this sport. This article provides a detailed syllabus for Competitive Programming designed by industry experts to boost the preparation of the readers.
+Related Course
+Competitive Programming Course
+Get ready to level up your programming skills with thisCompetitive Programming - Self Paced Course. Learn theFundamentals of programming, DSA, Mathematical algorithms, and much more. So, why wait? Dive into the world of Programming by enrolling in this course today!
+Table of Content
+What is Competitive Programming?
+Basics of Competitive Programming
+Basics Of Array , String, Greedy and Bit Manipulation
+Number Theory and Combinatorics
+Searching, Sorting and Basic Data Structures
+Tree and Graphs
+Recursion and Dynamic Programming
+String Algorithms
+Geometry and Game Theory
+Advance Data Structures
+What is Competitive Programming?
+Competitive programmingis amind sport, where people compete against each other to solve some programming questions/logic with an efficient approach and within a time constraint. The goal of competitive programming is to write code to solve a problem within a given timeframe.
+For those aiming to dive into competitive programming, theGeeksforGeeks Practice Platformoffers a wide variety of problems to help you build speed and accuracy.
+Why Should You Do Competitive Programming?
+Competitive programming is the best way to master youranalytical thinking,andlogical thinkingand improve your coding skills. It is now being considered by many tech giants likeGoogleandFacebook. Also,Facebookorganizes theMeta Hacker Cupannually to promote all the Competitive Programmers around the world to compete against one another and earn a chance to get hired at Meta.
+Here are some reasons about why you should start Competitive Programming:
+Mental Agility and Quick Thinking:By practicing competitive programming, you start thinking quickly and within the given timeframe and this improves your mental agility and helps enhance your thinking ability.
+Competitive Spirit:Competitive programming can be fun for those who enjoy the thrill of competition. Solving challenging problems that too within a timeframeboosts confidenceand a sense of accomplishment.
+Career Prospect:Competitive programming is very important when it comes to technical interviews for software engineering-related jobs. Many tech giants use competitive programming contests as a medium of recruitment. Companies likeGoogle,ServiceNow,Atlassian, etc. have technical interviews based on competitive programming problems.
+Learning Opportunity:In Competitive programming, we get a wide range of variety of problems andvarious arithmetic concepts. Competitive programming exposes various data structures and algorithms which help us better understand the complexity of problems.
+Personal Growth as a Programmer:Competitive programming is one of the best ways to grow as a programmer. It helps you get a command over problem-solving, as you’ve to solve challenging problems within a time limit.
+Networking:Participating in various coding contests gives you a chance to be a part of communities with like-minded people. Here in these communities, you get various important resources and guidance from experts who can help you get so many opportunities like referrals, job-opening information, mentorship, etc.
+Basics of Competitive Programming:
+What is Competitive Programming and How to Prepare for It?
+Competitive Programming (CP) Handbook with Complete Roadmap
+Fast I/O:CPP,Java,Python
+Useful libraries:CPP,Java,Python
+Input/Output Files:Set 1,Set 2
+Tips and Tricks:Set 1,Set 2
+Input Methods:CPP,Java,Python
+Template:CPP
+Language:CPP,Java,Python
+Time Complexity:Analysis
+Setting up Competitive Programming Environment:Sublime: CPP,Visual Studio: CPP and Python
+CSES Problem Set
+Basics Of Array , String, Greedy and Bit Manipulation
+Reverse an array(Related Problems:Problem 1,Problem 2)
+Sum of Digits
+Program to Check if a Given String is Palindrome in C,Python(RelatedProblem)
+Sum of array elements(RelatedProblem)
+Maximum and Minimum element of array(RelatedProblem)
+Counting frequencies of array elements(Related Problems:Problem 1,Problem 2)
+Float and Precision:CPP,Java,Python
+Prefix sum,2D Prefix Sum,Difference Array | Range update query in O(1):(Related Problems:Problem 1,Problem 2)
+Coordinate Compression:(RelatedProblem)
+Kadane Algorithm:(RelatedProblem)
+Activity Selection Problem: (RelatedProblem)
+Job Sequencing Problem: (RelatedProblem)
+Sliding Window:(RelatedProblem)
+Logical Operators:CPP Set 1,Set 2,Java,Python
+Bit Manipulation:Set 1,Set 2,Set 3(Related Problems:Problem 1,Problem 2,Problem 3)
+Bitset CPP
+Top 50 Array Coding Problems for Interviews
+Top 50 String Coding Problems for Interviews
+Number Theory and Combinatorics
+Prime Number(RelatedProblem)
+Sieve of Eratosthenes(RelatedProblem)
+Segmented Sieve(RelatedProblem)
+Find all divisors of a natural number(RelatedProblem)
+Least prime factor of numbers upto N(RelatedProblem)
+All prime factors of a number(RelatedProblem)
+Prime Factorization using Sieve O(log n) for multiple queries
+Sum of all factors of a number(RelatedProblem)
+Gcd of Two numbers,Lcm of two numbers(RelatedProblem)
+Linear Diophantine Equations
+Euclidean algorithms (Basic and Extended)
+Euler’s Totient Function(RelatedProblem)
+Euler’s Totient function for all numbers smaller than or equal to n
+Inclusion Exclusion Principle
+Pigeon Hole Principle
+Modular Operations
+Modular Inverse:(RelatedProblem 1,Problem 2)
+Chinese Remainder Theorem:Set 1,Set 2
+Power(x, y) in O( logN )
+Power(x, y) % mod:(RelatedProblem 1,Problem 2)
+Matrix Exponentiation:(RelatedProblem)
+Permutation and Combination:Set 1,Set 2,Quiz 1,Quiz 2
+nCr:Set 1,Set 2
+nCr % mod:Set1,Set 2:(RelatedProblem)
+nCr % mod for multiple queries:(RelatedProblem)
+Catalan numbers:Applicationsand RelatedProblem
+Gaussian Elimination
+Searching, Sorting and Basic Data Structures
+Linear Search(Related Problems:Problem 1,Problem 2)
+Binary Search,Unbounded Binary Search(Related Problems :Problem 1,Problem 2,Problem 3)
+Inbuilt sorting O(logN):CPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3,Problem 4)
+Merge Sort(Related Problems:Problem 1,Problem 2)
+Quick Sort(Related Problems:Problem)
+Stack:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)
+Queue:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)
+Deque:Implementation inCPP,Java,Python(Related Problems:Problem)
+Priority Queue:Implementation inCPP,Java,Python(Related Problems:Problem 1,Problem 2,Problem 3)
+Tree and Graphs
+Tree BFS,Tree DFS(Related Problems:Problem 1,Problem 2,Problem 3)
+Graph BFS,Graph BFS 2,Graph DFS(Related Problems:Problem 1,Problem 2)
+Dijkstra’s Shortest Path Algorithm(Related Problems:Problem 1,Problem 2)
+Bellman – Ford Algorithm(RelatedProblem)
+Floyd Warshall Algorithm(RelatedProblem)
+0-1 BFS,Dial’s Algorithm
+Detect cycle:Directed,Undirected(Related Problems:Problem 1,Problem 2)
+Disjoint set(union-find):Set 1,Set 2,Set 3(RelatedProblem)
+Topological Sorting,Kahn’s Algorithm(RelatedProblem)
+Minimum Spanning Tree:Prim’s Algorithm,Kruskal Algorithm(RelatedProblem)
+Bipartite or not,M-Coloring(Related Problems:Problem 1,Problem 2,Problem 3)
+Strongly Connected Components:Tarjan,Kosaraju(Related Problems:Problem 1,Problem 2)
+Euler Path:Undirected,Directed(RelatedProblem)
+Flow Algorithms:Set 1,Set 2,Dinic’s Algorithm(Related Problems:Problem 1,Problem 2)
+Diameter of Tree
+Centroid Decomposition
+Lowest Common Ancestor
+Top 50 Tree Coding Problems for Interviews
+Recursion and Dynamic Programming
+Recursion:Quiz 1,Quiz 2,Quiz 3,Quiz 4,Quiz 5,Quiz 6,Quiz 7(Related Problems:Problem 1,Problem 2,Problem 3)
+Backtracking: (Related Problems:Problem 1,Problem 2)
+Dp Introduction:Set 1,Set 2,Set 3,Set 4,Set 5
+Most useful Dynamic Programming questions
+Additional DP Problems :Problem 1,Problem 2,Problem 3,Problem 4
+Dp on Trees:Set 1,Set 2
+Dp on Bit Masking:Set 1,Set 2,Set 3
+Digit Dp
+Top 50 Dynamic Programming Coding Problems for Interviews
+String Algorithms
+Suffix Tree:Set 1,Set 2
+Z Algorithm
+KMP Algorithm,Rabin-Karp Algorithm(RelatedProblem)
+Manacher’s Algorithm:Set 1,Set 2,Set 3,Set 4
+Suffix Automation:Set 1,Set 2
+Geometry and Game Theory
+Closest Pair of Points
+How to check if two given line segments intersect?(RelatedProblem)
+How to check if a given point lies inside or outside a polygon?
+Convex Hull:Set 1,Set 2(RelatedProblem)
+Given n line segments, find if any two segments intersect
+Check whether a given point lies inside a triangle or not
+How to check if given four points form a square:(RelatedProblem)
+Combinatorial Game Theory:Set 1,Set 2,Set 3,Set 4
+Minimax Algorithm in Game Theory:Set 1,Set 2,Set 3,Set 4,Set 5
+Variation in Nim Game
+Find the winner in nim-game
+Optimal Strategy for a Game
+Advance Data Structures
+Trie:Set 1,Set 2,Set 3, (Related Problems:Problem 1,Problem 2,Problem 3,Problem 4,Problem 5)
+Fenwick Tree:Set 1,Set 2,Set 3,Set 4, (RelatedProblem)
+Segment Tree:Set 1,Set 2,Set 3(RelatedProblem)
+Sparse Table:Set 1,Set 2
+Sqrt Decomposition:Set 1,Set 2
+Heavy Light Decomposition:Set 1,Set 2
+Meet in the Middle
+MO’s Algorithm,Problem
+Policy based Data Structure
+You may also checkGeeksforgeeks Online Coursesto Learn Data Structures and Algorithms, well designed courses taught by Industry Experts.
+GeeksforGeeks Courses
+Competitive Programming - Self Paced Course
+Get ready to take your programming skills to the next level? ThisCompetitive Programming - Coursewill help you enhance your problem-solving skills to be a programmer for a top company and gain a competitive edge over other candidates in SDE interviews. LearnBasics of programming, Data structure and algorithms, Efficient implementation of mathematical algorithmsand much more. Then, why wait? Take your first step towards becoming a better programmer, see you in the course!
+DSA Self Paced
+Master Data Structures and Algorithms, trusted by over 75,000 students! Prepare for the interviews with leading IT giants like Microsoft, Amazon, Adobe, etc. Built with years of experience by top industry experts and gives you a complete package of video lectures, practice problems, quizzes, discussion forums and contests. Learn and master DSA at the most affordable price possible with GeeksforGeeksDSA Self-Paced Course. Join Today!
+Language Foundation Courses[C Programming/C++/JAVA/Python]
+Master any programming language from scratch and understand all its core fundamental concepts for a strong programming foundation at budget-friendly prices with help of GeeksforGeeks Language Foundation Courses –C Programming|Java Foundation|Python Foundation|C++ Foundation. These courses are for complete beginners who want to get started with programming and build their foundations. Start your coding journey today!.
+Misc
+Competitive Programming
+DSA
+Misc
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_cdn-uploads_20210202223017_Competitive-Programming-_E2_80_93-A-Complete-Guide.png
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_img-practice_prod_courses_458_Mobile_Other_Course_Tech_Int_1720846791.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

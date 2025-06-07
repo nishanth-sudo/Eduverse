@@ -1,0 +1,322 @@
+C++ Home
+C++ Overview
+C++ Environment Setup
+C++ Basic Syntax
+C++ Comments
+C++ Hello World
+C++ Omitting Namespace
+C++ Tokens
+C++ Constants/Literals
+C++ Keywords
+C++ Identifiers
+C++ Data Types
+C++ Numeric Data Types
+C++ Character Data Type
+C++ Boolean Data Type
+C++ Variable Types
+C++ Variable Scope
+C++ Multiple Variables
+C++ Basic Input/Output
+C++ Modifier Types
+C++ Storage Classes
+C++ Numbers
+C++ Enumeration
+C++ Enum Class
+C++ References
+C++ Date & Time
+C++ Operators
+C++ Arithmetic Operators
+C++ Relational Operators
+C++ Logical Operators
+C++ Bitwise Operators
+C++ Assignment Operators
+C++ sizeof Operator
+C++ Conditional Operator
+C++ Comma Operator
+C++ Member Operators
+C++ Casting Operators
+C++ Pointer Operators
+C++ Operators Precedence
+C++ Unary Operators
+C++ Control Statements
+C++ Decision Making
+C++ if Statement
+C++ if else Statement
+C++ Nested if Statements
+C++ switch Statement
+C++ Nested switch Statements
+C++ Loop Types
+C++ while Loop
+C++ for Loop
+C++ do while Loop
+C++ Foreach Loop
+C++ Nested Loops
+C++ break Statement
+C++ continue Statement
+C++ goto Statement
+C++ Strings
+C++ Strings
+C++ Loop Through a String
+C++ String Length
+C++ String Concatenation
+C++ String Comparison
+C++ Functions
+C++ Functions
+C++ Multiple Function Parameters
+C++ Recursive Function
+C++ Return Values
+C++ Function Overloading
+C++ Function Overriding
+C++ Default Arguments
+C++ Arrays
+C++ Arrays
+C++ Multidimensional Arrays
+C++ Pointer to an Array
+C++ Passing Arrays to Functions
+C++ Return Array from Functions
+C++ Structure & Union
+C++ Structures
+C++ Unions
+C++ Pointers
+C++ Pointers
+C++ Dereferencing
+C++ Modify Pointers
+C++ Class and Objects
+C++ Object Oriented
+C++ Classes & Objects
+C++ Class Member Functions
+C++ Class Access Modifiers
+C++ Static Class Members
+C++ Static Data Members
+C++ Static Member Function
+C++ Inline Functions
+C++ this Pointer
+C++ Friend Functions
+C++ Pointer to Classes
+C++ Constructors
+C++ Constructor & Destructor
+C++ Default Constructors
+C++ Parameterized Constructors
+C++ Copy Constructor
+C++ Constructor Overloading
+C++ Constructor with Default Arguments
+C++ Delegating Constructors
+C++ Constructor Initialization List
+C++ Dynamic Initialization Using Constructors
+C++ Inheritance
+C++ Inheritance
+C++ Multiple Inheritance
+C++ Multilevel Inheritance
+C++ Object-oriented
+C++ Overloading
+C++ Polymorphism
+C++ Abstraction
+C++ Encapsulation
+C++ Interfaces
+C++ Virtual Function
+C++ Pure Virtual Functions & Abstract Classes
+C++ File Handling
+C++ Files and Streams
+C++ Reading From File
+C++ Advanced
+C++ Exception Handling
+C++ Dynamic Memory
+C++ Namespaces
+C++ Templates
+C++ Preprocessor
+C++ Signal Handling
+C++ Multithreading
+C++ Web Programming
+C++ Socket Programming
+C++ Concurrency
+C++ Advanced Concepts
+C++ Lambda Expression
+C++ unordered_multiset
+C++ Useful Resources
+C++ Questions and Answers
+C++ Quick Guide
+C++ Cheatsheet
+C++ STL Tutorial
+C++ Standard Library
+C++ Useful Resources
+C++ Discussion
+C++ Online Compiler
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+C++ Tutorial
+This C++ tutorial has been written by experienced C++ programmers, which helps beginners to advanced programmers while learning C++ in simple and easy steps. This tutorial uses a simple and practical approach to describe the concepts ofC++to software engineers.
+What is C++?
+C++is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs.C++runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. C++ is an extension of theC programming languagewith object-oriented programming concepts. Or, we can say, "C++ is a superset of C programming with additional implementation of object-oriented concepts".
+Why to Learn C++
+C++is an important programming language for students and working professionals to become great software developers. I will list down some of the key advantages of learning C++:
+C++ is very close to hardware, so you get a chance to work at a low level, which gives you a lot of control in terms of memory management, better performance, and finally, robust software development.
+C++ programminggives you a clear understanding of object-oriented programming. You will understand low level implementation of polymorphism when you implement virtual tables and virtual table pointers, or dynamic type identification.
+C++ is one of the evergreen programming languages and is loved by millions of software developers. If you are a great C++ programmer, then you will never sit without work, and more importantly, you will get highly paid for your work.
+C++ is the most widely used programming language in application and system programming. So you can choose your area of interest in software development.
+C++ really teaches you the difference between compiler, linker, and loader, different data types, storage classes, variable types, their scopes, etc.
+There are 1000s of good reasons to learn C++ programming. But one thing is for sure: to learn any programming language, not only C++, you just need to code and code and finally code until you become an expert.
+Hello, World! Program Using C++
+Just to give you a little excitement aboutC++ programming, I'm going to give you a small conventional C++ Hello World program, You can try it by clicking on "Edit & Run".
+Below is the code to print "Hello World" on the screen −
+#include <iostream>
+using namespace std;
+
+// main() is where program execution begins.
+int main() {
+   cout << "Hello, World!"; // prints Hello, World!
+   return 0;
+}
+C++ Online Compiler
+We provided an easy, user-friendly, and fast C++ online compiler, where you can write, save, run, and share your C++ programs. Click on this link to open it:C++ Online Compiler.
+Try to click the iconto run the following C++ code to print conventional "Hello, World!" using C++ programming.
+#include <iostream>
+using namespace std;
+
+int main() {
+   cout << "Hello, World!"; // prints Hello, World!
+   return 0;
+}
+There are many C++ compilers available that you can use to compile and run the above-mentioned program:
+Apple C++. Xcode
+Bloodshed Dev-C++
+Clang C++
+Cygwin (GNU C++)
+Mentor Graphics
+MINGW - "Minimalist GNU for Windows"
+GNU CC source
+IBM C++
+Intel C++
+Microsoft Visual C++
+Oracle C++
+HP C++
+Features of C++
+The following are the features of C++ programming language −
+C language compatibility: C++ provides backward compatibility with C; it supports allfeatures of C language.
+Object-oriented programming: C++ supports the concepts of OOPs such asobjects & classes,encapsulation, data binding,inheritance, andpolymorphism.
+Compiled language:C++ is a compiler language where the complete code is converted into machine language, which makes it a faster programming language.
+Standard template library:C++ provides many data structures and algorithms-related library collections, such as template libraries for contains, iterators, algorithms, etc.
+Dynamic memory management: C++ provides two operatorsnewanddeletethat help to allocate and deallocate memory blocks dynamically.
+Exception handling: C++ provides try, catch, and throw blocks for exceptional handling, which were not available in C programming.
+Applications of C++ Programming
+As mentioned before, C++ is one of the most widely used programming languages. It has its presence in almost every area of software development. I'm going to list a few of them here:
+Application Software Development- C++ programming has been used in developing almost all the majorOperating Systemslike Windows, Mac OSX and Linux. Apart from the operating systems,  the core part of many browsers, like Mozilla Firefox and Chrome have been written using C++. C++ also has been used in developing the most popular database system calledMySQL.
+Programming Languages Development- C++ has been used extensively in developing new programming languages likeC#,Java,JavaScript,Perl, UNIX's C Shell,PHP,Python, and Verilog, etc.
+Computation Programming- C++ is the best friend of scientists because of its fast speed and computational efficiencies.
+Games Development- C++ is extremely fast, which allows programmers to do procedural programming for CPU-intensive functions and provides greater control over hardware, because of which it has been widely used in the development of gaming engines.
+Embedded System- C++ is being heavily used in developing medical and engineering applications like software for MRI machines, high-end CAD/CAM systems, etc.
+This list goes on. There are various areas where software developers are happily using C++ to provide great software. I highly recommend you learn C++ and contribute great software to the community.
+Learn C++ By Examples
+Practicing C++ examples is the best way to learn C++ programming. All chapters of our C++ tutorial have the related examples with explanation. You can simply go through those examples to understand the concept better.
+Jobs or Careers in C++
+C++ is a versatile and widely used programming language. Here is the list of some job roles that you can get after learning C++ programming:
+Software Engineer
+Game Developer
+Systems Programmer
+Embedded System Developer
+Robotics Engineer
+Database Developer
+Graphics Programmer
+Here is the list of the companies hiring C++ developers:
+Microsoft
+Amazon
+Facebook
+IBM
+Adobe
+Apple
+Google
+Target Audience - Who should Learn C++?
+ThisC++ tutorialhas been prepared for the beginners to help them understand the basics to advanced concepts of the C++ programming language. This tutorial is useful for software and game developers, embedded system developers, system programmers, students, and educators/trainers. After completing this tutorial, you will have a great level of expertise in C++ programming, from which you can take yourself to the next level.
+Prerequisites to Learn C++
+Before you start practicing with various types of examples given in this C++ tutorial, we are making the assumption that you are already aware of the basics of computer programming and computer programming language. You should also be familiar with −
+C++ Compiler
+IDE
+Text Editor
+C++ Practice
+After completing the C++ tutorial, you can go through these sections to practice the concepts that you have learned:
+C++ Interview Questions
+C++ Online Quiz
+C++ Online Test
+C++ Mock Test
+C++ Library Reference
+The following list has the complete reference of C++ header files −
+C++ <fstream>
+C++ <iomanip>
+C++ <ios>
+C++ <iosfwd>
+C++ <iostream>
+C++ <istream>
+C++ <ostream>
+C++ <sstream>
+C++ <streambuf>
+C++ <atomic>
+C++ <complex>
+C++ <exception>
+C++ <functional>
+C++ <limits>
+C++ <locale>
+C++ <memory>
+C++ <new>
+C++ <numeric>
+C++ <regex>
+C++ <stdexcept>
+C++ <string>
+C++ <thread>
+C++ <tuple>
+C++ <typeinfo>
+C++ <utility>
+C++ <valarray>
+C++ STL Library Reference
+The following list has the complete reference of C++ STL libraries −
+C++ <array>
+C++ <bitset>
+C++ <deque>
+C++ <forward_list>
+C++ <list>
+C++ <map>
+C++ <multimap>
+C++ <queue>
+C++ <priority_queue>
+C++ <set>
+C++ <stack>
+C++ <unordered_map>
+C++ <unordered_set>
+C++ <vector>
+C++ <algorithm>
+C++ <iterator>
+C++ Revision
+For a quick revision of C++ programming, go through these links −
+C++ Quick Guide
+C++ Cheat Sheet
+C++ STL Cheat Sheet
+C++ Questions & Answers
+Explore the latest C++ questions and answers atC++ questions and answers
+FAQs on C++ Tutorial
+1. What is the easiest way to learn C++ programming?
+2. Is prior knowledge of any programming is required to learn C++?
+3. What are the important concepts of C++ programming?
+Some of the important concepts of C++ programming are:
+Conditional statements
+Looping
+Arrays
+Structures
+Class and objects
+Inheritance
+Polymorphism
+C++ Standard Template Library
+4. How much time required to learn C++ programming?
+5. Who developed C++ programming language?
+6. What was the original name of C++?
+
+[Images saved with this article:]
+www.tutorialspoint.com_cplusplus_images_cpp-mini-logo.jpg
+www.tutorialspoint.com_cplusplus_images_cplusplus.jpg
+www.tutorialspoint.com_images_run-button.png

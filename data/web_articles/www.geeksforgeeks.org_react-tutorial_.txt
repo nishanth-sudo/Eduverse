@@ -1,0 +1,354 @@
+React Course
+React Tutorial
+React Exercise
+React Basic Concepts
+React Components
+React Props
+React Hooks
+React Router
+React Advanced
+React Examples
+React Interview Questions
+React Projects
+Next.js Tutorial
+React Bootstrap
+React Material UI
+React Ant Design
+React Desktop
+React Rebass
+React Blueprint
+JavaScript
+Web Technology
+Explore GfG Courses
+Share Your Experiences
+React Tutorial
+React Introduction
+React Environment Setup
+React Fundamentals
+React JSX
+ReactJS Babel Introduction
+ReactJS Virtual DOM
+React JS ReactDOM
+React Lists
+React Forms
+ReactJS Keys
+ReactJS Refs
+ReactJS Rendering Elements
+React Conditional Rendering
+React Components
+Code Splitting in React
+React Components
+ReactJS | Components - Set 2
+ReactJS Pure Components
+ReactJS Functional Components
+React Lifecycle
+Differences Between Functional Components and Class Components
+ReactJS Container and Presentational Pattern in Components
+React Props & States
+ReactJS Methods as Props
+ReactJS PropTypes
+ReactJS Props - Set 1
+ReactJS Props - Set 2
+ReactJS Unidirectional Data Flow
+ReactJS State
+ReactJS State vs Props
+Implementing State in React Components
+React Hooks
+React Hooks
+React useState Hook
+ReactJS useEffect Hook
+Context in React
+React Router
+React JS Types of Routers
+ReactJS Fragments
+React Apps
+Create ToDo App using ReactJS
+Create a Quiz App using ReactJS
+Create a Coin Flipping App using ReactJS
+How to create a Color-Box App using ReactJS?
+Dice Rolling App using ReactJS
+Guess the number with React
+React Connection & Deployment
+How to Deploy Your React Websites on GitHub?
+How to Deploy React project on Firebase?
+How to deploy React app to Heroku?
+How to deploy React app to Surge ?
+How to deploy simple frontend server-less (static) React applications on Netlify
+React Exercises
+React Exercises, Practice Questions and Solutions
+React Questions
+How to Connect Django with Reactjs ?
+7 React Best Practices Every Web Developer Should Follow
+8 Ways to Style React Components
+How to add Stateful component without constructor class in React?
+How to display a PDF as an image in React app using URL?
+ReactJS Toast Notification
+What is the use of data-reactid attribute in HTML ?
+How to zoom-in and zoom-out image using ReactJS?
+How to avoid binding by using arrow functions in callbacks in ReactJS?
+How to bind 'this' keyword to resolve classical error message  'state of undefined' in React?
+How To Get The Height And Width Of An Image Using ReactJS?
+How To Handle Multiple Input Field In React Form With A Single Function?
+How To Handle States Of Mutable Data Types?
+How to change state continuously after a certain amount of time in React?
+How to change the state of react component on click?
+Full Stack DevelopmentCourse
+React TutorialLast Updated :18 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportReact is aJavaScript Libraryknown for front-end development (or user interface). It is popular due to itscomponent-based architecture,Single Page Applications (SPAs),andVirtual DOMfor building web applications that are fast, efficient, and scalable.Applications are built using reusablecomponentsthat enable the reload of only the changed part of the UI. Hence we get a better user experience with React.Allows you to describe how the UI should look based on the state of your application.Uses avirtual DOMto optimize updates, making applications faster and more efficient.Enforces aone-way data flow, making the application predictable and easier to debug.It usesJSX,which combines HTML-like syntax with JavaScript's functionality, making it easy to shift to React from JavaScript.Note:The latest stable version of React is 19.1.0.React Hello World ProgramTo start with React, you need to install it. Follow the steps below to install it on your system.How to Install ReactJS on WindowsHow to Install ReactJS on MacOSHow to Install ReactJS on LinuxAfter installing React, let's write your first React program. Here's a simple code example:JavaScriptimportReactfrom'react';functionApp(){return(<div><h1>HelloWorld</h1></div>);}exportdefaultApp;In this example:import React from 'react':Imports the React library to use React features in the component.function App() { ... }:Defines a React functional component called App.return ( ... ):The return statement renders HTML-like code (JSX) inside the component.<div><h1>Hello World</h1></div>: Displays a div element containing a heading (h1) with the text "Hello World."export default App:Exports the App component so it can be used in other files.Why Learn React?React, the popular JavaScript library, offers several exciting reasons for developers to learn it.Flexibility:React allows you to build high-quality user interfaces across different platforms, thanks to its flexible library approach.Great Developer Experience:React makes it easier to write and understand code, offering a smooth development process.Strong Support from Facebook:Regular updates, bug fixes, and resources from Facebook ensure React stays up-to-date and reliable.Vast Community Support:React benefits from a large community, providing enough resources, tutorials, and troubleshooting help.Excellent Performance:React’s efficient Virtual DOM ensures fast rendering and high performance for web applications.Easy Testing:React’s structure and tools make testing simpler, improving code reliability and maintainability.React Tutorial Prerequisites:HTML,CSSandJavaScriptGetting Started with React: A Beginner’s GuideThis React tutorial provides you with a step-by-step learning journey for mastering php. You will start with React fundamentals and then move on to advanced topics. By the end of this tutorial, you will have a solid foundation in React and be ready to build scalable and maintainable web applications.1. React BasicsIntroductionImport and ExportJSX IntroductionComponentsConditional RenderingVirtual DOMPropTypesProp DrillingReact ListsContext APIReact Redux2. React HooksDifferent hooks to access and mange state and lifecycle in functional components.Hooks IntroductionuseState HookuseEffect HookuseRef HookuseMemo HookuseContext Hook3. React DOM EventsHandle DOM events in react like mouse, keyboard and form events.React Events Introductiononclickcapture EventonMouseDown EventonDoubleClick EventonSubmit EventonScroll EventonBlur Event4. Lifecycle of ComponentsThe lifecycle of react components from creation, mounting and unmounting to manage the different phases.Introduction to lifecycle of componentscomponentDidMountcomponentWillUnmountcomponentDidCatchcomponentDidUpdateshouldComponentUpdate5. Routing in ReactManage navigation and routing within the single page application.React JS RouterWhat is react-router-dom?React JS Types of RoutersReact-Router HooksLearn Navigation and Routing in React AppsLink and NavLink components in React-Router-Dom6. Important React PackagesAdditional libraries for styling and state management to enhance your react projects.ReduxMaterial UIreact-bootstrapTailwindFramer Motion7. React Interview QuestionsReact Interview questions categorised for different levels including most asked questions.Beginner Level Interview Questions (2024)Intermediate Level Interview Questions (2024)Advanced Level Interview Questions (2024)7 Most Asked ReactJS Interview Questions8. React Online QuizsTest and Improve your knowledge with the well organised React QuizsSet-1Set-2Set-3Set-4Set-5Set-69. React Online Practice ExerciseEmbark on your React learning journey with our online practice portal. Start by selecting quizzes tailored to your skill level. Engage in hands-on coding exercises, receive real-time feedback, and monitor your progress. With our user-friendly platform, mastering React becomes an enjoyable and personalized experience.Elevate your coding expertise by going through our carefully curatedFree Online React Exercises.10. React Complete ReferencesRefer to the following articles to have a quick glance at all the important key concepts which are helpful while developing web applications using ReactBasic Concepts ReferenceComponents Complete ReferenceProps ReferenceEvents ReferenceHooks ReferenceAdvanced Guide ReferenceIf you want to have a simple, quick reference to commonly used React methods you can refer toReactJS Cheat SheetarticleAdvantages of ReactComposable:React allows building reusable components, improving code organization and maintainability.Declarative:React’s declarative approach makes it easy to design interactive UIs by changing component states, with React handling the DOM updates.SEO-Friendly:React’s Single Page Application (SPA) setup can be optimized for SEO by rendering and indexing content properly.Large Community:React has a strong community and is widely used by major companies like Meta, Netflix, making it easier to find resources and support.Easy to Learn:React uses JSX, which resembles HTML, making it simple for developers with basic knowledge of HTML, CSS, and JavaScript.Easy Debugging:React’s unidirectional data flow simplifies debugging by ensuring that data moves in a clear, predictable direction within components.If you want to learn more refer to this articleReact JS AdvantagesBest Approach to Learn ReactYou can complete this React tutorial in approximately 8 weeks with consistent learning and hands-on practice.In Week 1, you'll cover React basics, including components, JSX syntax, and topics like conditional rendering, prop-types, React lists, and React Redux for state management.Week 2 focuses on React Hooks, where you'll learn about useState, useEffect, useRef, and useContext for state management and performance optimization in functional components.In Week 3, you’ll learn how to handle DOM events like clicks, keyboard input, and form submissions in React.Week 4 dives into the lifecycle of components, explaining lifecycle methods in class components and their equivalent in functional components using hooks.Week 5 will teach you React Routing with react-router-dom, managing navigation and routes in single-page applications.In Week 6, you'll explore important React packages like Redux, Material UI, React-Bootstrap, Tailwind, and Framer Motion for styling and animations.Week 7 covers React interview questions for different levels, helping you prepare for job interviews.In Week 8, you'll apply everything you've learned by building real-world React projects, consolidating your knowledge.By the end of 8 weeks, you’ll be proficient in React and ready to build dynamic web applications.React vs AngularBelow is the difference between the React and Angular.ReactAngularIt is a LibraryIt is a FrameworkDeveloped by FacebookDeveloped by GoogleOne-way data bindingTwo-way data bindingEasier to learn, more flexibleSteeper learning curve, more structuredFaster with more customization optionsSlower, but offers a complete solutionComponent-based architectureMVC (Model-View-Controller) architectureList of Companies Using ReactThese are some popular companies that use React in their workflow:CompanyDescriptionFacebookReact was developed by Facebook and is widely used for their web and mobile applications.InstagramInstagram, owned by Facebook, uses React for the front-end of its web application.NetflixUses React to build user interfaces for its streaming platform to ensure a fast, responsive experience.AirbnbUses React to develop dynamic user interfaces for their booking platform.UberUber uses React for building its interactive and high-performance web interfaces.WhatsApp WebWhatsApp uses React to create the web version of its messaging platform.AtlassianAtlassian, the creator of tools like Jira and Confluence, uses React for its web applications.DropboxDropbox uses React to enhance the performance and interactivity of its web-based file storage system.SpotifySpotify uses React for building its interactive UI components for both web and mobile platforms.New York TimesThe New York Times uses React to manage its dynamic content on the web.Career & Jobs in ReactReact offers a wide range of career opportunities, as it is one of the most popular front-end libraries used in web development, particularly for building dynamic and responsive user interfaces. React is widely adopted for both web and mobile applications, making it a highly sought-after skill in the industry. Here are some top career paths for React developers:CareerAverage Salary (INR) Per AnnumAverage Salary (USD) Per AnnumReact Developer₹6,00,000 - ₹15,00,000$10,000 - $40,000Frontend Developer (React)₹5,00,000 - ₹12,00,000$8,000 - $35,000React Native Developer₹7,00,000 - ₹16,00,000$12,000 - $45,000Full Stack Developer (React)₹8,00,000 - ₹18,00,000$12,000 - $50,000UI/UX Developer (React)₹5,50,000 - ₹13,00,000$9,000 - $40,000Next ArticleReact IntroductionSshobhit__sharmaImproveArticle Tags :Web TechnologiesReactJSWeb-Tech Tutorials
+React Tutorial
+React is aJavaScript Libraryknown for front-end development (or user interface). It is popular due to itscomponent-based architecture,Single Page Applications (SPAs),andVirtual DOMfor building web applications that are fast, efficient, and scalable.
+Applications are built using reusablecomponentsthat enable the reload of only the changed part of the UI. Hence we get a better user experience with React.
+Allows you to describe how the UI should look based on the state of your application.
+Uses avirtual DOMto optimize updates, making applications faster and more efficient.
+Enforces aone-way data flow, making the application predictable and easier to debug.
+It usesJSX,which combines HTML-like syntax with JavaScript's functionality, making it easy to shift to React from JavaScript.
+Note:The latest stable version of React is 19.1.0.
+React Hello World Program
+To start with React, you need to install it. Follow the steps below to install it on your system.
+How to Install ReactJS on Windows
+How to Install ReactJS on MacOS
+How to Install ReactJS on Linux
+After installing React, let's write your first React program. Here's a simple code example:
+importReactfrom'react';functionApp(){return(<div><h1>HelloWorld</h1></div>);}exportdefaultApp;
+importReactfrom'react';functionApp(){return(<div><h1>HelloWorld</h1></div>);}exportdefaultApp;
+In this example:
+import React from 'react':Imports the React library to use React features in the component.
+function App() { ... }:Defines a React functional component called App.
+return ( ... ):The return statement renders HTML-like code (JSX) inside the component.
+<div><h1>Hello World</h1></div>: Displays a div element containing a heading (h1) with the text "Hello World."
+export default App:Exports the App component so it can be used in other files.
+Why Learn React?
+React, the popular JavaScript library, offers several exciting reasons for developers to learn it.
+Flexibility:React allows you to build high-quality user interfaces across different platforms, thanks to its flexible library approach.
+Great Developer Experience:React makes it easier to write and understand code, offering a smooth development process.
+Strong Support from Facebook:Regular updates, bug fixes, and resources from Facebook ensure React stays up-to-date and reliable.
+Vast Community Support:React benefits from a large community, providing enough resources, tutorials, and troubleshooting help.
+Excellent Performance:React’s efficient Virtual DOM ensures fast rendering and high performance for web applications.
+Easy Testing:React’s structure and tools make testing simpler, improving code reliability and maintainability.
+React Tutorial Prerequisites:HTML,CSSandJavaScript
+Getting Started with React: A Beginner’s Guide
+This React tutorial provides you with a step-by-step learning journey for mastering php. You will start with React fundamentals and then move on to advanced topics. By the end of this tutorial, you will have a solid foundation in React and be ready to build scalable and maintainable web applications.
+1. React Basics
+Introduction
+Import and Export
+JSX Introduction
+Components
+Conditional Rendering
+Virtual DOM
+PropTypes
+Prop Drilling
+React Lists
+Context API
+React Redux
+2. React Hooks
+Different hooks to access and mange state and lifecycle in functional components.
+Hooks Introduction
+useState Hook
+useEffect Hook
+useRef Hook
+useMemo Hook
+useContext Hook
+3. React DOM Events
+Handle DOM events in react like mouse, keyboard and form events.
+React Events Introduction
+onclickcapture Event
+onMouseDown Event
+onDoubleClick Event
+onSubmit Event
+onScroll Event
+onBlur Event
+4. Lifecycle of Components
+The lifecycle of react components from creation, mounting and unmounting to manage the different phases.
+Introduction to lifecycle of components
+componentDidMount
+componentWillUnmount
+componentDidCatch
+componentDidUpdate
+shouldComponentUpdate
+5. Routing in React
+Manage navigation and routing within the single page application.
+React JS Router
+What is react-router-dom?
+React JS Types of Routers
+React-Router Hooks
+Learn Navigation and Routing in React Apps
+Link and NavLink components in React-Router-Dom
+6. Important React Packages
+Additional libraries for styling and state management to enhance your react projects.
+Redux
+Material UI
+react-bootstrap
+Tailwind
+Framer Motion
+7. React Interview Questions
+React Interview questions categorised for different levels including most asked questions.
+Beginner Level Interview Questions (2024)
+Intermediate Level Interview Questions (2024)
+Advanced Level Interview Questions (2024)
+7 Most Asked ReactJS Interview Questions
+8. React Online Quizs
+Test and Improve your knowledge with the well organised React Quizs
+Set-1
+Set-2
+Set-3
+Set-4
+Set-5
+Set-6
+9. React Online Practice Exercise
+Embark on your React learning journey with our online practice portal. Start by selecting quizzes tailored to your skill level. Engage in hands-on coding exercises, receive real-time feedback, and monitor your progress. With our user-friendly platform, mastering React becomes an enjoyable and personalized experience.
+Elevate your coding expertise by going through our carefully curatedFree Online React Exercises.
+10. React Complete References
+Refer to the following articles to have a quick glance at all the important key concepts which are helpful while developing web applications using React
+Basic Concepts Reference
+Components Complete Reference
+Props Reference
+Events Reference
+Hooks Reference
+Advanced Guide Reference
+If you want to have a simple, quick reference to commonly used React methods you can refer toReactJS Cheat Sheetarticle
+Advantages of React
+Composable:React allows building reusable components, improving code organization and maintainability.
+Declarative:React’s declarative approach makes it easy to design interactive UIs by changing component states, with React handling the DOM updates.
+SEO-Friendly:React’s Single Page Application (SPA) setup can be optimized for SEO by rendering and indexing content properly.
+Large Community:React has a strong community and is widely used by major companies like Meta, Netflix, making it easier to find resources and support.
+Easy to Learn:React uses JSX, which resembles HTML, making it simple for developers with basic knowledge of HTML, CSS, and JavaScript.
+Easy Debugging:React’s unidirectional data flow simplifies debugging by ensuring that data moves in a clear, predictable direction within components.
+If you want to learn more refer to this articleReact JS Advantages
+Best Approach to Learn React
+You can complete this React tutorial in approximately 8 weeks with consistent learning and hands-on practice.
+In Week 1, you'll cover React basics, including components, JSX syntax, and topics like conditional rendering, prop-types, React lists, and React Redux for state management.
+Week 2 focuses on React Hooks, where you'll learn about useState, useEffect, useRef, and useContext for state management and performance optimization in functional components.
+In Week 3, you’ll learn how to handle DOM events like clicks, keyboard input, and form submissions in React.
+Week 4 dives into the lifecycle of components, explaining lifecycle methods in class components and their equivalent in functional components using hooks.
+Week 5 will teach you React Routing with react-router-dom, managing navigation and routes in single-page applications.
+In Week 6, you'll explore important React packages like Redux, Material UI, React-Bootstrap, Tailwind, and Framer Motion for styling and animations.
+Week 7 covers React interview questions for different levels, helping you prepare for job interviews.
+In Week 8, you'll apply everything you've learned by building real-world React projects, consolidating your knowledge.
+By the end of 8 weeks, you’ll be proficient in React and ready to build dynamic web applications.
+React vs Angular
+Below is the difference between the React and Angular.
+React
+React
+Angular
+Angular
+It is a Library
+It is a Library
+It is a Framework
+It is a Framework
+Developed by Facebook
+Developed by Facebook
+Developed by Google
+Developed by Google
+One-way data binding
+One-way data binding
+Two-way data binding
+Two-way data binding
+Easier to learn, more flexible
+Easier to learn, more flexible
+Steeper learning curve, more structured
+Steeper learning curve, more structured
+Faster with more customization options
+Faster with more customization options
+Slower, but offers a complete solution
+Slower, but offers a complete solution
+Component-based architecture
+Component-based architecture
+MVC (Model-View-Controller) architecture
+MVC (Model-View-Controller) architecture
+List of Companies Using React
+These are some popular companies that use React in their workflow:
+Company
+Company
+Description
+Description
+Facebook
+Facebook
+React was developed by Facebook and is widely used for their web and mobile applications.
+React was developed by Facebook and is widely used for their web and mobile applications.
+Instagram
+Instagram
+Instagram, owned by Facebook, uses React for the front-end of its web application.
+Instagram, owned by Facebook, uses React for the front-end of its web application.
+Netflix
+Netflix
+Uses React to build user interfaces for its streaming platform to ensure a fast, responsive experience.
+Uses React to build user interfaces for its streaming platform to ensure a fast, responsive experience.
+Airbnb
+Airbnb
+Uses React to develop dynamic user interfaces for their booking platform.
+Uses React to develop dynamic user interfaces for their booking platform.
+Uber
+Uber
+Uber uses React for building its interactive and high-performance web interfaces.
+Uber uses React for building its interactive and high-performance web interfaces.
+WhatsApp Web
+WhatsApp Web
+WhatsApp uses React to create the web version of its messaging platform.
+WhatsApp uses React to create the web version of its messaging platform.
+Atlassian
+Atlassian
+Atlassian, the creator of tools like Jira and Confluence, uses React for its web applications.
+Atlassian, the creator of tools like Jira and Confluence, uses React for its web applications.
+Dropbox
+Dropbox
+Dropbox uses React to enhance the performance and interactivity of its web-based file storage system.
+Dropbox uses React to enhance the performance and interactivity of its web-based file storage system.
+Spotify
+Spotify
+Spotify uses React for building its interactive UI components for both web and mobile platforms.
+Spotify uses React for building its interactive UI components for both web and mobile platforms.
+New York Times
+New York Times
+The New York Times uses React to manage its dynamic content on the web.
+The New York Times uses React to manage its dynamic content on the web.
+Career & Jobs in React
+React offers a wide range of career opportunities, as it is one of the most popular front-end libraries used in web development, particularly for building dynamic and responsive user interfaces. React is widely adopted for both web and mobile applications, making it a highly sought-after skill in the industry. Here are some top career paths for React developers:
+Career
+Career
+Average Salary (INR) Per Annum
+Average Salary (INR) Per Annum
+Average Salary (USD) Per Annum
+Average Salary (USD) Per Annum
+React Developer
+React Developer
+₹6,00,000 - ₹15,00,000
+₹6,00,000 - ₹15,00,000
+$10,000 - $40,000
+$10,000 - $40,000
+Frontend Developer (React)
+Frontend Developer (React)
+₹5,00,000 - ₹12,00,000
+₹5,00,000 - ₹12,00,000
+$8,000 - $35,000
+$8,000 - $35,000
+React Native Developer
+React Native Developer
+₹7,00,000 - ₹16,00,000
+₹7,00,000 - ₹16,00,000
+$12,000 - $45,000
+$12,000 - $45,000
+Full Stack Developer (React)
+Full Stack Developer (React)
+₹8,00,000 - ₹18,00,000
+₹8,00,000 - ₹18,00,000
+$12,000 - $50,000
+$12,000 - $50,000
+UI/UX Developer (React)
+UI/UX Developer (React)
+₹5,50,000 - ₹13,00,000
+₹5,50,000 - ₹13,00,000
+$9,000 - $40,000
+$9,000 - $40,000
+S
+Web Technologies
+ReactJS
+Web-Tech Tutorials
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_662_Web_Content_React_1720781624.webp
+media.geeksforgeeks.org_img-practice_prod_courses_241_Web_Content_FSRNL_1705410152.webp
+media.geeksforgeeks.org_img-practice_prod_courses_874_Web_Content_frontend-interview-webp_1739529920.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

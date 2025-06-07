@@ -1,0 +1,377 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+All About OpenAI’s Latest GPT 4.1 Family
+Following Meta’s lead, OpenAI has dropped not one, but three powerful new models. Meet the GPT‑4.1 series, featuring GPT‑4.1, GPT‑4.1 mini, and GPT‑4.1 nano. These models are a major leap forward in AI’s ability to understand, generate, and interact in real-world applications. Though available only via API, these models are built for practical performance: faster response times, smarter comprehension, and significantly lower costs.And the best part?You can try them for free (with limits) through coding assistants like Windsurf and VS Code. In this blog, we will see how to access OpenAI’s GPT 4.1 models via API, and explore their key features, real-world use cases, and performance.
+Table of Contents
+What is GPT-4.1?
+Key Features of GPT‑4.1
+GPT-4.1 vs GPT-4o
+How to Access GPT-4.1 Models?
+GPT 4.1 Performance in Hands-on ApplicationsTask 1: Building a Bouncing Ball GameTask 2: Creating a Candle AnimationTask 3: DSA Problem
+Task 1: Building a Bouncing Ball Game
+Task 2: Creating a Candle Animation
+Task 3: DSA Problem
+GPT-4.1 Performance in Standard BenchmarksCodingInstruction FollowingLong Context HandlingVision Capabilities
+Coding
+Instruction Following
+Long Context Handling
+Vision Capabilities
+Applications & Use Cases
+Conclusion
+What is GPT-4.1?
+GPT‑4.1 is OpenAI’s newest generation large language model, succeedingGPT‑4oandGPT‑4.5with major advancements in intelligence, reasoning, and efficiency. But here’s what makes GPT‑4.1 different: it’s not just one model, it’s a family of three, each designed for different needs:
+Models in the GPT-4.1 Family:
+GPT‑4.1:The most capable model for high-level cognitive tasks – ideal for software development, research, and agentic workflows.
+GPT‑4.1 mini:A mid-sized model optimized for balance, that matches or exceeds GPT‑4o intelligence with 83% lower cost and nearly half the latency.
+GPT‑4.1 nano:A lightweight model offering blazing-fast response time and solid performance in classification, text generation, and autocomplete use cases.
+All three models support up to1 million tokens of context; enough to handle entire books, large codebases, or lengthy transcripts while maintaining coherence and accuracy.
+Note:GPT‑4.1 is currently available via API only. It’s not yet integrated into the ChatGPT web interface (Plus or free), so users won’t be able to directly access the model.
+Key Features of GPT‑4.1
+Here are the key features of OpenAI’s GPT-4.1:
+1 Million Token Context:Ideal for full codebase analysis, multi-document reasoning, or chat memory over long interactions.
+Long-Context Comprehension:Improved attention and retrieval in vast inputs, avoiding “lost in the middle” errors.
+Instruction Following:Best-in-class performance in structured tasks: XML, YAML, Markdown, negation, ranking, etc.
+State-of-the-Art Coding:Top scorer on SWE-bench, Aider Polyglot, and real-world dev tasks like frontend apps and PR reviews.
+Speed & Efficiency:GPT‑4.1 mini and nano deliver huge latency and cost reductions for scaled applications.
+Multimodal Strength:Handles images, charts, video comprehension, and visual reasoning better than GPT‑4o.
+GPT-4.1 vs GPT-4o
+When compared with its ancestor GPT-4o; GPT‑4.1 improves on nearly every axis:
+Feature
+GPT-4o
+GPT-4.1
+Context Length
+128K tokens
+1M tokens
+Coding (SWE-bench)
+33.2%
+54.6%
+Instruction Accuracy
+28%
+38.3% (MultiChallenge)
+Vision (MMMU, MathVista)
+~65%
+72–75%
+Latency (128K context)
+~20s
+~15s (nano: <5s)
+Cost Efficiency
+Moderate
+Up to 83% cheaper
+GPT‑4.1 doesn’t just beat GPT‑4o in features but it’s significantly more robust in real-world coding and enterprise deployments, offering better format compliance, fewer hallucinations, and improved memory.  Infact, GPT‑4o (the “current” ChatGPT version) will gradually inherit some of GPT‑4.1’s capabilities, but real-time and full functionality is exclusive for the API.
+How to Access GPT-4.1 Models?
+There are 4 ways in which you can access the GPT-4.1 models:
+OpenAI API Console: Use your API key to directly interact with all variants of GPT‑4.1 (standard, mini, nano). You can test completions, set temperature, max tokens, and other model parameters.
+Batch API: Ideal for large workloads like document parsing, data extraction, or code generation. It offers up to 50% discount compared to real-time API calls.
+OpenAI SDK: Integrate GPT‑4.1 into your applications, backend systems, and agents. This allows for streaming responses, function calls, and integration with other tools.
+Windsurf, VSCode:The models are also available in Windsurf and VSCode and can be directly used there too. Windsurf is currently offering the GPT-4.1 models for free for the next 7 days!Click here to learn more.
+Here’s how you can access GPT-4.1 using the OpenAI API.
+Login to the OpenAI PlatformVisitplatform.openai.comand sign up or log in to your OpenAI account.
+Visitplatform.openai.comand sign up or log in to your OpenAI account.
+Go to API Keys on the DashboardNavigate to theDashboard, then go to theAPI Keyssection.
+Navigate to theDashboard, then go to theAPI Keyssection.
+Generate API KeyClick“Create new secret key”to generate your API key.
+Click“Create new secret key”to generate your API key.
+Make Your First API CallOnce you have your API key, you’re ready to start using GPT-4.1 in your applications.from openai import OpenAIclient = OpenAI()response = client.responses.create(model="gpt-4.1",input="Write a one-sentence bedtime story about a unicorn.")print(response.output_text)
+Once you have your API key, you’re ready to start using GPT-4.1 in your applications.from openai import OpenAIclient = OpenAI()response = client.responses.create(model="gpt-4.1",input="Write a one-sentence bedtime story about a unicorn.")print(response.output_text)
+from openai import OpenAIclient = OpenAI()response = client.responses.create(model="gpt-4.1",input="Write a one-sentence bedtime story about a unicorn.")print(response.output_text)
+Additional advanced options include prompt caching (to reduce costs and speed up response times), system message customization, and fine-grained control over response formatting.
+GPT 4.1 Performance in Hands-on Applications
+Now let’s try out GPT-4.1 and see how well it performs in real-world applications. In this section, we’ll explore three core areas where GPT-4.1 can significantly enhance development and problem-solving efficiency:
+Building a pygame
+Creating an animation
+Solving a DSA problem
+Let’s begin!
+Task 1: Building a Bouncing Ball Game
+First, let’s see how well GPT-4.1 can create a game using Python and pygame.
+Prompt Input:
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-2025-04-14",
+   messages=[
+       {"role": "user",
+       "content": "You are a senior python programming developer and an expert in developing games with python and pygame"
+       },
+       {"role": "assistant",
+       "content": """Create a simple bouncing ball game using Python and the Pygame library. The game should feature a ball that continuously moves and bounces off the window’s walls and a player-controlled paddle at the bottom, which prevents the ball from falling off the screen.
+The paddle should be controlled using the left and right arrow keys, and the ball should reflect realistically upon collision with the paddle and walls.
+Each successful bounce on the paddle should increment the player’s score, which is displayed in the top-left corner. If the ball falls below the paddle, the game ends and a “Game Over” message should appear with the final score and an option to restart the game by pressing “R”.
+Include basic sound effects for collisions and game over events. Structure the code using classes for the ball and paddle, and maintain a clear game loop for updates and rendering. """
+       },
+   ]
+)
+print(completion.choices[0].message.content)
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-2025-04-14",
+   messages=[
+       {"role": "user",
+       "content": "You are a senior python programming developer and an expert in developing games with python and pygame"
+       },
+       {"role": "assistant",
+       "content": """Create a simple bouncing ball game using Python and the Pygame library. The game should feature a ball that continuously moves and bounces off the window’s walls and a player-controlled paddle at the bottom, which prevents the ball from falling off the screen.
+The paddle should be controlled using the left and right arrow keys, and the ball should reflect realistically upon collision with the paddle and walls.
+Each successful bounce on the paddle should increment the player’s score, which is displayed in the top-left corner. If the ball falls below the paddle, the game ends and a “Game Over” message should appear with the final score and an option to restart the game by pressing “R”.
+Include basic sound effects for collisions and game over events. Structure the code using classes for the ball and paddle, and maintain a clear game loop for updates and rendering. """
+       },
+   ]
+)
+print(completion.choices[0].message.content)
+Output by GPT-4.1:
+Analysis:
+The bouncing ball game fulfills all functional requirements, featuring well-structured classes, collision detection, and restart functionality, made possible by GPT-4.1’s clear and organized code. However, the gameplay remains basic, with room for improvement in visuals and depth. Overall, GPT-4.1’s output is great for beginners in game development.
+Task 2: Creating a Candle Animation
+Now let’s try creating a front-end animation using the model.
+Prompt Input:
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-2025-04-14",
+   messages=[
+       {
+           "role": "user",
+           "content": "You are a senior front-end developer and an expert in creating visually rich animations using HTML, CSS, and JavaScript."
+       },
+       {
+           "role": "assistant",
+       "content": """Create a candle animation. The candle should be centered on a dark background, with a simple wax body and a flame that subtly changes shape, size, and brightness to simulate natural flickering.
+Use CSS animations to create random variations in the flame’s opacity, height, and color gradients (ranging from yellow to orange and red).
+Small spark particles should occasionally rise from the flame, drifting upwards with gentle horizontal movement and gradually fading out. All elements—the candle, flame, and sparks—should be built using HTML and styled with CSS, with no external image assets.
+Ensure smooth animation at a consistent frame rate using requestAnimationFrame or CSS keyframes."""},
+   ]
+)
+
+print(completion.choices[0].message.content)
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-2025-04-14",
+   messages=[
+       {
+           "role": "user",
+           "content": "You are a senior front-end developer and an expert in creating visually rich animations using HTML, CSS, and JavaScript."
+       },
+       {
+           "role": "assistant",
+       "content": """Create a candle animation. The candle should be centered on a dark background, with a simple wax body and a flame that subtly changes shape, size, and brightness to simulate natural flickering.
+Use CSS animations to create random variations in the flame’s opacity, height, and color gradients (ranging from yellow to orange and red).
+Small spark particles should occasionally rise from the flame, drifting upwards with gentle horizontal movement and gradually fading out. All elements—the candle, flame, and sparks—should be built using HTML and styled with CSS, with no external image assets.
+Ensure smooth animation at a consistent frame rate using requestAnimationFrame or CSS keyframes."""},
+   ]
+)
+
+print(completion.choices[0].message.content)
+Output by GPT-4.1-nano:
+Analysis:
+The animation attempts the concept but falls short due to the noticeable gap between the flame and the candle, which disrupts the visual effect. While sparks and flickering are present, the overall execution feels incomplete. GPT-4.1-mini struggles to fully meet the design and layout expectations of the prompt.
+Task 3: DSA Problem
+For the final task, let’s see how efficient GPT-4.1 is in solving Data Structures and Algorithms (DSA).
+Prompt Input:
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-nano-2025-04-14",
+   messages=[
+       {
+           "role": "user",
+           "content": "You are a senior competitive programmer and data structures & algorithms expert specializing in solving graph-based problems using C++."
+       },
+       {
+           "role": "assistant",
+       "content": """A game on an undirected graph is played by two players, Mouse and Cat, who alternate turns.
+The graph is given as follows: graph[a] is a list of all nodes b such that ab is an edge of the graph.
+The mouse starts at node 1 and goes first, the cat starts at node 2 and goes second, and there is a hole at node 0.
+During each player's turn, they must travel along one edge of the graph that meets where they are.  For example, if the Mouse is at node 1, it must travel to any node in graph[1].
+Additionally, it is not allowed for the Cat to travel to the Hole (node 0).
+Then, the game can end in three ways:
+
+If ever the Cat occupies the same node as the Mouse, the Cat wins.
+If ever the Mouse reaches the Hole, the Mouse wins.
+If ever a position is repeated (i.e., the players are in the same position as a previous turn, and it is the same player's turn to move), the game is a draw.
+Given a graph, and assuming both players play optimally, return
+
+1 if the mouse wins the game,
+2 if the cat wins the game, or
+0 if the game is a draw.
+
+Input: graph = [[2,5],[3],[0,4,5],[1,4,5],[2,3],[0,2,3]]
+Output: 0
+
+Input: graph = [[1,3],[0],[3],[0,2]]
+Output: 1
+
+Constraints:
+3 <= graph.length <= 50
+1 <= graph[i].length < graph.length
+0 <= graph[i][j] < graph.length
+graph[i][j] != i
+graph[i] is unique.
+The mouse and the cat can always move. """},
+   ]
+)
+print(completion.choices[0].message.content)
+client = OpenAI(api_key = api_key)
+completion = client.chat.completions.create(
+   model="gpt-4.1-nano-2025-04-14",
+   messages=[
+       {
+           "role": "user",
+           "content": "You are a senior competitive programmer and data structures & algorithms expert specializing in solving graph-based problems using C++."
+       },
+       {
+           "role": "assistant",
+       "content": """A game on an undirected graph is played by two players, Mouse and Cat, who alternate turns.
+The graph is given as follows: graph[a] is a list of all nodes b such that ab is an edge of the graph.
+The mouse starts at node 1 and goes first, the cat starts at node 2 and goes second, and there is a hole at node 0.
+During each player's turn, they must travel along one edge of the graph that meets where they are.  For example, if the Mouse is at node 1, it must travel to any node in graph[1].
+Additionally, it is not allowed for the Cat to travel to the Hole (node 0).
+Then, the game can end in three ways:
+
+If ever the Cat occupies the same node as the Mouse, the Cat wins.
+If ever the Mouse reaches the Hole, the Mouse wins.
+If ever a position is repeated (i.e., the players are in the same position as a previous turn, and it is the same player's turn to move), the game is a draw.
+Given a graph, and assuming both players play optimally, return
+
+1 if the mouse wins the game,
+2 if the cat wins the game, or
+0 if the game is a draw.
+
+Input: graph = [[2,5],[3],[0,4,5],[1,4,5],[2,3],[0,2,3]]
+Output: 0
+
+Input: graph = [[1,3],[0],[3],[0,2]]
+Output: 1
+
+Constraints:
+3 <= graph.length <= 50
+1 <= graph[i].length < graph.length
+0 <= graph[i][j] < graph.length
+graph[i][j] != i
+graph[i] is unique.
+The mouse and the cat can always move. """},
+   ]
+)
+print(completion.choices[0].message.content)
+Output by GPT-4.1:
+Although the model generated the code, I ran into some errors while trying to run it.
+Errors in Generated Code:
+Analysis:
+The implementation attempts to model the game using optimal game theory with a reverse BFS approach but falls short due to critical compilation issues. It uses structured bindings and std::array without including necessary headers or ensuring compatibility with standard C++17, resulting in broken execution. While the algorithmic direction is valid, GPT-4.1-nano struggles to produce a compile-ready solution and fails to meet the practical coding standards expected for graph-based game problems.
+GPT-4.1 Performance in Standard Benchmarks
+Now, let’s look at the performance of GPT4.1 across coding benchmarks, instruction following, long context handling, vision tasks, and more.
+Coding
+GPT‑4.1 is engineered for production-grade software development. It performs strongly across multiple real-world coding benchmarks and excels in end-to-end tasks involving repositories, pull requests, and different formats.
+SWE-bench Verified: GPT‑4.1 completes 54.6% of real-world GitHub issues, compared to 33.2% by GPT‑4o and 38% by GPT‑4.5. This means it generates functional patches that pass tests, given just the repo and issue description.
+Frontend Development: In a web application generation test, GPT‑4.1 was preferred by human reviewers 80% of the time compared to GPT‑4o, owing to cleaner interfaces and better UX.
+Aider Polyglot Benchmark: GPT‑4.1 shows superior ability to make changes in both “whole file” and “diff” formats, essential for collaborative coding. Its diff accuracy surpasses GPT‑4.5 by 8%.
+Extraneous Edits Reduced: From 9% (GPT‑4o) to just 2% making the code cleaner, more focused, and more efficient to review.
+Moreover, Windsurf, an AI coding assistant, observed a60% improvementin code changes being accepted on the first review when using GPT‑4.1.
+While GPT-4.1 comes with enhanced coding performance compared to GPT-4.5; when compared with the top models likeGemini 2.5 Pro,DeepSeek R1&Claude 3.7 Sonnet, the model stands quite lower.
+Instruction Following
+GPT‑4.1 is more precise, structured, and reliable when following complex prompts.
+MultiChallenge Benchmark: 38.3% accuracy, a 10.5% jump over GPT‑4o. This measures model memory and instruction adherence over multiple conversational turns.
+IFEval: 87.4% vs 81.0% (GPT‑4o). GPT‑4.1 excels at meeting explicit instructions like output format, prohibited phrases, and response length.
+Hard Prompt Handling: Better at managing negative instructions (whatnotto do), multi-part ordered steps, and ranking tasks.
+Blue J Legal improved regulatory research accuracy by53%, especially in tasks involving multi-step logic and dense legal documents.
+Long Context Handling
+GPT‑4.1 models can process and reason over1 million tokens, setting a new benchmark for long-context modeling.
+MRCR Benchmark: Measures the ability to distinguish among multiple nearly identical tasks scattered across long inputs. GPT‑4.1 performs best up to 1M tokens.
+Graphwalks Reasoning: On multi-hop logic tasks (like graph traversal within long inputs), GPT‑4.1 achieved61.7% accuracy, far exceeding GPT‑4o’s 42%.
+Needle-in-a-Haystack: Successfully retrieves exact facts placed at any position in a million-token document.
+Carlyle achieved a50% upliftin financial insight extraction from large PDF and Excel documents. Thomson Reuters saw a17% gainin accuracy for legal multi-document analysis.
+Vision Capabilities
+Multimodal reasoning with GPT‑4.1 has received a massive boost, especially in text + image tasks.
+MMMU (Charts & Maps): 74.8% accuracy vs 68.7% (GPT‑4o)
+MathVista (Visual Math Tasks): 72.2% vs 61.4%
+CharXiv (Scientific Diagrams): ~57%, holding ground with GPT‑4.5
+Video-MME:72% accuracyin answering questions from 30–60 min videos with no subtitles; a new state-of-the-art record!
+GPT‑4.1 mini notably beats GPT‑4o in image understanding, marking a step-change in visual reasoning. This unlocks better document parsing, chart interpretation, and video QA.
+Together, these benchmarks demonstrate that GPT‑4.1 isn’t just stronger in lab tests it’s moreaccurate, reliable, and usefulin complex, production-grade settings across modalities.
+Applications & Use Cases
+You can use GPT-4.1 to build intelligent systems that can:
+Automatically detect bugs and suggest fixes across various programming languages.
+Utilize its capabilities to power legal and financial agents that can parse and interpret dense documents, identify inconsistencies, or extract key clauses.
+Develop long-memory assistants that retain and recall user history for more personalized support in education or customer service.
+Automate complex spreadsheet workflows such as financial reporting or data cleaning by generating structured, formula-ready outputs.
+Leverage the model’s multimodal strengths to generate charts, transcribe and analyze video lectures, or summarize lengthy textbooks and PDFs.
+Deploy intelligent agent workflows seamlessly across platforms like GitHub (for code suggestions), Notion (for content management), Slack (for team communication), and Google Sheets (for structured data entry).
+Create specialized assistants fine-tuned for high-stakes instruction-heavy workflows, from interpreting medical charts and conducting audits to offering diagnostic support.
+Build advanced Retrieval-Augmented Generation (RAG) systems that use long context comprehension to deliver highly relevant search and recommendation results in real-time.
+Conclusion
+GPT‑4.1 isn’t just an incremental upgrade it’s a practical platform shift. With new model variants optimized for performance, latency, and scale, developers and enterprises can build advanced, reliable, and cost-effective AI systems that are more autonomous, intelligent, and useful. It’s time to go beyond chat. GPT‑4.1 is here for your agents, workflows, and next-gen applications. With GPT-4.1, it’s now time to say goodbye to GPT-4.5 as these latest series of models offer similar performance at a fraction of the price.
+Anu Madan is an expert in instructional design, content writing, and B2B marketing, with a talent for transforming complex ideas into impactful narratives. With her focus on Generative AI, she crafts insightful, innovative content that educates, inspires, and drives meaningful engagement.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+GPT-4o mini: Features, Performance and Application
+GPT-4o mini: Features, Performance and Application
+GPT-4o vs OpenAI o1: Is the New OpenAI Model Wo...
+GPT-4o vs OpenAI o1: Is the New OpenAI Model Wo...
+Everything You Need to Know About OpenAI’s GP...
+Everything You Need to Know About OpenAI’s GP...
+Guide to Language Processing with GPT-4 in Arti...
+Guide to Language Processing with GPT-4 in Arti...
+What Can You Do With GPT-4o? | Demo
+What Can You Do With GPT-4o? | Demo
+Can the Updated GPT-4o Really Beat GPT-4.5?
+Can the Updated GPT-4o Really Beat GPT-4.5?
+How to Build Agentic RAG Using GPT-4.1?
+How to Build Agentic RAG Using GPT-4.1?
+OpenAI Provides Access For GPT-4
+OpenAI Provides Access For GPT-4
+GPT-4.5 vs GPT-4o: Is GPT-4.5 Really Better?
+GPT-4.5 vs GPT-4o: Is GPT-4.5 Really Better?
+The Omniscient GPT-4o + ChatGPT is HERE!
+The Omniscient GPT-4o + ChatGPT is HERE!
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_49YFJQ9.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_GPT-4.1-vs-GPT-4o.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_task_3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_task_3_1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_error_3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_GPT-4.1-Coding-3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Cost-of-GPT-4.1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Instruction-Following.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Long-Context-Handling.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Vision-Capabilities.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_49YFJQ9.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

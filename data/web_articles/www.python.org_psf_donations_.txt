@@ -1,0 +1,49 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+PSF>>>
+Donate>>>
+Donate to the PSF
+Support the PSF with a Donation or by becoming a Supporting Member!DonateWhat does the Python Software Foundation do?ThePython Software Foundation:Awards grants and provides resources for furthering the development and adoption of Python.Organizes and hosts the annualPyCon USconference. 2019 brought together 3,393 attendees from 55 countries, a new record for PyCon US! Our sponsorsâ support enabled us to award $137,200 USD to 143 attendees.Pays for hardware and other costs for hosting the python.org servers.Hosts thePython Packaging Index.Supports CPython directly through the CPython Developer in ResidenceHolds and defends the copyright and other intellectual property rights for the Python programming language.Provides infrastructure and operations support to13 regional conferences, meetups, and Python projectsas a fiscal sponsor.Recognizes individuals who have contributed to the Python community withCommunity Awards.To learn about recent PSF activities, visitthe Python Software Foundation's blogor check out our latestAnnual Impact Report.The PSF is a public charity under section 501(c)(3) of the United States Internal Revenue Code.  For more information, seethe PSF IRS Determination Letterfor details.  Please consult your tax adviser to determine the tax deductibility of your gift to the PSF.How can I donate?We welcome contributions of any amount. You can support the PSF with aone-time donation, monthly donation, or annual donationto support all of our great initiatives. See below for more information and contactpsf-donations@python.orgwith any questions.Donate by credit card or PayPalPlease use the button above orthis linkto donate using a credit card or your PayPal account. You don't need a PayPal account to use the donation button.Check or Money OrderYou may donate to the PSF using a check or money order.  Please address checks in USD tothe PSF headquarters.Please include your email address and your home address with your check so that we may provide you a donation acknowledgment letter.Zelle, ACH, Transferwise, and Wire TransfersThe PSF may receive donations by Zelle or ACH from US Domestic accounts, Transferwise from either US Domestic or International accounts, or Wire Transfers from International accounts.   If you are interested in donating to the PSF using one of these methods, please contactpsf-donations@python.org..Other Ways to GiveYour employer may offer a matching donation program.  Please see thePSF Matching Gifts pagefor more information or letpsf-donations@python.orgknow if you have questions.If you have questions about donations, please contactpsf-donations@python.org.
+Support the PSF with a Donation or by becoming a Supporting Member!
+What does the Python Software Foundation do?
+ThePython Software Foundation:
+Awards grants and provides resources for furthering the development and adoption of Python.
+Organizes and hosts the annualPyCon USconference. 2019 brought together 3,393 attendees from 55 countries, a new record for PyCon US! Our sponsorsâ support enabled us to award $137,200 USD to 143 attendees.
+Pays for hardware and other costs for hosting the python.org servers.
+Hosts thePython Packaging Index.
+Supports CPython directly through the CPython Developer in Residence
+Holds and defends the copyright and other intellectual property rights for the Python programming language.
+Provides infrastructure and operations support to13 regional conferences, meetups, and Python projectsas a fiscal sponsor.
+Recognizes individuals who have contributed to the Python community withCommunity Awards.
+To learn about recent PSF activities, visitthe Python Software Foundation's blogor check out our latestAnnual Impact Report.
+The PSF is a public charity under section 501(c)(3) of the United States Internal Revenue Code.  For more information, seethe PSF IRS Determination Letterfor details.  Please consult your tax adviser to determine the tax deductibility of your gift to the PSF.
+How can I donate?
+We welcome contributions of any amount. You can support the PSF with aone-time donation, monthly donation, or annual donationto support all of our great initiatives. See below for more information and contactpsf-donations@python.orgwith any questions.
+Donate by credit card or PayPalPlease use the button above orthis linkto donate using a credit card or your PayPal account. You don't need a PayPal account to use the donation button.
+Donate by credit card or PayPal
+Please use the button above orthis linkto donate using a credit card or your PayPal account. You don't need a PayPal account to use the donation button.
+Check or Money OrderYou may donate to the PSF using a check or money order.  Please address checks in USD tothe PSF headquarters.Please include your email address and your home address with your check so that we may provide you a donation acknowledgment letter.Zelle, ACH, Transferwise, and Wire TransfersThe PSF may receive donations by Zelle or ACH from US Domestic accounts, Transferwise from either US Domestic or International accounts, or Wire Transfers from International accounts.   If you are interested in donating to the PSF using one of these methods, please contactpsf-donations@python.org..Other Ways to GiveYour employer may offer a matching donation program.  Please see thePSF Matching Gifts pagefor more information or letpsf-donations@python.orgknow if you have questions.
+Check or Money OrderYou may donate to the PSF using a check or money order.  Please address checks in USD tothe PSF headquarters.Please include your email address and your home address with your check so that we may provide you a donation acknowledgment letter.
+Check or Money Order
+You may donate to the PSF using a check or money order.  Please address checks in USD tothe PSF headquarters.
+Please include your email address and your home address with your check so that we may provide you a donation acknowledgment letter.
+Zelle, ACH, Transferwise, and Wire TransfersThe PSF may receive donations by Zelle or ACH from US Domestic accounts, Transferwise from either US Domestic or International accounts, or Wire Transfers from International accounts.   If you are interested in donating to the PSF using one of these methods, please contactpsf-donations@python.org..
+Zelle, ACH, Transferwise, and Wire Transfers
+The PSF may receive donations by Zelle or ACH from US Domestic accounts, Transferwise from either US Domestic or International accounts, or Wire Transfers from International accounts.   If you are interested in donating to the PSF using one of these methods, please contactpsf-donations@python.org..
+Other Ways to GiveYour employer may offer a matching donation program.  Please see thePSF Matching Gifts pagefor more information or letpsf-donations@python.orgknow if you have questions.
+Other Ways to Give
+Your employer may offer a matching donation program.  Please see thePSF Matching Gifts pagefor more information or letpsf-donations@python.orgknow if you have questions.
+If you have questions about donations, please contactpsf-donations@python.org.
+The PSF
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission.
+
+[Images saved with this article:]
+www.python.org_static_img_psf-logo.png

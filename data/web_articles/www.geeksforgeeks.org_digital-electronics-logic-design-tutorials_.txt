@@ -1,0 +1,224 @@
+Aptitude
+Engineering Mathematics
+Discrete Mathematics
+Operating System
+DBMS
+Computer Networks
+Digital Logic and Design
+C Programming
+Data Structures
+Algorithms
+Theory of Computation
+Compiler Design
+Computer Org and Architecture
+Explore GfG Courses
+Share Your Experiences
+Digital Electronics and Logic Design Tutorials
+Number Systems
+Number System and Base Conversions
+1's and 2's complement of a Binary Number
+BCD or Binary Coded Decimal
+Error Detection Codes: Parity Bit Method
+Boolean Algebra and Logic Gates
+Logic Gates - Definition, Types, Uses
+Basic Conversion of Logic Gates
+Realization of Logic Gate Using Universal gates
+Canonical and Standard Form
+Types of Integrated Circuits
+Minimization Techniques
+Minimization of Boolean Functions
+Introduction of K-Map (Karnaugh Map)
+5 variable K-Map in Digital Logic
+Various Implicants in K-Map
+Don't Care (X) Conditions in K-Maps
+Quine McCluskey Method
+Two Level Implementation of Logic Gates
+Combinational Circuits
+Half Adder in Digital Logic
+Full Adder in Digital Logic
+Half Subtractor in Digital Logic
+Full Subtractor in Digital Logic
+Parallel Adder and Parallel Subtractor
+Sequential Binary Multiplier
+Multiplexers in Digital Logic
+Event Demultiplexer in Node.js
+Binary Decoder in Digital Logic
+Encoder in Digital Logic
+Code Converters - Binary to/from Gray Code
+Magnitude Comparator in Digital Logic
+Sequential Circuits
+Introduction of Sequential Circuits
+Difference between Combinational and Sequential Circuit
+Latches in Digital Logic
+Flip-Flop types, their Conversion and Applications
+Conversion of Flip-Flop
+Conversion of S-R Flip-Flop into D Flip-Flop
+Conversion of S-R Flip-Flop into T Flip-Flop
+Conversion of J-K Flip-Flop into T Flip-Flop
+Conversion of J-K Flip-Flop into D Flip-Flop
+Register, Counter, and Memory Unit
+Counters in Digital Logic
+Ripple Counter in Digital Logic
+Ring Counter in Digital Logic
+General Purpose Registers
+Shift Registers in Digital Logic
+Computer Memory
+Random Access Memory (RAM)
+Read Only Memory (ROM)
+LMNs and GATE PYQs
+LMN - Digital Electronics
+Digital Logic and Design - GATE CSE Previous Year Questions
+Practice Questions - Digital Logic & Design
+Digital Electronics Interview Questions for 2024 [Updated]
+DSA to DevelopmentCourse
+Digital Electronics and Logic Design TutorialsLast Updated :26 Mar, 2025CommentsImproveSuggest changesLike ArticleLikeReportDigital Electronics and Logic Design are key concepts in both electronics and computer science. Digital systems are at the core of everything from basic devices like calculators to advanced computing systems.Digital systems use binary numbers (0s and 1s) to represent and process information.Logic gates like AND, OR and NOT are combined to create circuits that perform logical operations on binary inputs.Combinational circuits produce outputs based only on current inputs, without storing any past information.Sequential circuits use memory elements, such as flip-flops, to store and process information over time.The principles of digital electronics and logic design are fundamental in building processors, memory systems and many other computing applications.In thisDigital Electronics and Logic Designtutorial, we will dive deep into the fundamentals and advanced concepts like the Number System, Logic Gates, Boolean Algebra, Combinational Circuits, Sequential Circuits, etc.IntroductionWhat is Digital Electronics and Logic Design?Difference Between Analog and Digital SystemsCharacteristics of Digital SystemsNumber System and RepresentationNumber System and Base ConversionsBinary Number SystemBinary RepresentationsSigned and Unsigned RepresentationGray CodeBCD or Binary Coded DecimalExcess-3 CodeOctal Number SystemDecimal Number SystemHexadecimal Number SystemFloating Point RepresentationNumber System Conversion Programs>> Quiz on Number System and RepresentationLogic GatesLogic Gates IntroductionAND GateOR GateNOT GateNAND GateNOR GateXOR GateXNOR GateLogic Gates using NAND and NORApplications of Logic GatesBoolean AlgebraBoolean Algebra IntroductionProperties of Boolean algebraRepresentation of Boolean FunctionsCanonical and Standard FormSum of Product (SOP) FormProduct of Sum (POS) FormFunctional CompletenessDeMorgan's TheoremGate-Level MinimizationMinimization of Boolean FunctionsK-Map(Karnaugh Map)5 variable K-MapDon’t Care ConditionsImplicants in K-MapQuine-McCluskey Method (Tabular Method)Variable Entrant Map (VEM)Consensus theorem>> Quiz on Logic Gates, Boolean Algebra and MinimizationCombinational CircuitsCombinational Circuit IntroductionHalf-AdderHalf-SubtractorHalf-Adder and Half-Subtractor using NAND NOR GatesFull-AdderFull SubtractorParallel Adder & Parallel SubtractorCarry Look-Ahead AdderBCD AdderCode Converters – BCD(8421) to/from Excess-3Code Converters – Binary to/from Gray CodeCode Converters – BCD to 7 Segment DecoderMultiplexersDemultiplexerEncoders and DecodersEncoderBinary DecoderCombinational circuits using DecoderMagnitude ComparatorStatic Hazards>> Quiz on Combinational CircuitsSequential CircuitsIntroduction to Sequential CircuitsDifference Between Combinational and Sequential CircuitsLatchesOne bit memory cellFlip-Flops(Types and Conversions)SR Flip-FlopsJK Flip-FlopsD Flip-FlopsT Flip-FlopsMaster Slave JK Flip FlopSynchronous Sequential CircuitsAsynchronous Sequential CircuitsSynchronous vs Asynchronous Sequential CircuitsState Reduction and State Assignment>> Quiz on Sequential CircuitsRegister and CountersRegistersShift RegistersSerial In Serial Out (SISO) Shift RegisterSerial In Parallel Out (SIPO) Shift RegisterParallel In Serial Out (PISO) Shift RegisterParallel In Parallel Out (PIPO) Shift RegisterUniversal Shift RegisterCountersRipple CounterRing CounterJohnson CounterDesign of Counters for Specific SequencesAmortized analysis for increment in counterRegisters Vs CountersRTL (Register Transfer Level) design vs Sequential logic designMemory and Programmable LogicRead-Only Memory (ROM)Random Access Memory (RAM)RAM vs ROMProgrammable Logic ArrayProgramming Array LogicField-Programmable Gate Arrays (FPGAs)Logic FamilyOperational Amplifier (op-amp)Hardware Description Languages (HDLs)Hardware Description LanguageIntroduction to VerilogVerilog Data TypesIntroduction to VHDLHDL Model of Combinational CircuitsHDL Model of Sequential CircuitsData CommunicationData CommunicationBlock CodingDifference between Unipolar, Polar and Bipolar Line CodingDifference between Broadband and Baseband TransmissionTransmission ImpairmentWhat is Scrambling?Analog to Analog Conversion (Modulation)Analog to digital conversionDigital to Analog ConversionQuick Links:Last Minute Notes (LMNs)Quizzeson Digital Electronics and Logic DesignNext ArticleNumber System and Base ConversionskartikImproveArticle Tags :Digital Logic
+Digital Electronics and Logic Design Tutorials
+Digital Electronics and Logic Design are key concepts in both electronics and computer science. Digital systems are at the core of everything from basic devices like calculators to advanced computing systems.
+Digital systems use binary numbers (0s and 1s) to represent and process information.
+Logic gates like AND, OR and NOT are combined to create circuits that perform logical operations on binary inputs.
+Combinational circuits produce outputs based only on current inputs, without storing any past information.
+Sequential circuits use memory elements, such as flip-flops, to store and process information over time.
+The principles of digital electronics and logic design are fundamental in building processors, memory systems and many other computing applications.
+In thisDigital Electronics and Logic Designtutorial, we will dive deep into the fundamentals and advanced concepts like the Number System, Logic Gates, Boolean Algebra, Combinational Circuits, Sequential Circuits, etc.
+Introduction
+What is Digital Electronics and Logic Design?
+Difference Between Analog and Digital Systems
+Characteristics of Digital Systems
+Number System and Representation
+Number System and Base Conversions
+Binary Number System
+Binary Representations
+Signed and Unsigned Representation
+Gray Code
+BCD or Binary Coded Decimal
+Excess-3 Code
+Octal Number System
+Decimal Number System
+Hexadecimal Number System
+Floating Point Representation
+Number System Conversion Programs
+>> Quiz on Number System and Representation
+Logic Gates
+Logic Gates Introduction
+AND Gate
+OR Gate
+NOT Gate
+NAND Gate
+NOR Gate
+XOR Gate
+XNOR Gate
+Logic Gates using NAND and NOR
+Applications of Logic Gates
+Boolean Algebra
+Boolean Algebra Introduction
+Properties of Boolean algebra
+Representation of Boolean Functions
+Canonical and Standard Form
+Sum of Product (SOP) Form
+Product of Sum (POS) Form
+Functional Completeness
+DeMorgan's Theorem
+Gate-Level Minimization
+Minimization of Boolean Functions
+K-Map(Karnaugh Map)
+5 variable K-Map
+Don’t Care Conditions
+Implicants in K-Map
+Quine-McCluskey Method (Tabular Method)
+Variable Entrant Map (VEM)
+Consensus theorem
+>> Quiz on Logic Gates, Boolean Algebra and Minimization
+Combinational Circuits
+Combinational Circuit Introduction
+Half-Adder
+Half-Subtractor
+Half-Adder and Half-Subtractor using NAND NOR Gates
+Full-Adder
+Full Subtractor
+Parallel Adder & Parallel Subtractor
+Carry Look-Ahead Adder
+BCD Adder
+Code Converters – BCD(8421) to/from Excess-3
+Code Converters – Binary to/from Gray Code
+Code Converters – BCD to 7 Segment Decoder
+Multiplexers
+Demultiplexer
+Encoders and Decoders
+Encoder
+Binary Decoder
+Combinational circuits using Decoder
+Magnitude Comparator
+Static Hazards
+>> Quiz on Combinational Circuits
+Sequential Circuits
+Introduction to Sequential Circuits
+Difference Between Combinational and Sequential Circuits
+Latches
+One bit memory cell
+Flip-Flops(Types and Conversions)
+SR Flip-Flops
+JK Flip-Flops
+D Flip-Flops
+T Flip-Flops
+Master Slave JK Flip Flop
+Synchronous Sequential Circuits
+Asynchronous Sequential Circuits
+Synchronous vs Asynchronous Sequential Circuits
+State Reduction and State Assignment
+>> Quiz on Sequential Circuits
+Register and Counters
+Registers
+Shift Registers
+Serial In Serial Out (SISO) Shift Register
+Serial In Parallel Out (SIPO) Shift Register
+Parallel In Serial Out (PISO) Shift Register
+Parallel In Parallel Out (PIPO) Shift Register
+Universal Shift Register
+Counters
+Ripple Counter
+Ring Counter
+Johnson Counter
+Design of Counters for Specific Sequences
+Amortized analysis for increment in counter
+Registers Vs Counters
+RTL (Register Transfer Level) design vs Sequential logic design
+Memory and Programmable Logic
+Read-Only Memory (ROM)
+Random Access Memory (RAM)
+RAM vs ROM
+Programmable Logic Array
+Programming Array Logic
+Field-Programmable Gate Arrays (FPGAs)
+Logic Family
+Operational Amplifier (op-amp)
+Hardware Description Languages (HDLs)
+Hardware Description Language
+Introduction to Verilog
+Verilog Data Types
+Introduction to VHDL
+HDL Model of Combinational Circuits
+HDL Model of Sequential Circuits
+Data Communication
+Data Communication
+Block Coding
+Difference between Unipolar, Polar and Bipolar Line Coding
+Difference between Broadband and Baseband Transmission
+Transmission Impairment
+What is Scrambling?
+Analog to Analog Conversion (Modulation)
+Analog to digital conversion
+Digital to Analog Conversion
+Quick Links:
+Last Minute Notes (LMNs)
+Quizzeson Digital Electronics and Logic Design
+Digital Logic
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

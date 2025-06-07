@@ -1,0 +1,48 @@
+Home
+DB2 - Introduction
+DB2 - Server Installation
+DB2 - Instance
+DB2 - Databases
+DB2 - Bufferpools
+DB2 - Tablespaces
+DB2 - Storagegroups
+DB2 - Schemas
+DB2 - Data Types
+DB2 - Tables
+DB2 - Alias
+DB2 - Constraints
+DB2 - Indexes
+DB2 - Triggers
+DB2 - Sequences
+DB2 - Views
+DB2 with XML
+DB2 - Backup and Recovery
+DB2 - Database Security
+DB2 - Roles
+DB2 - LDAP
+DB2 - Questions and Answers
+DB2 - Quick Guide
+DB2 - Useful Resources
+DB2 - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+DB2 Tutorial
+This tutorial provides you the basic understanding of concepts of database, database installation and management. At the end of the tutorial you should be equipped with well understanding of database management concepts.
+Audience
+This tutorial is designed for the readers pursuing education in database management domain and all enthusiastic readers.
+Prerequisites
+This tutorial is designed and developed for absolute beginners. Though, awareness about software systems, operating systems and computer fundamentals would be beneficial.
+
+[Images saved with this article:]
+www.tutorialspoint.com_db2_images_db2-mini-logo.jpg
+www.tutorialspoint.com_db2_images_db2-video-tutorials.jpg
+www.tutorialspoint.com_db2_images_db2.jpg

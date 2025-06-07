@@ -1,0 +1,790 @@
+What to Expect
+Curriculum
+Instructors
+Fees
+Testimonials
+20% off
+GenAIPinnacle PlusProgram
+Industry-Focused Learning : Master GenAI and Agentic AI
+1:1 Mentorship with Generative AI experts
+Advanced Curriculum with 200+ Hours of Learning
+Master 26+ GenAI Tools and Libraries
+300+
+Hours of Immersive Learning
+100%
+Placement Assistance
+30+
+Hours of Live Workshops Quarterly
+75+
+1:1 Expert-Led Mentorships
+Become a GenAI and Agentic AI Expert : Start Now
+How does the GenAI Pinnacle Plus Program Help You?
+300+ Hours of Immersive Learning
+Full-spectrum GenAI and Agentic AI learning with 14 modules
+Master cutting-edge GenAI and Agentic AI frameworks and tools.
+50+ Industry-Aligned Projects
+Acquire real-world experience through projects that connect theory with practice.
+Diverse projects designed to transform knowledge into expertise.
+1:1 Expert Mentorship
+Get expert insights from seasoned professionals
+Accelerate your learning with a personalized roadmap to success
+300+ Hours of Immersive Learning
+Full-spectrum GenAI and Agentic AI learning with 14 modules
+Master cutting-edge GenAI and Agentic AI frameworks and tools.
+50+ Industry-Aligned Projects
+Acquire real-world experience through projects that connect theory with practice.
+Diverse projects designed to transform knowledge into expertise.
+1:1 Expert Mentorship
+Get expert insights from seasoned professionals
+Accelerate your learning with a personalized roadmap to success
+Curriculum Statistics
+50+ Projects
+Hands-on learning with industry-relevant challenges.
+300+ Hours
+In-depth GenAI and Agentic AI learning to transform your career
+40+ Libraries
+Develop expertise in 40+ essential industry tools, libraries and frameworks.
+30+ Assignments
+To turn knowledge into action
+75+ Mentorship Sessions
+1:1 live mentorship session from GenAI and Agentic AI experts
+Personalized Roadmap
+Your ambition + our expertise = your custom path to mastery
+1Foundations for Generative AI
+2ML Foundations for Generative AI
+3DL Foundations for Generative AI
+4Build Applications using LLMs
+5Build RAG-Based Applications
+6Foundations for AI Agents
+7Getting Started with AI Agents using LangGraph, AutoGen & CrewAI
+8Build AI Agents using LangGraph, AutoGen & CrewAI
+9Real-World Projects on AI Agents
+10Finetune LLM-based applications
+11Deploy GenAI-Based Applications
+12Work with Diffusion Models
+13Decision-Making Essentials
+14Generative AI for Leaders
+Curriculum
+From Python foundations to GenAI and Agentic AI : Master 14 cutting-edge modules
+Introduction to Program
+Introduction to Program
+Explore GenAI Universe
+Explore GenAI Universe
+Responsible AI in the Generative AI Era
+Responsible AI in the Generative AI Era
+Coding Essentials for Agents
+Coding Essentials for Agents
+Building Your First ML Model
+Building Your First ML Model
+Foundational ML Algorithms
+Foundational ML Algorithms
+Introduction to Deep Learning using PyTorch
+Introduction to Deep Learning using PyTorch
+Natural Language Processing using PyTorch
+Natural Language Processing using PyTorch
+Computer Vision using PyTorch
+Computer Vision using PyTorch
+Getting Started with Large Language Models
+Getting Started with Large Language Models
+Introduction to LangChain for Agentic AI
+Introduction to LangChain for Agentic AI
+Prompt Engineering Essentials
+Prompt Engineering Essentials
+RAG Systems Essentials
+RAG Systems Essentials
+Building Production-Ready RAG systems using LlamaIndex
+Building Production-Ready RAG systems using LlamaIndex
+Building End-to-End Generative AI Applications
+Building End-to-End Generative AI Applications
+Anyone can Build AI Agents
+Anyone can Build AI Agents
+Architecting Agentic AI: Design Patterns and Practices (Upcoming)
+Architecting Agentic AI: Design Patterns and Practices (Upcoming)
+Building AI Agents from Scratch (Upcoming)
+Building AI Agents from Scratch (Upcoming)
+Building AI Agents with LangChain (Upcoming)
+Building AI Agents with LangChain (Upcoming)
+Building your First AI Agent with LangGraph
+Building your First AI Agent with LangGraph
+Building your First AI Agent with AutoGen
+Building your First AI Agent with AutoGen
+Building your First AI Agent with CrewAI
+Building your First AI Agent with CrewAI
+Building Advanced AI Agents with LangGraph (Upcoming)
+Building Advanced AI Agents with LangGraph (Upcoming)
+Building Advanced AI Agents with AutoGen (Upcoming)
+Building Advanced AI Agents with AutoGen (Upcoming)
+Building Advanced AI Agents with CrewAI (Upcoming)
+Building Advanced AI Agents with CrewAI (Upcoming)
+Agentic RAG using LangGraph (Upcoming)
+Agentic RAG using LangGraph (Upcoming)
+Project using CrewAI - Multiagent (Upcoming)
+Project using CrewAI - Multiagent (Upcoming)
+Project MultiAgent with LangGraph (Upcoming)
+Project MultiAgent with LangGraph (Upcoming)
+Project using AutoGen - Planning (Upcoming)
+Project using AutoGen - Planning (Upcoming)
+Project 5 using LangGraph - Reflective (Upcoming)
+Project 5 using LangGraph - Reflective (Upcoming)
+Finetuning LLMs
+Finetuning LLMs
+Training LLMs from Scratch
+Training LLMs from Scratch
+Mastering Reinforcement Learning: Foundations to Human Feedback
+Mastering Reinforcement Learning: Foundations to Human Feedback
+Mastering LLMOps: From Build to Deployment
+Mastering LLMOps: From Build to Deployment
+Getting started with Stable Diffusion
+Getting started with Stable Diffusion
+Mastering Methods and Tools of Stable Diffusion
+Mastering Methods and Tools of Stable Diffusion
+Advanced Stable Diffusion Techniques
+Advanced Stable Diffusion Techniques
+Human Decision-Making and Its Biases
+Human Decision-Making and Its Biases
+Structured Approach to Problem Solving
+Structured Approach to Problem Solving
+Generative AI for Business - A Leaders' Handbook
+Generative AI for Business - A Leaders' Handbook
+Successful AI Strategies: A CEO's Perspective
+Successful AI Strategies: A CEO's Perspective
+Libraries & Frameworks
+Master 40+ GenAI and Agentic AI tools, libraries and frameworks for skill-building
+Build Your Portfolio with  50+ Industry-Relevant Projects
+Accelerate your industry readiness with projects designed to tackle real-world challenges.
+Learning Objective:
+Train and evaluate LLMs from scratch
+Learn LLM best practices and setup
+Implement advanced computing strategies
+Training Large Language Models
+Build Large Language Models (LLMs) like GPT-3.5 from scratch
+Learning Objective:
+Master building a ChatGPT-like LLM
+Apply pretraining, finetuning, RLHF
+Learn dialogue-optimized LLM practices
+ChatGPT Model Building
+Develop a personalized ChatGPT model, starting from the basics up
+Learning Objective:
+Create a RAG-based QA Chatbot
+Develop apps end-to-end with LangChain and Streamlit
+Integrate app UI and backend seamlessly
+Building end-to-end RAG Apps
+Craft RAG-based chatbots and Full-stack Applications with Integrated Frontend-backend synchronization
+Learning Objective:
+Construct Conversational Bots with LLMs including ChatGPT
+Develop AI Instruments and Agents via LangChain
+Establish and Manage LLM Applications using LangChain
+Build Conversational Apps and Agents
+Create advanced conversational interfaces and intelligent Agents with LLMs and LangChain Technology
+Learning Objective:
+Enhance search accuracy in RAG systems through reranking
+Apply RAG system techniques from cutting-edge studies
+Construct RAG systems for diverse data types including tables, text, and images
+Advanced RAG System Development
+Master precision in RAG systems across various data formats with State-of-the-art Techniques
+Learning Objective:
+Master prompt engineering techniques
+Build chatbots using ChatGPT API
+Implement LLMs on private data
+Prompt-Driven LLM Apps
+Develop your own LLM Application using Prompt Engineering
+Learning Objective:
+Build RAG systems using LlamaIndex
+Explore advanced LlamaIndex components
+Fine-tune embeddings and retrieval
+RAG System Development
+Create a production ready RAG systems on your private data
+Learning Objective:
+Efficient LLM finetuning with PEFT
+Apply LoRA, QLoRA, soft prompting
+Build instruction-following LLMs
+LLM PEFT Finetuning
+Finetuning LLMs using Soft Prompting, Adaptor techniques using PEFT
+Learning Objective:
+Fine-tune Stable Diffusion for datasets
+Apply best practices in customization
+Understand Stable Diffusion intricacies
+Customized Diffusion Model Tuning
+Finetune your own Stable Diffusion Models on custom dataset
+Learning Objective:
+Build Text to Image models with DreamBooth
+Implement DreamBooth on personal datasets
+Create context-specific visual models
+DreamBooth Image Creation
+Build your own personalized Text to Image models using DreamBooth
+Learning Objective:
+Fine-tune diffusion models with ControlNets
+Optimize InstructPix2Pix in diffusion models
+Tailor models for specific datasets
+Diffusion Model Refinement
+Finetune Diffusion models using ControlNets and InstructPix2Pix models
+Real Experience, Real Insights: Your Expert Mentors
+Tap into decades of combined industry experience
+Chi Wang, Senior Staff Research Scientist at Google DeepMind, specializes in AI, machine learning, and data mining. Formerly a Principal Researcher at Microsoft Research, he holds a Ph.D. from UIUC and has driven advancements in web entity disambiguation, social network analysis, and AI-driven optimization.
+Chi Wang
+Senior Staff Research Scientist
+Miguel Otero Pedrido, a leader in AI and Machine
+Learning, is the Founder of The Neural Maze and a
+Senior Machine Learning Engineer at Dressipi. With
+9 years of expertise in AI systems, MLOps, and AI
+agents, he has driven AI innovations at BBVA,
+Telefónica Tech, and Enagás.
+Miguel Otero Pedrido
+Founder
+Eleni Verteouri, GenAI Tech Lead and Director - Conversational Banking at UBS, drives AI innovation and strategic partnerships. With 12 years of expertise in Generative AI, product management, and risk modeling, she has led AI transformations in finance.
+Eleni
+GenAI Tech Lead and Director - Conversational Banking
+Mustafa Kadioglu is a prominent figure in the field of data science and artificial intelligence. He currently serves as a Lead Data Scientist and AI/ML Engineer at Cisco, where he has developed expertise in Python, data analysis, machine learning, and natural language processing (NLP)
+Mustafa Kadioglu
+Lead Data Scientist
+Srikanth Velamakanni is the Co-founder, Group Chief Executive and Vice Chairman of Fractal. Fractal is one of the most prominent providers of Artificial Intelligence to Fortune 500®companies.
+Srikanth Velamakanni
+Co-Founder, Group Chief Executive and Vice Chairman
+Sourab Mangrulkar, with a specialization in ML and Deep Learning from NIT Goa, has worked at Microsoft, Amazon, and Hugging Face, focusing on diverse AI challenges and contributing to open-source projects like Accelerate and PEFT.
+Sourab Mangrulkar
+ML Engineer & Applied Scientist
+Sandeep Singh, expert senior director at Bain & Company is a leader in AI and Computer Vision. He has pioneered advanced geospatial solutions in Silicon Valley, enhancing mapping, navigation, and sector-wide applications.
+Sandeep Singh
+Expert Senior Director
+Dipanjan has over 10+ years of hands-on and leadership industry experience as well as training, consulting and education initiatives in Data Science and Artificial Intelligence.
+Dipanjan S.
+Head of Community and Principal AI Scientist
+Bhaskarjit is an award-winning data scientist with a diverse background in multiple domains such as Retail, Airlines, Media & Entertainment, BFSI
+Bhaskarjit Sarmah
+Vice President
+Ravi is a Developer Advocate Enginneer at LlamaIndex. His involvement in the field of AI spans many years, marked by notable contributions in Natural Language Processing (NLP) and recommender systems.
+Ravi Theja
+Developer Advocate
+Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- world's 2nd largest Data Science coummunity.
+Kunal Jain
+Founder & CEO
+Aravind Pai, Senior Data Scientist at Analytics Vidhya, specializes in Generative AI, Deep Learning, Computer Vision, and NLP. He has developed impactful AI technologies across various sectors including sports and healthcare.
+Aravind Pai
+Senior Data Scientist
+Mani Kanteswara Rao Garlapati is an Associate Principal at Google, where he leads data science initiatives focused on fraud and spam detection across various Google products. With a strong background in machine learning and data science, he has previously held positions such as Lead Strategist at Google and Senior Data Scientist at Walmart Labs
+Mani Garlapati
+Associate Principal
+Sumit Jain is a seasoned professional in the fields of artificial intelligence and data science, currently working at Microsoft in the Data & Applied Sciences division. He specializes in real-time generative AI at scale and provides technical leadership and advisory services
+Sumit Jain
+Data & Applied Sciences
+Shahebaz Mohammad is a renowned Kaggle Grandmaster and LinkedIn Top ML Voice who currently works as a Lead Applied Machine Learning Engineer at Snorkel AI. He has established himself as an expert in the field of applied machine learning
+Shahebaz Mohammad
+Senior Applied ML Engineer
+Mayank Barnwal is a Senior Scientist at Tata Consultancy Services and an Adjunct Professor at IIT Bombay, specializing in control theory, machine learning, and optimization. With a Ph.D. from the University of Illinois at Urbana-Champaign, his research spans robust control algorithms, deep learning applications, and combinatorial optimization.
+Mayank Barnwal
+Senior Scientist
+Kartik Nighania, an MLOps Engineer at Typewise, brings over seven years of AI experience across computer vision, NLP, and DevOps. Formerly Head of Engineering at Pibit.ai, he led AI-driven automation and infrastructure scaling. His expertise in CI/CD pipelines was honed at HSBC Technology, and his academic work includes AI publications and projects like ML-driven crop health detection
+Kartik Nighania
+MLOps Engineer
+Lucas Soares is an AI Engineer at Otovo, focusing on AI-driven solutions through large language models (LLMs) and computer vision. With 6+ years of experience across sectors like biometrics and retail, he excels in developing machine learning tools
+Lucas Soares
+AI Engineer
+Maarten Grootendorst is a Senior Clinical Data Scientist at IKNL (Netherlands Comprehensive Cancer Organization). He holds three master’s degrees in organizational psychology, clinical psychology, and data science, which he leverages to communicate complex machine-learning concepts to a wide audience
+Maarten Grootendorst
+Senior Clinical Data Scientist
+Qingyun Wu, founder of AG2 (formerly AutoGen) and Assistant Professor at Penn State University, brings over seven years of expertise in AI and machine learning. Her work spans AI agents, reinforcement learning, and algorithm optimization, with roles at Microsoft, Adobe, and Yahoo driving advancements in AI technologies.
+Qingyun Wu
+Creator and Founder
+Alessandro Romano, Senior Data Scientist at Kuehne+Nagel, has over six years of experience in AI and data science. With roles at FREE NOW and Cargonexx GmbH, he specializes in building AI-driven solutions and AI agents to automate workflows and enhance efficiency. A skilled public speaker, Alessandro effectively bridges technical concepts with diverse audiences.
+Alessandro Romano
+Senior Data Scientist
+Pio Scelina is an experienced AI Agent developer with over 6 years of expertise in creating advanced AI solutions. His strong research background keeps him at the leading edge of new tools and applications, constantly driving innovation. Known for his passion for exploring emerging technologies and enhancing AI-driven experiences, Pio has established a reputation as a trailblazer in AI-powered transformation.
+Pio Scelina
+AI Agent Developer
+Kamil Ruczynski is a seasoned AI Agent developer with over 7 years of experience in cutting-edge AI organisations. His deep expertise in research and development enables him to stay ahead of emerging trends and technologies, driving continuous innovation. Renowned for his dedication to pushing the boundaries of AI-driven applications, Kamil has earned recognition as a pioneer in creating transformative AI experiences
+Kamil Ruczynski
+AI Agent Developer
+Prashant Sahu, an IIT Bombay alumnus and seasoned Corporate Trainer in AI & ML, has over 17 years of diverse experience in areas like research, automation, and cryptography. His expertise extends to developing comprehensive Data Science training materials, including curriculum, case studies, and projects.
+Prashant Sahu
+Manager - Data Science - Instructor
+Apoorv Vishnoi, a seasoned professional with over 13 years of experience, including more than 10 years in Machine Learning and AI. He holds an MBA from the prestigious Indian School of Business and several certifications in Data Science and Deep Learning. His ability to simplify complex concepts in Data Science and Machine Learning has established him as a respected and influential instructor.
+Apoorv Vishnoi
+Head - Training Initiative
+Mission: GenAI Success Offer
+Flat 25% Off
+Conquer 2025 with GenAI & Agentic AI Skills
+Get FLAT 25% OFF- Time to Lead the AI Revolution
+Use Coupon Code- VICTORY25
+Enrollment closes in
+1Day
+1
+Day
+5hr
+5
+hr
+35min
+35
+min
+20Sec
+20
+Sec
+Instructor-Led Live Workshops
+Live GenAI and Agentic AI workshops : Solve real-world problems with expert insights
+Learning Objective:
+Differentiate RAG from prompt engineering and fine-tuning.
+Learn when to use RAG versus other approaches.
+Understand Retrieval-Augmented Fine-Tuning (RAFT).
+Build, tune, and evaluate a RAG pipeline.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering RAG Systems I
+Learning Objective:
+Learn LangChain fundamentals for building AI Agents.
+Explore prompts, chat models, tools, and function calling.
+Develop tool-use Agents with hands-on exercises.
+Integrate memory to create adaptive conversational Agents.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Introduction to LangGraph for Building AI Agents
+Learning Objective:
+Understand ML algorithms, Data Preparation, and Model Building.
+Master Linear & Logistic Regression with error minimization and key metrics.
+Learn data handling techniques like missing value treatment & encoding.
+Apply regularization and interpret confusion matrices for classification.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Machine Learning Basics
+Learning Objective:
+Explore Decision Trees, SVM, and KNN for classification and regression.
+Learn to handle overfitting, multicollinearity, and unbalanced data.
+Master model selection, cross-validation, and hyperparameter tuning.
+Enhance model performance with ensemble methods like bagging and boosting.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Machine Learning Advanced
+Learning Objective:
+Understand Neural Networks, activation functions, and optimization techniques.
+Build Artificial Neural Networks (ANNs) for structured data.
+Learn backpropagation, gradient descent, and overfitting prevention.
+Explore the basics of CNNs and RNNs for Deep Learning applications.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Deep Learning Using Pytorch
+Learning Objective:
+Learn vector space models like Bag of Words and TF-IDF.
+Explore word embeddings with Word2Vec, GloVe, and FastText.
+Understand embeddings at word, sentence, and document levels.
+Build sequential models (RNN, LSTM, GRU) and apply them to NLP tasks.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+NLP using Deep Learning
+Learning Objective:
+Understand the importance of prompt engineering.
+Learn to craft clear, specific, and contextual prompts.
+Apply few-shot prompting techniques for better AI responses.
+Refine generated content through iterative improvements.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering Prompt Engineering I
+Learning Objective:
+Manage multi-turn conversations effectively.
+Apply advanced prompting techniques for complex tasks.
+Design chatbot scenarios and analytical reports.
+Understand AI limitations and ethical considerations.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering Prompt Engineering II
+Learning Objective:
+Compare GraphRAG with traditional RAG systems.
+Build and store knowledge graphs in graph databases.
+Create and evaluate GraphRAG pipelines.
+Understand the architecture and key components of a RAG system.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering RAG Systems II
+Learning Objective:
+Learn LangChain fundamentals for building AI Agents.
+Explore prompts, chat models, tools, and function calling.
+Develop tool-use Agents with hands-on exercises.
+Integrate memory to create adaptive conversational Agents.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Building AI Agents with LangChain
+Learning Objective:
+Learn memory management and snapshots for AI Agents.
+Build conversational Agents with persistent memory.
+Develop a financial analyst Agentic system.
+Create adaptive Agents that retain context and improve over time.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Building Advanced AI Agents with LangGraph - I (Conversational Agents)
+AV Assisted Placements
+Our alumni universe: 1200+ professionals making their mark
+Kaushal Shetty
+Assistant Manager - Analytics
+Samsensuruya S
+Consultant
+Ashiwn Deendayalan
+Assistant Manager - Analytics
+Rohit Pant
+Assistant Manager - Analytics
+Pravar Jain
+Associate Consultant
+Industry-Recognized Certification
+Get certified in GenAI and Agentic AI from Analytics Vidhya, Fractal and Western State University, and share your achievement with the world
+Our Advisors
+Our advisors ensure our programs are innovative, impactful, and industry-aligned.
+Prof. Tom Yeh leads the Imagine AI Lab at the University of Colorado Boulder, focusing on AI, HCI, Education, Ethics, and Neuroscience. He is the author of the popular AI by Hand series, has over 150 publications, and has received numerous university awards.
+Dr. Tom Yeh
+Dr. Andrei Lopatenko, with over two decades of experience in the technology sector, has led pioneering research and development in artificial intelligence, machine learning, and natural language processing at prominent organizations including Google, Apple, Walmart, eBay, and Zillow, as well as at the startup Ozlo, which was subsequently acquired by Facebook. He earned his PhD in Computer Science from the University of Manchester.
+Andrei Lopatenko
+Dr. Kirk Borne is a prominent data scientist with 40+ years of experience, founder of Data Leadership Group LLC, and an AI thought leader, career data professional, and research astrophysicist who has contributed to NASA's space science programs.
+Dr. Kirk Borne
+AV Learners Spotlight
+All my expectations from the course and workshops have been fulfilled
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Camilo Munoz
+Sr. Level Strategic Planning Executive
+I found future learning with Gen AI very interesting
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Arunima R Pillai
+ML Engineering Analyst
+The program has all the cutting edge technologies covered
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Mritunjay
+Staff Data Scientist
+I really value the personalised mentorship sessions which came with the program
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Mark Lee
+Co-Founder
+Mentors of Analytics Vidhya have business experience and are practitioners themselves
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Richard
+Application Developer
+The content Analytics Vidhya provided was far better than any other organisation
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Parikshit Rathode
+Senior AI & ML Developer
+Money Back Guarantee!
+GenAI Pinnacle Plus Program comes with 7 days no questions asked Money Back Guarantee. If the Program is bought in pre-launch offer or on discounted price, then the fee paid is non-refundable. For more T&C,Click here
+Invest in Your Future Today
+Exclusive access to AI tools builds expertise with cutting-edge frameworks.
+Boost your career, fast-track your growth with personalized mentorship.
+Enroll now and start your journey to becoming a Generative AI and Agentic AI expert.
+Work on 10+ Real-world Projects
+15+ Engaging Assignments
+19+ Expertly Crafted Modules
+One Time
+One Time
+₹94,999
+₹94,999
+(Inclusive of all taxes)
+Level Up Your Professional Journey
+EMI
+₹9,499
+(Inclusive of all taxes)
+Level Up Your Professional Journey
+Contact Us Today
+Take the first step towards a future of innovation & excellence with Analytics Vidhya
+Upskill, Reskill, Thrive
+Get Expert Guidance
+Need support? We've got your back anytime!
++91-935471124010AM - 7PM (IST) Mon-Sun
++91-9354711240
+[email protected]You'll hear back from us in 24 hours.
+[email protected]
+Frequently Asked Questions
+Looking for answers to other questions?
+The GenAI Pinnacle Plus Program sets itself apart by offering a unique combination of 1:1 mentorship, over 300 hours of advanced Generative AI and Agentic AI learning, and real-world project experience. This GenAI certification program focuses on hands-on learning using more than 40 Generative AI tools and frameworks, ensuring you stay ahead in the evolving AI industry.
+The GenAI Pinnacle Plus Program stands out by offering comprehensive coverage of cutting-edge technology topics such as AI Agents and other emerging trends that are making headlines and are poised to dominate the market in the coming months. It ensures you are equipped with the most relevant and forward-thinking skills to excel in a rapidly evolving AI landscape.
+This GenAI Pinnacle Plus Program is perfect for professionals, students, and AI enthusiasts who want to specialize in Generative AI, enhance their career prospects in GenAI and AI Agents, or remain at the forefront of technology.
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+AI Battlefield
+MCQ Based Skill Test
+Win upto INR 1,00,000*
+*Terms and conditions apply
+
+[Images saved with this article:]
+imgcdn.analyticsvidhya.com_blackbelt_left-shap.png
+imgcdn.analyticsvidhya.com_blackbelt_right-shape.png
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_PS__1_.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_PS__2_.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_KN__1___1_.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_cisco.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_bain_20__20company.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_blackrock.png
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_Caterpillar_20Inc-100.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_google.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_microsoft.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_snorkej.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_tcs.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_Typewise.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_Otovo.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_IKNL.jpg
+svgcdn.analyticsvidhya.com_agenticaipioneer_AG2.webp
+svgcdn.analyticsvidhya.com_agenticaipioneer_KN.webp
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259831.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259823.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_M.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259823.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_M.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259825.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259825.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259829.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259829.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_KAUSHAL.png
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_SAMSEN.png
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_ASHWIN.jpg
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_ROHIT_PANT.jpg
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_Pravar.png
+imgcdn.analyticsvidhya.com_pinnacleplus_pinnacleplus.webp
+imgcdn.analyticsvidhya.com_genaipinnacle_Fractal-certificate.jpg
+imgcdn.analyticsvidhya.com_genaipinnacle_westren_20universicty.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_agenticWSU.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_icb.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_hbr.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_PRIMEAI..jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_timwe.tech.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_accenture.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_micron.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_AiFin.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_Percept.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_kshatra_black_bg.png
+imgcdn.analyticsvidhya.com_AV_logo.png

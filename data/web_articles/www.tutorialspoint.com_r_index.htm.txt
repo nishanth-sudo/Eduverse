@@ -1,0 +1,75 @@
+R - Home
+R - Overview
+R - Environment Setup
+R - Basic Syntax
+R - Data Types
+R - Variables
+R - Operators
+R - Decision Making
+R - Loops
+R - Functions
+R - Strings
+R - Vectors
+R - Lists
+R - Matrices
+R - Arrays
+R - Factors
+R - Data Frames
+R - Packages
+R - Data Reshaping
+R - CSV Files
+R - Excel Files
+R - Binary Files
+R - XML Files
+R - JSON Files
+R - Web Data
+R - Database
+R Charts & Graphs
+R - Pie Charts
+R - Bar Charts
+R - Boxplots
+R - Histograms
+R - Line Graphs
+R - Scatterplots
+R Statistics Examples
+R - Mean, Median & Mode
+R - Linear Regression
+R - Multiple Regression
+R - Logistic Regression
+R - Normal Distribution
+R - Binomial Distribution
+R - Poisson Regression
+R - Analysis of Covariance
+R - Time Series Analysis
+R - Nonlinear Least Square
+R - Decision Tree
+R - Random Forest
+R - Survival Analysis
+R - Chi Square Tests
+R Useful Resources
+R - Interview Questions
+R - Quick Guide
+R - Cheatsheet
+R - Useful Resources
+R - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+R Tutorial
+R is a programming language and software environment for statistical analysis, graphics representation and reporting. R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team. R is freely available under the GNU General Public License, and pre-compiled binary versions are provided for various operating systems like Linux, Windows and Mac. This programming language was namedR, based on the first letter of first name of the two R authors (Robert Gentleman and Ross Ihaka), and partly a play on the name of the Bell Labs LanguageS.
+Audience
+This tutorial is designed for software programmers, statisticians and data miners who are looking forward for developing statistical software using R programming. If you are trying to understand the R programming language as a beginner, this tutorial will give you enough understanding on almost all the concepts of the language from where you can take yourself to higher levels of expertise.
+Prerequisites
+Before proceeding with this tutorial, you should have a basic understanding of Computer Programming terminologies. A basic understanding of any of the programming languages will help you in understanding the R programming concepts and move fast on the learning track.
+
+[Images saved with this article:]
+www.tutorialspoint.com_r_images_r-mini-logo.jpg
+www.tutorialspoint.com_r_images_r.jpg

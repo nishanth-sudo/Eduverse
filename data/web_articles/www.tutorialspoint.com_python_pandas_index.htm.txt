@@ -1,0 +1,180 @@
+Python Pandas - Home
+Python Pandas - Introduction
+Python Pandas - Environment Setup
+Python Pandas - Basics
+Python Pandas - Introduction to Data Structures
+Python Pandas - Index Objects
+Python Pandas - Panel
+Python Pandas - Basic Functionality
+Python Pandas - Indexing & Selecting Data
+Python Pandas - Series
+Python Pandas - Series
+Python Pandas - Slicing a Series Object
+Python Pandas - Attributes of a Series Object
+Python Pandas - Arithmetic Operations on Series Object
+Python Pandas - Converting Series to Other Objects
+Python Pandas - DataFrame
+Python Pandas - DataFrame
+Python Pandas - Accessing DataFrame
+Python Pandas - Slicing a DataFrame Object
+Python Pandas - Modifying DataFrame
+Python Pandas - Removing Rows from a DataFrame
+Python Pandas - Arithmetic Operations on DataFrame
+Python Pandas - IO Tools
+Python Pandas - IO Tools
+Python Pandas - Working with CSV Format
+Python Pandas - Reading & Writing JSON Files
+Python Pandas - Reading Data from an Excel File
+Python Pandas - Writing Data to Excel Files
+Python Pandas - Working with HTML Data
+Python Pandas - Clipboard
+Python Pandas - Working with HDF5 Format
+Python Pandas - Comparison with SQL
+Python Pandas - Data Handling
+Python Pandas - Sorting
+Python Pandas - Reindexing
+Python Pandas - Iteration
+Python Pandas - Concatenation
+Python Pandas - Statistical Functions
+Python Pandas - Descriptive Statistics
+Python Pandas - Working with Text Data
+Python Pandas - Function Application
+Python Pandas - Options & Customization
+Python Pandas - Window Functions
+Python Pandas - Aggregations
+Python Pandas - Merging/Joining
+Python Pandas - MultiIndex
+Python Pandas - Basics of MultiIndex
+Python Pandas - Indexing with MultiIndex
+Python Pandas - Advanced Reindexing with MultiIndex
+Python Pandas - Renaming MultiIndex Labels
+Python Pandas - Sorting a MultiIndex
+Python Pandas - Binary Operations
+Python Pandas - Binary Comparison Operations
+Python Pandas - Boolean Indexing
+Python Pandas - Boolean Masking
+Python Pandas - Data Reshaping & Pivoting
+Python Pandas - Pivoting
+Python Pandas - Stacking & Unstacking
+Python Pandas - Melting
+Python Pandas - Computing Dummy Variables
+Python Pandas - Categorical Data
+Python Pandas - Categorical Data
+Python Pandas - Ordering & Sorting Categorical Data
+Python Pandas - Comparing Categorical Data
+Python Pandas - Handling Missing Data
+Python Pandas - Missing Data
+Python Pandas - Filling Missing Data
+Python Pandas - Interpolation of Missing Values
+Python Pandas - Dropping Missing Data
+Python Pandas - Calculations with Missing Data
+Python Pandas - Handling Duplicates
+Python Pandas - Duplicated Data
+Python Pandas - Counting & Retrieving Unique Elements
+Python Pandas - Duplicated Labels
+Python Pandas - Grouping & Aggregation
+Python Pandas - GroupBy
+Python Pandas - Time-series Data
+Python Pandas - Date Functionality
+Python Pandas - Timedelta
+Python Pandas - Sparse Data Structures
+Python Pandas - Sparse Data
+Python Pandas - Visualization
+Python Pandas - Visualization
+Python Pandas - Additional Concepts
+Python Pandas - Caveats & Gotchas
+Python Pandas - Quick Guide
+Python Pandas - Cheatsheet
+Python Pandas - Useful Resources
+Python Pandas - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Python Pandas Tutorial
+Pandasis an open-source, BSD-licensed Python library providing high-performance, easy-to-use data structures and data analysis tools for thePython programming language. ThisPandas tutorialhas been prepared for those who want to learn about the foundations and advanced features of the Pandas Python package. Python with Pandas is used in a wide range of fields including academic and commercial domains including finance, economics, Statistics, analytics, etc. In this tutorial, we will learn the various features of Python Pandas and how to use them in practice.
+What is Pandas?
+Pandasis a powerful Python library that is specifically designed to work on data frames that have "relational" or "labeled" data. Its aim aligns with doing real-world data analysis using Python. Its flexibility and functionality make it indispensable for various data-related tasks. Hence, this Python package works well for data manipulation, operating a dataset, exploring a data frame, data analysis, and machine learning-related tasks. To work on it we should first install it using a pip command like "pip install pandas" and then import it like "import pandas as pd". After successfully installing and importing, we can enjoy the innovative functions of pandas to work on datasets or data frames. Pandas versatility and ease of use make it a go-to tool for working with structured data in Python.
+Generally, Pandas operates a data frame usingSeriesandDataFrame; where Series works on a one-dimensional labeled array holding data of any type likeintegers,strings, andobjects, while a DataFrame is a two-dimensional data structure that manages and operates data in tabular form (using rows and columns).
+Why Pandas?
+The beauty of Pandas is that it simplifies the task related to data frames and makes it simple to do many of the time-consuming, repetitive tasks involved in working with data frames, such as:
+Import datasets- available in the form of spreadsheets, comma-separated values (CSV) files, and more.
+Data cleansing- dealing with missing values and representing them as NaN, NA, or NaT.
+Size mutability- columns can be added and removed from DataFrame and higher-dimensional objects.
+Data normalization– normalize the data into a suitable format for analysis.
+Data alignment- objects can be explicitly aligned to a set of labels.Intuitive merging and joining data sets – we can merge and join datasets.
+Reshaping and pivoting of datasets– datasets can be reshaped and pivoted as per the need.
+Efficient manipulation and extraction- manipulation and extraction of specific parts of extensive datasets using intelligent label-based slicing, indexing, and subsetting techniques.
+Statistical analysis- to perform statistical operations on datasets.
+Data visualization- Visualize datasets and uncover insights.
+Applications of Pandas
+The most common applications of Pandas are as follows:
+Data Cleaning: Pandas provides functionalities to clean messy data, deal with incomplete or inconsistent data, handle missing values, remove duplicates, and standardize formats to do effective data analysis.
+Data Exploration: Pandas easily summarize statistics, find trends, and visualize data using built-in plotting functions, Matplotlib, or Seaborn integration.
+Data Preparation: Pandas may pivot, melt, convert variables, and merge datasets based on common columns to prepare data for analysis.
+Data Analysis: Pandas supports descriptive statistics, time series analysis, group-by operations, and custom functions.
+Data Visualisation: Pandas itself has basic plotting capabilities; it integrates and supports data visualization libraries like Matplotlib, Seaborn, and Plotly to create innovative visualizations.
+Time Series Analysis: Pandas supportsdate/timeindexing, resampling, frequency conversion, and rolling statistics for time series data.
+Data Aggregation and Grouping:Pandas groupby() functionlets you aggregate data and compute group-wise summary statistics or apply functions to groups.
+Data Input/Output: Pandas makes data input and export easy by reading and writing CSV, Excel, JSON, SQL databases, and more.
+Machine Learning: Pandas works well with Scikit-learn for data preparation, feature engineering, and model input data.
+Web Scraping: Pandas may be used with BeautifulSoup or Scrapy to parse and analyse structured web data for web scraping and data extraction.
+Financial Analysis: Pandas is commonly used in finance for stock market data analysis, financial indicator calculation, and portfolio optimization.
+Text Data Analysis: Pandas' string manipulation, regular expressions, and text mining functions help analyse textual data.
+Experimental Data Analysis: Pandas makes manipulating and analysing large datasets, performing statistical tests, and visualizing results easy.
+Audience: Who Should Learn Pandas
+ThisPandas tutorialhas been prepared for those who want to learn about the foundations and advanced features of the Pandas Python package. It is most widely used in the domain of data science, engineering, research, agriculture science, management, statistics, and other related fields where computation on a data set requires or explores the data frames to find out the data insights that are required to make fruitful decisions. After completing this tutorial, you will find yourself skilled in pandas Python package from where you can take yourself to the next levels of expertise on other Python packages like Matplotlib, SciPy, scikit-learn, scikit-image, and many more to keep mastering Python language.
+Pandas library uses most of the functionalities of NumPy. It is suggested to you to go through our tutorial onNumPy.
+Prerequisites To Learn Pandas
+You should have a basic understanding of computer programming. A basic understanding of Python and any of the programming languages is a plus. Basic knowledge of statistics and mathematics is helpful for data analysis and interpretation. Pandas provide functions for descriptive statistics, aggregation, and computation of summary metrics. By having a strong foundation of above mentioned, you'll be well-equipped to leverage the power of Pandas for data manipulation and analysis tasks.
+Pandas Codebase
+You can find the source for the Pandas athttps://github.com/jvns/pandas-cookbook
+Frequently Asked Questions about Python Pandas
+There are some very Frequently Asked Questions(FAQ) about Python Pandas, this section tries to answer them briefly.
+Pandas is a Python library used for data manipulation and analysis. It is widely used in the domain of data science, engineering, research, agriculture science, management, statistics, and other related fields where you need to work with datasets.
+The key features of Pandas as follows −
+Fast and Efficient DataFrame Object.
+Pandas supports various data loading tools for in-memory data objects.
+Data alignment and handling of missing data.
+Pandas allows you to reshaping and pivoting of datasets.
+Label-based slicing, indexing and subsetting of large data sets.
+Insert or delete columns from a data structure.
+Group by data for aggregation and transformations.
+High performance merging and joining.
+Time Series functionality.
+A Series in Pandas is a one-dimensional labeled array capable of holding data of any type (integer, string, float, Python objects, etc.).
+The two primary data structures of pandas are −
+Series (1-dimensional)
+DataFrame (2-dimensional)
+Pandas is the best tool for handling real-world messy data. It is built on top of NumPy and is open-source. Pandas allows for fast and effective data manipulation using its data structures, Series and DataFrame. It handles missing data, supports multiple file formats, and facilitates data cleaning and analysis.
+Yes, Python pandas is free for commercial use. It is accessible to everyone and free for users to use and modify.
+Pandas development began in 2008 at AQR Capital Management. By the end of 2009, it had been open-sourced, and it is now actively supported by a community of contributors worldwide.
+The two primary data structures of pandas are:
+Series− 1-dimensional labeled array.
+DataFrame− 2-dimensional table of data with labeled axes.
+The easiest way to install pandas is to install it as part of the Anaconda distribution, a cross-platform distribution for data analysis and scientific computing. The Conda package manager is the recommended installation method for most users. For further details, refer to ourEnvironment SetupTutorial.
+Pandas provides high-level data manipulation tools built on top of NumPy. The Pandas module mainly works with tabular data, whereas the NumPy module works with numerical data.
+Pandas is a Python package that provides fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. It is a fundamental high-level building block for performing practical, real-world data analysis in Python, aiming to be the most powerful and flexible open-source data analysis/manipulation tool available in any language.
+The best place to learn Python pandas is through our comprehensive and user-friendly tutorial. Our Python Pandas tutorial provides an excellent starting point for understanding data analysis programming with Python pandas. You can explore our simple and effective learning materials at your own pace.
+Following are some tips to learn Python Pandas −
+Decide to learn Python Pandas and stay committed to your goal.
+Install the necessary tools like Anaconda or Miniconda on your computer.
+Start with our Python Pandas tutorial and progress step by step from the basics.
+Read more articles, watch online courses, or buy a book on Python Pandas to deepen your understanding.
+Apply what youve learned by developing small projects that incorporate Python Pandas and other technologies.
+You can handle missing values in a DataFrame by −
+Inserting missing data
+Performing calculations with missing data
+Dropping missing data
+Filling missing data
+
+[Images saved with this article:]
+www.tutorialspoint.com_python_pandas_images_python-pandas-mini-logo.jpg
+www.tutorialspoint.com_python_pandas_images_python-pandas.jpg

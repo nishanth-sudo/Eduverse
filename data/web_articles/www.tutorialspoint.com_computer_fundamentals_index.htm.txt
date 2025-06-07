@@ -1,0 +1,192 @@
+Computer - Home
+Computer - Overview
+Computer - Advantages & Disadvantages
+Computer - Classification
+Computer - Applications
+Computer - History & Evolution
+Computer - System Characteristics
+Computing Origins
+Computer - Origins
+Computer - Generations
+Computer - Types
+Computer Components
+Computer - Components
+Computer - CPU
+Computer - CPU Components
+Computer - Arithmetic Logic Unit (ALU)
+Computer - Control Unit
+Computer - Input Devices
+Computer - Output Devices
+Computer - Memory Units
+Computer Hardware
+Computer - Hardware
+Computer - Motherboard
+Computer - GPU
+Computer - PSU
+Computer Software
+Computer - Software
+Computer - Software Types
+Computer Data Storage & Memory
+Computer - Data Storage
+Computer - Types of Data Storage
+Computer - Hard Disk Drives (HDD)
+Computer - Solid State Drives (SSD)
+Computer - Memory Cards
+Computer - Optical Storage
+Computer - NAND Flash Memory
+Computer - NVMe Memory
+Computer - CompactFlash Card
+Computer - Cloud Storage
+Computer Memory
+Computer - Memory
+Computer - Primary Memory
+Computer - Secondary Memory
+Computer - RAM
+Computer - ROM
+Computer - DRAM
+Computer - VRAM
+Computer - Cache Memory
+Computer Internet & Intranet
+Computer - Internet and Intranet
+Computer - Internet
+Computer - Extranet
+Computer - Websites
+Computer Office Tools
+Computer - Word Processors
+Computer - Spread Sheet
+Computer - Power Presentations
+Computer - E-mail Tools
+Computer Miscellaneous
+Computer - Ports
+Computer - Number System
+Computer - Number Conversion
+Computer - Data and Information
+Computer - Networking
+Computer - Operating System
+Computer - Keyboard Shortcut Keys
+Computer - Virus
+Computer - Antivirus
+Computer - How to Buy?
+Computer - Available Courses
+Calculator Vs. Computer
+Brain Vs. Computer
+Analog Vs. Digital Computer
+Supercomputer Vs. Mainframe Computer
+Mainframe Vs. Minicomputer
+Printer Vs. Scanner
+OCR Vs. MICR
+File Vs. Folder
+exFAT Vs. FAT32
+FAT32 Vs. NTFS
+FAT32 Vs. exFAT Vs. NTFS
+CPU Vs. GPU
+GUI Vs. CLI
+GUI Vs. CUI
+Cache Memory Vs. Virtual Memory
+Register Vs. Memory
+RAM Vs. CAM
+SRAM Vs. DRAM
+DDR2 Vs. DDR3
+PROM Vs. EPROM
+CD Vs. DVD
+Blu-Ray Vs. DVD
+MMU Vs. MPU
+Computer Terminologies
+Microsoft Windows
+Desktop
+Monitor
+Microphone
+Keyboard
+Keypad
+Mouse
+Printer
+Webcam
+Floppy Disk Drive
+Compact Disc
+Program
+Incognito Mode
+Electronic Mail (E-Mail)
+Server
+Cloud Hosting
+Minicomputers
+Supercomputer
+Bit
+Byte
+Kilobyte
+Megabyte
+Terabyte
+Yottabyte
+Zettabyte
+Exabyte
+Petabyte
+JEDEC
+Hub
+Block Storage
+Username
+URL
+Num Lock
+BIOS
+PDF
+Bluetooth
+Computer Useful Resources
+Computer - Quick Guide
+Keyboard Function Keys
+Keyboard Shortcuts for Ubuntu
+Computer - Useful Resources
+Computer - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Computer Fundamentals Tutorial
+Computer is an advanced electronic device that takes raw data as an input from the user and processes it under the control of a set of instructions (called a program), produces a result (output), and saves it for future use. This tutorial explains the foundational concepts of computer hardware, software, operating systems, peripherals, etc., along with how to get the most value and impact from computer technology.
+What is Computer Fundamentals?
+Computer fundamentals are all about the learning of the basic concepts of computers, such as introduction, types, components, memory, etc. The knowledge of computer fundamentals is required to operate computers and use their applications.
+Key Topics in Computer Fundamentals
+Some of the key topics of computer fundamentals are:
+Introduction to Computers
+Components of a Computer
+Input Devices
+Output Devices
+Data Storage and Memory
+Computer Memory Units
+Different Types of Data Storage
+Computer Architecture (CPU,ALU, and CU)
+Software
+Basics of Operating System
+Basics of Networks
+Advantages of Computers
+Computersprovide various advantages, like speed and efficiency in processing and analyzing large amounts of data in a fraction of the time; they can automate repetitive tasks and can store vast amounts of information with quick access to it; also, they perform complex calculations and have good problem-solving, decision-making, and multitasking with cost savings, as they help save a lot of paperwork and paper, which is ultimately good for the environment and also provides good data security and backup with global reach.
+Read the chapterComputer Advantages and Disadvantagesto learn the advantages and disadvantages of using computer systems in detail.
+Applications of Computers
+As there are numerousapplications of computers, they provide various advantages in various fields in today's fast-paced world.
+It reduces the use of human work in variousbusiness and industrial areas,therefore increasing productivity as well as maintaining huge amounts of data.
+In theeducation sector, computers provide online learning and easy access to study materials, with digital resources, e-books, journals, etc.
+Inhealthcare, by managing a vast number of patient records, tracking patient health with the help of medical software andartificial intelligence (AI).
+Incommunication and entertainment, it provides instant communication through social media, collaboration tools, and global connectivity.
+Inscience and research, computers process large datasets for scientific research, and enhanced digital platforms lead to faster discoveries and advancements.
+Computers infinance and accountinghelp track financial transactions, manage accounts, and analyze market trends.
+And else ingovernment and public administration, transportation, agriculture, and security and defense, overall it helps in a wide range of tasks to improve various aspects of modern life.
+Why Learn Computer Fundamentals?
+Learning computer fundamentalsis necessary to operate a computer and to know fundamental skills to work on the different computer applications.
+Audience
+This computer fundamentals tutorial has been prepared for beginners as well as advanced learners who want to deal with computers. The tutorial is also very useful for undergraduate students of computer science, engineering, business administration, management, science, commerce, and arts, where an introductory course on computers is a part of the curriculum.
+After completing this tutorial, you will find yourself at a moderate level of expertise in the knowledge of computer basics from where you can take yourself to the next level.
+Prerequisites
+Knowledge of computers is not a prerequisite to follow the contents of this tutorial. This tutorial assumes no background in Computers or Computer programming.
+Computer Fundamentals FAQs
+1. Is any prior experience necessary to begin learning computer fundamentals?
+2. From where should I begin when learning the fundamentals of computers?
+3. How can I apply my knowledge of computer fundamentals in both my personal life and professional career?
+4. Can mastering computer fundamentals benefit me in creative fields such as art or design?
+
+[Images saved with this article:]
+www.tutorialspoint.com_computer_fundamentals_images_computer-mini-logo.jpg
+www.tutorialspoint.com_computer_fundamentals_images_computer_fundamentals.jpg

@@ -1,0 +1,445 @@
+Full Stack Course
+NodeJS Tutorial
+NodeJS Exercises
+NodeJS Assert
+NodeJS Buffer
+NodeJS Console
+NodeJS Crypto
+NodeJS DNS
+NodeJS File System
+NodeJS Globals
+NodeJS HTTP
+NodeJS HTTP2
+NodeJS OS
+NodeJS Path
+NodeJS Process
+NodeJS Query String
+NodeJS Stream
+NodeJS String Decoder
+NodeJS Timers
+NodeJS URL
+NodeJS Interview Questions
+NodeJS Questions
+Web Technology
+Explore GfG Courses
+Share Your Experiences
+Node.js Tutorial
+Node.js Basic
+NodeJS Introduction
+How to Install Node.js on Linux
+How to Install Node.js on Windows
+NodeJS Basics
+Node First Application
+NodeJS REPL (READ, EVAL, PRINT, LOOP)
+NodeJS NPM
+NodeJS Global Objects
+NodeJS  Modules
+Node.js Local Module
+Node.js Assert Module
+Node.js Assert Module
+Node.js assert() Function
+Node.js assert.deepStrictEqual() Function
+Node.js assert.doesNotThrow() Function
+Node.js assert.equal() Function
+Node.js assert.ifError() Function
+Node.js assert.match() Function
+Node.js assert.notDeepEqual() Function
+Node.js Assert Complete Reference
+Node.js Buffer Module
+Node.js Buffers
+Node.js Buffer.copy() Method
+Node.js Buffer.includes() Method
+Node.js Buffer.compare() Method
+Node.js Buffer.alloc() Method
+Node.js Buffer.equals() Method
+Node.js Buffer.subarray() Method
+Node.js Buffer.readIntBE() Method
+Node.js Buffer.write() Method
+Node.js Buffer Complete Reference
+Node.js Console Module
+Node.js Console
+Node.js console.assert() Method
+Node.js console.clear() Method
+Node.js console.count() Method
+Node.js console.countReset() Method
+Node.js console.debug() Method
+Node.js console.dir() Method
+Node.js console.error() Function
+Node.js console.info() Method
+Node.js Console Complete Reference
+Node.js Crypto Module
+Node.js cipher.final() Method
+Node.js cipher.update() Method
+Node.js crypto.getCiphers() Method
+Node.js crypto.createDecipheriv() Method
+Node crypto.createCipheriv() Method
+Node.js crypto.getDiffieHellman() Method
+Node.js crypto.pbkdf2() Method
+Node crypto.createHash() Method
+Node.js  crypto.createHmac() Method
+Node.js Crypto Complete Reference
+Node.js DNS Module
+Node.js DNS
+Node.js dns.getServers() Method
+Node.js dns.lookup() Method
+Node.js dns.lookupService() Method
+Node.js dns.resolve() Method
+Node.js dns.resolve4() Method
+Node.js dns.resolve6() Method
+Node.js dns.resolveAny() Method
+Node.js dns.resolveCname() Method
+Node.js DNS Complete Reference
+Node.js File System Module
+Node.js File System
+Node JS fs.readFile() Method
+Node.js fs.exists() Method
+Node fs.existsSync() Method
+Node fs.mkdir() Method
+Node.js fs.truncate() Method
+Node.js fs.renameSync() Method
+Node.js fs.rmdir() Method
+Node.js fs.stat() Method
+Node.js File System Complete Reference
+Node.js Globals
+Node.js Timers module
+Import and Export in Node.js
+Node Export Module
+Node.js URL() Method
+Node.js URLsearchParams API
+Node.js Globals Complete Reference
+Node.js HTTP Module
+NodeJS HTTP Module
+Node.js new Agent() Method
+Node.js agent.createConnection() Method
+Node.js agent.maxSockets Method
+Node.js agent.maxFreeSockets Method
+Node.js http.ClientRequest.abort() Method
+Node.js http.ClientRequest.connection Property
+Node.js http.ClientRequest.protocol Method
+Node.js http.ClientRequest.aborted Property
+Node.js HTTP Module Complete Reference
+Node.js HTTP2 Module
+Node.js Http2Session Close Event
+Node.js http2session.state Method
+Node.js Http2Session timeout Event
+Node.js http2session.socket Method
+Node.js http2session.remoteSettings Method
+Node.js http2session.destroyed Method
+Node.js http2session.type Method
+Node.js http2session.encrypted Method
+Node.js http2session.localSettings Method
+Node.js HTTP2 Complete Reference
+Node.js OS Module
+Node.js OS
+Node.js os.EOL
+Node.js os.arch() Method
+Node.js os.cpus() Method
+Node.js os.endianness() Method
+Node.js os.freemem() Method
+Node.js os.getPriority() Method
+Node.js os.homedir() Method
+Node.js os.hostname() Method
+Node.js OS Complete Reference
+Node.js Path Module
+Node.js path.basename() Method
+Node.js path.delimiter Property
+Node.js path.dirname() Method
+Node.js path.extname() Method
+Node.js path.format() Method
+Node.js path.isAbsolute() Method
+Node.js path.join() Method
+Node.js path.normalize() Method
+Node.js path.parse() Method
+Node.js Path Module Complete Reference
+Node.js Process Module
+Node.js process.arch Property
+Node.js process.argv Property
+Node.js process.argv0 Property
+Node.js process.chdir() Method
+Node.js process.config Property
+Node.js process.cpuUsage() Method
+Node process.cwd() Method
+Node.js process.debugPort Property
+Node.js process.env Property
+Node.js Process Complete Reference
+Node.js Query String Module
+Node.js querystring.parse() Method
+Node.js querystring.stringify() Method
+Node.js Query String Complete Reference
+Node.js Stream Module
+Node.js Streams
+Node.js Stream writable.cork() Method
+Node.js Stream writable.writableLength Property
+Node.js Stream writable.writableObjectMode Property
+Node.js Stream writable.writableFinished Property
+Node.js Stream writable.destroy() Method
+Node.js Stream writable.writableCorked Property
+Node.js Stream writable.end() Method
+Node.js stream.Writable close Event
+Node.js Stream Complete Reference
+Node.js String Decoder Module
+Node.js stringDecoder.end() Method
+Node.js stringDecoder.write() Method
+Node.js String Decoder Complete Reference
+Node.js Timers Module
+Node.js Immediate Timer Class
+Node.js Timeout Timer Class
+Node.js Timers Complete Reference
+Node.js TLS/SSL Module
+Node.js tls.createServer() Method
+Node.js tls.rootCertificates Property
+Node.js tls.getCiphers() Method
+Node.js request.writableEnded Property
+Node.js tlsSocket.address() Method
+Node.js tlsSocket.authorized Property
+Node.js tlsSocket.authorizationError Property
+Node.js tlsSocket.disableRenegotiation() Method
+Node.js TLS/SSL Complete Reference
+Node.js UDP/DataGram Module
+Node.js socket.address() Method
+Node.js socket.addMembership() Method
+Node.js socket.bind() Method
+Node.js socket.connect() Method
+Node.js socket.dropMembership() Method
+Node.js socket.getSendBufferSize() Method
+Node.js socket.getRecvBufferSize() Method
+Node.js socket.setTTL() Method
+Node.js socket.setMulticastTTL() Method
+Node.js UDP/DataGram Complete Reference
+Node.js URL Module
+Node.js URL.hash API
+Node.js URL.host API
+Node.js URL.origin API
+Node.js URL.username API
+Node.js URL.search API
+Node.js URL.port API
+Node.js URL.pathname API
+Node.js URL.password API
+Node.js URL Complete Reference
+Node.js Utility Module
+Node.js Utility Module
+Node.js util.callbackify() Method
+Node.js util.debuglog() Method
+Node.js util.format() Method
+Node.js util.inherits() Method
+Node.js util.formatWithOptions() Method
+Node.js util.inspect() Method
+Node util.promisify() Method
+Node.js util.isDeepStrictEqual() Method
+Node.js Utility Complete Reference
+Node.js V8 Module
+Node.js v8.cachedDataVersionTag() Method
+Node.js v8.getHeapSpaceStatistics() Method
+Node.js v8.getHeapStatistics() Method
+Node.js v8.serialize() Method
+Node.js v8.deserialize() Method
+Node.js v8.Serializer.writeHeader() Method
+Node.js v8.Serializer.writeValue()  Method
+Node.js v8.Serializer.releaseBuffer() Method
+Node.js v8.Serializer.writeUint32() Method
+Node.js V8 Complete Reference
+Node.js VM Module
+Node.js Constructor: new vm.Script() Method
+Node.js script.createCachedData() Method
+Node.js script.runInContext() Method
+Node.js script.runInNewContext() Method
+Node.js | script.runInThisContext() Method
+Node.js vm.createContext() Method
+Node.js vm.runInThisContext() Method
+Node.js vm.isContext() Method
+Node.js vm.runInContext() Method
+Node.js VM Complete Reference
+Node.js Zlib Module
+Node.js zlib.constants Property
+Node.js zlib.createBrotliCompress() Method
+Node.js zlib.createBrotliDecompress() Method
+Node.js zlib.createUnzip() Method
+Node.js zlib.createDeflateRaw() Method
+Node.js zlib.createGunzip() Method
+Node.js zlib.createInflateRaw() Method
+Node.js zlib.createDeflate() Method
+Node.js zlib.createInflate() Method
+Node.js Zlib Complete Reference
+Node.js Questions
+Why NodeJS ?
+How to Change NodeJS console Font Color?
+How to Read Command Line Arguments in Node ?
+Difference Between --save and --save-dev in NodeJS
+Essence of Node.js
+Reading Environment Variables From Node.js
+How to install the previous version of Node and npm?
+How to Create a Directory using Node.js ?
+Node.js Questions Complete Reference
+Node.js Examples
+Java Backend DevelopmentCourse
+Node.js TutorialLast Updated :08 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportNode.js is a powerful, open-source, and cross-platform JavaScript runtime environment built onChrome's V8 engine.It allows you to run JavaScript code outside the browser, making it ideal for building scalable server-side and networking applications.JavaScript was earlier mainly used for frontend development. With Node JS (Introduced in 2009), JavaScript became a backend language as well.Non-blocking, event-driven architecture for high performance.Supports the creation ofREST APIs, real-time applications, andmicroservices.Comes with a rich library of modules throughnpm(Node Package Manager).Deploy Node.js applications onHostinger’s VPS hostingfor top-notch performance. Enjoyhigh-speed NVMe SSD storageandAMD EPYCprocessors for faster execution. Hostinger’s platform offersscalability, full control, and industry-standard KVM virtualization. Benefit from a 300 Mb/s network for seamless connectivity. Visit the website to get started now.To start with Node.js, you need to install and set it up on your machine. Follow these articles to install depending on your system:How to Install Node.js on Windows?Installation of Node JS on LinuxHow to Install NodeJS on MacOSLet us now take a look at our first code example.JavaScript// Import the http moduleconsthttp=require('http');// Create a serverconstserver=http.createServer((req,res)=>{res.statusCode=200;res.setHeader('Content-Type','text/plain');res.end('Welcome to the Node.js Tutorial');});// Listen on port 3000server.listen(3000,()=>{console.log('Server is running on http://localhost:3000');});It will start a server, and when you visit http://localhost:3000, it will displayWelcome to the Node.js TutorialIn this exampleThehttp moduleis imported to create a basic HTTP server.The createServer() method is used to handle incoming requests and send responses.The server listens on port 3000, and a message is displayed in the browser when accessed.NodeJS TutorialWhy Learn Node.jsEnables the use of JavaScript for both frontend and backend development.Supports building real-time applications like chat apps and gaming servers.Provides high scalability for I/O-heavy applications.Backed by a vibrant community and extensive library support.Getting Started with Node.js TutorialPrerequisites:JavaScriptandbasic knowledge of web developmentBasics of Node.jsNode.js IntroductionWhy Node.js?Node.js NPM (Node.jsPackage Manager)Installation of Node.js on LinuxInstallation of Node.js on WindowsNode.js BasicsNode.js First ApplicationNode.js REPLNode.js modulesNode.js Start and Run ServerNode.js Blocking and Non-BlockingNode.js Callback ConceptNode.js DebuggingNode.js Set Console Font ColorNode.js Web ServerNode.js Create and Publish NPM packagesNode.js –save and –save-devNode.js Event LoopNode.js FrameworksNode.js Promise ChainingNode.js This BindingNode.js Global ObjectsNode.js Automatic Restart Server with NodemonNode.js Child ProcessNode.js Global Installation of DependenciesNode.js Session VariableNode.js Complete ReferencesNode.js AssertNode.js BufferNode.js ConsoleNode.js CryptoNode.js DNSNode.js File SystemNode.js GlobalsNode.js HTTP ModuleNode.js HTTP2Node.js OSNode.js Path ModuleNode.js ProcessNode.js Query StringNode.js StreamNode.js String DecoderNode.js TimersNode.js TLS/SSLNode.js UDP/DataGramNode.js URLNode.js UtilityNode.js V8Node.js VMNode.js ZlibNode.js QuestionsAlso Check:Recent Articles on NodeNode.js Interview QuestionsNode.js Interview Questions and Answers (2024) – Beginner LevelNode.js Interview Questions and Answers (2024) – Intermediate LevelNode.js Interview Questions and Answers (2024) – Advanced LevelNode.js Online Quiz QuestionsNode.js Quiz | Set-1Node.js Quiz | Set-2Node.js Quiz | Set-3Node.js ProjectsLibrary Management SystemUser Management SystemStock Market Portfolio AppChat App using socket.io Node.jsMail sender using Node.jsTask Manager using Node.jsCareers with Node.jsAround 6 million websites use Node.js, it is growing day by day. Most of the eCommerce, and IoT companies looking for pro Node.js developer.AccentureGoogleCognizantHCL TechnologiesCapgeminiIBM IndiaMicrosoft IndiaAmazon IndiaAdobe IncOracle IncIntel IndiaDeloitte IndiaCisco Systems IncNode.js AdvantagesEasy Scalability: Node.js compiles and executes JavaScript at lightning speeds, making it highly scalable.Real-time Web Apps: Node.js enables real-time communication for chat, gaming, social media updates, and more.Microservices: Node.js is lightweight and ideal for microservice architectures.JavaScript Everywhere: Learn JavaScript once, and you can use it both for front-end and back-end development.Efficient Data Streaming: Node.js efficiently handles I/O processes like media transcoding during uploads.Event-Driven Architecture: Unlike traditional servers, Node.js handles concurrent requests effectively.Strong Community Support: Node.js has an independent community backing its development.Node.js JobsIf you are curious about what job profiles you will get after learning Node, then here in this section we have listed down some of the job profiles that any Node.jsdeveloper can easily get.Backend DeveloperFull-Stack DeveloperAPI DeveloperMicroservice DeveloperDevOps EngineerNode.js vs Other Backend TechnologiesFeatureNode.jsPython/DjangoPHPPerformanceHigh for I/O operationsModerateModerateScalabilityExcellent for microservicesModerateModerateLearning CurveModerateEasyEasyCommunity SupportExtensiveExtensiveExtensiveUse CasesReal-time apps, APIsWeb developmentCMS, Web developmentNext ArticleNodeJS IntroductionSsouravsharma098ImproveArticle Tags :Web TechnologiesNode.jsNode.js-BasicsTutorialsSpotlightWeb-Tech TutorialsBackend-Development
+Node.js Tutorial
+Node.js is a powerful, open-source, and cross-platform JavaScript runtime environment built onChrome's V8 engine.
+It allows you to run JavaScript code outside the browser, making it ideal for building scalable server-side and networking applications.
+JavaScript was earlier mainly used for frontend development. With Node JS (Introduced in 2009), JavaScript became a backend language as well.
+Non-blocking, event-driven architecture for high performance.
+Supports the creation ofREST APIs, real-time applications, andmicroservices.
+Comes with a rich library of modules throughnpm(Node Package Manager).
+Deploy Node.js applications onHostinger’s VPS hostingfor top-notch performance. Enjoyhigh-speed NVMe SSD storageandAMD EPYCprocessors for faster execution. Hostinger’s platform offersscalability, full control, and industry-standard KVM virtualization. Benefit from a 300 Mb/s network for seamless connectivity. Visit the website to get started now.
+To start with Node.js, you need to install and set it up on your machine. Follow these articles to install depending on your system:
+How to Install Node.js on Windows?
+Installation of Node JS on Linux
+How to Install NodeJS on MacOS
+Let us now take a look at our first code example.
+// Import the http moduleconsthttp=require('http');// Create a serverconstserver=http.createServer((req,res)=>{res.statusCode=200;res.setHeader('Content-Type','text/plain');res.end('Welcome to the Node.js Tutorial');});// Listen on port 3000server.listen(3000,()=>{console.log('Server is running on http://localhost:3000');});
+// Import the http moduleconsthttp=require('http');// Create a serverconstserver=http.createServer((req,res)=>{res.statusCode=200;res.setHeader('Content-Type','text/plain');res.end('Welcome to the Node.js Tutorial');});// Listen on port 3000server.listen(3000,()=>{console.log('Server is running on http://localhost:3000');});
+It will start a server, and when you visit http://localhost:3000, it will display
+Welcome to the Node.js Tutorial
+In this example
+Thehttp moduleis imported to create a basic HTTP server.
+The createServer() method is used to handle incoming requests and send responses.
+The server listens on port 3000, and a message is displayed in the browser when accessed.
+Why Learn Node.js
+Enables the use of JavaScript for both frontend and backend development.
+Supports building real-time applications like chat apps and gaming servers.
+Provides high scalability for I/O-heavy applications.
+Backed by a vibrant community and extensive library support.
+Getting Started with Node.js Tutorial
+Prerequisites:JavaScriptandbasic knowledge of web development
+Basics of Node.js
+Node.js Introduction
+Why Node.js?
+Node.js NPM (Node.jsPackage Manager)
+Installation of Node.js on Linux
+Installation of Node.js on Windows
+Node.js Basics
+Node.js First Application
+Node.js REPL
+Node.js modules
+Node.js Start and Run Server
+Node.js Blocking and Non-Blocking
+Node.js Callback Concept
+Node.js Debugging
+Node.js Set Console Font Color
+Node.js Web Server
+Node.js Create and Publish NPM packages
+Node.js –save and –save-dev
+Node.js Event Loop
+Node.js Frameworks
+Node.js Promise Chaining
+Node.js This Binding
+Node.js Global Objects
+Node.js Automatic Restart Server with Nodemon
+Node.js Child Process
+Node.js Global Installation of Dependencies
+Node.js Session Variable
+Node.js Complete References
+Node.js Assert
+Node.js Buffer
+Node.js Console
+Node.js Crypto
+Node.js DNS
+Node.js File System
+Node.js Globals
+Node.js HTTP Module
+Node.js HTTP2
+Node.js OS
+Node.js Path Module
+Node.js Process
+Node.js Query String
+Node.js Stream
+Node.js String Decoder
+Node.js Timers
+Node.js TLS/SSL
+Node.js UDP/DataGram
+Node.js URL
+Node.js Utility
+Node.js V8
+Node.js VM
+Node.js Zlib
+Node.js Questions
+Also Check:Recent Articles on Node
+Node.js Interview Questions
+Node.js Interview Questions and Answers (2024) – Beginner Level
+Node.js Interview Questions and Answers (2024) – Intermediate Level
+Node.js Interview Questions and Answers (2024) – Advanced Level
+Node.js Online Quiz Questions
+Node.js Quiz | Set-1
+Node.js Quiz | Set-2
+Node.js Quiz | Set-3
+Node.js Projects
+Library Management System
+User Management System
+Stock Market Portfolio App
+Chat App using socket.io Node.js
+Mail sender using Node.js
+Task Manager using Node.js
+Careers with Node.js
+Around 6 million websites use Node.js, it is growing day by day. Most of the eCommerce, and IoT companies looking for pro Node.js developer.
+Accenture
+Google
+Cognizant
+HCL Technologies
+Capgemini
+IBM India
+Microsoft India
+Amazon India
+Adobe Inc
+Oracle Inc
+Intel India
+Deloitte India
+Cisco Systems Inc
+Node.js Advantages
+Easy Scalability: Node.js compiles and executes JavaScript at lightning speeds, making it highly scalable.
+Real-time Web Apps: Node.js enables real-time communication for chat, gaming, social media updates, and more.
+Microservices: Node.js is lightweight and ideal for microservice architectures.
+JavaScript Everywhere: Learn JavaScript once, and you can use it both for front-end and back-end development.
+Efficient Data Streaming: Node.js efficiently handles I/O processes like media transcoding during uploads.
+Event-Driven Architecture: Unlike traditional servers, Node.js handles concurrent requests effectively.
+Strong Community Support: Node.js has an independent community backing its development.
+Node.js Jobs
+If you are curious about what job profiles you will get after learning Node, then here in this section we have listed down some of the job profiles that any Node.jsdeveloper can easily get.
+Backend Developer
+Full-Stack Developer
+API Developer
+Microservice Developer
+DevOps Engineer
+Node.js vs Other Backend Technologies
+Feature
+Node.js
+Python/Django
+PHP
+Performance
+High for I/O operations
+Moderate
+Moderate
+Scalability
+Excellent for microservices
+Moderate
+Moderate
+Learning Curve
+Moderate
+Easy
+Easy
+Community Support
+Extensive
+Extensive
+Extensive
+Use Cases
+Real-time apps, APIs
+Web development
+CMS, Web development
+S
+Web Technologies
+Node.js
+Node.js-Basics
+Tutorials
+Spotlight
+Web-Tech Tutorials
+Backend-Development
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20241016105256460477_NodeJS-Tutorial.webp
+media.geeksforgeeks.org_img-practice_prod_courses_874_Web_Content_frontend-interview-webp_1739529920.webp
+media.geeksforgeeks.org_img-practice_prod_courses_345_Web_Content_javasc_1724254497.webp
+media.geeksforgeeks.org_img-practice_prod_courses_822_Web_Content_nextweb_1732621613.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

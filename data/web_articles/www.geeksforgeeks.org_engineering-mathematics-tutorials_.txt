@@ -1,0 +1,191 @@
+Number System
+Algebra
+Set Theory
+Geometry
+Linear Algebra
+Trigonometry
+Logarithms
+Statistics
+Probability
+Calculus
+Discrete Mathematics
+Engineering Math Practice Problems
+Explore GfG Courses
+Share Your Experiences
+Engineering Mathematics Tutorials
+Matrix and Determinants
+Matrices
+Different Operations on Matrices
+Representation of Relation in Graphs and Matrices
+Determinant of Matrix with Solved Examples
+Properties of Determinants
+Row Echelon Form
+Eigenvalues and Eigenvectors
+System of Linear Equations
+Matrix Diagonalization
+LU Decomposition
+Finding Inverse of a Square Matrix using Cayley Hamilton Theorem in MATLAB
+Sequence and Series
+Binomial Theorem
+Sequences and Series
+Finding nth term of any Polynomial Sequence
+Mathematics | Sequence, Series and Summations
+Calculus
+Limits in Calculus
+Indeterminate Forms
+Limits, Continuity and Differentiability
+Cauchy's Mean Value Theorem
+Lagrange's Mean Value Theorem
+Rolle's Mean Value Theorem
+Taylor Series
+Maclaurin series
+Euler's Formula
+Chain Rule: Theorem, Formula and Solved Examples
+Inverse functions and composition of functions
+Definite Integral | Definition, Formula & How to Calculate
+Mathematics | Indefinite Integrals
+Application of Derivative - Maxima and Minima
+Summation Formulas
+Statistics and Numerical Methods
+Mean, Variance and Standard Deviation
+Mathematics - Law of Total Probability
+Probability Distribution - Function, Formula, Table
+Bayes' Theorem
+Conditional Probability
+Probability Distribution
+Mathematics | Probability Distributions Set 1 (Uniform Distribution)
+Mathematics | Probability Distributions Set 2 (Exponential Distribution)
+Mathematics | Probability Distributions Set 3 (Normal Distribution)
+Mathematics | Probability Distributions Set 4 (Binomial Distribution)
+Mathematics | Probability Distributions Set 5 (Poisson Distribution)
+Covariance and Correlation
+Engineering Math Practice Problems
+Mathematics | Problems On Permutations | Set 1
+Problem on permutations and combinations | Set 2
+Mathematics | Graph theory practice questions
+Last Minute Notes - Engineering Mathematics
+DSA to DevelopmentCourse
+Engineering Mathematics TutorialsLast Updated :08 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportEngineering mathematics is a vital component of the engineering discipline, offering the analytical tools and techniques necessary for solving complex problems across various fields. Whether you're designing a bridge, optimizing a manufacturing process, or developing algorithms for computer systems, a solid understanding of mathematical principles is crucial.Discrete MathematicsPropositional and First Order Logic :This section covers the basics of propositional and first-order logic, including logical equivalences, predicates, quantifiers, and rules of inference, helping you understand their applications and key concepts.Introduction to Propositional LogicIntroduction to Propositional Logic | Set 2Propositional EquivalencesPredicates and QuantifiersPredicates and Quantifiers | Set 2Some theorems on Nested QuantifiersRules of InferencePDNF and PCNF in Discrete MathematicsSet Theory :This section introduces key concepts in set theory and algebra, including set operations, relations, functions, generating functions, and various algebraic structures, focusing on their properties and applications.IntroductionSet OperationsInclusion-Exclusion and its various ApplicationsPower Set and its PropertiesPartial Orders and LatticesGroupsIntroduction and types of RelationsDiscrete Mathematics | Representing RelationsRelations | Representations in Matrices and GraphsClosure of Relations and Equivalence RelationsNumber of possible Equivalence Relations on a finite setClasses (Injective, surjective, Bijective) of FunctionsTotal number of possible functionsGenerating Functions | Introduction and PrerequisitesGenerating Functions – Set 2Sequence, Series and SummationsIndependent Sets, Covering and MatchingIntroduction to ProofsHasse DiagramsIntroduction to Mojette transformRings, Integral domains and Fields>> Quiz on Set Theory and AlgebraCombinatorics :This section covers essential combinatorics concepts, including the pigeonhole principle, permutations, combinations, binomial coefficients, recurrence relations, and problem-solving techniques.Pigeon Hole PrincipleCombinatorics BasicsPnC and Binomial CoefficientsGeneralized PnC Set 1Generalized PnC Set 2Corollaries of Binomial TheoremNumber of triangles in a plane if no more than two points are collinearSum of squares of even and odd natural numbersFinding the nth term of any Polynomial SequenceDiscrete Mathematics | Types of Recurrence Relations – Set 2>> Combination and Permutation Practice Questions | Set 1>> Problem on permutations and combinations | Set 2Probability :Learn key probability concepts including conditional probability, Bayes's formula, random variables, and the prosecutor's fallacy.Mathematics | ProbabilityConditional ProbabilityBayes’s Formula for Conditional probabilityProsecutor’s FallacyRandom VariablesGraph Theory :Understand basic graph theory, types of graphs, Euler/Hamiltonian paths, graph coloring, and centrality measures.Graph Theory Basics – Set 1Graph Theory Basics – Set 2Graph Types and ApplicationsEuler and Hamiltonian PathsPlanar Graphs and Graph ColoringGraph Isomorphisms and ConnectivityMatching (graph theory)Betweenness Centrality (Centrality Measure)Mathematics | Walks, Trails, Paths, Cycles, and Circuits in GraphGraph measurements: length, distance, diameter, eccentricity, radius, centerRelationship between number of nodes and height of binary tree>> Graph theory practice questionsEngineering MathematicsLinear Algebra :Explore matrix operations, eigenvalues/eigenvectors, linear equations, and LU decomposition.Matrix IntroductionDifferent Operations on MatricesRepresentations of Matrices and Graphs in RelationsEigen Values and Eigen VectorsSystem of Linear EquationsLU Decomposition of a System of Linear EquationsDoolittle Algorithm: LU Decomposition>> Quiz on Linear AlgebraCalculus :Cover limits, continuity, differentiation, mean value theorems, and integration techniques.Limits, Continuity, and DifferentiabilityCauchy’s Mean Value TheoremLagrange’s Mean Value TheoremRolle’s Mean Value TheoremUnimodal functions and Bimodal functionsSurface Area and Volume of Hexagonal PrismInverse functions and composition of functionsIndefinite IntegralsStatistics and Numerical Methods :Learn about mean, variance, standard deviation, probability distributions, interpolation, and statistical analysis methods.Mean, Variance, and Standard DeviationNewton’s Divided Difference Interpolation FormulaLaw of total probabilityProbability Distributions Set 1 (Uniform Distribution)Probability Distributions Set 2 (Exponential Distribution)Probability Distributions Set 3 (Normal Distribution)Probability Distributions Set 4 (Binomial Distribution)Probability Distributions Set 5 (Poisson Distribution)Homogeneous Poisson ProcessNonhomogeneous Poisson ProcessesRenewal processes in probabilityMathematics | Covariance and CorrelationScales of MeasurementUnivariate, Bivariate, and Multivariate data and its analysisHypergeometric Distribution modelQuick Links :‘Quizzes’ on Engineering Mathematics !Next ArticleMatricesRrahulsharmagfg1ImproveArticle Tags :Engineering Mathematics
+Engineering Mathematics Tutorials
+Engineering mathematics is a vital component of the engineering discipline, offering the analytical tools and techniques necessary for solving complex problems across various fields. Whether you're designing a bridge, optimizing a manufacturing process, or developing algorithms for computer systems, a solid understanding of mathematical principles is crucial.
+Discrete Mathematics
+Propositional and First Order Logic :
+This section covers the basics of propositional and first-order logic, including logical equivalences, predicates, quantifiers, and rules of inference, helping you understand their applications and key concepts.
+Introduction to Propositional Logic
+Introduction to Propositional Logic | Set 2
+Propositional Equivalences
+Predicates and Quantifiers
+Predicates and Quantifiers | Set 2
+Some theorems on Nested Quantifiers
+Rules of Inference
+PDNF and PCNF in Discrete Mathematics
+Set Theory :
+This section introduces key concepts in set theory and algebra, including set operations, relations, functions, generating functions, and various algebraic structures, focusing on their properties and applications.
+Introduction
+Set Operations
+Inclusion-Exclusion and its various Applications
+Power Set and its Properties
+Partial Orders and Lattices
+Groups
+Introduction and types of Relations
+Discrete Mathematics | Representing Relations
+Relations | Representations in Matrices and Graphs
+Closure of Relations and Equivalence Relations
+Number of possible Equivalence Relations on a finite set
+Classes (Injective, surjective, Bijective) of Functions
+Total number of possible functions
+Generating Functions | Introduction and Prerequisites
+Generating Functions – Set 2
+Sequence, Series and Summations
+Independent Sets, Covering and Matching
+Introduction to Proofs
+Hasse Diagrams
+Introduction to Mojette transform
+Rings, Integral domains and Fields
+>> Quiz on Set Theory and Algebra
+Combinatorics :
+This section covers essential combinatorics concepts, including the pigeonhole principle, permutations, combinations, binomial coefficients, recurrence relations, and problem-solving techniques.
+Pigeon Hole Principle
+Combinatorics Basics
+PnC and Binomial Coefficients
+Generalized PnC Set 1
+Generalized PnC Set 2
+Corollaries of Binomial Theorem
+Number of triangles in a plane if no more than two points are collinear
+Sum of squares of even and odd natural numbers
+Finding the nth term of any Polynomial Sequence
+Discrete Mathematics | Types of Recurrence Relations – Set 2
+>> Combination and Permutation Practice Questions | Set 1>> Problem on permutations and combinations | Set 2
+Probability :
+Learn key probability concepts including conditional probability, Bayes's formula, random variables, and the prosecutor's fallacy.
+Mathematics | Probability
+Conditional Probability
+Bayes’s Formula for Conditional probability
+Prosecutor’s Fallacy
+Random Variables
+Graph Theory :
+Understand basic graph theory, types of graphs, Euler/Hamiltonian paths, graph coloring, and centrality measures.
+Graph Theory Basics – Set 1
+Graph Theory Basics – Set 2
+Graph Types and Applications
+Euler and Hamiltonian Paths
+Planar Graphs and Graph Coloring
+Graph Isomorphisms and Connectivity
+Matching (graph theory)
+Betweenness Centrality (Centrality Measure)
+Mathematics | Walks, Trails, Paths, Cycles, and Circuits in Graph
+Graph measurements: length, distance, diameter, eccentricity, radius, center
+Relationship between number of nodes and height of binary tree
+>> Graph theory practice questions
+Engineering Mathematics
+Linear Algebra :
+Explore matrix operations, eigenvalues/eigenvectors, linear equations, and LU decomposition.
+Matrix Introduction
+Different Operations on Matrices
+Representations of Matrices and Graphs in Relations
+Eigen Values and Eigen Vectors
+System of Linear Equations
+LU Decomposition of a System of Linear Equations
+Doolittle Algorithm: LU Decomposition
+>> Quiz on Linear Algebra
+Calculus :
+Cover limits, continuity, differentiation, mean value theorems, and integration techniques.
+Limits, Continuity, and Differentiability
+Cauchy’s Mean Value Theorem
+Lagrange’s Mean Value Theorem
+Rolle’s Mean Value Theorem
+Unimodal functions and Bimodal functions
+Surface Area and Volume of Hexagonal Prism
+Inverse functions and composition of functions
+Indefinite Integrals
+Statistics and Numerical Methods :
+Learn about mean, variance, standard deviation, probability distributions, interpolation, and statistical analysis methods.
+Mean, Variance, and Standard Deviation
+Newton’s Divided Difference Interpolation Formula
+Law of total probability
+Probability Distributions Set 1 (Uniform Distribution)
+Probability Distributions Set 2 (Exponential Distribution)
+Probability Distributions Set 3 (Normal Distribution)
+Probability Distributions Set 4 (Binomial Distribution)
+Probability Distributions Set 5 (Poisson Distribution)
+Homogeneous Poisson Process
+Nonhomogeneous Poisson Processes
+Renewal processes in probability
+Mathematics | Covariance and Correlation
+Scales of Measurement
+Univariate, Bivariate, and Multivariate data and its analysis
+Hypergeometric Distribution model
+Quick Links :
+‘Quizzes’ on Engineering Mathematics !
+R
+Engineering Mathematics
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_img-practice_prod_courses_244_Web_Content_CIP_1720782273.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

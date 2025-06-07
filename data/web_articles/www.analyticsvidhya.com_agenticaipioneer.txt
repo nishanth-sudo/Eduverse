@@ -1,0 +1,761 @@
+What to expect
+Curriculum
+Instructors
+Fees
+Testimonials
+20% off
+Agentic AIPioneerProgram
+Master AI Agents, Build the Future!
+150+ Hours of Comprehensive Learning
+20+ Hands-on Projects for Skill Building
+1:1 Mentorship with Agentic AI Experts
+50+
+Projects
+10+
+Hours of Live Workshops Quarterly
+75+
+Mentorships
+150+
+Hours of learning
+Become an Agentic AI Expert
+How does the Agentic AI Program help you?
+150+ Hours of Intelligent Agent Training
+Build AI agents that think, learn, and act autonomously
+Master advanced Agentic AI frameworks and tools
+50+ Real-World Projects
+Gain hands-on experience with practical simulations
+Tackle diverse projects to enhance your skills
+1:1 Expert Mentorship
+Receive personalized guidance from industry leaders
+Accelerate learning with a tailored roadmap to success
+Curriculum Statistics
+50+ Projects
+Skill building with industry-relevant projects
+150+ Hours
+Comprehensive learning to power ahead in your AI journey
+20+ Tools
+Master 20+ cutting-edge tools and frameworks
+15+ Assignments
+Work on Agentic AI assignments and test your skills
+75+ Mentorship Sessions
+1:1 mentorship session with leading AI experts
+Personalized Roadmap
+Chart your custom learning path, fueled by your ambition and built on your expertise
+1Introduction to Generative AI
+2Build Your First Agent
+3Learn Coding for Agentic AI
+4Learn LangChain, Prompt Engineering, RAG
+5Build an AI Agent from Scratch
+6Build ReAct Agents with LangChain
+7Build Your First AI Agent with LangGraph, Autogen, CrewAI
+8Learn Agentic AI Architectures & Design Pattern
+9Build Advanced AI Agents with LangGraph, Autogen, CrewAI
+10Build Agentic RAG Systems with LangGraph
+11Build Multi-agent Systems with LangGraph, Autogen, CrewAI
+12Build Reflective & Planning Agents with LangGraph, Autogen, CrewAI
+Our Curriculum
+Explore 17+ modules, starting from coding essentials for agents and prompt engineering to advanced topics like building automation agents with LangChain, LangGraph, AutoGen, and CrewAI.
+Understand the Fundamentals of Generative AI
+Understand the Fundamentals of Generative AI
+Familiarize yourself with the various components of GenAI universe
+Familiarize yourself with the various components of GenAI universe
+Learn Popular Prompt Engineering Techniques
+Learn Popular Prompt Engineering Techniques
+Get to know the basics of Retrival Augmented Generation(RAG) and its applications
+Get to know the basics of Retrival Augmented Generation(RAG) and its applications
+Examine the basics of Agents and its applications
+Examine the basics of Agents and its applications
+Understand AI Agents, their working, and use cases
+Understand AI Agents, their working, and use cases
+Identify the potential and features of Agent Developments with Code Free Tools
+Identify the potential and features of Agent Developments with Code Free Tools
+Build Simple to Advanced AI Agents with NoCode tools
+Build Simple to Advanced AI Agents with NoCode tools
+Customize and Deploy AI Agents using NoCode tools
+Customize and Deploy AI Agents using NoCode tools
+Learn core Python skills for AI programming
+Learn core Python skills for AI programming
+Process data from CSV/JSON files using Python
+Process data from CSV/JSON files using Python
+Use SQL and python frameworks to manage databases
+Use SQL and python frameworks to manage databases
+Interact with APIs in Python
+Interact with APIs in Python
+Prompt LLMs for tasks like summarization, question answering
+Prompt LLMs for tasks like summarization, question answering
+Build AI apps with frameworks like Flask or FastAPI
+Build AI apps with frameworks like Flask or FastAPI
+Learn about popular tools and frameworks to build AI Agents like CrewAI, AutoGen, LangGraph and LangChain
+Learn about popular tools and frameworks to build AI Agents like CrewAI, AutoGen, LangGraph and LangChain
+Learn core LangChain components like LLMs, Model I/O, Parsers, and Chains
+Learn core LangChain components like LLMs, Model I/O, Parsers, and Chains
+Master LCEL for structuring GenAI app pipelines
+Master LCEL for structuring GenAI app pipelines
+Practice creating efficient prompt templates and output parsers
+Practice creating efficient prompt templates and output parsers
+Develop simple and complex LLM conversational apps using LangChain
+Develop simple and complex LLM conversational apps using LangChain
+Implement advanced LCEL chains in practical GenAI applications
+Implement advanced LCEL chains in practical GenAI applications
+Learn the core principles of crafting, structuring, and refining effective prompts
+Learn the core principles of crafting, structuring, and refining effective prompts
+Explore various popular prompt engineering patterns including persona, flipped interaction, N-shot and meta language prompting
+Explore various popular prompt engineering patterns including persona, flipped interaction, N-shot and meta language prompting
+Gain hands-on experience creating effective prompts for industry-specific use cases like customer service, IT support and more
+Gain hands-on experience creating effective prompts for industry-specific use cases like customer service, IT support and more
+Learn about the art of conversational prompting
+Learn about the art of conversational prompting
+Understand advanced prompting techniques like Chain of Thought, Self Consistency etc. for guiding models to produce multi-step logical outputs
+Understand advanced prompting techniques like Chain of Thought, Self Consistency etc. for guiding models to produce multi-step logical outputs
+Explore how prompts can interact with external tools for enhanced agentic real-world applications
+Explore how prompts can interact with external tools for enhanced agentic real-world applications
+Learn various document loading and processing techniques to handle PDFs, word documents, and multimodal documents having a mixture of text, images and tables
+Learn various document loading and processing techniques to handle PDFs, word documents, and multimodal documents having a mixture of text, images and tables
+Explore various document chunking strategies like recursive character, token-based, semantic and agentic chunking to segment large documents
+Explore various document chunking strategies like recursive character, token-based, semantic and agentic chunking to segment large documents
+Understand the role of vector databases in RAG systems
+Understand the role of vector databases in RAG systems
+Explore various tools for connecting to vector databases like ChromaDB, Weaviate, etc, and performing standard create, read, update, delete (CRUD) operations
+Explore various tools for connecting to vector databases like ChromaDB, Weaviate, etc, and performing standard create, read, update, delete (CRUD) operations
+Differentiate between other databases like SQL, NoSQL, GraphDB and vector databases
+Differentiate between other databases like SQL, NoSQL, GraphDB and vector databases
+Master simple and complex retrieval strategies including semantic search, hybrid search, multi-query retrieval, context compression and more to retrieve the right context from your vector DB
+Master simple and complex retrieval strategies including semantic search, hybrid search, multi-query retrieval, context compression and more to retrieve the right context from your vector DB
+Learn how to connect Vector DBs to LLMs and build end-to-end RAG Systems
+Learn how to connect Vector DBs to LLMs and build end-to-end RAG Systems
+Learn about the most common problems and challenges in RAG Systems and how to fix them
+Learn about the most common problems and challenges in RAG Systems and how to fix them
+Learn how an AI agent is structured with prompts, tools and LLMs
+Learn how an AI agent is structured with prompts, tools and LLMs
+Build a simple ReAct style AI Agent leveraging Tools and LLMs like GPT-4o
+Build a simple ReAct style AI Agent leveraging Tools and LLMs like GPT-4o
+Build an AI Agent based on the Reflection pattern tp generate, reflect and critique, iterate and refine results
+Build an AI Agent based on the Reflection pattern tp generate, reflect and critique, iterate and refine results
+Learn how to build a simple ReAct style agent in LangChain with Tool use
+Learn how to build a simple ReAct style agent in LangChain with Tool use
+Learn how to add conversational memory to this agent
+Learn how to add conversational memory to this agent
+Learn how to extend this agent into real-world scenarios like multi-user conversational memory usage
+Learn how to extend this agent into real-world scenarios like multi-user conversational memory usage
+Learn about the key components of LangGraph
+Learn about the key components of LangGraph
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn about the key components of AutoGen
+Learn about the key components of AutoGen
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn about the key components of CrewAI
+Learn about the key components of CrewAI
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn how to architect these components together to build a simple real-world AI Agent
+Learn about what are Agentic AI Design Patterns to architect AI Systems in a systematic way
+Learn about what are Agentic AI Design Patterns to architect AI Systems in a systematic way
+Learn about the top 4 popular Agentic AI Design Patterns
+Learn about the top 4 popular Agentic AI Design Patterns
+The Reflection Pattern with examples and real-world applications where it is used
+The Reflection Pattern with examples and real-world applications where it is used
+The Tool Use Pattern with examples and real-world applications where it is used
+The Tool Use Pattern with examples and real-world applications where it is used
+The Planning Pattern with examples and real-world applications where it is used
+The Planning Pattern with examples and real-world applications where it is used
+The Multi-Agent Pattern with examples and real-world applications where it is used
+The Multi-Agent Pattern with examples and real-world applications where it is used
+Other patterns and best practice
+Other patterns and best practice
+Course Introduction
+Course Introduction
+Core Components of Agentic Systems & LangGraph
+Core Components of Agentic Systems & LangGraph
+Building Tool-Use Agentic AI Systems
+Building Tool-Use Agentic AI Systems
+Project: Build a Financial ANalyst Tool-Use AI Agent
+Project: Build a Financial ANalyst Tool-Use AI Agent
+Memory & Conversational Agentic AI Systems
+Memory & Conversational Agentic AI Systems
+Learn how to build a crew of several agents
+Learn how to build a crew of several agents
+Explore advanced agentic designs with crewAI
+Explore advanced agentic designs with crewAI
+Build industry relevant agentic systems with crewAI
+Build industry relevant agentic systems with crewAI
+Learn the frameworks for building multi-agentic system
+Learn the frameworks for building multi-agentic system
+Introduction to AutoGen
+Introduction to AutoGen
+Conversation Agents - Part 1
+Conversation Agents - Part 1
+Conversation Agents - Part 2
+Conversation Agents - Part 2
+Additional Applications with AG2
+Additional Applications with AG2
+Introduction to AutoGen Studio and Its Interface
+Introduction to AutoGen Studio and Its Interface
+Introduction to Agentic RAG and LangGraph
+Introduction to Agentic RAG and LangGraph
+Popular Agentic RAG Architectures
+Popular Agentic RAG Architectures
+Project: Build a Router RAG System
+Project: Build a Router RAG System
+Project: Build an Agentic Corrective RAG System
+Project: Build an Agentic Corrective RAG System
+Project: Build an Adaptive RAG System
+Project: Build an Adaptive RAG System
+Introduction to AI Agent Operations
+Introduction to AI Agent Operations
+Building an Agentic AI System
+Building an Agentic AI System
+Build an API for your Agentic AI System
+Build an API for your Agentic AI System
+Deploying your AI Agent
+Deploying your AI Agent
+Testing and Monitoring your AI Agent
+Testing and Monitoring your AI Agent
+Introduction to Autogen and AI Agents
+Introduction to Autogen and AI Agents
+Setting up Chroma DB
+Setting up Chroma DB
+Setting up Autogen Agents
+Setting up Autogen Agents
+Adding Search to Agents
+Adding Search to Agents
+Testing/Evals
+Testing/Evals
+Introduction to AI Agents and Multi-Agent Systems
+Introduction to AI Agents and Multi-Agent Systems
+Agent-Based Hotel Reservation System
+Agent-Based Hotel Reservation System
+Advanced AI Agent Orchestration
+Advanced AI Agent Orchestration
+Deploying and Scaling AI Agents
+Deploying and Scaling AI Agents
+Insights from Industry Leaders on AI Agents
+Global Leaders on the Future of Intelligent Autonomous Agents
+“We’ve seen that with the great technological revolutions of the past. Each technological revolution has gotten faster, and this will be the fastest by far. Helpful Agents Are Poised To Become AI’s Killer Function.”
+– Sam Altman, CEO of OpenAI
+“AI agents will become our digital assistants, helping us navigate the complexities of the modern world. They will make our lives easier and more efficient.”
+– Jeff Bezos, Founder and Executive Chairman of Amazon
+“AI agents will become the primary way we interact with computers in the future. They will be able to understand our needs and preferences, and proactively help us with tasks and decision making.”
+– Satya Nadella, CEO of Microsoft
+Tools you will master
+Gain expertise over critical libraries & frameworks
+Reinforce your learning with 50+ projects
+Projects prepare you for the fast moving industry and give you an edge over others to solve real world problems.
+Learning Objective:
+Build a basic AI agent from scratch
+Program it to research companies effectively
+Generate concise, informative company descriptions
+Build a Company Researcher Agent
+Learn to create a simple agent that researches a company and creates a short description
+Learning Objective:
+Develop an intelligent agent to review and refine resume content
+Customize the agent based on your chosen parameters
+Generate quality improvement suggestions to make your resume stand out
+Create a Resume Reviewer Agent
+Create a smart agent to edit and review your resume, offering tailored suggestions
+Learning Objective:
+Develop a chatbot designed to handle customer inquiries
+Implement functionality to analyze and understand customer problems
+Deliver accurate and relevant solutions based on the identified issues
+Build a Customer query Chatbot
+Build a chatbot to take care of customer queries and provide relevant resolutions based on their problems
+Learning Objective:
+Develop a sophisticated AI agent that compiles comprehensive product information
+Analyze customer data to identify the most suitable products for individual needs
+Generate tailored sales pitches to effectively engage potential customers
+Design a Sales Agent
+Build an advanced agent that consists of information regarding various products of the company
+Learning Objective:
+Discover the advanced capabilities of GPT-4o for processing multimodal data
+Analyze handwritten text, graphs, and charts for comprehensive insights
+Engage with diverse media formats, including images, audio, and video, to enhance understanding and application
+Multimodal Prompt Engineering with GPT-4o
+Explores GPT-4o's multimodal capabilities, including handwritten text, graphs, charts, images, etc
+Learning Objective:
+Develop a foundational Retrieval-Augmented Generation (RAG) system
+Implement source citation for all generated responses
+Enhance information credibility by linking to original content
+Simple RAG System with Sources
+Building a basic Retrieval-Augmented Generation system that cites sources alongside the generated responses
+Learning Objective:
+Design a conversational RAG system that supports multiple users simultaneously
+Implement memory features to retain context across conversations
+Ensure the system provides accurate and relevant responses based on user interactions
+Multi-user Conversational RAG System
+Developing a conversational RAG system that can handle multiple users and conversations with memory to provide relevant responses
+Learning Objective:
+Integrate various data formats, including text, tables, and images, into a cohesive RAG pipeline
+Utilize multimodal language models (LLMs) to enhance data processing and analysis
+Enable the system to answer questions by leveraging diverse multimodal data sources effectively
+Multimodal RAG System
+Integrates multiple data formats (text, tables, images) into a RAG pipeline to leverage multimodal LLMs for answering questions
+Agentic AI Scholarship Week
+100% Scholarship*
+All courses and capstone projects must be completed within 6 months of enrollment.
+A 100% fee refund (excluding taxes and payment gateway charges) will be provided upon successful completion.
+Completion must include new courses released until June 30th, 2025.
+Enrollment closes in
+1Day
+1
+Day
+5hr
+5
+hr
+35min
+35
+min
+20Sec
+20
+Sec
+Meet the instructors & mentors
+Our instructor and mentors carry years of experience in data industry
+Chi Wang, Senior Staff Research Scientist at Google DeepMind, specializes in AI, machine learning, and data mining. Formerly a Principal Researcher at Microsoft Research, he holds a Ph.D. from UIUC and has driven advancements in web entity disambiguation, social network analysis, and AI-driven optimization.
+Chi Wang
+Senior Staff Research Scientist
+Miguel Otero Pedrido, a leader in AI and Machine
+Learning, is the Founder of The Neural Maze and a
+Senior Machine Learning Engineer at Dressipi. With
+9 years of expertise in AI systems, MLOps, and AI
+agents, he has driven AI innovations at BBVA,
+Telefónica Tech, and Enagás.
+Miguel Otero Pedrido
+Founder
+Eleni Verteouri, GenAI Tech Lead and Director - Conversational Banking at UBS, drives AI innovation and strategic partnerships. With 12 years of expertise in Generative AI, product management, and risk modeling, she has led AI transformations in finance.
+Eleni
+GenAI Tech Lead and Director - Conversational Banking
+Qingyun Wu, founder of AG2 (formerly AutoGen) and Assistant Professor at Penn State University, brings over seven years of expertise in AI and machine learning. Her work spans AI agents, reinforcement learning, and algorithm optimization, with roles at Microsoft, Adobe, and Yahoo driving advancements in AI technologies.
+Qingyun Wu
+Creator and Founder
+Alessandro Romano, Senior Data Scientist at Kuehne+Nagel, has over six years of experience in AI and data science. With roles at FREE NOW and Cargonexx GmbH, he specializes in building AI-driven solutions and AI agents to automate workflows and enhance efficiency. A skilled public speaker, Alessandro effectively bridges technical concepts with diverse audiences.
+Alessandro Romano
+Senior Data Scientist
+Pio Scelina is an experienced AI Agent developer with over 6 years of expertise in creating advanced AI solutions. His strong research background keeps him at the leading edge of new tools and applications, constantly driving innovation. Known for his passion for exploring emerging technologies and enhancing AI-driven experiences, Pio has established a reputation as a trailblazer in AI-powered transformation.
+Pio Scelina
+AI Agent Developer
+Kamil Ruczynski is a seasoned AI Agent developer with over 7 years of experience in cutting-edge AI organisations. His deep expertise in research and development enables him to stay ahead of emerging trends and technologies, driving continuous innovation. Renowned for his dedication to pushing the boundaries of AI-driven applications, Kamil has earned recognition as a pioneer in creating transformative AI experiences
+Kamil Ruczynski
+AI Agent Developer
+Dipanjan has over 10+ years of hands-on and leadership industry experience as well as training, consulting and education initiatives in Data Science and Artificial Intelligence.
+Dipanjan S.
+Head of Community and Principal AI Scientist
+Bhaskarjit is an award-winning data scientist with a diverse background in multiple domains such as Retail, Airlines, Media & Entertainment, BFSI
+Bhaskarjit Sarmah
+Vice President
+Kunal has 15+ years of experience in the field of Data Science and is the founder and CEO of Analytics Vidhya- world's 2nd largest Data Science coummunity.
+Kunal Jain
+Founder & CEO
+Mani Kanteswara Rao Garlapati is an Associate Principal at Google, where he leads data science initiatives focused on fraud and spam detection across various Google products. With a strong background in machine learning and data science, he has previously held positions such as Lead Strategist at Google and Senior Data Scientist at Walmart Labs
+Mani Garlapati
+Associate Principal
+Lucas Soares is an AI Engineer at Otovo, focusing on AI-driven solutions through large language models (LLMs) and computer vision. With 6+ years of experience across sectors like biometrics and retail, he excels in developing machine learning tools
+Lucas Soares
+AI Engineer
+Prashant Sahu, an IIT Bombay alumnus and seasoned Corporate Trainer in AI & ML, has over 17 years of diverse experience in areas like research, automation, and cryptography. His expertise extends to developing comprehensive Data Science training materials, including curriculum, case studies, and projects.
+Prashant Sahu
+Manager - Data Science - Instructor
+Apoorv Vishnoi, a seasoned professional with over 13 years of experience, including more than 10 years in Machine Learning and AI. He holds an MBA from the prestigious Indian School of Business and several certifications in Data Science and Deep Learning. His ability to simplify complex concepts in Data Science and Machine Learning has established him as a respected and influential instructor.
+Apoorv Vishnoi
+Head - Training Initiative
+Instructor-Led Live Workshops
+Live Agentic AI workshops : Solve real-world problems with expert insights
+Learning Objective:
+Manage multi-turn conversations effectively.
+Apply advanced prompting techniques for complex tasks.
+Design chatbot scenarios and analytical reports.
+Understand AI limitations and ethical considerations.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering Prompt Engineering II
+Learning Objective:
+Learn memory management and snapshots for AI Agents.
+Build conversational Agents with persistent memory.
+Develop a financial analyst Agentic system.
+Create adaptive Agents that retain context and improve over time.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Building Advanced AI Agents with LangGraph - I (Conversational Agents)
+Learning Objective:
+Understand the importance of prompt engineering.
+Learn to craft clear, specific, and contextual prompts.
+Apply few-shot prompting techniques for better AI responses.
+Refine generated content through iterative improvements.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering Prompt Engineering I
+Learning Objective:
+Learn LangChain fundamentals for building AI Agents.
+Explore prompts, chat models, tools, and function calling.
+Develop tool-use Agents with hands-on exercises.
+Integrate memory to create adaptive conversational Agents.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Building AI Agents with LangChain
+Learning Objective:
+Differentiate RAG from prompt engineering and fine-tuning.
+Learn when to use RAG versus other approaches.
+Understand Retrieval-Augmented Fine-Tuning (RAFT).
+Build, tune, and evaluate a RAG pipeline.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering RAG Systems I
+Learning Objective:
+Compare GraphRAG with traditional RAG systems.
+Build and store knowledge graphs in graph databases.
+Create and evaluate GraphRAG pipelines.
+Understand the architecture and key components of a RAG system.
+Upcoming7:00 PM - 10:00 PM (IST)IST
+Mastering RAG Systems II
+AV Assisted Placements
+Our alumni excel at top firms-highlights from 1200+ success stories
+Kaushal Shetty
+Assistant Manager - Analytics
+Samsensuruya S
+Consultant
+Ashiwn Deendayalan
+Assistant Manager - Analytics
+Rohit Pant
+Assistant Manager - Analytics
+Industry-Recognized Certification
+Get certied in Agentic AI from Analytics Vidhya and Western State University, and share your achievement with the world
+AV Learners Spotlight
+All my expectations from the course and workshops have been fulfilled
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Camilo Munoz
+Sr. Level Strategic Planning Executive
+I found future learning with Gen AI very interesting
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Arunima R Pillai
+ML Engineering Analyst
+The program has all the cutting edge technologies covered
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Mritunjay
+Staff Data Scientist
+I really value the personalised mentorship sessions which came with the program
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Mark Lee
+Co-Founder
+Mentors of Analytics Vidhya have business experience and are practitioners themselves
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Richard
+Application Developer
+The content Analytics Vidhya provided was far better than any other organisation
+I've had the pleasure of witnessing the exceptional talent nurtured by Analytics Vidhya's hackathons.
+Parikshit Rathode
+Senior AI & ML Developer
+Money Back Guarantee!
+Agentic AI Pioneer program comes with 7 days no questions asked Money back Guarantee. If the program is bought in pre-launch offer or on discounted price, then the fee paid is non-refundable. For more T&C,Click here
+Invest in your future today
+Build expertise with cutting-edge Agentic AI frameworks
+Boost Your Career Fast-track your growth with personalized mentorship.
+Enroll now and start your journey to becoming an Agentic AI expert.
+Customized Roadmap for Career Success
+15+ Cutting edge tools and frameworks
+50+ Projects for Experiential Learning
+One Time
+One Time
+₹69,999
+(Inclusive of all taxes)
+Enroll now and become an Agentic AI expert
+EMI
+₹6,999
+(Inclusive of all taxes)
+Secure your spot and begin the journey to exceptional growth
+Contact Us Today
+Take the first step towards a future of innovation & excellence with Analytics Vidhya
+Upskill, Reskill, Thrive
+Get Expert Guidance
+Need support? We've got your back anytime!
++91-935471124010AM - 7PM (IST) Mon-Sun
++91-9354711240
+[email protected]You'll hear back in 24 hours
+[email protected]
+Frequently asked questions
+Looking for answers to other questions?
+AI agents are autonomous systems designed to sense their environment, process information, and perform actions to achieve specific goals. They function by leveraging AI techniques like machine learning, natural language processing, and decision-making algorithms to automate or assist with tasks. You’ll learn about the role of agents in the AI ecosystem and their real-world applications in the Introduction to Generative AI module.
+AI agents are classified into five types based on their complexity and interaction with the environment: Simple Reflex Agents: Follow predefined rules to respond to stimuli. Model-Based Reflex Agents: Use internal models to predict outcomes. Goal-Based Agents: Make decisions aimed at achieving specific objectives. Utility-Based Agents: Evaluate and optimize outcomes for maximum utility. Learning Agents: Improve their performance through experience. These types are discussed in detail in the Agents and Their Applications module.
+Yes, ChatGPT is an AI agent specializing in conversational tasks. It uses advanced natural language processing capabilities to understand queries and provide human-like responses, making it a versatile tool for automating communication. The Exploring LLMs module explains how conversational agents like ChatGPT utilize large language models effectively.
+We use cookies essential for this site to function well. Please click to help us improve its usefulness with additional cookies. Learn about our use of cookies in ourPrivacy Policy&Cookies Policy.
+Show details
+Powered By
+Cookies
+This site uses cookies to ensure that you get the best experience possible. To learn more about how we use cookies, please refer to ourPrivacy Policy&Cookies Policy.
+brahmaid
+It is needed for personalizing the website.
+Expiry:Session
+Type:HTTP
+csrftoken
+This cookie is used to prevent Cross-site request forgery (often abbreviated as CSRF) attacks of the website
+Expiry:Session
+Type:HTTPS
+Identityid
+Preserves the login/logout state of users across the whole site.
+Expiry:Session
+Type:HTTPS
+sessionid
+Preserves users' states across page requests.
+Expiry:Session
+Type:HTTPS
+g_state
+Google One-Tap login adds this g_state cookie to set the user status on how they interact with the One-Tap modal.
+Expiry:365 days
+Type:HTTP
+MUID
+Used by Microsoft Clarity, to store and track visits across websites.
+Expiry:1 Year
+Type:HTTP
+_clck
+Used by Microsoft Clarity, Persists the Clarity User ID and preferences, unique to that site, on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+Expiry:1 year
+Type:HTTP
+_clsk
+Used by Microsoft Clarity, Connects multiple page views by a user into a single Clarity session recording.
+Expiry:1 Day
+Type:HTTP
+SRM_I
+Collects user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 years
+Type:HTTP
+SM
+Use to measure the use of the website for internal analytics
+Expiry:1 years
+Type:HTTP
+CLID
+The cookie is set by embedded Microsoft Clarity scripts. The purpose of this cookie is for heatmap and session recording.
+Expiry:1 year
+Type:HTTP
+SRM_B
+Collected user data is specifically adapted to the user or device. The user can also be followed outside of the loaded website, creating a picture of the visitor's behavior.
+Expiry:2 months
+Type:HTTP
+_gid
+This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected includes the number of visitors, the source where they have come from, and the pages visited in an anonymous form.
+Expiry:399 days
+Type:HTTP
+_ga_#
+Used by Google Analytics, to store and count pageviews.
+Expiry:399 Days
+Type:HTTP
+_gat_#
+Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+Expiry:1 day
+Type:HTTP
+collect
+Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels.
+Expiry:Session
+Type:PIXEL
+AEC
+cookies ensure that requests within a browsing session are made by the user, and not by other sites.
+Expiry:6 months
+Type:HTTP
+G_ENABLED_IDPS
+use the cookie when customers want to make a referral from their gmail contacts; it helps auth the gmail account.
+Expiry:2 years
+Type:HTTP
+test_cookie
+This cookie is set by DoubleClick (which is owned by Google) to determine if the website visitor's browser supports cookies.
+Expiry:1 year
+Type:HTTP
+_we_us
+this is used to send push notification using webengage.
+Expiry:1 year
+Type:HTTP
+WebKlipperAuth
+used by webenage to track auth of webenagage.
+Expiry:session
+Type:HTTP
+ln_or
+Linkedin sets this cookie to registers statistical data on users' behavior on the website for internal analytics.
+Expiry:1 day
+Type:HTTP
+JSESSIONID
+Use to maintain an anonymous user session by the server.
+Expiry:1 year
+Type:HTTP
+li_rm
+Used as part of the LinkedIn Remember Me feature and is set when a user clicks Remember Me on the device to make it easier for him or her to sign in to that device.
+Expiry:1 year
+Type:HTTP
+AnalyticsSyncHistory
+Used to store information about the time a sync with the lms_analytics cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+lms_analytics
+Used to store information about the time a sync with the AnalyticsSyncHistory cookie took place for users in the Designated Countries.
+Expiry:6 months
+Type:HTTP
+liap
+Cookie used for Sign-in with Linkedin and/or to allow for the Linkedin follow feature.
+Expiry:6 months
+Type:HTTP
+visit
+allow for the Linkedin follow feature.
+Expiry:1 year
+Type:HTTP
+li_at
+often used to identify you, including your name, interests, and previous activity.
+Expiry:2 months
+Type:HTTP
+s_plt
+Tracks the time that the previous page took to load
+Expiry:Session
+Type:HTTP
+lang
+Used to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings
+Expiry:Session
+Type:HTTP
+s_tp
+Tracks percent of page viewed
+Expiry:Session
+Type:HTTP
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg
+Indicates the start of a session for Adobe Experience Cloud
+Expiry:Session
+Type:HTTP
+s_pltp
+Provides page name value (URL) for use by Adobe Analytics
+Expiry:Session
+Type:HTTP
+s_tslv
+Used to retain and fetch time since last visit in Adobe Analytics
+Expiry:6 months
+Type:HTTP
+li_theme
+Remembers a user's display preference/theme setting
+Expiry:6 months
+Type:HTTP
+li_theme_set
+Remembers which users have updated their display / theme preferences
+Expiry:6 months
+Type:HTTP
+_gcl_au
+Used by Google Adsense, to store and track conversions.
+Expiry:3 months
+Type:HTTP
+SID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SAPISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+__Secure-#
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+APISID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+SSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+HSID
+Save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search.
+Expiry:2 years
+Type:HTTP
+DV
+These cookies are used for the purpose of targeted advertising.
+Expiry:6 hours
+Type:HTTP
+NID
+These cookies are used for the purpose of targeted advertising.
+Expiry:1 month
+Type:HTTP
+1P_JAR
+These cookies are used to gather website statistics, and track conversion rates.
+Expiry:1 month
+Type:HTTP
+OTZ
+Aggregate analysis of website visitors
+Expiry:6 months
+Type:HTTP
+_fbp
+This cookie is set by Facebook to deliver advertisements when they are on Facebook or a digital platform powered by Facebook advertising after visiting this website.
+Expiry:4 months
+Type:HTTP
+fr
+Contains a unique browser and user ID, used for targeted advertising.
+Expiry:2 months
+Type:HTTP
+bscookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:1 year
+Type:HTTP
+lidc
+Used by LinkedIn for tracking the use of embedded services.
+Expiry:1 day
+Type:HTTP
+bcookie
+Used by LinkedIn to track the use of embedded services.
+Expiry:6 months
+Type:HTTP
+aam_uuid
+Use these cookies to assign a unique ID when users visit a website.
+Expiry:6 months
+Type:HTTP
+UserMatchHistory
+These cookies are set by LinkedIn for advertising purposes, including: tracking visitors so that more relevant ads can be presented, allowing users to use the 'Apply with LinkedIn' or the 'Sign-in with LinkedIn' functions, collecting information about how visitors use the site, etc.
+Expiry:6 months
+Type:HTTP
+li_sugr
+Used to make a probabilistic match of a user's identity outside the Designated Countries
+Expiry:90 days
+Type:HTTP
+MR
+Used to collect information for analytics purposes.
+Expiry:1 year
+Type:HTTP
+ANONCHK
+Used to store session ID for a users session to ensure that clicks from adverts on the Bing search engine are verified for reporting purposes and for personalisation
+Expiry:1 day
+Type:HTTP
+Cookie declaration last updated on 24/03/2023 by Analytics Vidhya.
+Cookies are small text files that can be used by websites to make a user's experience more efficient. The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies, we need your permission. This site uses different types of cookies. Some cookies are placed by third-party services that appear on our pages. Learn more about who we are, how you can contact us, and how we process personal data in ourPrivacy Policy.
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+AI Battlefield
+MCQ Based Skill Test
+Win upto INR 1,00,000*
+*Terms and conditions apply
+
+[Images saved with this article:]
+imgcdn.analyticsvidhya.com_blackbelt_left-shap.png
+imgcdn.analyticsvidhya.com_agenticaipioneer_sam.jpg
+imgcdn.analyticsvidhya.com_agenticaipioneer_jeff.jpg
+imgcdn.analyticsvidhya.com_agenticaipioneer_Satya_20Nadella.jpg
+imgcdn.analyticsvidhya.com_blackbelt_right-shape.png
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_PS__1_.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_PS__2_.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_KN__1___1_.webp
+svgcdn.analyticsvidhya.com_agenticaipioneer_AG2.webp
+svgcdn.analyticsvidhya.com_agenticaipioneer_KN.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_blackrock.png
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_google.jpg
+svgcdn.analyticsvidhya.com_genaipinnacle_company_logo_Otovo.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259831.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259831.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259837.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259827.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_Frame_1437259836.jpg
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_KAUSHAL.png
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_SAMSEN.png
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_ASHWIN.jpg
+imgcdn.analyticsvidhya.com_blackbelt_av_assist_placement_ROHIT_PANT.jpg
+imgcdn.analyticsvidhya.com_cms-kailash_agentic-ai_.webp
+imgcdn.analyticsvidhya.com_cms-kailash_wsu.webp
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_timwe.tech.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_accenture.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_micron.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_AiFin.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_Percept.png
+svgcdn.analyticsvidhya.com_genaipinnacle_testimonials_20company_20logo_kshatra_black_bg.png
+imgcdn.analyticsvidhya.com_AV_logo.png

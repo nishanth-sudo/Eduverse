@@ -1,0 +1,169 @@
+DSA Course
+DSA
+Practice Searching Algorithms
+MCQs on Searching Algorithms
+Tutorial on Searching Algorithms
+Linear Search
+Binary Search
+Ternary Search
+Jump Search
+Sentinel Linear Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+Ubiquitous Binary Search
+Linear Search Vs Binary Search
+Interpolation Search Vs Binary Search
+Binary Search Vs Ternary Search
+Sentinel Linear Search Vs Linear Search
+Explore GfG Courses
+Share Your Experiences
+Searching Algorithms
+Most Common Searching Algorithms
+Linear Search Algorithm
+Binary Search Algorithm - Iterative and Recursive Implementation
+Other Searching Algorithms
+Sentinel Linear Search
+Meta Binary Search | One-Sided Binary Search
+Ternary Search
+Jump Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+The Ubiquitous Binary Search | Set 1
+Comparisons between Searching Algorithms
+Linear Search vs Binary Search
+Interpolation search vs Binary search
+Why is Binary Search preferred over Ternary Search?
+Is Sentinel Linear Search better than normal Linear Search?
+Library implementations of Searching algorithms
+Binary Search functions in C++ STL (binary_search, lower_bound and upper_bound)
+Arrays.binarySearch() in Java with Examples | Set 1
+Arrays.binarySearch() in Java with examples | Set 2 (Search in subarray)
+Collections.binarySearch() in Java with Examples
+Easy problems on Searching algorithms
+Find the Missing Number
+Find the first repeating element in an array of integers
+Missing and Repeating in an Array
+Count 1's in a sorted binary array
+Two Sum -  Pair Closest to 0
+Pair with the given difference
+Kth smallest element in a row-wise and column-wise sorted 2D array
+Find common elements in three sorted arrays
+Ceiling in a sorted array
+Floor in a Sorted Array
+Bitonic Point - Maximum in Increasing Decreasing Array
+Given Array of size n and a number k, find all elements that appear more than n/k times
+Medium problems on Searching algorithms
+3 Sum - Find All Triplets with Zero Sum
+Find the element before which all the elements are smaller than it, and after which all are greater
+Largest pair sum in an array
+K’th Smallest Element in Unsorted Array
+Search in a Sorted and Rotated Array
+Minimum in a Sorted and Rotated Array
+Find a Fixed Point (Value equal to index) in a given array
+K Mmost Frequent Words in a File
+Find k closest elements to a given value
+2 Sum - Pair Sum Closest to Target using Binary Search
+Find the closest pair from two sorted arrays
+Find three closest elements from given three sorted arrays
+Search in an Array of Rational Numbers without floating point arithmetic
+Hard problems on Searching algorithms
+Median of two sorted arrays of same size
+Search in an almost sorted array
+Find position of an element in a sorted array of infinite numbers
+Pair Sum in a Sorted and Rotated Array
+K’th Smallest/Largest Element in Unsorted Array | Worst case Linear Time
+K'th largest element in a stream
+Best First Search (Informed Search)
+DSA to DevelopmentCourse
+Searching AlgorithmsLast Updated :15 May, 2025CommentsImproveSuggest changesLike ArticleLikeReportSearching algorithmsare essential tools in computer science used to locate specific items within a collection of data. In this tutorial, we are mainly going to focus upon searching in an array. When we search an item in an array, there are two most common algorithms used based on the type of input array.Linear Search:  It is used for an unsorted array. It mainly does one by one comparison of the item to be search with array elements. It takes linear or O(n) Time.Binary Search: It is used for a sorted array. It mainly compares the array's middle element first and if the middle element is same as input, then it returns. Otherwise it searches in either left half or right half based on comparison result (Whether the mid element is smaller or greater). This algorithm is faster than linear search and takes O(Log n) time.One more common search technique isTwo Pointers Techniquewhere we begin searching from both ends of the array.Library Implementations of Binary Searchbinary_search, lower_bound and upper_bound in C++Arrays.binarySearch() in JavaArrays.binarySearch() in Java for Search in subarrayCollections.binarySearch() in JavaBisect in PythonList.BinarySearch in C#Easy ProblemsLargest in an ArraySecond Largest in an arrayLargest three in an arrayMissing NumberFirst RepeatingMissing and RepeatingCount 1’s in a sorted binary arrayClosest to 0 Sum PairPair with the given differencek largest(or smallest) ElementsKth smallest in row and column-wise sortedCommon elements in 3 sortedCeiling in a sortedFloor in a SortedMaximum in a BitonicElements that appear more than n/k timesMedium ProblemsTriplets with zero sumPartition PointLargest pair sumK’th Smallest in Unsorted ArraySearch an in a sorted and rotatedMin in a sorted and rotatedMax in a sorted and rotatedPeak elementMax and min using minimum comparisonsFind a Fixed Point in a given arrayK most frequent words from a fileK closest elements2 Sum – Pair Sum Closest to Target in Sorted ArrayClosest pair from two sorted arraysThree closest from three sorted arraysBinary Search for RationalsMissing Element in APHard ProblemsMedian of two sorted arraysMedian of two sorted of different sizesSearch in an almost sorted arraySearch in a sorted infinite arrayPair sum in a sorted and rotated arrayK’th Smallest/Largest Element in Unsorted ArrayK’th largest element in a streamBest First Search (Informed Search)More Searching AlgorithmsSentinel Linear SearchMeta Binary Search | One-Sided Binary SearchTernary SearchJump SearchInterpolation SearchExponential SearchFibonacci SearchThe Ubiquitous Binary SearchComparisons Between Different Searching AlgorithmsLinear Search vs Binary SearchInterpolation search vs Binary searchWhy is Binary Search preferred over Ternary Search?Is Sentinel Linear Search better than normal Linear Search?Quick Links:‘Practice Problems’ on SearchingTop Searching Interview Questions‘Quizzes’ on SearchingLearn Data Structure and Algorithms | DSA TutorialNext ArticleLinear Search AlgorithmHharendrakumar123ImproveArticle Tags :SearchingDSAPractice Tags :Searching
+Searching Algorithms
+Searching algorithmsare essential tools in computer science used to locate specific items within a collection of data. In this tutorial, we are mainly going to focus upon searching in an array. When we search an item in an array, there are two most common algorithms used based on the type of input array.
+Linear Search:  It is used for an unsorted array. It mainly does one by one comparison of the item to be search with array elements. It takes linear or O(n) Time.
+Binary Search: It is used for a sorted array. It mainly compares the array's middle element first and if the middle element is same as input, then it returns. Otherwise it searches in either left half or right half based on comparison result (Whether the mid element is smaller or greater). This algorithm is faster than linear search and takes O(Log n) time.
+One more common search technique isTwo Pointers Techniquewhere we begin searching from both ends of the array.
+Library Implementations of Binary Search
+binary_search, lower_bound and upper_bound in C++
+Arrays.binarySearch() in Java
+Arrays.binarySearch() in Java for Search in subarray
+Collections.binarySearch() in Java
+Bisect in Python
+List.BinarySearch in C#
+Easy Problems
+Largest in an Array
+Second Largest in an array
+Largest three in an array
+Missing Number
+First Repeating
+Missing and Repeating
+Count 1’s in a sorted binary array
+Closest to 0 Sum Pair
+Pair with the given difference
+k largest(or smallest) Elements
+Kth smallest in row and column-wise sorted
+Common elements in 3 sorted
+Ceiling in a sorted
+Floor in a Sorted
+Maximum in a Bitonic
+Elements that appear more than n/k times
+Medium Problems
+Triplets with zero sum
+Partition Point
+Largest pair sum
+K’th Smallest in Unsorted Array
+Search an in a sorted and rotated
+Min in a sorted and rotated
+Max in a sorted and rotated
+Peak element
+Max and min using minimum comparisons
+Find a Fixed Point in a given array
+K most frequent words from a file
+K closest elements
+2 Sum – Pair Sum Closest to Target in Sorted Array
+Closest pair from two sorted arrays
+Three closest from three sorted arrays
+Binary Search for Rationals
+Missing Element in AP
+Hard Problems
+Median of two sorted arrays
+Median of two sorted of different sizes
+Search in an almost sorted array
+Search in a sorted infinite array
+Pair sum in a sorted and rotated array
+K’th Smallest/Largest Element in Unsorted Array
+K’th largest element in a stream
+Best First Search (Informed Search)
+More Searching Algorithms
+Sentinel Linear Search
+Meta Binary Search | One-Sided Binary Search
+Ternary Search
+Jump Search
+Interpolation Search
+Exponential Search
+Fibonacci Search
+The Ubiquitous Binary Search
+Comparisons Between Different Searching Algorithms
+Linear Search vs Binary Search
+Interpolation search vs Binary search
+Why is Binary Search preferred over Ternary Search?
+Is Sentinel Linear Search better than normal Linear Search?
+Quick Links:
+‘Practice Problems’ on Searching
+Top Searching Interview Questions
+‘Quizzes’ on Searching
+Learn Data Structure and Algorithms | DSA Tutorial
+H
+Searching
+DSA
+Searching
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_198_Web_Content_dsa_1723009292.webp
+media.geeksforgeeks.org_img-practice_prod_courses_463_Web_Content_dsa_js_1723009405.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

@@ -1,0 +1,23 @@
+Notice:While JavaScript is not essential for this website, your interaction with the content will be limited. Please turn JavaScript on for the full experience.
+AASmallerLargerReset
+Smaller
+Larger
+Reset
+SocializeLinkedInMastodonChat on IRCTwitter
+LinkedIn
+Mastodon
+Chat on IRC
+Twitter
+from the Python User Group Calendar
+Upcoming Events
+Python Event Subscriptions
+Subscribe to Python Event Calendars:
+Events in iCal format
+Python Events Calendars
+For Python events near you, please have a look at thePython events map.
+The Python events calendars are maintained by theevents calendar team.
+Please see theevents calendar project pagefor details on how tosubmit events,subscribe to the calendars, getTwitter feedsor embed them.
+Thank you.
+
+[Images saved with this article:]
+www.python.org_static_img_python-logo.png

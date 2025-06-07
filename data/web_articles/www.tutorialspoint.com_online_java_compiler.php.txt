@@ -1,0 +1,70 @@
+Online Java Compiler
+Source Code
+Share
+Help
+Set new project title
+Try ourOnline Java Compiler (Version OpenJDK 11.0.17)Write and Edit, Run, and Share your Java Code online directly from your browser. This Online Compiler provides you the comfort to edit and compile your Java code using latest version OpenJDK 11.0.17
+How to use our  Online Java Compiler?
+Write and Execute Code
+Write your program (or, paste it) directly under the "Source Code" tab.
+If you want to save your program, go to the "Project" menu and save it.
+You can directly execute your program without saving it and just by clicking on "Execute" button.
+How to Enter User Input?
+The latest version of ourOnline Java Compilerallows to provide program input at run time from the terminal window exactly the same way as you run your program at your own computer. So simply run a program and provide your program input (if any) from the terminal window available in the right side.
+Keyboard Shortcuts
+The following are the keyword shortcut of our editor:
+Shortcut
+Description
+⌘ + Enter
+Run the program
+⌘ + G
+Share Project
+⌘ + Z
+Undo Editing
+⌘ + Y
+Redo Editing
+⌘ + A
+Select All Text
+⌘ + X
+Cut Selected Text
+⌘ + C
+Copy Selected Text
+⌘ + V
+Paste Copied Text
+⌘ + F
+Search Text
+⌘ + ⌥ + F
+Replace Text
+Shortcut
+Description
+Ctrl + Enter
+Run the program
+Ctrl + G
+Share Project
+Ctrl + Z
+Undo Editing
+Ctrl + Y
+Redo Editing
+Ctrl + A
+Select All Text
+Ctrl + X
+Cut Selected Text
+Ctrl + C
+Copy Selected Text
+Ctrl + V
+Paste Copied Text
+Ctrl + F
+Search Text
+Ctrl + H
+Replace Text
+Share Your Java  Project Online
+You can use this feature to share your Java Code with your teachers, classmates and colleagues. Just clickShareButton and it will create a short link, which can be shared through Email, WhatsApp or even through Social Media.  A shared link will be deleted if it has been passive for almost 3 months.
+More Features of the Editor
+Theme– You can change the current editor's theme from the "Editor Theme" option under "Settings" menu.
+Font Size– You can change the font size of the editor/compiler from the "Font Size" option under "Settings" menu.
+Tab Size– You can change the tab size from the "Tab Size" option under "Settings" Menu.
+Show/Hide Line Numbers– You can show/hide the line number with the code from the "Show Line Numbers" or "Hide Line Numbers" option under "Settings" Menu.
+And, many more.
+
+[Images saved with this article:]
+www.tutorialspoint.com_images_mini-logo.png

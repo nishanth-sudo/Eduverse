@@ -1,0 +1,244 @@
+Power BI - Home
+Power BI - Introduction
+Power BI - Installation Steps
+Power BI - Architecture
+Power BI Desktop
+Power BI - Desktop
+Power BI - Desktop Window
+Power BI Service
+Power BI - Window Supported Browsers
+Power BI - Generating Reports
+Power BI Desktop Service
+Power BI - Desktop vs Service
+Power BI - Supported Data Sources
+Power BI - Comparison Tools
+Power Query Editor
+Power Query Editor - Introduction
+Power Query Editor - Data Discrepancy
+Power Query Editor - Merge Queries (Part 1)
+Power Query Editor - Merge Queries (Part 2)
+Power BI - Develop Star Schema
+Data Modeling Concepts
+Power BI - Data Modeling
+Power BI - Manage Relationships
+Power BI - Cardinality
+Power BI - Dashboard Options
+Power BI Report Visualizations
+Power BI - Visualization Options
+Power BI - Visualization Charts
+Power BI - Stacked Bar Chart
+Power BI - Stacked Column Chart
+Power BI - Clustered Chart
+Power BI - 100% Stacked Chart
+Power BI - Area Chart and Stacked Area Chart
+Power BI - Line and Stacked Column Chart
+Power BI - Line and Clustered Column Chart
+Power BI - Ribbon Chart
+Power BI - Table and Matrix Visuals
+Power BI Map Visualizations
+Power BI - Creating Map Visualizations
+Power BI - ArcGIS Map
+Power BI Miscellaneous
+Power BI - Waterfall Charts
+Funnel Charts and Radial Gauge Chart
+Power BI - Scatter Chart
+Power BI - Pie Chart and Donut Chart
+Power BI - Card and Slicer Visualization
+Power BI - KPI Visual
+Power BI - Smart Narrative Visual
+Power BI - Decomposition Tree
+Power BI - Paginated Report
+Power BI - Python Script & R Script
+Power BI - Multi-row Card
+Power BI - Power Apps & Power Automate
+Power BI - Excel Integration
+Power BI Dashboard
+Power BI - Sharing Dashboards
+Power BI Sales Production Dashboard
+Power BI - HR Analytics Dashboard
+Power BI - Customer Analytics Dashborad
+Power BI - DAX Basics
+Power BI - Administration Role
+Power BI - DAX Functions
+Power BI - DAX Text Functions
+Power BI - DAX Date Functions
+Power BI - DAX Logical Functions
+Power BI - DAX Counting Functions
+Power BI - Depreciation Functions
+Power BI - DAX Information Functions
+Power BI - Quick Guide
+Power BI - Useful Resources
+Power BI - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Power BI Tutorial
+Introduction to Power BI
+Power BI is a Data Visualization and Business Intelligence tool that converts data from different data sources to interactive dashboards and BI reports. Power BI suite provides multiple software, connector, and services - Power BI desktop, Power BI service based on Saas, and mobile Power BI apps available for different platforms. These set of services are used by business users to consume data and build BI reports. This tutorial covers all the important concepts in Power BI and provides a foundational understanding on how to use Power BI.
+What is Business Intelligence?
+Business Intelligenceassists companies in processing and filtering massive amounts of stored data and transforming it into actionable insights. Mining, Data Warehouse, and Data Analytics are the correlated names of Business Intelligence. Exploratory data analysis, dashboards, and predictive modeling are the core methods of business intelligence.
+Why do we need a Business Intelligence Tool?
+In today's digital era, unstructured data is dispersed all around the world. Companies face difficulty in handling and monitoring huge amounts of data, which in turn negatively affects their business strategies and operation management. This is why the companies require powerful BI tools for quick decision-making to increase their sales production, increase the availability of structured data, generate immense reports, handle customers, track employee performance, and enhance operational efficiency.
+Popular business intelligence tools such as Power BI andTableauare being used by financial companies and big firms like Deloitte, PwC, and EY to compile data from various sources and present it in an attractive format that can be used for making crucial business decisions and identifying market trends and patterns.
+What are the Major Components of Power BI?
+Following are the major components of Power BI −
+1. Power Query
+It is the process of cleansing and transforming data and permits users to access datasets connecting from multiple sources. It is included on the Power BI desktop. Business users may view the data from distinct databases likeMySQL,SQLservers,DB2, and many more.
+2. Power View
+It is a data visualization tool that assists users in developing stunning charts, and colorful maps, that turn data into a story.
+3. Power Map
+It is a 3D map visualization tool to identify geospatial data on Map visuals. It seamlessly helps organizations to examine the maximum sales production geographically, visualizing the demographic populations of specific regions.
+4. Power Pivot
+It is a Data Modelling technique that is used to create relationships between datasets. It performs complex computations by utilizing DAX functions.
+5. Power Q & A
+When dealing with giant datasets, it becomes crucial to get to know the in-depth details of the data. Luckily, it is done through natural language where users may ask questions and obtain the answer through Power Q & A.
+Why Power BI as a Career?
+Aspirants who are willing to make their career as a Power BI developer, researcher, business analyst, or data analyst should learn the Power BI tool and get certified by attempting the PL 300 exam. They should start from scratch and learn all the core components of Power BI.
+Anyone who is well versed inExcelcan easily learn Power BI. The growing demand for Power BI professionals who can develop interactive dashboards and reports has been increasing continuously. Power BI is widely used in all domains, like healthcare, finance, manufacturing, retail, and more. This allows enthusiastic Power BI learners to grab opportunities in these domains.
+Who Should Learn Power BI?
+This tutorial has been prepared for beginners to help them understand the basic concepts of Power BI. This tutorial will give you enough understanding on Power BI, from where you can take yourself to a higher level of expertise.
+Prerequisites to Learn Power BI
+Before proceeding with this tutorial, you should be familiar with Microsoft Excel, data modeling, and have some knowledge of DAX language.
+Outline of This Power BI Tutorial
+The following table provides a list of topics covered in this Power BI tutorial −
+Chapter
+Description
+Power BI  Introduction
+This chapter provides a glimpse of the fundamental concepts of Power BI and its components.
+Power BI  Installation Steps
+This chapter explains the installation steps of the Power BI Desktop application on Windows.
+Power BI  Architecture
+This chapter provides an overview of the Power BI components, such as Power BI Desktop, Gateway, Power BI Mobile Apps, and Power BI Service.
+Power BI  Desktop
+This chapter describes various hidden qualities of the Power BI desktop's three views  Report View, Data View, and Model View.
+Power BI  Desktop Window
+This chapter gives you a deep insight into various interfaces of the Power BI Desktop windows.
+Power BI  Windows Supported Browser
+This chapter provides an overview of the Power BI service, supported browsers, and supported language in Power BI.
+Power BI  Generating Reports
+In this chapter, you will master proficiency in making a report using the Power BI service.
+Power BI  Desktop vs Service
+Different phases of the Power BI Desktop and Power BI Service and their differences are depicted in this chapter.
+Power BI  Supported Data Sources
+This chapter provides a detailed analysis of the data sources, including flat files, SQL databases, the Azure Cloud platform, and online services in Power BI.
+Power BI  Comparison Tools
+This section compares Power BI to other BI tools, such as Tableau, Microsoft Fabric, and SSRS.
+Power Query Editor  Introduction
+In this chapter, you will get an overview of the Power Query Editor, various options for transforming data, and various steps for transforming data into the Power Query Editor.
+Power Query Editor  Data Discrepancy
+This chapter will practice identifying data extraction and the concept of data extraction and transformation in the Power Query Editor.
+Power Query Editor  Merge Queries (Part 1)
+This chapter explains how to join tables in Power Query Editor using the Right Outer, Left Anti, and Right Anti Join.
+Power Query Editor  Merge Queries (Part 2)
+This chapter details the Inner Join, Left Outer Join, and Full Outer Join to merge two tables.
+Power BI  Develop Star Schema
+This section will explain how a fact table is connected to multiple  dimensional tables.
+Power BI  Data Modeling
+This chapter permits you to understand data modeling, add and remove relationships between tables, and create calculated columns.
+Power BI  Manage Relationships
+This chapter explains how users can manage relationships among tables using various tabs, such as auto  detect, create new relationships, edit existing relationships, and delete unwanted relationships.
+Power BI  Cardinality
+Multiple types of cardinalities in Power BI desktops are discussed in this section.
+Power BI  Dashboard Options
+This chapter describes multiple Dashboard options such as "Get Quick Insights," "Pin to Dashboard," "Tiles in Dashboard," and others.
+Power BI  Visualization Options
+This chapter explores various visualization options like Simple visualization, Map visualization, and combination charts.
+Power BI  Visualization Charts
+This chapter gives an overview of the multiple visualization charts, such as Stacked Bar charts, Stacked Column charts, Line charts, and more, available on the BI desktop.
+Power BI  Stacked Bar Chart
+In this chapter, you will learn how to create an interactive Stacked bar chart.
+Power BI  Stacked Column Chart
+This section explains the basic concept of the Stacked column chart and its creation in the BI desktop.
+Power BI  Clustered Chart
+In this chapter, you will get the master proficiency of generating the Clustered chart.
+Power BI  100% Stacked Chart
+This chapter provides deep insights into the 100% Stacked Chart.
+Power BI  Area Chart and Stacked Area Chart
+This section covers an overview of the Area Chart and Stacked Area Chart and their creation in the BI desktop.
+Power BI  Line and Stacked Column Chart
+In this chapter, you will learn the fundamental concept of the Line and Stacked Column Chart and the step  by  step explanation for generating it in the BI report.
+Power BI  Line and Clustered Column Chart
+In this chapter, you will learn how interactive Line and Clustered Column Charts are created in the BI report.
+Power BI  Ribbon Chart
+This chapter depicts the basic concept of the Ribbon chart and its creation to create the interactive report.
+Power BI  Table and Matrix Visuals
+The fundamental concept of generating the Table and Matrix visuals is explained in this section.
+Power BI  Creating Map Visualizations
+This chapter covers the multiple types of Map visualizations and explains how to generate the MAP, Filled Map, and TreeMap visualizations in the BI report.
+Power BI  ArcGIS Map
+In this chapter, you will learn how to develop the ArcGIS Map by signing up for ArcGIS Online or adding the location  based field to the Location section.
+Power BI  Waterfall Charts
+This chapter covers the benefits and steps to developing the interactive Waterfall chart by placing the crucial fields into the perspective sections in the Data Visualization pane.
+Funnel Charts and Radial Gauge Chart
+This chapter will give you deep insights into generating Funnel charts and Radial Gauge Charts on the BI desktop.
+Power BI  Scatter Chart
+This section explains the scatter charts fundamental concept and how it is created in the Power BI report.
+Power BI  Pie Chart and Donut Chart
+This chapter will demonstrate how to generate the Pie Chart and Donut chart in the BI report.
+Power BI  Card and Slicer Visualization
+This chapter covers evaluating the average employees monthly salary using Card Visualization and filtering the employee data according to their Job Roles.
+Power BI  KPI Visual
+In this chapter, you will learn how to create the KPI visual.
+Power BI  Smart Narrative Visual
+This chapter provides an in  depth study of the Smart Narrative Visual and how to utilize it along with other visuals effectively.
+Power BI  Decomposition Tree
+In this chapter, you will learn about the Decomposition Tree and its construction.
+Power BI  Paginated Report
+This chapter covers the Paginated Report's basic overview and illustrates various steps to generate a paginated report in the report builder tool and the Power BI desktop.
+Power BI  Python Script & R Script
+This chapter will explore how to use the Python Script and R script on the Power BI desktop.
+Power BI  Multi row Card
+The basic overview of the multi  row card and a detailed study of constructing it is explained in this section.
+Power BI  Power Apps and Power Automate
+This chapter provides an overview of Power Apps and Power Automate.
+Power BI  Excel Integration
+This chapter will teach you how to import the Excel dataset into the Power BI service.
+Power BI  Sharing Dashboards
+This chapter explains the basic overview of Dashboards, exploring datasets, and sharing dashboards with other users.
+Power BI  HR Analytics Dashboard
+This section will teach you how to create the stunning HR Analytics dashboard on the BI desktop.
+Power BI  Customer Analytics Dashboard
+In this chapter, you will explore how to generate a stunning Customer Analytics dashboard on the BI desktop.
+Power BI  DAX Basics
+This chapter covers the overview of the DAX function and the different categories of the DAX functions.
+Power BI  Administration Role
+This chapter explains the various administration roles assigned to the active users to obtain admin access.
+Power BI  DAX Functions
+This chapter explains the multiple types of DAX aggregate functions and their examples.
+Power BI  DAX Text Functions
+The various types of DAX text functions are provided in this section.
+Power BI  DAX Date Functions
+This chapter explores the multiple types of DAX Date functions, such as the HOUR, WEEKDAY, WEEKNUM, and NOW functions.
+Power BI  DAX Logical Functions
+This chapter details the numerous types of the DAX Logical functions along with their examples.
+Power BI  DAX Counting Functions
+This section will give you an overview of the DAX counting functions and its types.
+Power BI  Depreciation Functions
+This chapter provides detailed study of the Depreciation Functions and its types.
+Power BI  DAX Information Functions
+This section discusses the multiple types of DAX Information functions like CONTAINS, CONTAINSSTRING, CONTAINSSTRINGEXACT, etc.
+FAQs on Power BI
+There are some veryFrequently Asked Questions (FAQs)onPower BI, this section tries to answer them briefly.
+This Power BI tutorial is made for the undergraduate and post graduate students that covers all the exclusive topics of Power BI and after that get the enrollment in our Power BI certification to compete in the market. Practicing more and connecting with the real time data in Power BI enhance your analytics skills.
+Yes, only Power BI Desktop is free to use. Power BI desktop is free to use that you could install on your system with limited functionalities. Additionally, Power BI Pro and Power BI Premium require paid license.
+Yes, Power BI is potent tool enriched with extensive features to facilitates budgeting and forecasting. It allows users to import the budget dataset and historical dataset, use what if analysis to dive into the different scenarios and to automate these processes.
+Yes, Power BI manages large datasets depending on the license that users have taken.
+Yes, you may customize the Power BI dashboards by selecting the custom report layout, choosing the interactive dashboard theme, adjusting the position, size and customized filters to manage data depicted in the dashboard.
+The Power BI report link is required when embedding the report in the SharePoint Online that requires the Power BI Pro or Power BI premium license.
+Steps to get a Power BI report link are as follows −
+First, deliberate a report in the Power BI service.
+Expand theFile, then clickEmbed reportand choose theSharePoint online
+Now, copy the URL from the "Embed link for Sharepoint" dialog box.
+Power BI is a popular tool among Business Analysts, Data Analysts, Financial Analysts, Researchers, Healthcare professionals, and Marketing Analysts.
+
+[Images saved with this article:]
+www.tutorialspoint.com_power_bi_images_power-bi-mini-logo.jpg
+www.tutorialspoint.com_power_bi_images_power-bi.jpg

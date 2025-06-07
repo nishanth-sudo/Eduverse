@@ -1,0 +1,69 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+More articles in Research Paper
+By Popular
+By Latest
+BeginnerGenerative AIResearch PaperGenerating One-Minute Videos with Test-Time TrainingExplore how Videos with Test-Time Training can enhance video generation, enabling longer, coherent multi-scene stories.Nitika Sharma10 Apr, 2025
+Generating One-Minute Videos with Test-Time Training
+Explore how Videos with Test-Time Training can enhance video generation, enabling longer, coherent multi-scene stories.
+Artificial IntelligenceBeginnerResearch PaperGoogle’s DeepMind Masters Minecraft Without Human DataSee how AI Masters Minecraft entirely on its own. Discover the capabilities of DreamerV3 Algorithm and its diamond-finding mastery.Nitika Sharma05 Apr, 2025
+Google’s DeepMind Masters Minecraft Without Human Data
+See how AI Masters Minecraft entirely on its own. Discover the capabilities of DreamerV3 Algorithm and its diamond-finding mastery.
+BeginnerGenerative AIResearch PaperAI’s Time Horizon: Can AI Complete Long Tasks?Learn all about METR's "50% task completion time horizon" metric that checks if an AI model can handle long tasks & its performance over time.Anu Madan02 Apr, 2025
+AI’s Time Horizon: Can AI Complete Long Tasks?
+Learn all about METR's "50% task completion time horizon" metric that checks if an AI model can handle long tasks & its performance over time.
+AdvancedGenerative AILLMsResearch PaperOpenAI’s SWE-Lancer Benchmark: Testing AI on $1 Million Worth of Freelance Coding TasksExplore OpenAI’s SWE-Lancer Benchmark, assessing LLM performance on real-world freelancing software engineering tasks.Harsh Mishra19 Feb, 2025
+OpenAI’s SWE-Lancer Benchmark: Testing AI on $1 Million Worth of Freelance Coding Tasks
+Explore OpenAI’s SWE-Lancer Benchmark, assessing LLM performance on real-world freelancing software engineering tasks.
+BeginnerGenerative AIResearch PaperGoku AI: Is This the Future of AI-Generated Video?Goku AI: Generate high-quality videos from static images & text prompts. Efficient training and impressive performance benchmarks inside.Ayushi Trivedi04 Apr, 2025
+Goku AI: Is This the Future of AI-Generated Video?
+Goku AI: Generate high-quality videos from static images & text prompts. Efficient training and impressive performance benchmarks inside.
+AdvancedGenerative AIListicleResearch PaperTop 9 Upvoted Papers on Hugging FaceDiscover the top upvoted Papers on Hugging Face, showcasing influential AI research and innovative methodologies in the field.Yana Khare07 Jan, 2025
+Top 9 Upvoted Papers on Hugging Face
+Discover the top upvoted Papers on Hugging Face, showcasing influential AI research and innovative methodologies in the field.
+AdvancedMachine LearningResearch Paper5 Top Papers of NeurIPS 2024 that you Must ReadNeurIPS 2024 Best Papers advancing AI and ML. Explore groundbreaking research in LLMs, image generation, and datasets.Pankaj Singh03 Jan, 2025
+5 Top Papers of NeurIPS 2024 that you Must Read
+NeurIPS 2024 Best Papers advancing AI and ML. Explore groundbreaking research in LLMs, image generation, and datasets.
+AdvancedGenerative AILarge Language ModelsLLMsResearch PaperDo Smaller Models Struggle Often in High Order Thinking?LLMs struggle with Complex Reasoning, particularly in multi-step tasks. This research highlights their limitations in GSM & more.Pankaj Singh18 Oct, 2024
+Do Smaller Models Struggle Often in High Order Thinking?
+LLMs struggle with Complex Reasoning, particularly in multi-step tasks. This research highlights their limitations in GSM & more.
+AdvancedLarge Language ModelsLLMsResearch & TechnologyResearch PaperSakana AI’s “AI Scientist”: The Next Einstein or Just a Tool?Sakana AI's "The AI Scientist," a system automating the entire scientific discovery process, including peer review.Santhosh Reddy Dandavolu27 Aug, 2024
+Sakana AI’s “AI Scientist”: The Next Einstein or Just a Tool?
+Sakana AI's "The AI Scientist," a system automating the entire scientific discovery process, including peer review.
+Artificial IntelligenceConferencesIntermediateListicleResearch & Technology16 Best Research Papers on AI: ICLR 2024 Outstanding Paper AwardsHere are the 16 best research papers on artificial intelligence (AI) that were honored with the ICLR 2024 Outstanding Paper Awards.K.C. Sabreena Basheer24 Dec, 2024
+16 Best Research Papers on AI: ICLR 2024 Outstanding Paper Awards
+Here are the 16 best research papers on artificial intelligence (AI) that were honored with the ICLR 2024 Outstanding Paper Awards.
+Popular in Research Paper
+A Must Read: 15 Essential AI Papers for GenAI Developers
+16 Best Research Papers on AI: ICLR 2024 Outstanding Paper Awards
+LLMs Research Paper in January 2025: Breakthroughs in Size Reduction and Enhanced Performance
+LLM-Driven Text-to-Image With DiffusionGPT
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Generating-One-Minute-Videos-with-Test-Time-Training-Give-me-tom-and-Jerry-image-with-Test-Time-Tra
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_AI-masters-Minecraft-DeepMind-program-finds-diamonds-without-being-taught.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_04_Time-Metric.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_02_OpenAIs-SWE-Lancer-Benchmark.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_02_Goku-AI-Is-This-the-Future-of-AI-Generated-Video_.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2025_01_Top-Upvoted-Papers-on-HuggingFace.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_12_NeurlPS.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_10_llms-1.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_08_The-AI-Scientist-Revolutionizing-Automated-Scientific-Discovery-01-scaled.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_05_aio_research.png

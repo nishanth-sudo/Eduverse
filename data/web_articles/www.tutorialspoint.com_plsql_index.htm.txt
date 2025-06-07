@@ -1,0 +1,114 @@
+PL/SQL - Home
+PL/SQL - Overview
+PL/SQL - Environment
+PL/SQL - Basic Syntax
+PL/SQL - Data Types
+PL/SQL - Variables
+PL/SQL - Constants and Literals
+PL/SQL - Operators
+PL/SQL - Conditions
+PL/SQL - Loops
+PL/SQL - Strings
+PL/SQL - Arrays
+PL/SQL - Procedures
+PL/SQL - Functions
+PL/SQL - Cursors
+PL/SQL - Records
+PL/SQL - Exceptions
+PL/SQL - Triggers
+PL/SQL - Packages
+PL/SQL - Collections
+PL/SQL - Transactions
+PL/SQL - Date & Time
+PL/SQL - DBMS Output
+PL/SQL - Object Oriented
+PL/SQL - Questions and Answers
+PL/SQL - Quick Guide
+PL/SQL - Useful Resources
+PL/SQL - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+PL/SQL Tutorial
+PL/SQL Tutorial
+PL/SQL, which stands for Procedural Language extensions to theStructured Query Language(SQL). It is a combination of SQL along with the procedural features of programming languages. It was developed by Oracle Corporation in the early 90's to enhance the capabilities of SQL. PL/SQL is one of three key programming languages embedded in the Oracle Database, along with SQL itself andJava.
+In this tutorial, we'll give you a great understanding of PL/SQL to proceed with the Oracle database and other advancedRDBMS concepts.
+Purpose of PL/SQL
+The purpose of PL/SQL is to merge database commands with procedural programming language.  It offers more complete programming solutions for building critical applications that operate on the Oracle database.
+Features of PL/SQL
+PL/SQL has the following features −
+PL/SQL is tightly integrated with SQL.
+It offers extensive extensive error checking mechanisms.
+It supports numerousdata typesfor flexible data handling.
+Includes a variety of programming structures, such asloopsandconditionals. Includes a variety of programming structures, such as loops and conditionals.
+It supports structured programming through functions and procedures.
+It supports object-oriented programming, enabling more complex data handling and manipulation.
+It supports the web application development and server pages.
+Why to learn PL/SQL?
+Learning PL/SQL is an essential skill for persons who are interested in databases and other advanced RDBMS technologies. PL/SQL offers various benefits, making it an essential skill for database developers −
+Ease of Use: PL/SQL is straightforward to write and read, featuring block-structured syntax which simplifies programming and debugging.
+Portability: Programs written in PL/SQL are fully portable across different Oracle databases, ensuring consistency and ease of migration.
+Tight SQL Integration: PL/SQL is tightly integrated with SQL, allowing for efficient querying, transforming, and updating of data within a database.
+High Performance: It reduces network traffic by sending entire blocks of statements to the database at once, thus improving performance.
+Security: It includes robust security features to protect database integrity.
+Object-Oriented Support: It supports object-oriented programming, and allows you to define object types that can be used in object-oriented designs.
+PL/SQL Block Structured
+PL/SQL follows a block-structured approach, dividing programs into logical blocks of code. Each block consists of three main sections −
+Declarations: This section, starting with the keyword DECLARE, is optional and used for definingvariables,cursors, subprograms, and other elements required within the block.
+Executable Commands: Enclosed between the keywords BEGIN and END, this mandatory section contains executable PL/SQL statements. It must include at least one executable line of code, even if it's just a NULL command indicating no action.
+Exception Handling: This starts with the keyword EXCEPTION, this optional section deals with handling errors in the program through defined exceptions.
+PL/SQL statements are terminated with a semicolon(;). Additionally, blocks can be nested within each other using BEGIN and END keywords.
+Applications of PL/SQL
+PL/SQL is widely used in various applications, including −
+Database Security: It implements robust security measures within the database.
+XML Management: Generating and managing XML documents within the database.
+Linking Databases to Web Pages: Integrates databases with web applications.
+Automation: Automating database administration tasks for efficient management.
+Who Should Learn PL/SQL?
+This tutorial is designed for Software Professionals, who are willing to learn PL/SQL Programming Language in simple and easy steps. This tutorial will give you a great understanding of PL/SQL Programming concepts, and after completing this tutorial, you will be at an intermediate level of expertise from where you can take yourself to a higher level of expertise.
+Prerequisites to learn PL/SQL
+Before proceeding with this tutorial, you should have a basic understanding of software concepts like what is database, source code, text editor, and execution of programs, etc. If you already have an understanding of SQL and other computer programming languages, then it will be an added advantage to proceed. Let's get started!
+PL/SQL Jobs and Opportunities
+Proficiency in PL/SQL opens up various career opportunities, such as −
+Oracle PL/SQL Programmer
+PL/SQL Developer
+Database Developer
+Data Analyst
+Database Testers
+Data Scientist
+ETL Developer
+Database Migration Expert
+Cloud Database Expert etc
+By mastering PL/SQL, you can increase your career opportunities in database management and development, as well as in creating secure and scalable applications.
+Frequently Asked Questions about PL/SQL
+There are some very Frequently Asked Questions(FAQ) about PL/SQL, this section tries to answer them briefly.
+PL/SQL records are data structures designed to hold multiple data items of different types. They consist of various fields, much like a row in a database table.
+SQL (Structured Query Language) is a standard language used for creating, manipulating, and retrieving data from relational databases. SQL is mainly used to write queries, as well as create and execute DDL (Data Definition Language) and DML (Data Manipulation Language) statements.
+Whereas, PL/SQL (Procedural Language/SQL) is an extension of SQL. And it adds procedural capabilities to SQL, enabling the creation of more complex and powerful database applications. PL/SQL supports variables, data types, and control structures such as loops and conditionals, which SQL does not. This makes PL/SQL more efficient for writing program blocks, functions, procedures, triggers, and packages.
+When an exception is raised in PL/SQL, the current PL/SQL block stops its regular execution and transfers control to the exception section. The exception is then handled by an exception handler within the current PL/SQL block or passed to the enclosing block if not handled locally.
+To manage an exception after it is raised, you need to write an exception handler for it. This handler should be placed after all executable statements in your PL/SQL block but before the END statement. The EXCEPTION keyword indicates the start of the exception-handling section.
+The best place to learn PL/SQL is through our comprehensive and user-friendly tutorial. Our PL/SQL tutorial provides an excellent starting point for understanding database programming with PL/SQL. You can explore our simple and effective learning materials at your own pace.
+A PL/SQL table, also known as an associative array or index-by table, is a collection of key-value pairs where each key is a unique index used to access the corresponding value. This table functions similarly to a relational table, storing data in rows and columns. Each column represents a different attribute or value, while each row contains individual records with values for all the columns.
+Following are some tips to learn PL/SQL −
+The first and most crucial step is to decide to learn PL/SQL and stay committed to your goal.
+Install the necessary tools like SQL*Plus or Oracle SQL Developer on your computer.
+Start with our PL/SQL tutorial and progress step by step from the basics.
+Read more articles, watch online courses, or buy a book on PL/SQL to deepen your understanding.
+Apply what youve learned by developing small projects that incorporate PL/SQL and other technologies.
+SQL*Plus and PL/SQL Developer are commonly used for writing and executing PL/SQL code.
+In PL/SQL, there are two types of parameters −
+Actual Parameters: Actual parameters are the values or expressions provided in the parameter list when calling a module. In this only the variable is mentioned, not the data types.
+Formal Parameters: Formal parameters are the names declared in the parameter list of a module's header.
+Learning PL/SQL is crucial for a person who is interested in databases and advanced RDBMS technologies. It offers numerous benefits, making it an essential skill for database developers. With PL/SQL, you can efficiently manipulate and manage data within Oracle databases, which increases your ability to work with large datasets and complex queries.
+
+[Images saved with this article:]
+www.tutorialspoint.com_plsql_images_plsql-mini-logo.jpg
+www.tutorialspoint.com_plsql_images_plsql.jpg

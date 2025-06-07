@@ -1,0 +1,50 @@
+TensorFlow - Home
+TensorFlow - Introduction
+TensorFlow - Installation
+Understanding Artificial Intelligence
+Mathematical Foundations
+Machine Learning & Deep Learning
+TensorFlow - Basics
+Convolutional Neural Networks
+Recurrent Neural Networks
+TensorBoard Visualization
+TensorFlow - Word Embedding
+Single Layer Perceptron
+TensorFlow - Linear Regression
+TFLearn and its installation
+CNN and RNN Difference
+TensorFlow - Keras
+TensorFlow - Distributed Computing
+TensorFlow - Exporting
+Multi-Layer Perceptron Learning
+Hidden Layers of Perceptron
+TensorFlow - Optimizers
+TensorFlow - XOR Implementation
+Gradient Descent Optimization
+TensorFlow - Forming Graphs
+Image Recognition using TensorFlow
+Recommendations for Neural Network Training
+TensorFlow - Quick Guide
+TensorFlow - Useful Resources
+TensorFlow - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+TensorFlow Tutorial
+TensorFlow is an open source machine learning framework for all developers. It is used for implementing machine learning and deep learning applications. To develop and research on fascinating ideas on artificial intelligence, Google team created TensorFlow. TensorFlow is designed in Python programming language, hence it is considered an easy to understand framework.
+Audience
+This tutorial has been prepared for python developers who focus on research and development with various machine learning and deep learning algorithms. The aim of this tutorial is to describe all TensorFlow objects and methods.
+Prerequisites
+Before proceeding with this tutorial, you need to have a basic knowledge of any Python programming language. Knowledge of artificial intelligence concepts will be a plus point.
+
+[Images saved with this article:]
+www.tutorialspoint.com_tensorflow_images_tensorflow-mini-logo.jpg
+www.tutorialspoint.com_tensorflow_images_tensorflow.jpg

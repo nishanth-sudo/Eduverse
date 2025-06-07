@@ -1,0 +1,430 @@
+C++ Data Types
+C++ Input/Output
+C++ Arrays
+C++ Pointers
+C++ OOPs
+C++ STL
+C++ Interview Questions
+C++ Programs
+C++ Cheatsheet
+C++ MCQ
+C++ Projects
+C++ Exception Handling
+C++ Memory Management
+Explore GfG Courses
+Share Your Experiences
+C++ Programming Language
+C++ Overview
+Introduction to C++ Programming Language
+Features of C++
+History of C++
+Interesting Facts about C++
+Setting up C++ Development Environment
+Difference between C and C++
+C++ Basics
+Writing First C++ Program - Hello World Example
+C++ Basic Syntax
+C++ Comments
+Tokens in C
+C++ Keywords
+Difference between Keyword and Identifier in C
+C++ Variables and Constants
+C++ Variables
+Constants in C
+Scope of Variables in C++
+Storage Classes in C++ with Examples
+Static Keyword in C++
+C++ Data Types and Literals
+C++ Data Types
+Literals in C
+Derived Data Types in C++
+User Defined Data Types in C++
+Data Type Ranges and Their Macros in C++
+C++ Type Modifiers
+Type Conversion in C++
+Casting Operators in C++
+C++ Operators
+Operators in C++
+C++ Arithmetic Operators
+Unary Operators in C
+Bitwise Operators in C
+Assignment Operators in C
+C++ sizeof Operator
+Scope Resolution Operator in C++
+C++ Input/Output
+Basic Input / Output in C++
+cin in C++
+cout in C++
+Standard Error Stream Object - cerr in C++
+Manipulators in C++
+C++ Control Statements
+Decision Making in C (if , if..else, Nested if, if-else-if )
+C++ if Statement
+C++  if else Statement
+C++ if else if Ladder
+Switch Statement in C++
+Jump statements in C++
+C++ Loops
+for Loop in C++
+Range-Based for Loop in C++
+C++ While Loop
+C++ do while Loop
+C++ Functions
+Functions in C++
+return Statement in C++
+Parameter Passing Techniques in C
+Difference Between Call by Value and Call by Reference in C
+Default Arguments in C++
+Inline Functions in C++
+Lambda Expression in C++
+C++ Pointers and References
+Pointers and References in C++
+C++ Pointers
+Dangling, Void , Null and Wild Pointers in C
+Applications of Pointers in C
+Understanding nullptr in C++
+References in C++
+Can References Refer to Invalid Location in C++?
+Pointers vs References in C++
+Passing By Pointer vs Passing By Reference in C++
+When do we pass arguments by pointer?
+C++ Arrays
+Variable Length Arrays (VLAs) in C
+Pointer to an Array | Array Pointer
+How to print size of array parameter in C++?
+Pass Array to Functions in C
+What is Array Decay in C++? How can it be prevented?
+C++ Strings
+Strings in C++
+std::string class in C++
+Array of Strings in C++
+String Concatenation in C++
+Tokenizing a string in C++
+substr() in C++
+C++ Structures and Unions
+Structures, Unions and Enumerations in C++
+Structures in C++
+C++ - Pointer to Structure
+Self Referential Structures
+Difference Between C Structures and C++ Structures
+Enumeration in C++
+typedef in C++
+Array of Structures vs Array within a Structure in C
+C++ Dynamic Memory Management
+Dynamic Memory Allocation in C using malloc(), calloc(), free() and realloc()
+new and delete Operators in C++ For Dynamic Memory
+new vs malloc() and free() vs delete in C++
+What is Memory Leak?  How can we avoid?
+Difference between Static and Dynamic Memory Allocation in C
+C++ Object-Oriented Programming
+Object Oriented Programming in C++
+C++ Classes and Objects
+Access Modifiers in C++
+Friend Class and Function in C++
+Constructors in C++
+Default Constructors in C++
+Copy Constructor in C++
+Destructors in C++
+Private Destructor in C++
+When is a Copy Constructor Called in C++?
+Shallow Copy and Deep Copy in C++
+When Should We Write Our Own Copy Constructor in C++?
+Does C++ compiler create default constructor when we write our own?
+C++ Static Data Members
+Static Member Function in C++
+'this' pointer in C++
+Scope Resolution Operator vs this pointer in C++
+Local Classes in C++
+Nested Classes in C++
+Enum Classes in C++ and Their Advantage over Enum DataType
+Difference Between Structure and Class in C++
+Why C++ is partially Object Oriented Language?
+C++ Encapsulation and Abstraction
+Encapsulation in C++
+Abstraction in C++
+Difference between Abstraction and Encapsulation in C++
+C++ Polymorphism
+C++ Polymorphism
+Function Overriding in C++
+Virtual Functions and Runtime Polymorphism in C++
+Difference between Inheritance and Polymorphism
+C++ Function Overloading
+Function Overloading in C++
+Constructor Overloading in C++
+Functions that cannot be overloaded in C++
+Function overloading and const keyword
+Function Overloading and Return Type in C++
+Function Overloading and float in C++
+Can main() be overloaded in C++?
+Function Overloading vs Function Overriding in C++
+Advantages and Disadvantages of Function Overloading in C++
+C++ Operator Overloading
+Operator Overloading in C++
+Types of Operator Overloading in C++
+Functors in C++
+What are the Operators that Can be and Cannot be Overloaded in C++?
+C++ Inheritance
+Inheritance in C++
+C++ Inheritance Access
+Multiple Inheritance in C++
+C++ Hierarchical Inheritance
+C++ Multilevel Inheritance
+Constructor in Multiple Inheritance in C++
+Inheritance and Friendship in C++
+Does overloading work with Inheritance?
+Difference between Inheritance and Polymorphism
+C++ Virtual Functions
+Virtual Function in C++
+Virtual Functions in Derived Classes in C++
+Default Arguments and Virtual Function in C++
+Can Virtual Functions be Inlined in C++?
+Virtual Destructor
+Advanced C++ | Virtual Constructor
+Advanced C++ | Virtual Copy Constructor
+Pure Virtual Functions and Abstract Classes in C++
+Pure Virtual Destructor in C++
+Can Static Functions Be Virtual in C++?
+RTTI (Run-Time Type Information) in C++
+Can Virtual Functions be Private in C++?
+C++ Exception Handling
+Exception Handling in C++
+Exception Handling using Classes in C++
+Stack Unwinding in C++
+User-defined Custom Exception with class in C++
+C++ Files and Streams
+File Handling through C++ Classes
+I/O Redirection in C++
+C++ Templates
+Templates in C++
+Using Keyword in C++ STL
+C++ Standard Template Library (STL)
+C++ Standard Template Library (STL)
+Containers in C++ STL
+Introduction to Iterators in C++
+C++ STL Algorithm Library
+Functors in C++
+C++ Preprocessors
+C Preprocessors
+C Preprocessor Directives
+#include in C
+C Preprocessors
+C Preprocessor Directives
+Difference between Preprocessor Directives and Function Templates in C++
+C++ Namespace
+Namespace in C++
+namespace in C++ | Set 2 (Extending namespace and Unnamed namespace)
+Namespace in C++ | Set 3 (Accessing, creating header, nesting and aliasing)
+C++ Inline Namespaces and Usage of the "using" Directive Inside Namespaces
+Advanced C++
+Multithreading in C++
+Smart Pointers in C++
+auto_ptr vs unique_ptr vs shared_ptr vs weak_ptr in C++
+Type of 'this' Pointer in C++
+"delete this" in C++
+Passing a Function as a Parameter in C++
+Signal Handling in C++
+Generics in C++
+C vs C++
+Difference between C and C++
+Difference between C++ and Objective C
+Write a C program that won't compile in C++
+Write a program that produces different results in C and C++
+How does 'void*' differ in C and C++?
+Type Difference of Character Literals in C and C++
+Difference Between C Structures and C++ Structures
+Cin-Cout vs Scanf-Printf
+C++ vs Java
+Similarities and Difference between Java and C++
+Comparison of Inheritance in C++ and Java
+Static Keyword in C++
+How Does Default Virtual Behavior Differ in C++ and Java?
+Comparison of Exception Handling in C++ and Java
+Foreach in C++ and Java
+Templates in C++ vs Generics in Java
+Floating Point Operations & Associativity in C, C++ and Java
+Competitive Programming in C++
+Competitive Programming - A Complete Guide
+C++ tricks for competitive programming (for C++ 11)
+Writing C/C++ code efficiently in Competitive programming
+Why C++ is best for Competitive Programming?
+Test Case Generation | Set 1 (Random Numbers, Arrays and Matrices)
+Fast I/O for Competitive Programming
+Setting up Sublime Text for C++ Competitive Programming Environment
+How to setup Competitive Programming in Visual Studio Code for C++
+Which C++ libraries are useful for competitive programming?
+Common mistakes to be avoided in Competitive Programming in C++ | Beginners
+C++ Interview Questions
+C++ Interview Questions and Answers (2025)
+Top C++ STL Interview Questions and Answers
+30 OOPs Interview Questions and Answers [2025 Updated]
+Top C++ Exception Handling Interview Questions and Answers
+C++ Programming Examples
+C++ Interview Questions and Answers (2025)
+Top 50 C++ Project Ideas For Beginners & Advanced
+DSA to DevelopmentCourse
+C++ Programming LanguageLast Updated :12 May, 2025CommentsImproveSuggest changesLike ArticleLikeReportC++ is a computer programming language developed by Bjarne Stroustrup as an extension of the C language. It is known for is fast speed, low level memory management and is often taught as first programming language. It provides:Hands-on application of different programming concepts.Similar syntax to C and other popular languages making it easier to switch.Example ProgramThe below code shows the simplest C++ program that you can run to print some text on the console screen.C++#include<iostream>usingnamespacestd;intmain(){cout<<"Hello World";return0;}OutputHello WorldThis C++ tutorial is designed to provide a guide for easy and efficient learning of both core and advanced concepts of C++. Each concept is explained with simple illustrations and practical code examples that can be executed easily. This tutorial also provides quizzes in each section to test your understanding.Let's start!C++ FundamentalsThis section guides you through the basic concepts of C++ programming. It covers topics that teaches you to write your first program, manage data, perform different operations and control the flow of the program.IntroductionIdentifiersKeywordsVariablesData TypesQuiz:Basics|Variables and Data TypesOperatorsBasic Input / OutputQuiz:Operator|Input OutputConditional StatementsLoopsQuiz:Control Statements|LoopsC++ FunctionFunctions allow users to divide the program into multiple blocks each performing a specific task. This section teaches you how to work with functions to write a modular and reusable code.FunctionsParameter Passing TechniquesDefault ArgumentsRecursionInline FunctionsLambda ExpressionQuiz:FunctionsCompound Data TypesCompound data types are created from the built-in data types. This section guides you through important compound data types such as array, strings, pointer and structures that helps in managing complex real-world data.ArraysPointersReferencesQuiz:Array|Pointer|ReferenceStringsStructuresUnionsEnumerationQuiz:Strings|Structure and UnionDynamic Memory ManagementC++ allows the low-level memory manipulation using pointers and dynamic memory allocation/deallocation operators. This section guides you through the basis of dynamic memory management.Dynamic Memory Managementnew and delete OperatorsMemory LeakQuiz:Dynamic Memory ManagementObject Oriented Programming (OOPs) in C++This section covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.Object Oriented Programming (OOPs)Classes and ObjectsEncapsulationPolymorphismInheritanceAbstractionQuiz:OOPs QuizC++ Standard Template Library (STL)This section covers Standard Template Library (STL) which is an in-built library that provides a set of commonly used data structures such as vectors, lists, stacks, queues, maps, etc. and algorithms that enhance productivity and performance.TemplatesStandard Template Library (STL)AlgorithmsContainersIteratorsVectorStackQueueMapSetQuiz:STL QuizException Handling in C++Exception handling are the techniques to handle runtime errors efficiently. This section covers how to handle exceptions to prevent crashes and improve the reliability of applications.Exception HandlingException Handling using ClassesStack UnwindingUser-Defined ExceptionsQuiz:Exception Handling QuizFile Handling in C++File handling allows programs to store and retrieve data from files. This section introduces file handling in C++ using streams. It covers reading from and writing to files using streams.Files and StreamsI/O RedirectionQuiz:File Handling QuizAdvanced C++This section covers advanced concepts in C++ such as move preprocessor, multithreading, etc. Mastering these topics allows developers to write efficient, high-performance C++ applications.PreprocessorNamespacesSmart PointersCallbacksMultithreadingSignal HandlingC++ Skill AssessmentsTest what you have learnt through this C++ using a series of our Skill Assessment Test.Beginner Skill Assessment Practice TestIntermediate Skill Assessment Practice TestAdvanced Skill Assessment Practice TestC++ Interview QuestionsQuickly prepare yourself for C++ interviews with the help of our carefully curated list of commonly asked interview questions.Top 50 C++ Interview Questions and AnswersTop C++ STL Interview Questions and Answers30 OOPs Interview Questions and AnswersTop C++ Exception Handling Interview Questions and AnswersC++ vs Other Programming LanguagesLet's see where C++ stands as compared to other programming language:FeatureC++CJavaPythonTypeCompiledCompiledCompiled and InterpretedInterpretedParadigmMulti-paradigm (procedural, object-oriented, generic)Procedural, structuredObject-oriented, structuredMulti-paradigm (object-oriented, procedural, functional)Memory ManagementManualManualAutomaticAutomaticSyntaxComplexComplexComplexSimpleUse CasesSystem programming, game development, high-performance applicationsSystem programming, embedded systems, game developmentLarge-scale applications, enterprise softwareWeb development, data analysis, machine learningNotable Frameworks/LibrariesStandard Library, BoostStandard LibrarySpring, HibernateDjango, FlaskCommunity SupportStrongStrongStrongStrongJob MarketAbundantAbundantAbundantAbundantThe below program compares the basic program structure of C++ with other languages:Next ArticleIntroduction to C++ Programming LanguagekartikImproveArticle Tags :C++TutorialsPractice Tags :CPP
+C++ Programming Language
+C++ is a computer programming language developed by Bjarne Stroustrup as an extension of the C language. It is known for is fast speed, low level memory management and is often taught as first programming language. It provides:
+Hands-on application of different programming concepts.
+Similar syntax to C and other popular languages making it easier to switch.
+Example Program
+The below code shows the simplest C++ program that you can run to print some text on the console screen.
+#include<iostream>usingnamespacestd;intmain(){cout<<"Hello World";return0;}
+#include<iostream>usingnamespacestd;intmain(){cout<<"Hello World";return0;}
+Hello World
+This C++ tutorial is designed to provide a guide for easy and efficient learning of both core and advanced concepts of C++. Each concept is explained with simple illustrations and practical code examples that can be executed easily. This tutorial also provides quizzes in each section to test your understanding.Let's start!
+C++ Fundamentals
+This section guides you through the basic concepts of C++ programming. It covers topics that teaches you to write your first program, manage data, perform different operations and control the flow of the program.
+Introduction
+Identifiers
+Keywords
+Variables
+Data Types
+Quiz:Basics|Variables and Data Types
+Operators
+Basic Input / Output
+Quiz:Operator|Input Output
+Conditional Statements
+Loops
+Quiz:Control Statements|Loops
+C++ Function
+Functions allow users to divide the program into multiple blocks each performing a specific task. This section teaches you how to work with functions to write a modular and reusable code.
+Functions
+Parameter Passing Techniques
+Default Arguments
+Recursion
+Inline Functions
+Lambda Expression
+Quiz:Functions
+Compound Data Types
+Compound data types are created from the built-in data types. This section guides you through important compound data types such as array, strings, pointer and structures that helps in managing complex real-world data.
+Arrays
+Pointers
+References
+Quiz:Array|Pointer|Reference
+Strings
+Structures
+Unions
+Enumeration
+Quiz:Strings|Structure and Union
+Dynamic Memory Management
+C++ allows the low-level memory manipulation using pointers and dynamic memory allocation/deallocation operators. This section guides you through the basis of dynamic memory management.
+Dynamic Memory Management
+new and delete Operators
+Memory Leak
+Quiz:Dynamic Memory Management
+Object Oriented Programming (OOPs) in C++
+This section covers key concepts of Object-Oriented Programming (OOPs) in C++ such as classes, objects, encapsulation, inheritance, polymorphism, and abstraction.
+Object Oriented Programming (OOPs)
+Classes and Objects
+Encapsulation
+Polymorphism
+Inheritance
+Abstraction
+Quiz:OOPs Quiz
+C++ Standard Template Library (STL)
+This section covers Standard Template Library (STL) which is an in-built library that provides a set of commonly used data structures such as vectors, lists, stacks, queues, maps, etc. and algorithms that enhance productivity and performance.
+Templates
+Standard Template Library (STL)
+Algorithms
+Containers
+Iterators
+Vector
+Stack
+Queue
+Map
+Set
+Quiz:STL Quiz
+Exception Handling in C++
+Exception handling are the techniques to handle runtime errors efficiently. This section covers how to handle exceptions to prevent crashes and improve the reliability of applications.
+Exception Handling
+Exception Handling using Classes
+Stack Unwinding
+User-Defined Exceptions
+Quiz:Exception Handling Quiz
+File Handling in C++
+File handling allows programs to store and retrieve data from files. This section introduces file handling in C++ using streams. It covers reading from and writing to files using streams.
+Files and Streams
+I/O Redirection
+Quiz:File Handling Quiz
+Advanced C++
+This section covers advanced concepts in C++ such as move preprocessor, multithreading, etc. Mastering these topics allows developers to write efficient, high-performance C++ applications.
+Preprocessor
+Namespaces
+Smart Pointers
+Callbacks
+Multithreading
+Signal Handling
+C++ Skill Assessments
+Test what you have learnt through this C++ using a series of our Skill Assessment Test.
+Beginner Skill Assessment Practice Test
+Intermediate Skill Assessment Practice Test
+Advanced Skill Assessment Practice Test
+C++ Interview Questions
+Quickly prepare yourself for C++ interviews with the help of our carefully curated list of commonly asked interview questions.
+Top 50 C++ Interview Questions and Answers
+Top C++ STL Interview Questions and Answers
+30 OOPs Interview Questions and Answers
+Top C++ Exception Handling Interview Questions and Answers
+C++ vs Other Programming Languages
+Let's see where C++ stands as compared to other programming language:
+Feature
+C++
+C
+Java
+Python
+Type
+Compiled
+Compiled
+Compiled and Interpreted
+Interpreted
+Paradigm
+Multi-paradigm (procedural, object-oriented, generic)
+Procedural, structured
+Object-oriented, structured
+Multi-paradigm (object-oriented, procedural, functional)
+Memory Management
+Manual
+Manual
+Automatic
+Automatic
+Syntax
+Complex
+Complex
+Complex
+Simple
+Use Cases
+System programming, game development, high-performance applications
+System programming, embedded systems, game development
+Large-scale applications, enterprise software
+Web development, data analysis, machine learning
+Notable Frameworks/Libraries
+Standard Library, Boost
+Standard Library
+Spring, Hibernate
+Django, Flask
+Community Support
+Strong
+Strong
+Strong
+Strong
+Job Market
+Abundant
+Abundant
+Abundant
+Abundant
+The below program compares the basic program structure of C++ with other languages:
+C++
+Tutorials
+CPP
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_uploads_20250512190838957839_hello-world-comparision.webp
+media.geeksforgeeks.org_img-practice_prod_courses_287_Web_Content_c_1722949071.webp
+media.geeksforgeeks.org_img-practice_prod_courses_198_Web_Content_dsa_1723009292.webp
+media.geeksforgeeks.org_img-practice_prod_courses_221_Web_Content_cpp_1723009538.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

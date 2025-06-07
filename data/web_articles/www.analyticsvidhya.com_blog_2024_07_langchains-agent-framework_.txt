@@ -1,0 +1,266 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Understanding LangChain Agent Framework
+LangChain has become a potent toolset for creating complex AI applications in the rapidly developing field of artificial intelligence. One of its most intriguing aspects is the agent architecture, which enables programmers to design intelligent systems that can reason, make decisions, and take independent action. As we look closer into this exciting realm, discover how LangChain agents and tools transform AI development.
+Table of contents
+What is an Agent?
+Understanding Tools
+Building Agents with LangChainStep 1: Setup and DependenciesStep 2: Configure API KeysStep 3: Import Required ModulesStep 4: Create Tools and AgentStep 5: Use the Agent
+Step 1: Setup and Dependencies
+Step 2: Configure API Keys
+Step 3: Import Required Modules
+Step 4: Create Tools and Agent
+Step 5: Use the Agent
+Customizing Your Agent
+Adding Tools to the ToolkitExplanation of Code
+Explanation of Code
+Frequently Asked Questions
+What is an Agent?
+Anagentis a system that determines and performs a series of actions based on a Large Language Model (LLM). The LLM functions as a reasoning engine by choosing what to do and when to do it. Following these actions, the Agent receives feedback, enabling it to assess whether additional actions are required or the task is finished.
+Key Components of an Agent:
+Language Model:The Agent’s cognitive center, which handles logic and judgment.
+Tools:Features an Agent can use to communicate with the outside world and carry out particular activities.
+Agent Executor:The runtime environment that oversees the functionality of the agent.
+Understanding Tools
+The interfaces known as tools provide communication between Agents, chains, chat models, and other external systems and data sources. If an LLM is given a list of available tools and a prompt, it can ask to have one or more tools invoked with the proper inputs.
+LangChain offers a wide variety of prebuilt tools, including:
+Wikipedia
+Calculator
+Search engines (e.g.,DuckDuckGo, Google)
+SQL databases
+Arxiv
+And many more!
+Developers can also create custom tools, modify existing ones, and connect them to LLMs as needed.
+Also read:A Comprehensive Guide to Building Agentic RAG Systems with LangGraph
+Building Agents with LangChain
+LangChain provides a flexible framework for creating Agents. Let’s explore how to build a simple Agent using the OpenAI Functions API and theTavily search tool.
+Step 1: Setup and Dependencies
+First, install the necessary libraries:
+!pip install --upgrade langchain-openai
+!pip install --upgrade tavily-python
+!pip install langchainhub
+!pip install langchain
+!pip install langchain-community
+!pip install --upgrade langchain-openai
+!pip install --upgrade tavily-python
+!pip install langchainhub
+!pip install langchain
+!pip install langchain-community
+Step 2: Configure API Keys
+Set up your API keys forOpenAIandTavily:
+import os
+os.environ['OPENAI_API_KEY']=OPENAI_KEY
+os.environ['TAVILY_API_KEY']=TAVILY_API_KEY
+import os
+os.environ['OPENAI_API_KEY']=OPENAI_KEY
+os.environ['TAVILY_API_KEY']=TAVILY_API_KEY
+Step 3: Import Required Modules
+from langchain import hub
+from langchain.agents import AgentExecutor, create_openai_functions_agent
+from langchain_community.tools.tavily_search import TavilySearchResults
+from langchain_openai import ChatOpenAI
+from langchain_community.utilities.tavily_search import TavilySearchAPIWrapper
+from langchain import hub
+from langchain.agents import AgentExecutor, create_openai_functions_agent
+from langchain_community.tools.tavily_search import TavilySearchResults
+from langchain_openai import ChatOpenAI
+from langchain_community.utilities.tavily_search import TavilySearchAPIWrapper
+Step 4: Create Tools and Agent
+#creating tool
+tools = [TavilySearchResults(max_results=1)]
+# Get the prompt to use - you can modify this!
+prompt = hub.pull("hwchase17/openai-functions-agent")
+# Choose the LLM that will drive the agent
+llm = ChatOpenAI(model="gpt-3.5-turbo-1106")
+# Construct the OpenAI Functions agent
+agent = create_openai_functions_agent(llm, tools, prompt)
+#creating tool
+tools = [TavilySearchResults(max_results=1)]
+# Get the prompt to use - you can modify this!
+prompt = hub.pull("hwchase17/openai-functions-agent")
+# Choose the LLM that will drive the agent
+llm = ChatOpenAI(model="gpt-3.5-turbo-1106")
+# Construct the OpenAI Functions agent
+agent = create_openai_functions_agent(llm, tools, prompt)
+Step 5: Use the Agent
+Now you can use your Agent to perform tasks:
+results=agent_executor.invoke({"input": "What is Analytics Vidhya?"})
+results=agent_executor.invoke({"input": "What is Analytics Vidhya?"})
+Output
+> Entering new AgentExecutor chain...Invoking: `tavily_search_results_json` with `{'query': 'Analytics Vidhya'}`[{'url': 'https://www.analyticsvidhya.com/', 'content': 'Analytics Vidhya isthe ultimate place for learning and exploring Generative AI, Data Scienceand Data Engineering. It offers in-depth blogs, courses, expert sessions,podcasts, guides and a thriving community.'}]Analytics Vidhya is theultimate place for learning and exploring Generative AI, Data Science, andData Engineering. It offers in-depth blogs, courses, expert sessions,podcasts, guides, and a thriving community. You can find more information ontheir website: [Analytics Vidhya](https://www.analyticsvidhya.com/)> Finished chain.
+results['output']
+results['output']
+Output
+Analytics Vidhya is the ultimate place for learning and exploring GenerativeAI, Data Science, and Data Engineering. It offers in-depth blogs, courses,expert sessions, podcasts, guides, and a thriving community. You can findmore information on their website: [Analytics Vidhya](https://www.analyticsvidhya.com/)
+Customizing Your Agent
+One of the most powerful aspects of LangChain’s Agent framework is its flexibility. You can easily create custom tools and integrate them into your Agent. Here’s an example of how to create custom tools:
+# tool calling with LLM
+from langchain_core.tools import tool
+@tool
+def addition(x:int,y:int)->int:
+ """Addition"""
+ return x+y
+@tool
+def search_web(query: str)->list:
+ """Search the web for a query -"""
+ tavily_tool=TavilySearchResults(
+             max_results=2,
+             description='This is tavily tool it queries the tavily search apis and retrun result in json'
+                            )
+ results=tavily_tool.invoke(query)
+ for result in results:
+   print(result['content'])
+tools=[addition,search_web,]
+# tool calling with LLM
+from langchain_core.tools import tool
+@tool
+def addition(x:int,y:int)->int:
+ """Addition"""
+ return x+y
+@tool
+def search_web(query: str)->list:
+ """Search the web for a query -"""
+ tavily_tool=TavilySearchResults(
+             max_results=2,
+             description='This is tavily tool it queries the tavily search apis and retrun result in json'
+                            )
+ results=tavily_tool.invoke(query)
+ for result in results:
+   print(result['content'])
+tools=[addition,search_web,]
+You can then use these custom tools with a more advanced LLM:
+chatgpt=ChatOpenAI(model='gpt-4o')
+chatgpt=ChatOpenAI(model='gpt-4o')
+Binding tools with LLM or chatgpt:
+chatgpt_with_tools=chatgpt.bind_tools(tools)
+prompt="""Given only the tools at your disposal , mention tool calls for the following tasks:
+       1. what is 2+3
+       2.Can you tell me about the analytics vidhya
+       """
+results=chatgpt_with_tools.invoke(prompt)
+results
+chatgpt_with_tools=chatgpt.bind_tools(tools)
+prompt="""Given only the tools at your disposal , mention tool calls for the following tasks:
+       1. what is 2+3
+       2.Can you tell me about the analytics vidhya
+       """
+results=chatgpt_with_tools.invoke(prompt)
+results
+Output
+AIMessage(content='', additional_kwargs={'tool_calls': [{'id':'call_dymFl7lu1gpj4aAwFmKNsvhH', 'function': {'arguments': '{"x": 2, "y":3}', 'name': 'addition'}, 'type': 'function'}, {'id':'call_rG3TM01OXRRuFiy6bRpXhxEO', 'function': {'arguments': '{"query":"Analytics Vidhya"}', 'name': 'search_web'}, 'type': 'function'}]},response_metadata={'token_usage': {'completion_tokens': 51, 'prompt_tokens':106, 'total_tokens': 157}, 'model_name': 'gpt-4o-2024-05-13','system_fingerprint': 'fp_d33f7b429e', 'finish_reason': 'tool_calls','logprobs': None}, id='run-27dafe88-89d6-40d9-bb43-c0cf8450b264-0',tool_calls=[{'name': 'addition', 'args': {'x': 2, 'y': 3}, 'id':'call_dymFl7lu1gpj4aAwFmKNsvhH'}, {'name': 'search_web', 'args': {'query':'Analytics Vidhya'}, 'id': 'call_rG3TM01OXRRuFiy6bRpXhxEO'}],usage_metadata={'input_tokens': 106, 'output_tokens': 51, 'total_tokens':157})
+results.tool_calls
+results.tool_calls
+Output
+[{'name': 'addition','args': {'x': 2, 'y': 3},'id': 'call_dymFl7lu1gpj4aAwFmKNsvhH'},{'name': 'search_web','args': {'query': 'Analytics Vidhya'},'id': 'call_rG3TM01OXRRuFiy6bRpXhxEO'}]
+Adding Tools to the Toolkit
+#Process and execute tool calls
+toolkit={'addition':addition,
+        'search_web':search_web}
+for tool_call in results.tool_calls:
+ print(tool_call)
+ selected_tool=toolkit[tool_call['name']]
+ print('Tool Description : ',selected_tool)
+ print(selected_tool.description)
+ print('Calling Tool.. :: Result : ')
+ print(selected_tool.invoke(tool_call['args']))
+ print()
+#Process and execute tool calls
+toolkit={'addition':addition,
+        'search_web':search_web}
+for tool_call in results.tool_calls:
+ print(tool_call)
+ selected_tool=toolkit[tool_call['name']]
+ print('Tool Description : ',selected_tool)
+ print(selected_tool.description)
+ print('Calling Tool.. :: Result : ')
+ print(selected_tool.invoke(tool_call['args']))
+ print()
+Output
+{'name': 'addition', 'args': {'x': 2, 'y': 3}, 'id':'call_dymFl7lu1gpj4aAwFmKNsvhH'}Tool Description :  name='addition' description='Addition' args_schema=<class'pydantic.v1.main.additionSchema'> func=<function addition at0x7a3596197ac0>AdditionCalling Tool :: Result :5{'name': 'search_web', 'args': {'query': 'Analytics Vidhya'}, 'id':'call_rG3TM01OXRRuFiy6bRpXhxEO'}Tool Description :  name='search_web' description='Search the web for aquery' args_schema=<class 'pydantic.v1.main.search_webSchema'> func=<functionsearch_web at 0x7a3594c6d990>Search the web for a queryCalling Tool :: Result :Analytics Vidhya is the leading community of Analytics, Data Science and AIprofessionals. We are building the next generation of AI professionals. Getthe latest data science, machine learning, and AI courses, news, blogs,tutorials, and resources.Learn from industry experts and become an AI and ML Blackbelt with AnalyticsVidhya. Explore free and comprehensive courses, projects, ebooks andmentoring sessions in data science, NLP, computer vision and more.None
+Explanation of Code
+Here we dissect the code:
+Addition Tool
+The agent’s mental process is demonstrated here. The ‘addition’ tool was needed for the work, as it accurately indicated. After that, the agent summoned the tool and prepared the arguments (x: 2, y: 3). Five was the anticipated outcome. This shows the agent’s comprehension of basic mathematical queries and ability to apply the right tool for the job.
+Search_web Tool
+The agent saw that web-based information retrieval was necessary for this task. It chose to use the’ search_web’ tool and typed “Analytics Vidhya” as its query. The end product was a thorough overview of Analytics Vidhya’s products and its place in the data science community.
+Conclusion
+The Agent framework from LangChain opens up a world of possibilities for AI developers. Developers may design intelligent systems that can reason, make decisions, and act independently by combining the power of big language models with specialized tools and adaptable execution environments.
+Your ideas may become a reality using LangChain’s Agent framework. This framework offers the building blocks required to develop anything from a basic search assistant to a sophisticated AI system communicating with several data sources and APIs.
+Remember that creating the ideal mix of tools, cues, and execution tactics is essential to success as you delve deeper into the world of AI agents. Using LangChain, you can build genuinely clever and flexible AI systems that can solve various real-world problems.
+Frequently Asked Questions
+Ans. An Agent in LangChain determines and performs a series of actions based on a language model, choosing what to do and when to do it. It receives feedback to assess whether additional actions are needed or if the task is complete.
+Ans. Yes, developers can create custom tools, modify existing ones, and connect them to LLMs as needed, allowing for greater flexibility and customization of Agent capabilities.
+Ans. Agents interact with external systems and data sources through Tools, which serve as interfaces between the Agent and these external resources.
+Ans. The Agent Executor is the runtime environment that oversees the agent’s functionality, managing the execution of actions and the overall workflow.
+Ans. Yes, LangChain supports various language models. The document specifically mentions using OpenAI’s GPT models, but the framework is designed to be flexible with different LLMs.
+I'm Sahitya Arya, a seasoned Deep Learning Engineer with one year of hands-on experience in both Deep Learning and Machine Learning. Throughout my career, I've authored more than three research papers and have gained a profound understanding of Deep Learning techniques. Additionally, I possess expertise in Large Language Models (LLMs), contributing to my comprehensive skill set in cutting-edge technologies for artificial intelligence.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+What is LangChain?
+What is LangChain?
+Top 7 Frameworks for Building AI Agents in 2025
+Top 7 Frameworks for Building AI Agents in 2025
+Building Smart AI Agents with LangChain
+Building Smart AI Agents with LangChain
+Setting up Custom Tools and Agents in LangChain
+Setting up Custom Tools and Agents in LangChain
+How to Automate Data Analysis with Langchain?
+How to Automate Data Analysis with Langchain?
+What is LangGraph?
+What is LangGraph?
+Guide to Tool Calling in LLMs
+Guide to Tool Calling in LLMs
+Build an AI Coding Agent with LangGraph by Lang...
+Build an AI Coding Agent with LangGraph by Lang...
+When to Use Agent SDK, LangChain, or CrewAI to ...
+When to Use Agent SDK, LangChain, or CrewAI to ...
+Building Custom Tools for AI Agents Using smola...
+Building Custom Tools for AI Agents Using smola...
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_c38ZtTW.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_c38ZtTW.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

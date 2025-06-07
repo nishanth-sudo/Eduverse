@@ -1,0 +1,179 @@
+Node.js - Home
+Node.js - Introduction
+Node.js - Environment Setup
+Node.js - First Application
+Node.js - REPL Terminal
+Node.js - Command Line Options
+Node.js - Package Manager (NPM)
+Node.js - Callbacks Concept
+Node.js - Upload Files
+Node.js - Send an Email
+Node.js - Events
+Node.js - Event Loop
+Node.js - Event Emitter
+Node.js - Debugger
+Node.js - Global Objects
+Node.js - Console
+Node.js - Process
+Node.js - Scaling Application
+Node.js - Packaging
+Node.js - Express Framework
+Node.js - RESTFul API
+Node.js - Buffers
+Node.js - Streams
+Node.js - File System
+Node.js MySQL
+Node.js - MySQL Get Started
+Node.js - MySQL Create Database
+Node.js - MySQL Create Table
+Node.js - MySQL Insert Into
+Node.js - MySQL Select From
+Node.js - MySQL Where
+Node.js - MySQL Order By
+Node.js - MySQL Delete
+Node.js - MySQL Update
+Node.js - MySQL Join
+Node.js MongoDB
+Node.js - MongoDB Get Started
+Node.js - MongoDB Create Database
+Node.js - MongoDB Create Collection
+Node.js - MongoDB Insert
+Node.js - MongoDB Find
+Node.js - MongoDB Query
+Node.js - MongoDB Sort
+Node.js - MongoDB Delete
+Node.js - MongoDB Update
+Node.js - MongoDB Limit
+Node.js - MongoDB Join
+Node.js Modules
+Node.js - Modules
+Node.js - Built-in Modules
+Node.js - Utility Modules
+Node.js - Web Module
+Node.js - Quick Guide
+Node.js - Cheatsheet
+Node.js - Useful Resources
+Node.js - Dicussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Node.js Tutorial
+What is Node.js?
+Why Learn Node.js?
+How to Install Node.js?
+Applications of Node.js
+Example of Node.js Application
+Prerequisites to Learn Node.js
+Getting Started with Node.js
+Node.js Jobs and Salary
+Frequently Asked Questions on Node.js
+Node.js is a powerful JavaScript runtime environment, built on Google Chrome's V8 JavaScript Engine. Node.js is open-source and cross platform.
+What is Node.js?
+Node.js is not a programming language like Python, Java or C/C++. Node.js is a runtime, similar to Java virtual machine, that converts JavaScript code into machine code. It is , widely used by thousands of developers around the world to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications.
+With Node.js, it is possible to use JavaScript as a backend. With JavaScript already being a popular choice for frontend development, application development around MERN (MongoDB, Express, React and Node.js.) and MEAN (MongoDB, Express, Angular and Node.js) stacks is being increasingly employed by developers.
+Why Learn Node.js?
+Node.js can be used to full fill multiple purpose like server-side programming, build APIs, etc.
+Node.js is used for server-side programming with JavaScript. Hence, you can use a single programming language (JavaScript) for both front-end and back-end development.
+Node.js implements asynchronous execution of tasks in a single thread with async and await technique. This makes Node.js application significantly faster than multi-threaded applications.
+Node.js is being used to build command line applications, web applications, real-time chat applications, REST APIs etc.
+How to Install Node.js?
+Different operating systems required different steps to install Node.js, please follow the provided methods according to your installed operating system.
+Node.js Installation on Windows
+Node.js Installation on Linux - Ubuntu
+Applications of Node.js
+Node.js is used for building different type of applications. Some of the application types are listed below.
+Streaming applications:Node.js can easily handle real-time data streams, where it is required to download resources on-demand without overloading the server or the users local machine. Node.js can also provide quick data synchronization between the server and the client, which improves user experience by minimizing delays using the Node.js event loop.
+Single page apps:Node.js is an excellent choice for SPAs because of its capability to efficiently handle asynchronous calls and heavy input/output(I/O) workloads. Data driven SPAs built with Express.js are fast, efficient and robust.
+Realtime applications:Node.js is ideal for building lightweight real-time applications, like messaging apps interfaces, chatbot etc. Node.js has an event- based architecture, as a result has an excellent WebSocket support. It facilitates real-time two-way communication between the server and the client.
+APIs:At the heart of Node.js is JavaScript. Hence, it becomes handling JSON data is easier. You can therefore build REST based APIs with Node.js.
+These are some of the use cases of Node.js. However, its usage is not restricted to these types. Companies are increasingly employing Node.js for variety of applications.
+Example of Node.js Application
+To create a basic Hello World application in Node.js, save the following single line JavaScript as hello.js file.
+console.log("Hello World");
+Open a powershell (or command prompt) terminal in the folder in which hello.js file is present, and enter the following command. The "Hello World" message is displayed in the terminal.
+PS D:\nodejs> node hello.js
+Hello World
+To create a "Hello, World!" web application using Node.js, save the following code as hello.js:
+http = require('node:http');
+listener = function (request, response) {
+ // Send the HTTP header
+ // HTTP Status: 200 : OK
+ // Content Type: text/html
+ response.writeHead(200, {'Content-Type': 'text/html'});
+
+ // Send the response body as "Hello World"
+ response.end('<h2 style="text-align: center;">Hello World</h2>');
+};
+
+server = http.createServer(listener);
+server.listen(3000);
+
+// Console will print the message
+console.log('Server running at http://127.0.0.1:3000/');
+Run the above script from command line.
+C:\nodejs> node hello.js
+Server running at http://127.0.0.1:3000/
+The program starts the Node.js server on the localhost, and goes in the listen mode at port 3000. Now open a browser, and enterhttp://127.0.0.1:3000/as the URL. The browser displays the Hello World message as desired.
+Prerequisites to Learn Node.js
+Before proceeding with this tutorial, you should have a basic understanding ofJavaScript. As we are going to develop web-based applications using Node.js, it will be good if you have some understanding of other web technologies such asHTML,CSS,AJAX, etc.
+Getting Started with Node.js
+This tutorial is designed for software programmers who want to learn the Node.js and its architectural concepts from basics to advanced. This tutorial will give you enough understanding on all the necessary components of Node.js with suitable examples.
+Basics of Node.js
+Before going deep into nodejs you should familiar with fundamentals of nodejs like environment setup, REPL terminal, NPM, Callbacks, Events, Objects, etc.
+Node.js Introduction
+Node.js Environment Setup
+Node.js First Application
+Node.js REPL Terminal
+Node.js Command Line Options
+Node.js Package Manager (NPM)
+Node.js Callbacks Concept
+Node.js Upload Files
+Node.js Send an Email
+Node.js Events
+Node.js Event Loop
+Node.js Event Emitter
+Node.js Debugger
+Node.js Global Objects
+Node.js Console
+Node.js Process
+Node.js File System
+Node.js Streams
+Node.js Scaling Application
+Node.js Packaging
+Node.js Modules
+Node.jsmodules provides a collection of functions that are used to perform different operations as per the requirements. All the important modules are listed below.
+Node.js Assert Module
+Node.js Buffer Module
+Node.js Console Module
+Node.js DNS Module
+Node.js OS Module
+Node.js Path Module
+Node.js Query String Module
+Node.js URL Module
+Node.js Utility Module
+Node.js V8 Module
+Node.js Jobs and Salary
+Node.js. is a popular tool for almost any kind of project. After Learning Node.js you can get job on different job profiles.
+Node.js Developer - Salary ranges in between  1.2 Lakhs to  12.6 Lakhs with an average annual salary of  5.7 Lakhs.
+Node.js Backend Developer - Salary ranges in between  1.2 Lakhs to  11.0 Lakhs with an average annual salary of  4.7 Lakhs.
+Frequently Asked Questions about Node.js
+Node.js is an open-source and cross-platform server framework. It is completely free to use on all the OS platforms  Windows, Linux, MacOS etc.
+Certainly. Node.js is being widely used for building commercial application in the field of streaming apps, SPAs, APIs etc. Many top companies such as Twitter, Slack, Coursera etc. use Node.js in their applications.
+Node.js applications can be deployed on popular hosting services such as AWS, Heroku, Hostinger and more.
+Node.js runtime executes JavaScript in a single thread. It implements asynchronous execution of multiple tasks with async/await mechanism for making non-blocking IO requests.
+Compared to languages such as Java, PHP, Python etc. Node.js offers better performance in terms of speed of execution. However, for low-level programming applications it is not as good as C/C++.
+The NPM package manager does have certain packages for machine learning libraries such as tensorflow.js and brain.js. However, Python and Ruby remain as a preferred choice for developing AI and machine learning applications.
+Node.js Articles
+You can explore a set of Node.js articles atNode.js Articles.
+
+[Images saved with this article:]
+www.tutorialspoint.com_nodejs_images_nodejs-mini-logo.jpg
+www.tutorialspoint.com_nodejs_images_nodejs.jpg

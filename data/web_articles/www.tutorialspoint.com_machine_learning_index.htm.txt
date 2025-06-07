@@ -1,0 +1,214 @@
+ML - Home
+ML - Introduction
+ML - Getting Started
+ML - Basic Concepts
+ML - Ecosystem
+ML - Python Libraries
+ML - Applications
+ML - Life Cycle
+ML - Required Skills
+ML - Implementation
+ML - Challenges & Common Issues
+ML - Limitations
+ML - Reallife Examples
+ML - Data Structure
+ML - Mathematics
+ML - Artificial Intelligence
+ML - Neural Networks
+ML - Deep Learning
+ML - Getting Datasets
+ML - Categorical Data
+ML - Data Loading
+ML - Data Understanding
+ML - Data Preparation
+ML - Models
+ML - Supervised Learning
+ML - Unsupervised Learning
+ML - Semi-supervised Learning
+ML - Reinforcement Learning
+ML - Supervised vs. Unsupervised
+Machine Learning Data Visualization
+ML - Data Visualization
+ML - Histograms
+ML - Density Plots
+ML - Box and Whisker Plots
+ML - Correlation Matrix Plots
+ML - Scatter Matrix Plots
+Statistics for Machine Learning
+ML - Statistics
+ML - Mean, Median, Mode
+ML - Standard Deviation
+ML - Percentiles
+ML - Data Distribution
+ML - Skewness and Kurtosis
+ML - Bias and Variance
+ML - Hypothesis
+Regression Analysis In ML
+ML - Regression Analysis
+ML - Linear Regression
+ML - Simple Linear Regression
+ML - Multiple Linear Regression
+ML - Polynomial Regression
+Classification Algorithms In ML
+ML - Classification Algorithms
+ML - Logistic Regression
+ML - K-Nearest Neighbors (KNN)
+ML - Naïve Bayes Algorithm
+ML - Decision Tree Algorithm
+ML - Support Vector Machine
+ML - Random Forest
+ML - Confusion Matrix
+ML - Stochastic Gradient Descent
+Clustering Algorithms In ML
+ML - Clustering Algorithms
+ML - Centroid-Based Clustering
+ML - K-Means Clustering
+ML - K-Medoids Clustering
+ML - Mean-Shift Clustering
+ML - Hierarchical Clustering
+ML - Density-Based Clustering
+ML - DBSCAN Clustering
+ML - OPTICS Clustering
+ML - HDBSCAN Clustering
+ML - BIRCH Clustering
+ML - Affinity Propagation
+ML - Distribution-Based Clustering
+ML - Agglomerative Clustering
+Dimensionality Reduction In ML
+ML - Dimensionality Reduction
+ML - Feature Selection
+ML - Feature Extraction
+ML - Backward Elimination
+ML - Forward Feature Construction
+ML - High Correlation Filter
+ML - Low Variance Filter
+ML - Missing Values Ratio
+ML - Principal Component Analysis
+Reinforcement Learning
+ML - Reinforcement Learning Algorithms
+ML - Exploitation & Exploration
+ML - Q-Learning
+ML - REINFORCE Algorithm
+ML - SARSA Reinforcement Learning
+ML - Actor-critic Method
+ML - Monte Carlo Methods
+ML - Temporal Difference
+Deep Reinforcement Learning
+ML - Deep Reinforcement Learning
+ML - Deep Reinforcement Learning Algorithms
+ML - Deep Q-Networks
+ML - Deep Deterministic Policy Gradient
+ML - Trust Region Methods
+Quantum Machine Learning
+ML - Quantum Machine Learning
+ML - Quantum Machine Learning with Python
+Machine Learning Miscellaneous
+ML - Performance Metrics
+ML - Automatic Workflows
+ML - Boost Model Performance
+ML - Gradient Boosting
+ML - Bootstrap Aggregation (Bagging)
+ML - Cross Validation
+ML - AUC-ROC Curve
+ML - Grid Search
+ML - Data Scaling
+ML - Train and Test
+ML - Association Rules
+ML - Apriori Algorithm
+ML - Gaussian Discriminant Analysis
+ML - Cost Function
+ML - Bayes Theorem
+ML - Precision and Recall
+ML - Adversarial
+ML - Stacking
+ML - Epoch
+ML - Perceptron
+ML - Regularization
+ML - Overfitting
+ML - P-value
+ML - Entropy
+ML - MLOps
+ML - Data Leakage
+ML - Monetizing Machine Learning
+ML - Types of Data
+Machine Learning - Resources
+ML - Quick Guide
+ML - Cheatsheet
+ML -  Interview Questions
+ML - Useful Resources
+ML - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Machine Learning (ML) Tutorial
+ThisMachine Learning (ML) tutorialwill provide a detailed understanding of the concepts ofmachine learningsuch as, different types of machine learning algorithms, types, applications, libraries used in ML, and real-life examples.
+What is Machine Learning
+Machine Learning (ML)is a branch ofArtificial Intelligence (AI)that works on algorithm developments and statistical models that allow computers to learn from data and make predictions or decisions without being explicitly programmed.
+How does Machine Learning Work?
+Machine Learning process includes Project Setup, Data Preparation, Modeling and Deployment. The following figure demonstrates the common working process of Machine Learning. It follows some set of steps to do the task; a sequential process of its workflow is as follows:
+Stages of Machine Learning
+The following are the stages (detailed sequential process) of Machine Learning:
+Data collection:Data collection is an initial step in the process of machine learning. In this stage, it collects data from the different sources such as databases, text files, pictures, sound files, or web scraping. This process organizes the data in an appropriate format, such as a CSV file or database, and makes sure that they are useful for solving your problem.
+Data pre-processing:It is a key step in the process of machine learning, which involves deleting duplicate data, fixing errors, managing missing data either by eliminating or filling it in, and adjusting and formatting the data.
+Choosing the right model:The next step is to select a machine learning model; once data is prepared, then we apply it to ML models like linear regression, decision trees, and neural networks that may be selected to implement. This selection depends on many factors, such as the kind of data and your problem, the size and type of data, the complexity, and the computational resources.
+Training the model:This step includes training the model from the data so it can make better predictions.
+Evaluating the model:When module is trained, the model has to be tested on new data that they haven't been able to see during training.
+Hyperparameter tuning and optimization:After evaluating the model, you may need to adjust its hyperparameters to make it more efficient. You should try different combinations of parameters and cross-validation to ensure that the model performs well on different data sets.
+Predictions and deployment:When the model has been programmed and optimized, it will be ready to estimate new data. This is done by adding new data to the model and using its output for decision-making or other analysis. The deployment includes its integration into a production environment to make it capable of processing real-world data.
+Types of Machine Learning
+Machine learning models fall into the following categories:
+Supervised Machine Learning (SVM):It is a type of machine learning that trains the model using labeled datasets to predict outcomes.
+Unsupervised Machine Learning:It is a type of machine learning that learns patterns and structures within the data without human supervision.
+Semi-supervised learning:It is a type of machine learning that is neither fully supervised nor fully unsupervised. The semi-supervised learning algorithms basically fall between supervised and unsupervised learning methods.
+Reinforcement Machine Learning:It is a type of machine learning model that is similar to supervised learning but does not use sample data to train the algorithm. This model learns by trial and error.
+Common Machine Learning Algorithms
+Several machine learning algorithms are commonly used. These include:
+Neural networks: It works like the human brain with many connected nodes. They help to find patterns and are used in language processing, image and speech recognition, and creating images.
+Linear regression: It predicts numbers based on past data. For example, it helps estimate house prices in an area.
+Logistic regression: It predicts like "yes/no" answers and it is useful for spam detection and quality control.
+Clustering: It is used to group similar data without instructions and it helps to find patterns that humans might miss.
+Decision trees: They help to classify data and predict numbers using a tree-like structure. They are easy to check and understand.
+Random forests: They combine multiple decision trees to improve predictions.
+Importance of Machine Learning
+Machine Learning is important in automation, extracting insights from data, and decision-making processes. It has its significance due to the following reasons:
+Data Processing:Machine learning is useful to analyze large data from social media, sensors, and other sources and help to reveal patterns and insights to improve decision-making.
+Data-Driven Insights:Machine learning algorithms find trends and connections in big data that humans might miss, which helps to take better decisions and predictions.
+Automation:Machine learning automates the repetitive tasks, reducing errors and saving time.
+Personalization:Machine learning is useful to analyze the user preferences to provide personalized recommendations in e-commerce, social media, and streaming services. It helps in many manners, such as to improve user engagement, etc.
+Predictive Analytics:Machine learning models use past data to predict future outcomes, which may help for sales forecasts, risk management, and demand planning.
+Pattern Recognition:Machine learning is useful in pattern recognition during image processing, speech recognition, and natural language processing.
+Finance:Machine learning is used in credit scoring, fraud detection, and algorithmic trading.
+Retail:Machine learning helps to enhance the recommendation systems, supply chain management, and customer service.
+Fraud Detection & Cybersecurity:Machine learning detects the fraudulent transactions and security threats in real time.
+Continuous Improvement:Machine learning models update regularly with new data, which allows them to adapt and improve over time.
+Applications of Machine Learning
+Machine learning is used in various fields. Some of the most common applications include:
+Speech Recognition: Machine learning is used to convert spoken language into text using natural language processing (NLP). It is used in voice assistants like Siri, voice search, and text accessibility features on mobile devices.
+Customer Service: There are several chatbots that are useful for reducing human interaction and providing better support on websites and social media, handling FAQs, giving recommendations, and assisting in e-commerce. For example, virtual agents, Facebook Messenger bots, and voice assistants.
+Computer Vision: It helps computers in analyzing the images and videos to take action. It is used in social media for photo tagging, in healthcare for medical imaging, and in self-driving cars for navigation.
+Recommendation Engines: ML recommendation engines suggest products, movies, or content based on user behavior. Online retailers use them to improve shopping experiences.
+Robotic Process Automation (RPA): RPA uses AI to automate repetitive tasks and reduce manual work.
+Automated Stock Trading: AI-driven trading platforms make rapid trades to optimize stock portfolios without human intervention.
+Fraud Detection: Machine learning identifies suspicious financial transactions, which help banks to detect fraud and prevent unauthorized activities.
+Who can Learn Machine Learning?
+Thismachine learning tutorialhas been prepared for those who want to learn about the basics and advances of Machine Learning. In a broader sense; ML is a subset of Artificial Intelligence (AI) that focuses on developing algorithms and models that allow computers to learn from data and make predictions or decisions without being explicitly programmed to do so. Machine learning requires data. This data can be text, images, audio, numbers, or video. The quality and quantity of data considerably affect machine learning model performance. Features are data qualities used to predict or decide. Feature selection and engineering entail selecting and formatting the most relevant features for the model.
+Prerequisites to Learn Machine Learning
+You should have a basic understanding of the technical aspects of Machine Learning. Learners should be familiar with data, information, and its basics. Knowledge of Data, information, structured data, unstructured data, semi-structured data, data processing, and Artificial Intelligence basics; Proficiency in labeled / unlabelled data, feature extraction from data, and their application in ML to solve common problems is a must.
+
+[Images saved with this article:]
+www.tutorialspoint.com_machine_learning_images_machine-learning-mini-logo.jpg
+www.tutorialspoint.com_machine_learning_images_machine-learning.jpg
+www.tutorialspoint.com_machine_learning_images_fundamental-blocks-of-machine-learning-process.png
+www.tutorialspoint.com_machine_learning_images_sequential-process-flow-of-machine-learning.png
+www.tutorialspoint.com_machine_learning_images_supervised-machine-learning.png
+www.tutorialspoint.com_machine_learning_images_unsupervised-machine-learning.png
+www.tutorialspoint.com_machine_learning_images_semi-supervised-learning.png
+www.tutorialspoint.com_machine_learning_images_reinforcement-machine-learning.png

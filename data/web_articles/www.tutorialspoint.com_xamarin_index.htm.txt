@@ -1,0 +1,40 @@
+Xamarin - Home
+Xamarin - Installation
+Xamarin - First Application
+Xamarin - Application Manifest
+Xamarin - Android Resources
+Xamarin - Android Activity Lifecycle
+Xamarin - Permissions
+Xamarin - Building the App GUI
+Xamarin - Menus
+Xamarin - Layouts
+Xamarin - Android Widgets
+Xamarin - Android Dialogs
+Xamarin - Gallery
+Xamarin - Andriod Views
+Xamarin - Multiscreen App
+Xamarin - Deploying Your App
+Xamarin - Quick Guide
+Xamarin - Useful Resources
+Xamarin - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+Xamarin Tutorial
+Xamarin is a software company based in San Francisco. It provides commercial software development tools that allow a user to develop applications for Android, iOS and Windows using C# language and the .NET framework. Xamarin is built on the .NET Framework. It allows one to create apps that easily run across multiple platforms. In this tutorial, we will explain how you can use Xamarin to deliver native iOS, Android, and Windows Apps.
+Audience
+This tutorial has been developed for beginners to help them understand the basics of creating native Apps using Xamarin.
+Prerequisites
+All the programs in this tutorial have been developed using Visual C#. Therefore, you should have a good understanding of code written in C# programming language.
+
+[Images saved with this article:]
+www.tutorialspoint.com_xamarin_images_xamarin-mini-logo.jpg
+www.tutorialspoint.com_xamarin_images_xamarin.jpg

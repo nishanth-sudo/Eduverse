@@ -1,0 +1,236 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Prompt Engineering: Definition, Examples, Tips & More
+Natural language processinghas been a field with affluent areas of implementation using underlying technologies and techniques. In recent years, and especially since the start of 2022, Natural Language Processing (NLP) andGenerative AIhave experienced improvements. This made types of prompt engineering a particular skill to understand for anyone Deep Residual Learning for Image Recognition to master language models (LMs).
+This article was published as a part of theData Science Blogathon.
+Learning Objectives
+Understanding Prompt, Prompt Engineering, and examples
+Tips on refining your prompts
+Elements of Prompts and Prompts Pattern
+Prompting Techniques
+Prompt engineering knowledge assists in better understanding the capabilities and limitations of fundamentally usinglarge language models (LLMs).
+Table of contents
+What is Prompt Engineering?
+Examples of Prompt Engineering
+How to Engineer your AI Prompts?
+Elements of a Prompt
+Standard Prompts Pattern
+Prompting Techniques1. Zero-Shot Prompting2. Few-Shot Prompting/In-Context Learning3. Chain-of-thought (CoT)
+1. Zero-Shot Prompting
+2. Few-Shot Prompting/In-Context Learning
+3. Chain-of-thought (CoT)
+What to Avoid When Creating Prompts?
+Conclusion
+What is Prompt Engineering?
+Prompt engineering is a practice innatural language processingfield ofartificial intelligencewhere text describes what the AI demands to do. Guided by this input, the AI generates an output. This could be in different forms with the intent to use human-understandable text conversationally to communicate with models. Since the task description is embedded in the input, the model performs more flexibly with possibilities.
+Learn More:Prompt Engineering: The Art of Crafting Powerful Prompts
+What are Prompts?
+Prompts are a detailed description of desired output expected from the model. It is the interaction between a user and the AI model. This should give us more understanding of what engineering is about.
+Examples of Prompt Engineering
+The prompts used in large language models such asChatGPTandGPT-3could be simple text queries. With all this, the quality is measured by how much detail you can provide. These could be fortext summarization, question, and answer, code generation, information extraction, etc.
+Since LLMs could be used to solve complex problems where many instructions are included, it is vital to be detailed. Let’s see some examples of basic prompts:
+Prompt
+Antibiotics are a type of medication used to treat bacterial infections. They work by either killing the bacteria or preventing them from reproducing, allowing the body's immune system to fight off the infection. Antibiotics are usually taken orally in the form of pills, capsules, or liquid solutions, or sometimes administered intravenously. They are not effective against viral infections, and using them inappropriately can lead to antibiotic resistance.
+Summarize the above into 2 sentences:
+Antibiotics are a type of medication used to treat bacterial infections. They work by either killing the bacteria or preventing them from reproducing, allowing the body's immune system to fight off the infection. Antibiotics are usually taken orally in the form of pills, capsules, or liquid solutions, or sometimes administered intravenously. They are not effective against viral infections, and using them inappropriately can lead to antibiotic resistance.
+Summarize the above into 2 sentences:
+This output the summary in a Q&A pattern.
+Antibiotics treat bacterial infections by killing or preventing their reproduction, enabling the immune system to fight off infections. Oral or intravenously administered, they are not effective against viral infections and can lead to antibiotic resistance.
+Antibiotics treat bacterial infections by killing or preventing their reproduction, enabling the immune system to fight off infections. Oral or intravenously administered, they are not effective against viral infections and can lead to antibiotic resistance.
+We just saw an illustration of using LLMs. The possibility only goes endless. Types of Prompt engineering basics can be tailored for various outputs. Here are examples for different content types:
+Text – ChatGPT, GPT
+What’s the difference between generative AI and traditional AI?
+Provide 10 variations for the headline, “Top generative AI use cases for the enterprise.”
+Write an outline for an article on the benefits of generative AI for marketing.
+Generate 300 words for each section of the article.
+Create engaging headlines for each section.
+Craft a 100-word product description for ProductXYZ in five styles.
+Define types of prompt engineering basics in iambic pentameter, Shakespearean style.
+Code – ChatGPT, Codex
+Act as an ASCII artist translating object names into ASCII code.
+Identify mistakes in a given code snippet.
+Write a function multiplying two numbers and returning the result.
+Develop a basic REST API in Python.
+Explain the function of a provided code.
+Simplify a given code.
+Continue writing a provided code.
+Images – Stable Diffusion, Midjourney, Dall-E 2
+Depict a dog in a car wearing sunglasses and a hat in the style of Salvador Dali.
+Illustrate a lizard on the beach in the style of claymation art.
+Create an image of a man using a phone on the subway, 4K resolution with bokeh blurring.
+Design a sticker illustration of a woman drinking coffee at a table with a checkered tablecloth.
+Visualize a jungle forest with cinematic lighting and nature photography.
+Generate a first-person image looking out at orange clouds during a sunrise
+How to Engineer your AI Prompts?
+The quality of the prompt is critical. There are ways to improve them and get your models to improve outputs. Let’s see some tips below:
+Role Playing:The idea is to make the model act as a specified system. Thus creating a tailored interaction and targeting a specific result. This saves time and complexity yet achieves tremendous results. This could be to act as a teacher, code editor, or interviewer.
+Clearness:This means the removal of ambiguity. Sometimes, in the cause of trying to be detailed, we end up including unnecessary content. An excellent way to achieve this is to be brief.
+Specification:This is related to role-playing, but the idea is to be specific and channeled to a streamlined direction. This avoids a scattered output.
+Consistency:Consistency means maintaining flow in the conversation. Keep a uniform tone so that you can ensure legibility from the conversation.
+Elements of a Prompt
+These are the attributes that make up the skeleton of prompts. These can be:
+Instruction:It is a statement tasking the model to perform something.
+Context:Context is what streamlines the model to the problem. If not, it can go completely out of context and give poor responses.
+Input Data:It is the input as a whole single entity.
+Output Indicator:In role-playing, it indicates the type of output which will be a code. This element helps the model channel outputs suitably.
+Standard Prompts Pattern
+Let us try to see an overview of what a format looks like. Below is an example between a user and the model with straightforward instructions.
+User: <Instruction>
+Model: <Response>
+User: <Instruction>
+Model: <Response>
+Few-Shot:It is a pattern for prompts using in-context learning. Here there is provision for in-context education, allowing the model to process examples beforehand. We will look at this more in the next section below. Few-shot can be formatted as follows:
+<Instruction>
+<Response>
+
+<Instruction>
+<Response>
+
+<Instruction>
+<Response>
+
+<Instruction>
+<Instruction>
+<Response>
+
+<Instruction>
+<Response>
+
+<Instruction>
+<Response>
+
+<Instruction>
+In a question-and-answer pattern, we have:
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A:
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A: <Answer>
+
+Q: <Question>?
+A:
+Prompting Techniques
+There are different techniques used in writing prompts. They are the backbone.
+1. Zero-Shot Prompting
+Zero-shot provides a prompt that is not part of the training yet still performing as desired. In a nutshell, LLMs can generalize.
+Example:
+Prompt:
+Classify the text into neutral, negative, or positive.
+Text: I think the presentation was awesome.
+Sentiment:
+Classify the text into neutral, negative, or positive.
+Text: I think the presentation was awesome.
+Sentiment:
+Output:
+Positive
+Positive
+The knowledge of the meaning of “sentiment” made the model zero-shot how to classify the question even though it has not been given a bunch of text classifications to work on. There might be a pitfall since no descriptive data is provided in the text. Then we can use few-shot prompting.
+2. Few-Shot Prompting/In-Context Learning
+In an elementary understanding, the few-shot uses a few examples (shots) of what it must do. This takes some insight from a demonstration to perform. Instead of relying solely on what it is trained on, it builds on the shots available.
+3. Chain-of-thought (CoT)
+CoT allows the model to achieve complex reasoning through middle reasoning steps. It involves creating and improving intermediate steps called “chains of reasoning” to foster better language understanding and outputs. It can be like a hybrid that combines few-shot on more complex tasks.
+What to Avoid When Creating Prompts?
+Before rounding up, they are somethings we should avoidwhen creating prompts:
+Information Overload (Ambiguity): Try as much as possible to provide brief information since it could become junk and reduce the accuracy of the results.
+Open-Ended Questions: It is recommended that we avoid asking inexact or open-ended questions. A vague question might be:Can you help me find my way home?They are non-specific and too generic and will cause imprecision and less resourceful responses.
+Poor Use of Constraints: Constraints are boundaries and limitations to how scattered a situation can get. This requires providing specific requirements. This could be to role-play the model.
+Conclusion
+We have seen a detailed guide to prompt engineering basics providing insights into the fundamentals and how they function in AI models. AI has experienced a complete revolution regarding use cases with endless possibilities and futuristic applications. Prompts can guide AI models like human instructions, revolutionizing the future. Examples like ChatGPT. Understanding the principles and pillars is crucial for effective AI use.
+Ready to revolutionize your AI skills? Enroll in our “Prompt Engineering Essentials” course today and learn how to craft effective prompts that guide AI models like ChatGPT. Unlock the secrets to harnessing AI’s full potential—join us now!
+Key Takeaways
+NLP and Generative AI have experienced improvements since 2022, making types of prompt engineering crucial for mastering language models.
+Prompt engineering in generative AI uses text input for descriptions, model flexibility, and understanding human-readable text.
+Refining prompts is essential for improving quality and outputs, using role-playing to save time and maintain consistency in conversations for better flow and legibility.
+Frequently Asked Questions
+A. Prompt Engineer specializes in ensuring the development and refining of text prompts as much as possible for the AI models use. They know the state-of-the-art approach to producing responses from AI models.
+A. Anyone with a basic knowledge of how the models work, and good computer skill can horn the skills to become a PE.
+A. Even though sometimes you may want to write a few lines of code which are still part of the input, it is not a requirement to always do so. A significant goal of PE is to eliminate complex coding and interact with AI via human-readable language.
+A. We have three major approaches to PE. Some may have some ways of carrying out this art, but the commonly used ones include n-shot prompting, chain-of-thought (CoT) prompting, and generated knowledge prompting.
+The media shown in this article is not owned by Analytics Vidhya and is used at the Author’s discretion.
+I am an AI Engineer with a deep passion for research, and solving complex problems. I provide AI solutions leveraging  Large Language Models (LLMs), GenAI, Transformer Models, and Stable Diffusion.
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+Top 4 Agentic AI Design Patterns for Architecti...
+Top 4 Agentic AI Design Patterns for Architecti...
+How to Build an AI Agent from Scratch?
+How to Build an AI Agent from Scratch?
+What is Prompt Engineering?
+What is Prompt Engineering?
+Unleash the Power of Prompt Engineering: Superc...
+Unleash the Power of Prompt Engineering: Superc...
+Learning Path to Become a Prompt Engineering Sp...
+Learning Path to Become a Prompt Engineering Sp...
+Your Ultimate Prompt Engineering Cheatsheet
+Your Ultimate Prompt Engineering Cheatsheet
+Prompt Engineering for Game Development
+Prompt Engineering for Game Development
+Beginners Guide to Expert Prompt Engineering
+Beginners Guide to Expert Prompt Engineering
+Top 7 Free ChatGPT Prompt Engineering Courses a...
+Top 7 Free ChatGPT Prompt Engineering Courses a...
+26 Prompting Principles to Improve LLM Performance
+26 Prompting Principles to Improve LLM Performance
+Responses From Readers
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_CxK4yPu.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_01_Prompt1-.png
+av-eks-lekhak.s3.amazonaws.com_media___sized___article_images_0x0-thumbnail_webp-600x300.webp
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_CxK4yPu.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

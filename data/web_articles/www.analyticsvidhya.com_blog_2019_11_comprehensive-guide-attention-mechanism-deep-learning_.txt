@@ -1,0 +1,420 @@
+Master Generative AI with 10+ Real-world Projects in 2025!
+d
+h
+m
+s
+Reading list
+Attention Mechanism in Deep Learning
+One of the most groundbreaking advances in deep learning is theAttention Mechanism, a revolutionary concept that has transformed natural language processing (NLP). By allowing models to focus on the most relevant parts of input data, it paved the way for breakthroughs like theTransformer architectureandGoogle’s BERT. Thanks to increased computing power, attention mechanisms have become essential in modern NLP, enabling smarter, more efficient AI systems. If you’re working (or planning to work) in NLP, understanding how attention works is a must—it’s one of the most important innovations in deep learning over the past decade. In this article you will get understanding about the attention mechanism in deep learning, how it works also attention mechanism in computer vision.
+Table of contents
+What is Attention Mechanism?
+How Attention Mechanism Works?
+How Attention Mechanism was Introduced in Deep Learning
+Implementing Attention Model in Python Using Keras
+Global vs. Local Attention
+Transformers – Attention is All You Need
+Attention Mechanism in Computer Vision
+Conclusion
+Frequently Asked Questions
+Quiz Time
+Time to dive into the world of Attention Mechanism in Deep Learning! Test your understanding with our quiz! Best of Luck!
+Question
+Your answer:
+Correct answer:
+Your Answers
+What is Attention Mechanism?
+Attention mechanisms enhance deep learning models by selectively focusing on important input elements, improving prediction accuracy and computational efficiency. They prioritize and emphasize relevant information, acting as a spotlight to enhance overall model performance.
+In psychology, attention is the cognitive process of selectively concentrating on one or a few things while ignoring others.
+Let me explain what this means. Let’s say you are seeing a group photo of your first school. Typically, there will be a group of children sitting across several rows, and the teacher will sit somewhere in between. Now, if anyone asks the question, “How many people are there?”, how will you answer it?
+Simply by counting heads, right? You don’t need to consider any other things in the photo. Now, if anyone asks a different question, “Who is the teacher in the photo?”, your brain knows exactly what to do. It will simply start looking for the features of an adult in the photo. The rest of the features will simply be ignored.This is the ‘Attention’ which our brain is very adept at implementing.
+Read this article about theAttention Mechanisms Using Multi-Head Attention
+How Attention Mechanism Works?
+Here’s how they work:
+Breaking Down the Input: Let’s say you have a bunch of words (or any kind of data) that you want the computer to understand. First, it breaks down this input into smaller pieces, like individual words.
+Picking Out Important Bits: Then, it looks at these pieces and decides which ones are the most important. It does this by comparing each piece to a question or ‘query’ it has in mind.
+Assigning Importance: Each piece gets a score based on how well it matches the question. The higher the score, the more important that piece is.
+Focusing Attention: After scoring each piece, it figures out how much attention to give to each one. Pieces with higher scores get more attention, while less important ones get less attention.
+Putting It All Together: Finally, it adds up all the pieces, but gives more weight to the important ones. This way, the computer gets a clearer picture of what’s most important in the input.
+How Attention Mechanism was Introduced in Deep Learning
+The attention mechanism emerged as an improvement over the encoder decoder-basedneural machine translation systemin natural language processing (NLP). Later, this mechanism, or its variants, was used in other applications, includingcomputer vision, speech processing, etc.
+BeforeBahdanau et alproposed the first Attention model in 2015, neural machine translation was based on encoder-decoderRNNs/LSTMs. Both encoder and decoder are stacks of LSTM/RNN units. It works in the two following steps:
+The encoder LSTM is used to process the entire input sentence and encode it into a context vector, which is the last hidden state of the LSTM/RNN. This is expected to be a good summary of the input sentence. All the intermediate states of the encoder are ignored, and the final state id supposed to be the initial hidden state of the decoder
+The decoder LSTM or RNN units produce the words in a sentence one after another
+In short, there are two RNNs/LSTMs. One we call the encoder – this reads the input sentence and tries to make sense of it, before summarizing it. It passes the summary (context vector) to the decoder which translates the input sentence by just seeing it.
+Drawbacks of the Encoder-Decoder Approach (RNN/LSTM):
+Dependence on Encoder Summary:If the encoder produces a poor summary, the translation will also be poor.This issue worsens with longer sentences.
+If the encoder produces a poor summary, the translation will also be poor.
+This issue worsens with longer sentences.
+Long-Range Dependency Problem:RNNs/LSTMs struggle to understand and remember long sentences.This happens due to thevanishing/exploding gradient problem, making it hard to retain distant information.They perform better on recent inputs but forget earlier parts.
+RNNs/LSTMs struggle to understand and remember long sentences.
+This happens due to thevanishing/exploding gradient problem, making it hard to retain distant information.
+They perform better on recent inputs but forget earlier parts.
+Performance Degradation with Longer Inputs:Even the original creators (Cho et al., 2014) showed that translation quality drops as sentence length increases.
+Even the original creators (Cho et al., 2014) showed that translation quality drops as sentence length increases.
+LSTM Limitations:While LSTMs handle long-range dependencies better than RNNs, they stillfail in certain cases.They can become “forgetful” over long sequences.
+While LSTMs handle long-range dependencies better than RNNs, they stillfail in certain cases.
+They can become “forgetful” over long sequences.
+Lack of Selective Attention:The model cannotfocus more on important wordsin the input while translating.All words are treated equally, even if some are more critical for translation.
+The model cannotfocus more on important wordsin the input while translating.
+All words are treated equally, even if some are more critical for translation.
+Now, let’s say, we want to predict the next word in a sentence, and its context is located a few words back. Here’s an example –“Despite originally being from Uttar Pradesh, as he was brought up in Bengal, he is more comfortable in Bengali”.In these groups of sentences, if we want to predict the word“Bengali”, the phrase“brought up”and“Bengal”-these two should be given more weight while predicting it. And althoughUttarPradeshis another state’s name, it should be “ignored”.
+So is there any way we can keep all the relevant information in the input sentences intact while creating the context vector?
+Bahdanau et al (2015)came up with a simple but elegant idea where they suggested that not only can all the input words be taken into account in the context vector, but relative importance should also be given to each one of them.
+So, whenever the proposed model generates a sentence, it searches for a set of positions in the encoder hidden states where the most relevant information is available. This idea is called ‘Attention’.
+Understanding the Attention Mechanism
+This is the diagram of the Attention model shown in Bahdanau’s paper. The Bidirectional LSTM used here generates a sequence of annotations(h1, h2,….., hTx)for each input sentence. All the vectorsh1,h2.., etc., used in their work are basically the concatenation of forward and backward hidden states in the encoder.
+To put it in simple terms, all the vectors h1,h2,h3…., hTx are representations of Tx number of words in the input sentence. In the simple encoder and decoder model, only the last state of the encoder LSTM was used (hTx in this case) as the context vector.
+But Bahdanau et al put emphasis onembeddingsof all the words in the input (represented by hidden states) while creating the context vector. They did this by simply taking a weighted sum of the hidden states.
+Now, the question is how should the weights be calculated? Well, the weights are also learned by afeed-forward neural networkand I’ve mentioned their mathematical equation below.
+The context vector cifor the output word yiis generated using the weighted sum of the annotations:
+The weights αijare computed by a softmax function given by the following equation:
+eijis the output score of a feedforward neural network described by the functionathat attempts to capture the alignment between input atjand output ati.
+Basically, if the encoder producesTxnumber of “annotations” (the hidden state vectors) each having dimensiond,then the input dimension of the feedforward network is(Tx, 2d)(assuming the previous state of the decoder also hasddimensions and these two vectors are concatenated).This input is multiplied with a matrixWaof(2d, 1)dimensions (of course followed by addition of the bias term) to get scoreseij(having a dimension (Tx, 1)).
+On the top of theseeijscores, a tan hyperbolic function is applied followed by a softmax to get the normalized alignment scores for output j:
+E = I[Tx*2d]* Wa [2d * 1]+ B[Tx*1]
+α = softmax(tanh(E))
+C= IT* α
+So,αis a (Tx, 1) dimensional vector and its elements are the weights corresponding to each word in the input sentence.
+Letαis[0.2, 0.3, 0.3, 0.2]and the input sentence is“I am doing it”.Here,the context vector corresponding to it will be:
+C=0.2*I”I”+ 0.3*I”am”+ 0.3*I”doing”+ + 0.3*I”it”[Ixis the hidden state corresponding to the wordx]
+Implementing Attention Model in Python Using Keras
+We now have a handle of what this often-quoted Attention mechanism is. Let’s take what we’ve learned and apply it in a practical setting. Yes, let’s get coding!
+In this section, we will discuss how a simple Attention model can be implemented in Keras. The purpose of this demo is to show how a simple Attention layer can be implemented in Python.
+As an illustration, we have run this demo on a simplesentence-level sentiment analysis datasetcollected from theUniversity of California IrvineMachine LearningRepository. You can select any other dataset if you prefer and can implement a custom Attention layer to see a more prominent result.
+Here, there are only two sentiment categories –‘0’means negative sentiment, and‘1’means positive sentiment.You’ll notice that the dataset has three files. Among them, two files have sentence-level sentiments and the 3rdone has a paragraph level sentiment.
+We are using the sentence level data files (amazon_cells_labelled.txt, yelp_labelled.txt) for simplicity. We have read and merged the two data files. This is what our data looks like:
+We then pre-process the data to fit the model using Keras’Tokenizer()class:
+t=Tokenizer()
+t.fit_on_texts(corpus)
+text_matrix=t.texts_to_sequences(corpus)
+t=Tokenizer()
+t.fit_on_texts(corpus)
+text_matrix=t.texts_to_sequences(corpus)
+Thetext_to_sequences()method takes the corpus and converts it to sequences, i.e. each sentence becomes one vector. The elements of the vectors are the unique integers corresponding to each unique word in the vocabulary:
+len_mat=[]
+for i in range(len(text_matrix)):
+    len_mat.append(len(text_matrix[i]))
+len_mat=[]
+for i in range(len(text_matrix)):
+    len_mat.append(len(text_matrix[i]))
+We must identify the maximum length of the vector corresponding to a sentence because typically sentences are of different lengths. We should make them equal by zero padding. We have used a‘post padding’technique here, i.e. zeros will be added at the end of the vectors:
+from keras.preprocessing.sequence import pad_sequences
+text_pad = pad_sequences(text_matrix, maxlen=32, padding='post')
+from keras.preprocessing.sequence import pad_sequences
+text_pad = pad_sequences(text_matrix, maxlen=32, padding='post')
+Next, let’s define the basic LSTM based model:
+inputs1=Input(shape=(features,))
+x1=Embedding(input_dim=vocab_length+1,output_dim=32,\
+             input_length=features,embeddings_regularizer=keras.regularizers.l2(.001))(inputs1)
+x1=LSTM(100,dropout=0.3,recurrent_dropout=0.2)(x1)
+outputs1=Dense(1,activation='sigmoid')(x1)
+model1=Model(inputs1,outputs1)
+inputs1=Input(shape=(features,))
+x1=Embedding(input_dim=vocab_length+1,output_dim=32,\
+             input_length=features,embeddings_regularizer=keras.regularizers.l2(.001))(inputs1)
+x1=LSTM(100,dropout=0.3,recurrent_dropout=0.2)(x1)
+outputs1=Dense(1,activation='sigmoid')(x1)
+model1=Model(inputs1,outputs1)
+Here, we have used anEmbedding layerfollowed by anLSTMlayer. The embedding layer takes the 32-dimensional vectors, each of which corresponds to a sentence, and subsequently outputs (32,32) dimensional matrices i.e., it creates a 32-dimensional vector corresponding to each word. This embedding is also learnt during model training.
+Then we add an LSTM layer with 100 number of neurons.As it is a simple encoder-decoder model, we don’t want each hidden state of the encoder LSTM. We just want to have the last hidden state of the encoder LSTM and we can do it by setting ‘return_sequences’= False in the Keras LSTM function.
+But in Keras itself the default value of this parameters is False. So, no action is required.
+The output now becomes 100-dimensional vectors i.e. the hidden states of the LSTM are 100 dimensional. This is passed to a feedforward or Dense layer with‘sigmoid’activation. The model is trained usingAdamoptimizer withbinary cross-entropyloss. The training for 10 epochs along with the model structure is shown below:
+model1.summary()
+model1.summary()
+model1.fit(x=train_x,y=train_y,batch_size=100,epochs=10,verbose=1,shuffle=True,validation_split=0.2)
+model1.fit(x=train_x,y=train_y,batch_size=100,epochs=10,verbose=1,shuffle=True,validation_split=0.2)
+The validation accuracy is reaching up to 77% with the basic LSTM-based model.
+Let’s not implement a simpleBahdanauAttention layer in Keras and add it to the LSTM layer. To implement this, we will use the defaultLayerclass in Keras. We will define a class namedAttentionas a derived class of theLayerclass. We need to define four functions as per the Keras custom layer generation rule. These arebuild(),call (),compute_output_shape()andget_config().
+Insidebuild (),we will define our weights and biases, i.e.,WaandBas discussed previously. If the previous LSTM layer’s output shape is (None, 32, 100) then our output weight should be (100, 1) and bias should be (100, 1) dimensional.
+ef build(self,input_shape):
+        self.W=self.add_weight(name="att_weight",shape=(input_shape[-1],1),initializer="normal")
+        self.b=self.add_weight(name="att_bias",shape=(input_shape[1],1),initializer="zeros")        
+        super(attention, self).build(input_shape)
+ef build(self,input_shape):
+        self.W=self.add_weight(name="att_weight",shape=(input_shape[-1],1),initializer="normal")
+        self.b=self.add_weight(name="att_bias",shape=(input_shape[1],1),initializer="zeros")        
+        super(attention, self).build(input_shape)
+Insidecall (),we will write the main logic of Attention. We simply must create a Multi-Layer Perceptron (MLP). Therefore, we will take the dot product of weights and inputs followed by the addition of bias terms. After that, we apply a ‘tanh’ followed by a softmax layer. This softmax gives the alignment scores. Its dimension will be the number of hidden states in the LSTM, i.e., 32 in this case. Taking its dot product along with the hidden states will provide the context vector:
+def call(self,x):
+        et=K.squeeze(K.tanh(K.dot(x,self.W)+self.b),axis=-1)
+        at=K.softmax(et)
+        at=K.expand_dims(at,axis=-1)
+        output=x*at
+        return K.sum(output,axis=1)
+def call(self,x):
+        et=K.squeeze(K.tanh(K.dot(x,self.W)+self.b),axis=-1)
+        at=K.softmax(et)
+        at=K.expand_dims(at,axis=-1)
+        output=x*at
+        return K.sum(output,axis=1)
+The above function is returning the context vector. The complete custom Attention class looks like this:
+from keras.layers import Layer
+import keras.backend as K
+from keras.layers import Layer
+import keras.backend as K
+class attention(Layer):
+    def __init__(self,**kwargs):
+        super(attention,self).__init__(**kwargs)
+
+    def build(self,input_shape):
+        self.W=self.add_weight(name="att_weight",shape=(input_shape[-1],1),initializer="normal")
+        self.b=self.add_weight(name="att_bias",shape=(input_shape[1],1),initializer="zeros")        
+        super(attention, self).build(input_shape)
+
+    def call(self,x):
+        et=K.squeeze(K.tanh(K.dot(x,self.W)+self.b),axis=-1)
+        at=K.softmax(et)
+        at=K.expand_dims(at,axis=-1)
+        output=x*at
+        return K.sum(output,axis=1)
+
+    def compute_output_shape(self,input_shape):
+        return (input_shape[0],input_shape[-1])
+
+    def get_config(self):
+        return super(attention,self).get_config()
+class attention(Layer):
+    def __init__(self,**kwargs):
+        super(attention,self).__init__(**kwargs)
+
+    def build(self,input_shape):
+        self.W=self.add_weight(name="att_weight",shape=(input_shape[-1],1),initializer="normal")
+        self.b=self.add_weight(name="att_bias",shape=(input_shape[1],1),initializer="zeros")        
+        super(attention, self).build(input_shape)
+
+    def call(self,x):
+        et=K.squeeze(K.tanh(K.dot(x,self.W)+self.b),axis=-1)
+        at=K.softmax(et)
+        at=K.expand_dims(at,axis=-1)
+        output=x*at
+        return K.sum(output,axis=1)
+
+    def compute_output_shape(self,input_shape):
+        return (input_shape[0],input_shape[-1])
+
+    def get_config(self):
+        return super(attention,self).get_config()
+Theget_config()method collects the input shape and other information about the model.
+Now, let’s try to add this custom Attention layer to our previously defined model. Except for the custom Attention layer, every other layer and their parameters remain the same.Remember, here we should set return_sequences=True in our LSTM layer because we want our LSTM to output all the hidden states.
+inputs=Input((features,))
+x=Embedding(input_dim=vocab_length+1,output_dim=32,input_length=features,\
+            embeddings_regularizer=keras.regularizers.l2(.001))(inputs)
+att_in=LSTM(no_of_neurons,return_sequences=True,dropout=0.3,recurrent_dropout=0.2)(x)
+att_out=attention()(att_in)
+outputs=Dense(1,activation='sigmoid',trainable=True)(att_out)
+model=Model(inputs,outputs)
+model.summary()
+inputs=Input((features,))
+x=Embedding(input_dim=vocab_length+1,output_dim=32,input_length=features,\
+            embeddings_regularizer=keras.regularizers.l2(.001))(inputs)
+att_in=LSTM(no_of_neurons,return_sequences=True,dropout=0.3,recurrent_dropout=0.2)(x)
+att_out=attention()(att_in)
+outputs=Dense(1,activation='sigmoid',trainable=True)(att_out)
+model=Model(inputs,outputs)
+model.summary()
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['acc'])
+model.fit(x=train_x,y=train_y,batch_size=100,epochs=10,verbose=1,shuffle=True,validation_split=0.2)
+model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['acc'])
+model.fit(x=train_x,y=train_y,batch_size=100,epochs=10,verbose=1,shuffle=True,validation_split=0.2)
+There is indeed an improvement in the performance as compared to the previous model. The validation accuracy now reaches up to81.25 %after the addition of the custom Attention layer. With further pre-processing and a grid search of the parameters, we can definitely improve this further.
+Different researchers have tried different techniques for score calculation. There are different variants of Attention model(s) according to how the score, as well as the context vector, are calculated. There are other variants also, which we will discuss next.
+Global vs. Local Attention
+So far, we have discussed the most basic Attention mechanism where all the inputs have been given some importance. Let’s take things a bit deeper now.
+The term“global”Attention is appropriate because all the inputs are given importance. Originally, the Global Attention(defined by Luong et al 2015)had a few subtle differences with the Attention concept we discussed previously.
+The differentiation is that it considers all the hidden states of both the encoder LSTM and decoder LSTM to calculate a “variable-length context vectorct, whereasBahdanauet al. used the previous hidden state of the unidirectional decoderLSTMand all the hidden states of the encoder LSTM to calculate the context vector.
+Inencoder-decoderarchitectures, thescore generally is a function of the encoder and the decoder hidden states. Any function is valid as long as it captures the relative importance of the input words with respect to the output word.
+When a “global” Attention layer is applied, a lot of computation is incurred. This is because all the hidden states must be taken into consideration, concatenated into a matrix, and multiplied with a weight matrix of correct dimensions to get the final layer of the feedforward connection.
+So, as the input size increases, the matrix size also increases. In simple terms, the number of nodes in the feedforward connection increases and in effect it increases computation.
+Can we reduce this in any way? Yes! Local Attention is the answer.
+Intuitively, when we try to infer something from any given information, our mind tends to intelligently reduce the search space further and further by taking only the most relevant inputs.
+The idea of Global and Local Attention was inspired by the concepts ofSoft and Hard Attentionused mainly in computer vision tasks.
+Soft Attention is the global Attention where all image patches are given some weight; but in hard Attention, only one image patch is considered at a time.
+But local Attention is not the same as the hard Attention used in the image captioning task.On the contrary, it is a blend of both the concepts, where instead of considering all the encoded inputs, only a part is considered for the context vector generation. This not only avoids expensive computation incurred in soft Attention but is also easier to train than hard Attention.
+How can this be achieved in the first place? Here, the model tries to predict a positionptin the sequence of the embeddings of the input words. Around the positionpt, it considers a window of size, say,2D. Therefore, the context vector is generated as a weighted average of the inputs in a position[pt– D,pt+ D]whereDis empirically chosen.
+Furthermore, there can be two types of alignments:
+Monotonic alignment, where ptis set to t, assuming that at time t, only the information in the neighborhood of t matters
+Predictive alignmentwhere the model itself predicts the alignment position as follows:
+where ‘Vp’and ‘Wp’are the model parameters that are learned during training and ‘S’ is the source sentence length. Clearly, ptε [0,S].
+The figures below demonstrate the difference between the Global and Local Attention mechanism. Global Attention considers all hidden states (blue) whereas local Attention considers only a subset:
+Transformers – Attention is All You Need
+The paper named“Attention is All You Need”byVaswani et alis one of the most important contributions to Attention so far. They have redefined Attention by providing a very generic and broad definition of Attention based onkey,query,andvalues. They have referenced another concept calledmulti-headed Attention.Let’s discuss this briefly.
+First, let’s define what“self-Attention”is. Cheng et al, in their paper named“Long Short-Term Memory-Networks for Machine Reading”,defined self-Attention as the mechanism of relating different positions of a single sequence or sentence in order to gain a more vivid representation.
+Machine reader is an algorithm that can automatically understand the text given to it.  We have taken the below picture from the paper. The red words are read or processed at the current instant, and the blue words are the memories. The different shades represent the degree of memory activation.
+When we are reading or processing the sentence word by word, where previously seen words are also emphasized on, is inferred from the shades, and this is exactly what self-Attention in a machine reader does.
+Previously, to calculate the Attention for a word in the sentence, the mechanism of score calculation was to either use a dot product or some other function of the word with the hidden state representations of the previously seen words. In this paper, a fundamentally same but a more generic concept altogether has been proposed.
+Let’s say we want to calculate the Attention for the word “chasing”. The mechanism would be to take a dot product of the embedding of “chasing” with the embedding of each of the previously seen words like “The”, “FBI”, and “is”.
+Key, Query, and Value Vectors in Attention Mechanism
+Three Vectors per Embedding:Each word embedding has three ssociated vectors:Key (K)Query (Q)Value (V)These are derived using matrix multiplication.
+Each word embedding has three ssociated vectors:Key (K)Query (Q)Value (V)
+Key (K)
+Query (Q)
+Value (V)
+These are derived using matrix multiplication.
+Calculating Attention:To find the attention of atarget wordrelative to input embeddings:Use theQuery (Q)of the target word.Use theKey (K)of the input word.Compute amatching score(attention weight) fromQandK.Use these scores as weights to sum theValue (V)vectors.
+To find the attention of atarget wordrelative to input embeddings:Use theQuery (Q)of the target word.Use theKey (K)of the input word.
+Use theQuery (Q)of the target word.
+Use theKey (K)of the input word.
+Compute amatching score(attention weight) fromQandK.
+Use these scores as weights to sum theValue (V)vectors.
+What Are Key, Query, and Value?They represent the same embedding indifferent subspaces(abstract perspectives).Analogy:Query: A question you ask.Key: The memory address being searched.Value: The data stored at that address.
+They represent the same embedding indifferent subspaces(abstract perspectives).
+Analogy:Query: A question you ask.Key: The memory address being searched.Value: The data stored at that address.
+Query: A question you ask.
+Key: The memory address being searched.
+Value: The data stored at that address.
+Mathematical Derivation:If the embedding (E) has dimension(D, 1):Key (K): MultiplyEby matrixWkof size(D/3, D)→K = Wk × EQuery (Q): MultiplyEbyWq→Q = Wq × EValue (V): MultiplyEbyWv→V = Wv × E
+If the embedding (E) has dimension(D, 1):Key (K): MultiplyEby matrixWkof size(D/3, D)→K = Wk × EQuery (Q): MultiplyEbyWq→Q = Wq × EValue (V): MultiplyEbyWv→V = Wv × E
+Key (K): MultiplyEby matrixWkof size(D/3, D)→K = Wk × E
+Query (Q): MultiplyEbyWq→Q = Wq × E
+Value (V): MultiplyEbyWv→V = Wv × E
+Now, to calculate the Attention for the word“chasing”, we need to take the dot product of thequeryvector of the embedding of“chasing”to thekeyvector of each of the previous words, i.e., the key vectors corresponding to the words“The”,“FBI”and“is”. Then these values are divided by D (the dimension of the embeddings) followed by asoftmaxoperation. So, the operations are respectively:
+softmax(Q”chasing”. K”The”/D)
+softmax(Q”chasing”.K”FBI”/D)
+softmax(Q”chasing”. K”is”/D)
+Basically, this is a functionf(Qtarget,Kinput)of the query vector of the target word and the key vector of the input embeddings. It doesn’t necessarily have to be a dot product ofQandK.Anyone can choose a function of his/her own choice.
+Next, let’s say the vector thus obtained is[0.2, 0.5, 0.3]. These values are the“alignment scores”for the calculation of Attention. These alignment scores are multiplied with thevalue vectorof each of the input embeddings and these weighted value vectors are added to get thecontext vector:
+C”chasing”= 0.2 * VThe+ 0.5* V”FBI”+ 0.3 * V”is”
+Practically, all the embedded input vectors are combined in a single matrixX,which is multiplied with common weight matricesWk,Wq,Wvto getK, Q and Vmatrices respectively. Now the compact equation becomes:
+Z=Softmax(Q*KT/D)V
+Therefore, the context vector is a function of Key, Query and Value F(K, Q, V).
+Key Highlights of Attention Mechanisms
+Generalization of Attention MechanismsThe Bahdanau Attention and other previous attention works are special cases of the attention mechanisms discussed here.Key Feature: A single embedded vector serves as theKey (K),Query (Q), andValue (V)vectors simultaneously.
+The Bahdanau Attention and other previous attention works are special cases of the attention mechanisms discussed here.
+Key Feature: A single embedded vector serves as theKey (K),Query (Q), andValue (V)vectors simultaneously.
+Multi-Headed Attention MechanismThe input matrixXis multiplied by different weight matrices (Wk, Wq, Wv) to produce separateK, Q, and Vmatrices.This results in multipleZ matrices, meaning each input word embedding is projected into different“representation subspaces”.
+The input matrixXis multiplied by different weight matrices (Wk, Wq, Wv) to produce separateK, Q, and Vmatrices.
+This results in multipleZ matrices, meaning each input word embedding is projected into different“representation subspaces”.
+Multi-Headed Self-Attention Example (3 Heads)For a word like“chasing”, there will be3 different Z matrices(called“Attention Heads”).These heads areconcatenatedand then multiplied by asingle weight matrix.The final output is asingle Attention headthat combines information from all individual heads.
+For a word like“chasing”, there will be3 different Z matrices(called“Attention Heads”).
+These heads areconcatenatedand then multiplied by asingle weight matrix.
+The final output is asingle Attention headthat combines information from all individual heads.
+The picture below depicts the multi-head Attention. You can see that there are multiple Attention heads arising from different V, K, Q vectors, and they are concatenated:
+The actual transformer architecture is a bit more complicated. You can read it in much more detail here.
+This image above is the transformer architecture. We see that something called ‘positional encoding’ has been used and added with the embedding of the inputs in both the encoder and decoder.
+The models that we have described so far had no way to account for the order of the input words. They have tried to capture this through positional encoding.This mechanism adds a vector to each input embedding, and all these vectors follow a pattern that helps to determine the position of each word, or the distances between different words in the input.
+As shown in the figure, on top of this positional encoding + input embedding layer, there are two sublayers:
+In the first sublayer, there is a multi-head self-attention layer. There is an additive residual connection from the output of the positional encoding to the output of the multi-head self-attention, on top of which they have applied a layer normalization layer. Thelayer normalizationis a technique(Hinton, 2016)similar to batch normalization where instead of considering the whole minibatch of data for calculating the normalization statistics, all the hidden units in the same layer of the network have been considered in the calculations. This overcomes the drawback of estimating the statistics for the summed input to any neuron over a minibatch of the training samples. Thus, it is convenient to use in RNN/LSTM.
+In the second sublayer, instead of the multi-head self-attention, there is a feedforward layer (as shown), and all other connections are the same.
+On the decoder side, apart from the two layers described above, there is another layer that applies multi-head Attention on top of the encoder stack. Then, after a sublayer followed by one linear and one softmax layer, we get the output probabilities from the decoder.
+Attention Mechanism in Computer Vision
+You can intuitively understand where the Attention mechanism can be applied in the NLP space. We want to explore beyond that. So in this section, let’s discuss the Attention mechanism in the context of computer vision. We will reference a few key ideas here, and you can explore more in the papers we have referenced.
+Image Captioning-Show,Attend and Tell (Xu et al, 2015):
+In image captioning, a convolutional neural network is used to extract feature vectors known as annotation vectors from the image. This producesLnumber ofDdimensional feature vectors, each of which is a representation corresponding to a part of an image.
+In this work, features have been extracted from a lower convolutional layer of the CNN model so that a correspondence between the extracted feature vectors and the portions of the image can be determined. On top of this, an Attention mechanism is applied to selectively give more importance to some of the locations of the image compared to others, for generating caption(s) corresponding to the image.
+A slightly modified version ofBahdanauAttention has been used here. Instead of taking a weighted sum of the annotation vectors (similar to hidden states explained earlier), a function has been designed that takes both the set of annotation vectors and the alignment vector, and outputs a context vector instead of simply creating a dot product (mentioned above).
+Although this work by Google DeepMind is not directly related to Attention, this mechanism has been ingeniously used to mimic the way an artist draws a picture. This is done by drawing parts of the image sequentially.
+Let’s discuss this paper briefly to get an idea about how this mechanism alone or combined with other algorithms can be used intelligently for many interesting tasks.
+The main idea behind this work is to use a variational autoencoder for image generationare describe in these following points:
+Use aVariational Autoencoder (VAE)for image generation.
+Difference from Simple Autoencoder:
+A simple autoencoder generates a direct latent representation of data.
+AVAE generates multiple Gaussian distributions(with different means and standard deviations).
+From these distributions, anN-dimensional latent vector is sampledand fed to the decoder to generate the output image.
+Architecture Used:
+Attention-based LSTMsare used for both theencoder and decoderin the VAE.
+How It Works – Step-by-Step Image Generation:
+The modeliteratively constructs an imageover multiple time steps.
+At each step:
+The encoder passes anew latent vectorto the decoder.
+The decoderimproves the image cumulatively(each step refines the previous output).
+This mimics anartist’s process—drawing step by step, not all at once.
+Why Attention is Important
+An artistfocuses on one part at a time(e.g., draws an eye first, then the ear, etc.).
+Asimple LSTM cannot focus on specific image regionsat a given time step.
+Attention mechanismhelps the modelconcentrate on relevant partsof the image at each step, improving generation quality.
+At both the encoder and decoder LSTM, one Attention layer (named “Attention gate”) has been used. So, while encoding or “reading” the image, only one part of the image gets focused on at each time step. And similarly, while writing, only a certain part of the image gets generated at that time-step.
+Conclusion
+This was quite a comprehensive look at the popular Attention mechanism and how it applies to deep learning. I’m sure you must have gathered why this has made quite a dent in the deep learning space. It is extraordinarily effective and has already penetrated multiple domains.
+This Attention mechanism has uses beyond what we mentioned in this article. If you have used it in your role or any project, we would love to hear from you. Let us know in the comments section below and we’ll connect! Hope you like this article and get understanding about the attention mechanism explained, and attention model.
+Frequently Asked Questions
+A. Attention mechanisms is a layer of neural networks added to deep learning models to focus their attention to specific parts of data, based on different weights assigned to different parts.
+A. Global attention means that the model is attending to all the available data. In local attention, the model focuses on only certain subsets of the entire data.
+A. There are two types of attention mechanisms: additive attention and dot-product attention. Additive attention computes the compatibility between the query and key vectors using a feed-forward neural network, while dot-product attention measures their similarity using dot product.
+A. In machine translation, attention mechanism is used to align and selectively focus on relevant parts of the source sentence during the translation process. It allows the model to assign weights to more important words or phrases.
+A. The Transformer is a neural network architecture that relies heavily on attention mechanisms. It uses self-attention to capture dependencies between words in an input sequence, allowing it to model long-range dependencies more effectively than traditional recurrent neural networks.
+I’m a data lover who enjoys finding hidden patterns and turning them into useful insights. As the Manager - Content and Growth at Analytics Vidhya, I help data enthusiasts learn, share, and grow together.
+Thanks for stopping by my profile - hope you found something you liked :)
+Login to continue reading and enjoy expert-curated content.
+Free Courses
+Generative AI - A Way of Life
+Explore Generative AI for beginners: create text and images, use top AI tools, learn practical skills, and ethics.
+Getting Started with Large Language Models
+Master Large Language Models (LLMs) with this course, offering clear guidance in NLP and model training made simple.
+Building LLM Applications using Prompt Engineering
+This free course guides you on building LLM apps, mastering prompt engineering, and developing chatbots with enterprise data.
+Improving Real World RAG Systems: Key Challenges & Practical Solutions
+Explore practical solutions, advanced retrieval strategies, and agentic RAG systems to improve context, relevance, and accuracy in AI-driven applications.
+Microsoft Excel: Formulas & Functions
+Master MS Excel for data analysis with key formulas, functions, and LookUp tools in this comprehensive course.
+Recommended Articles
+12 Types of Neural Networks in Deep Learning
+12 Types of Neural Networks in Deep Learning
+Learn Attention Models From Scratch
+Learn Attention Models From Scratch
+What are the Different Types of Attention Mecha...
+What are the Different Types of Attention Mecha...
+Understanding Attention Mechanisms Using Multi-...
+Understanding Attention Mechanisms Using Multi-...
+Transformers Encoder | The Crux of the NLP  Is...
+Transformers Encoder | The Crux of the NLP  Is...
+Time-Series Forecasting Using Attention Mechanism
+Time-Series Forecasting Using Attention Mechanism
+A Hands-on Tutorial to Learn Attention Mechanis...
+A Hands-on Tutorial to Learn Attention Mechanis...
+Test your Data Science Skills on Transformers l...
+Test your Data Science Skills on Transformers l...
+Top 16 Interview Questions on Transformer [2025...
+Top 16 Interview Questions on Transformer [2025...
+Responses From Readers
+thanks for the article, please publish your code.
+Hi
+Thanks for sharing such a great post. It's really informative and easy to read.
+Thanks Pradip and Sayan for sharing this!
+Write for us
+Write, captivate, and earn accolades and rewards for your work
+Reach a Global Audience
+Get Expert Feedback
+Build Your Brand & Audience
+Cash In on Your Knowledge
+Join a Thriving Community
+Level Up Your Data Science Game
+Flagship Programs
+Free Courses
+Popular Categories
+Generative AI Tools and Techniques
+Popular GenAI Models
+AI Development Frameworks
+Data Science Tools and Techniques
+Continue your learning for FREE
+Enter email address to continue
+Enter OTP sent to
+Edit
+Enter the OTP
+Resend OTP
+Resend OTP in45s
+
+[Images saved with this article:]
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_WxTrFfG.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_Screenshot-2019-11-19-at-2.16.39-PM.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_09_image9.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image8.png
+cdn.analyticsvidhya.com_wp-content_uploads_2024_09_image11.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2024_09_image10.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image13-6769093b2573c.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image16-6769093a592a2.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image17-6769093a694ca.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_attention-deep-learning-1-676909395e10b.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image24-676909395c1e3.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image25.png
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image26-676909381d05a.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image2-6769093817a0a.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image3-676909367c8fb.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image4-6769093673029.webp
+cdn.analyticsvidhya.com_wp-content_uploads_2019_11_image5.png
+av-eks-lekhak.s3.amazonaws.com_media_lekhak-profile-images_converted_image_WxTrFfG.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Generative-AI---A-Way-of-Life---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Getting-Started-with-Large-Language-Models.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Real-World-RAG-Systems.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_excel.webp
+www.analyticsvidhya.com_wp-content_themes_analytics-vidhya_images_Write-for-us.webp

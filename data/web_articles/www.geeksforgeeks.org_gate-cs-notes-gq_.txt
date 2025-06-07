@@ -1,0 +1,1174 @@
+DSA
+Practice Problems
+C
+C++
+Java
+Python
+JavaScript
+Data Science
+Machine Learning
+Courses
+Linux
+DevOps
+SQL
+Web Development
+System Design
+Aptitude
+GfG Premium
+Crack GATE 2026
+Explore GfG Courses
+GATE CS Notes
+Benefits of writing GATE exam
+How to Use GeeksforGeeks to Prepare for GATE CS?
+GATE 2025 Syllabus For CSE (Computer Science & Engineering)
+DS & C Programming
+Data Structures Tutorial
+Last Minute Notes - Data Structures using C
+Algorithms
+Algorithms Tutorial
+LMNs- Algorithms
+Database Management System
+DBMS Tutorial – Learn Database Management System
+Database Management System - GATE CSE Previous Year Questions
+Last Minute Notes - DBMS
+Operating System
+Operating System Tutorial
+Operating System Interview Questions
+Last Minute Notes – Operating Systems
+Computer Networks
+Computer Network Tutorial
+Computer Networks - GATE CSE Previous Year Questions
+Last Minute Notes for Computer Networks
+Digital Logic and Design
+Digital Electronics and Logic Design Tutorials
+LMN - Digital Electronics
+Theory of Computation
+Automata Tutorial
+Theory of Computation - GATE CSE Previous Year Questions
+Last Minute Notes - Theory of Computation
+Compiler Design
+Compiler Design Tutorial
+Compiler Design - GATE CSE Previous Year Questions
+Last Minute Notes - Compiler Design
+Computer Organization and Architecture
+Computer Organization and Architecture Tutorial
+Last Minute Notes Computer Organization
+Discrete Mathematics
+Discrete Mathematics Tutorial
+Last Minute Notes – Discrete Mathematics
+Engineering Mathematics
+Engineering Mathematics Tutorials
+Last Minute Notes - Engineering Mathematics
+GATE CS Preparation
+GATE CSE and DA Previous Years Papers PDF Download Link
+GATE 2025 Exam Preparation Strategy (for Last 30 Days)
+GATE 2024 Preparation Guide
+PSU Recruitment through GATE 2025 - Eligibility, Selection Process, Total Posts, and Cutoff
+Important Topics for GATE 2025 Computer Science
+7 Tips to Score High in GATE 2025 in Last 10 Days
+How to Prepare For GATE CSE For Non-CSE Student [2025]
+DSA to DevelopmentCourse
+GATE CS NotesLast Updated :21 Apr, 2025CommentsImproveSuggest changesLike ArticleLikeReportThe Graduate Aptitude Test in Engineering (GATE) is a national-level exam in India, jointly conducted by the Indian Institute of Science (IISc) and seven Indian Institutes of Technology (IITs) on a rotational basis. GATE 2026 is scheduled to be organized by IIT Guwahati.This computer-based exam assesses the technical aptitude of engineering graduates. A good GATE score opens doors to postgraduate programs like Master of Technology (MTech) or Master of Engineering (ME) at prestigious institutions, as well as job opportunities in Public Sector Undertakings (PSUs).Do you want to crack GATE Exam? Explore ourGATE Coursescurated by experts.Also, predict your performance in GATE 2025 exam with ourGATE Rank Predictor.TheGATE Computer Scienceexam is generally conducted in the first or second week of February and theGATE scoreis valid for 3 years. Stay tuned to our website for all the information regarding the GATE 2026 Exam. The GATE exam is conducted once a year. The GATE exam consists of 65 questions, including 10 General Aptitude and 55 core subject questions. The duration of the exam is 3 hours.Check out our official GATE CS 2025 Quizzes:Set 1Set 2There are three types of questions that come into the GATE exam:Multiple Choice Questions (MCQs)Multiple Select Questions (MSQs)Numerical Answer Type (NAT)This GATE CS Tutorial will help you to understand the GATE Syllabus in a very organized manner and helps you in preparing for the exams for each subject. In this tutorial page, you will find the articles related to each topic that are mentioned in the GATE Syllabus.General AptitudeThe syllabus or important topics of General Aptitude for the GATE CSE exam are provided below.General Aptitude Notes for GATE CSEVerbal AptitudeBasic English GrammarTensesArticlesAdjectivesPrepositionsConjunctionsVerb-NounAgreementParts of SpeechBasic VocabularyWordsIdiomsPhrases in context Reading and comprehensionNarrative sequencingQuantitative AptitudeData interpretationData Graphs (Bar Graphs,Pie Chartsand other graphs representing data)2- and 3-Dimensional PlotMapsTablesNumerical Computation and EstimationRatiosPercentagesPowersExponentsandLogarithmsPermutations and CombinationsSeriesMensuration and GeometryElementary Statistics and ProbabilityAnalytical AptitudeLogic: Deduction and InductionAnalogyNumerical relations and reasoningSpatial AptitudeSpatial AptitudeTransformation of ShapesTranslationRotationScalingMirroringAssemblingGroupingPaper Folding, Cutting, and Patterns in 2 and 3 DimensionsEngineering MathematicsThe syllabus or important topics of Engineering Mathematics for the GATE CSE exam are provided below.Engineering Mathematics Notes for GATE CSELinear AlgebraIntroduction to MatrixDifferent operations on matricesDeterminant of a MatrixProperties of Determinants of MatricesRank of MatricesRow Echelon FormL U DecompositionNull Space and Nullity of a MatrixSystem of Linear EquationsEigen Values and Eigen VectorsMatrix DiagonalizationFinding Inverse of a Square Matrix using Cayley HamiltonProbabilityIntroduction to ProbabilityRandom VariablesMean,Variance, andStandard DeviationLaw of Total ProbabilityConditional ProbabilityBayes’s Formula for Conditional ProbabilityProbability DistributionUniform DistributionExponential DistributionNormal DistributionBinomial DistributionPoisson DistributionCovariance and CorrelationCalculusLimits,ContinuityandDifferentiabilityIndeterminate FormsLogarithmic DifferentiationLagrange’s Mean Value TheoremRolle’s Mean Value TheoremCauchy’s mean value theoremTaylor's Theorem and Taylor seriesMaclaurin seriesEuler's FormulaChain Rule DerivativeIndefinite IntegralsFinding the Various nth term of any polynomial sequenceApplication of DerivativeAbsolute Minima and MaximaSequence and SeriesSummation FormulaMiscCATEGORY ARCHIVES: ENGINEERING MATHEMATICSLast Minute Notes – Engineering MathematicsDiscrete MathematicsThe syllabus or important topics of Discrete Mathematics for the GATE CSE exam are provided below.Discrete Mathematics Notes for GATE CSEPropositional and First-Order LogicIntroduction to Propositional LogicProposition Laws and AlgebraPropositional EquivalencePredicates and Quantifiers Set 1Predicates and Quantifiers Set 2Some theorems on Nested QuantifiersRules of InferenceConsensus TheoremSets, Relations, Functions, Partial orders,and Lattices. Monoids, GroupsIntroduction to Set TheorySet Operations in Set TheoryPower SetCartesian Product of Two SetsRelations and their typesRelations and their RepresentationsClosure of RelationsEquivalence RelationsClasses of FunctionsTypes of FunctionsInverse FunctionsComposition of FunctionsTotal Number of Possible FunctionsNumber of possible equivalence relationsGroupsSub-group and Order of GroupModular AdditionMultiplication ModuloPartial Orders and LatticesTypes of LatticesHasse DiagramsCombinatorics: Counting, RecurrenceRelations, Generating FunctionsCombinatorics BasicsPigeonhole PrincipleBinomial CoefficientsGeneralized PnC Set 1Generalized PnC Set 2Principle of Inclusion-ExclusionCorollaries of Binomial TheoremGenerating FunctionsGraphs: Connectivity, Matching, ColoringGraph Theory BasicsWalks, Trails, Paths, Cycles, and Circuits in GraphNumber of Nodes and Height of a Binary TreeHavel-Hakimi TheoremGraph Measurements: Length, Distance, Diameter, Eccentricity, Radius, CenterGraph Isomorphisms and ConnectivityPlanar Graphs and Graph ColoringEuler and Hamiltonian PathsIndependent Sets, Covering,, and MatchingMatching in Graph TheoryGraph Theory Practice QuestionsData Structures & C ProgrammingThe syllabus or important topics of Data Structures & C Programming for the GATE CSE exam are provided below.Data Structures & C Programming Notes for GATE CSEProgramming in CIntroduction to C ProgrammingData Types in CVariables in COperators in CFunctions in CScope of a VariablePointers in CEnum, Struct & Union in CType Casting in CRecursionIntroduction to RecursionTypes of RecursionArraysIntroduction to Arrays1D, 2D and 3D ArraysRow Major Order and Column Major OrderStacksIntroduction to StackImplementation of Stack using SLLApplications, Advantages and Disadvantages of StackInfix to PostfixPostfix EvaluationTowers of HanoiFibonaaci SeriesQueuesIntroduction to QueueImplementation of Queue using ArrayImplementation of Queue using Linked ListImplementation of Queue using StackCircular QueuePriority QueueDouble Ended QueueLinked ListIntroduction to Linked ListSingle Linked List(SLL)Double Linked List(DLL)Circular Linked ListTreesIntroduction to TreesBinary Search TreesIntroduction to Binary Search TreeBST InsertionBST DeletionAVL TreesTree TraversalBinary HeapsIntroduction to HeapTime Complexity of Building a HeapAdvanatges and Disadvanatges of HeapGraphsIntroduction to GraphsBFS in GraphDFS in GraphTypes of Graph and ExamplesGraph and its RepresentationsBasic Properties of GraphApplications, Advanatges and Disadvantages of GraphHashingIntroduction to HashingHash Function and TypesCollision Resolution TechniqueChainingOpen Addressing (Linear Probing, Quadratic Probing, Double Hashing)Quadratic ProbingDouble HashingMiscCATEGORY ARCHIVES: DATA STRUCTURESCATEGORY ARCHIVES: CLast Minute Notes – DATA STRUCTURELast Minute Notes – C/C++AlgorithmsThe syllabus or important topics of Algorithms for the GATE CSE exam are provided below.Algorithms Notes for GATE CSEAsymptotic Analysis of AlgorithmsIntroduction of AlgorithmsAsymptotic AnalysisWorst, Average and Best CasesAsymptotic NotationsAnalysis of LoopsSmall ‘o’ and Small ‘Omega’ NotationWhat does ‘Space Complexity’ mean?Recurrence RelationsIntroduction to Recurrence RelationsMaster TheoremDifferent types of recurrence relations and their solutionsDivide and ConquerIntroduction to Divide and ConquerBinary SearchMerge SortMerge Sort for Linked ListsHow to make Mergesort to perform O(n) comparisons in best case?QuickSortIterative Quick SortQuickSort on Singly Linked ListMedian of two sorted arraysCount Inversions in an array Using Merge SortClosest Pair of PointsStrassen’s Matrix MultiplicationSort a nearly sorted (or K sorted) arraySearch in an almost sorted arrayK-th Element of Two Sorted ArraysK’th Smallest/Largest Element in Unsorted ArrayGreedy TechniquesIntroduction to Greedy AlgorithmsActivity Selection ProblemJob Sequencing ProblemHuffman CodingEfficient Huffman Coding for Sorted InputFractional Knapsack ProblemOptimal File Merge PatternsKruskal’s Minimum Spanning Tree AlgorithmPrim’s Minimum Spanning Tree (MST)Prim’s MST for Adjacency List RepresentationDijkstra’s shortest path algorithmDijkstra’s Algorithm for Adjacency List RepresentationIntroduction to Graph AlgorithmsBreadth First Traversal or BFS for a GraphDepth First Traversal or DFS for a GraphApplications of Depth First SearchDetect Cycle in a Directed GraphTopological SortingBellman–Ford AlgorithmFloyd Warshall AlgorithmShortest path with exactly k edges in a directed and weighted graphBiconnected graphArticulation Points (or Cut Vertices) in a GraphCheck if a graph is strongly connected (Kosaraju’s Theoram)Bridges in a graphTransitive closure of a graphDynamic ProgrammingIntroduction to Dynamic ProgrammingOverlapping Subproblems PropertyOptimal Substructure PropertyLongest Common SubsequenceMatrix Chain Multiplication0-1 Knapsack ProblemMin Cost PathSubset Sum ProblemBellman–Ford AlgorithmFloyd Warshall AlgorithmTotal number of non-decreasing numbers with n digitsSmallest power of 2 greater than or equal to nSearching, Sorting, Technique-based Theorem and HashingIntroduction to Searching AlgorithmsIntroduction to Sorting AlgorithmLinear SearchLinear Search vs Binary SearchBinary SearchSelection SortBubble SortInsertion SortMerge SortQuickSortHeap SortCounting SortMiscTop 20 Hashing Technique based Interview QuestionsCATEGORY ARCHIVES: ALGORITHMSLast Minute Notes – AlgorithmsTheory of ComputationThe syllabus or important topics of the Theory of Computation for the GATE CSE exam are provided below.Theory of Computation Notes for GATE CSERegular Expression, Languages,Grammar, and Finite AutomataIntroduction of Theory of ComputationIntroduction to Finite AutomataDesigning Deterministic Finite Automata Set 1Designing Deterministic Finite Automata Set 2Designing Deterministic Finite Automata (Set 3)DFA machines accepting odd number of 0’s or/and even number of 1’sDFA for accepting the language L = {anbm | n+m=even}DFA for Strings not ending with “THE”Union process in DFAConcatenation process in DFAMinimization of DFADesigning Non-Deterministic Finite Automata (Set 1)Designing Non-Deterministic Finite Automata (Set 3)Conversion from NFA to DFANFA with epsilon move to DFA ConversionRegular Expressions, Regular Grammar and Regular LanguagesHow to write Regular Expressions?How to identify if a language is regular or notGenerating regular expression from finite automataDesigning Finite Automata from Regular ExpressionClosure properties of Regular languagesIntroduction To Grammar in Theory of ComputationChomsky HierarchyPumping LemmaMealy and Moore MachinesDifference between Mealy machine and Moore machineUnion & Intersection of Regular languages with CFLContext Sensitive LanguageIntroduction to Context-sensitive Grammar (CSG) and Language (CSL)Turing Machines and UndecidabilityIntroduction to Recursive and Recursive Enumerable LanguagesIntroduction to Turing MachineHalting ProblemTuring Machine for additionTuring machine for subtractionTuring machine for multiplicationTuring machine for copying dataConstruct a Turing Machine for language L = {0n1n2n | n≥1}Construct a Turing Machine for language L = {wwr | w ∈ {0, 1}}Construct a Turing Machine for language L = {ww | w ∈ {0,1}}Construct a Turing machine for L = {aibjck | i*j = k; i, j, k ≥ 1}Types of Complexity Classes | P, NP, CoNP, and NP hardIntroduction to NP-CompletenessDecidabilityDecidable and undecidable problemsUndecidability and ReducibilityComputable and non-computable problemsMiscCATEGORY ARCHIVES: THEORY OF COMPUTATION & AUTOMATALast Minute Notes – Theory of ComputationCompiler DesignThe syllabus or important topics of Compiler Design for the GATE CSE exam are provided below.Compiler Design Notes for GATE CSELexical Analysis, Parsing, Syntax-directedIntroduction of Compiler designPhases of a CompilerIntroduction to CompilerSymbol Table in CompilerStatic and Dynamic ScopingGeneration of Programming LanguagesError Handling in Compiler DesignError detection and Recovery in CompilerLinkerLexical AnalysisFast Lexical Analyzer GeneratorClassification of Context Free GrammarsAmbiguous GrammarRemoval of ambiguityWhy FIRST and FOLLOW?FIRST Set in Syntax AnalysisFOLLOW Set in Syntax AnalysisProgram to calculate First and Follow sets of given grammarIntroduction to Syntax AnalysisParsing Set 1Bottom Up or Shift Reduce ParsersSLR, CLR and LALR ParsersShift Reduce Parser in CompilerClassification of top down parsersBacktracking(Top down parser)Recursive descentOperator grammar and precedence parserPractice Question on Lexical analysis, parsing, syntax-directedRuntime EnvironmentRuntime EnvironmentsStack AllocationHeap AllocationParameters PassingPass by ValuePass by ReferencePass by Copy-restorePass by NameIntermediate Code GenerationIntermediate Code GenerationThree address code in CompilerDetection of a Loop in Three Address CodeCode OptimizationIntroduction of Object CodeData flow analysis in CompilerCATEGORY ARCHIVES: COMPILER DESIGNLast Minute Notes – Compiler DesignLocal OptimizationCompile Time EvaluationVariable PropagationConstant PropagationConstant FoldingCopy PropagationCommon Sub Expression EliminationDead Code EliminationUnreachable Code EliminationFunction InliningInduction Variable and Strength ReductionCode MotionorFrequency ReductionLoop JammingData Flow AnalysisUSE, IN & OUTData flow analysisDatabase Management SystemThe syllabus or important topics of Database Management System for the GATE CSE exam are provided below.Database Management System Notes for GATE CSEIntroductionIntroduction to Database Management SystemDBMS 3-Tier ArchitectureDBMS 2-Level, 3-Level ArchitectureNeed for DBMSChallenges of Database Security in DBMSAdvantages of DBMS over File systemData Abstraction and Data IndependenceER-ModelIntroduction to ER ModelRecursive RelationshipsMinimization of ER DiagramEnhanced ER ModelMapping from ER Model to Relational ModelRelational Model (relational algebra, tuple calculus)Introduction to Relational ModelRelational Algebra – OverviewAnomalies in Relational ModelRelational Model Introduction and Codd RulesKeys in Relational Model (Candidate, Super, Primary, Alternate and Foreign)Relational Algebra – Extended OperatorsTuple Relational CalculusHow to solve Relational Algebra problems for GATEDatabase Design (integrity constraints, normal forms)Introduction to Database NormalizationNormal Forms in Database NormalizationFunctional Dependency and Attribute ClosureTypes of Functional DependencyFinding Attribute Closure and Candidate Keys using Functional DependenciesNumber of possible SuperkeysLossy and Lossless DecompositionDependency Preserving DecompositionLossless Join and Dependency Preserving DecompositionDBMS | How to find the highest normal form of a relationMinimum relations satisfying 1NFEquivalence of Functional DependenciesCanonical CoverMultivalued DependencyStructured Query Languages (SQL)Introduction to Structured Query Language (SQL)Parts of SQLData Manipulation Language in SQLData Definition in SQLJoins in SQLInner VS Outer JoinHaving Vs Where ClauseDatabase ObjectsNested Queries in SQLJoin operation Vs nested queryIndexing in DatabasesSQL ClausesSQL ViewsSQL IndexesSQL queries on clustered and non-clustered IndexesSQL TutorialTransactions and Concurrency ControlIntroduction to Concurrency ControlDatabase Recovery TechniquesACID Properties in DBMSLog based recoveryWhy recovery is needed?Transaction Isolation Levels in DBMSTypes of Schedules in Concurrency ControlTypes of Recoverability of Schedules in DBMSConflict SerializabilityPrecedence Graph For Testing Conflict SerializabilityHow to test if two schedules are View Equal or not ?Recoverability of SchedulesCascadeless in DBMSDeadlock in DBMSStarvation in DBMSTransaction and Concurrency ControlLock Based ProtocolConcurrency Control TechniquesTwo Phase Locking (2-PL)Categories of Two Phase Locking (2-PL)Thomas Write RuleTimestamp Ordering ProtocolsMultiple Granularity LockingGraph Based ProtocolIntroduction to TimeStamp and Deadlock Prevention SchemesImplementation of Locking in DBMSFile Structures (sequential files, indexing, B and B+ trees)Introduction to Indexing in DatabasesFile OrganizationHashing in DBMSIntroduction to B-TreeInsertion in B-TreeDeletion in B-TreeIntroduction to B+ TreesInsertion in a B+ treeDifference between B tree and B+ treeMiscCATEGORY ARCHIVES: DBMSLast Minute Notes – DBMSComputer NetworksThe syllabus or important topics of Computer Networks for the GATE CSE exam are provided below.Computer Networks Notes for GATE CSENetwork Fundamental andPhysical LayerBasics of Computer NetworkingNetwork goalsNetwork TopologiesTypes of area networks – LAN, MAN and WANTypes of Transmission MediaTransmission Modes in Computer Networks(Simplex, Half-Duplex and Full-Duplex)Redundant link problemsDifference between Unipolar, Polar andBipolar Line Coding SchemesDifference between Broadband andBaseband TransmissionLet’s experiment with NetworkingLayers of OSI ModelTCP/IP ModelData Link LayerMultiple Access ProtocolsP2P(Peer To Peer) File SharingFraming In Data Link LayerLAN Technologies | ETHERNETEthernet Frame FormatToken Ring frame formatBit StuffingDifference between Byte stuffing and Bit stuffingHamming CodeAlohaSlotted AlohaPure AlohaCarrier sense multiple access (CSMA)Controlled Access ProtocolsBack-off Algorithm for CSMA/CDCollision Detection in CSMA/CDEfficiency of CSMA/CDEfficiency of Token RingComputer Networks | Error DetectionStop and Wait ARQSliding Window Protocol | Set 1 (Sender Side)Sliding Window Protocol | Set 2 (Receiver Side)Sliding Window Protocol | Set 3 (Selective Repeat)Sliding Window protocols Summary With QuestionsProgram to remotely Power On a PC over the internet using the Wake-on-LAN protocolProgram to calculate the Round Trip Time (RTT)To calculate the expected Round Trip TimeIntroduction of MAC AddressCollision Avoidance in wireless networksMaximum data rate (channel capacity) for noiseless and noisy channelsSwitchesRoutersTypes of switchesNetwork LayerInternetworkingLine Configuration in Computer NetworksDifference between Unicast, Broadcast and MulticastCollision Domain and Broadcast DomainIP Addressing | Introduction and Classful AddressingNetwork Layer | Introduction and IPv4 Datagram HeaderNetwork Layer | Ipv4 Datagram Fragmentation and DelaysFragmentation at Network LayerInternet Protocol v6 | IPv6Internet Protocol version 6 (IPv6) HeaderIP Addressing | Classless AddressingSubnetting in Computer NetworkSupernettingComputer Networks | Longest Prefix Matching in RoutersProgram to determine class, Network and Host ID of an IPv4 addressC Program to find IP Address, Subnet Mask & Default GatewayIPv4 classless Subnet equationIntroduction to variable length subnet mask (VLSM)Network address translation (NAT)Types of Network address translation (NAT)Classification of Routing Algorithms – Set 1Types of routing – Set 2Classes of routing protocols – Set 3Distance vector routing v/s Link state routingFixed and Flooding Routing algorithmsRouting v/s Routed ProtocolsUnicast Routing – Link State RoutingRouting Protocols Set 1 (Distance Vector Routing)Route Poisoning and Count to infinity problemInternet Control Message Protocol (ICMP) | Computer NetworksOSPF protocol fundamentalsOSPF protocol StatesOSPF router roles and configurationRoot Bridge Election in Spanning Tree ProtocolTypes of Spanning Tree Protocol (STP)Routing Information Protocol (RIP)Routing Interface Protocol (RIP) V1 & V2Link state advertisement (LSA)Administrative Distance (AD) and Autonomous System (AS)Circuit SwitchingPacket Switching and DelaysDifferences between Virtual Circuits & Datagram NetworksComputer Network | Circuit Switching VS Packet SwitchingRARPTracerouteHow ARP works?ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARPPacket flow in the same networkPacket flow in different networkDifference between layer-2 and layer-3 switchesWhat’s difference between Ping and Traceroute?Computer Network | ServersWhat is Local Host?Transport LayerTransport Layer responsibilitiesCongestion ControlLeaky Bucket AlgorithmTCP | Services and Segment structureTCP Congestion ControlTCP 3-Way Handshake ProcessTCP Connection EstablishmentTCP Connection TerminationError Control in TCPTCP TimersTCP flagsTCP Server-Client implementation in CUser Datagram Protocol (UDP)Differences between TCP and UDPMultiplexing and Demultiplexing in Transport LayerApplication LayerProtocols in Application LayerDNS (Domain Name Server) | NetWorkingAddress Resolution in DNSDNS Spoofing or DNS Cache poisoningWhy does DNS use UDP and not TCP?Dynamic Host Configuration Protocol (DHCP)DHCP Relay AgentHow DHCP server dynamically assigns IP address to a host?Simple network management protocol (SNMP)Simple Mail Transfer Protocol (SMTP)File Transfer Protocol (FTP)HTTP Non-Persistent & Persistent ConnectionHTTP parallel and non parallelMultipurpose Internet mail extension (MIME)What’s difference between http:// and https:// ?What’s difference between HTML and HTTP ?What’s difference between The Internet and The Web ?Basics of Wi-FiWifi protected setup (WPS)Wifi protected access (WPA)LiFi vs. WiFiNetwork Devices (Hub, Repeater, Bridge, Switch, Router and Gateways)MiscGATE PYQsOperating SystemThe syllabus or important topics of Operating System for the GATE CSE exam are provided below.Operating System Notes for GATE CSEProcesses, Threads, CPU SchedulingIntroduction of System CallOperating System | ThreadThreads and its typesDifference between thread and processMultithreadingMulti threading modelsBenefits of MultithreadingProcess-based and Thread-based MultitaskingUser Level thread Vs Kernel Level threadMicrokernelMonolithic Kernel and key differences from MicrokernelDifference between multitasking, multithreading and multiprocessingContext Switching in OSFork function callfork() in CInter‐process Communication,Concurrency, and SynchronizationProcess Synchronization | IntroductionOperating System | Process Synchronization | Set 2Critical SectionInter Process CommunicationIPC using Message QueuesIPC through shared memoryInterprocess Communication: MethodsSemaphores in operating systemMutex vs SemaphoreLock variable synchronization mechanismPeterson’s Algorithm for Mutual Exclusion | Set 1 (Basic C implementation)Peterson’s Algorithm for Mutual Exclusion | Set 2 (CPU Cycles and Memory Fence)Peterson’s Algorithm (Using processes and shared memory)Readers-Writers Problem | Set 1 (Introduction and Readers Preference Solution)Reader-Writers solution using MonitorsProducer Consumer Problem using Semaphores | Set 1Producer-Consumer solution using Semaphores in Java | Set 2Process Synchronization | MonitorsDining Philosopher ProblemDining-Philosophers Solution Using MonitorsDining Philosopher Problem Using SemaphoresPriority Inversion : What the heck !What’s difference between Priority Inversion and Priority Inheritance ?Deadlock, Starvation, and LivelockDeadlockProcess Management | Deadlock IntroductionProgram for Deadlock free conditionDeadlock Prevention And AvoidanceDeadlock Detection And RecoveryResource Allocation Graph (RAG)Banker’s AlgorithmProgram for Banker’s Algorithm | Set 1 (Safety Algorithm)Banker’s Algorithm : Print all the safe stateDeadlock detection algorithmMethods of resource allocation to processes by operating systemMain Memory ManagementMapping virtual address to physical addressesLogical vs Physical Address in Operating SystemPagingPage Table EntriesMultilevel PagingInverted Page TableSegmentationDemand PagingMemory Management | Partition Allocation MethodNon-Contiguous AllocationFixed (or static) PartitioningVariable (or dynamic) PartitioningWorking with Shared Libraries | Set 1Static and Dynamic Libraries | Set 1Buddy SystemBuddy System Memory AllocationBuddy System Memory DeallocationAllocating kernel memoryRequirements of memory management systemVirtual MemoryVirtual MemorySecondary memory – Hard disk drivePage Fault HandlingPage Replacement AlgorithmsBelady’s AnomalyProgram for Optimal Page Replacement AlgorithmTechniques to handle ThrashingWhat exactly Spooling is all about?Difference between Spooling and BufferingOverlays in Memory ManagementSwap SpaceFile System and Disk SchedulingFile SystemsStructures of DirectoryFile Directory | Path NameFile Access MethodsFile Allocation MethodsOperating System | Free space managementDifference between FAT32, exFAT, and NTFS File SystemDisk Scheduling AlgorithmsProgram for SSTF disk scheduling algorithmCATEGORY ARCHIVES: OPERATING SYSTEMSLast Minute Notes – Operating SystemsDigital Logic and DesignThe syllabus or important topics of Digital Logic and Design for the GATE CSE exam are provided below.Digital Logic & Design Notes for GATE CSEIntroduction of Boolean Algebra and Logic GatesLogic GatesProperties of Boolean algebraLogical gates in logic designBoolean functionsMinimization of Boolean FunctionsRepresentation of Boolean FunctionsCanonical and Standard FormFunctional CompletenessK-MapImplicants in K-MapPrime implicants and Explicit implicantsPDNF and PCNFVariable entrant map (VEM)Consensus theoremCombinational CircuitGrey CodeHalf AdderFull AdderHalf SubtractorFull SubtractorHalf Adder and Half Subtractor using NAND NOR gatesEncoders and DecodersEncoderBinary DecoderCombinational circuits using DecoderMultiplexersDe-MUXCarry Look-Ahead AdderParallel Adder & Parallel SubtractorBCD AdderMagnitude ComparatorBCD to 7 Segment DecoderProgrammable Logic ArrayProgramming Array LogicRead-Only Memory (ROM)Static HazardsSequential CircuitIntroduction of Sequential CircuitsFlip-flop types and their ConversionSynchronous Sequential CircuitsCountersRing Countern-bit Johnson CounterRipple CounterDesign counter for given sequenceMaster Slave JK Flip FlopS-R FlipFlopT FlipflopD FlipflopAsynchronous Sequential CircuitsShift RegistersDesign 101 sequence detectorAmortized analysis for increment in counterNumber Representation and Computer ArithmeticNumber System and base conversionsCode Converters – BCD(8421) to/from Excess-3Code Converters – Binary to/from Gray CodeProgram for Decimal to Binary ConversionProgram for Binary To Decimal ConversionProgram for Decimal to Octal ConversionProgram for Octal to Decimal ConversionProgram for Hexadecimal to Decimal ConversionComputer Arithmetic | Set – 1Computer Arithmetic | Set – 2Floating Point RepresentationWhat’s difference between 1’s Complement and 2’s Complement?Booth’s AlgorithmRestoring Division Algorithm For Unsigned IntegerNon-Restoring Division For Unsigned IntegerCATEGORY ARCHIVES: DIGITAL ELECTRONICS & LOGIC DESIGNLast Minute Notes – Digital ElectronicsComputer Organization and ArchitectureThe syllabus or important topics of Computer Organization and Architecture for the GATE CSE exam are provided below.Computer Organization and Architecture Notes for GATE CSEMachine Instructions and Addressing ModesIntroduction to Computer Organization and ArchitectureBasic Computer InstructionsInstruction Design and FormatComputer ArithmeticMicroprogrammed ControlMemory OrganizationA simple understanding of ComputerIssues in Computer DesignComputer System Level HierarchyComputer Architecture and Computer OrganizationBasic Computer InstructionsVon Neumann architectureHarvard ArchitectureVon Neumann architecture vs Harvard ArchitectureBasic Computer InstructionsInstruction Formats (Zero, One, Two and Three Address Instruction)Stack based CPU OrganizationGeneral Register based CPU OrganizationSingle Accumulator based CPU organizationProblem Solving on Instruction FormatAddressing ModesMachine InstructionsDifference between CALL and JUMP instructionsSimplified Instructional Computer (SIC)Hardware architecture (parallel computing)Flynn’s taxonomyGenerations of computerAmdahl’s law and its proofALU, Data‐Path and Control UnitControl Unit and designHardwired v/s Micro-programmed Control UnitHardwired Vs Micro-programmed Control unit | Set 2Horizontal micro-programmed Vs Vertical micro-programmed control unitSynchronous Data TransferAsynchronous Data TransferInstruction PipeliningPipeliningTypes of pipeliningPipelining | Set 1 (Execution, Stages and Throughput)Pipelining | Set 2 (Dependencies and Data Hazard)Pipelining | Set 3 (Types and Stalling)Different Instruction CyclesPerformance of ComputerMicro-OperationRISC and CISCRISC and CISC | Set 2Cache MemoryMemory Hierarchy Design and its CharacteristicsCache MemoryCache Organization | IntroductionLocality and Cache friendly codeWhat’s difference between CPU Cache and TLB?Read and Write operations in memoryMemory InterleavingIntroduction to memory and memory units2D and 2.5D Memory organizationTypes of computer memory (RAM and ROM)Different Types of RAMRAM vs ROMI/O interface (Interrupt and DMA mode)I/O Interface (Interrupt and DMA Mode)Input-Output ProcessorKernel I/O SubsystemMemory mapped I/O and Isolated I/OBUS ArbitrationPriority Interrupts | (S/W Polling and Daisy Chaining)Asynchronous input output synchronizationComputer PortsClusters In Computer OrganisationHuman – Computer interaction through the agesCATEGORY ARCHIVES: COMPUTER ORGANIZATION & ARCHITECTURENext ArticleBenefits of writing GATE examkartikImproveArticle Tags :GATEGATE CS
+GATE CS Notes
+The Graduate Aptitude Test in Engineering (GATE) is a national-level exam in India, jointly conducted by the Indian Institute of Science (IISc) and seven Indian Institutes of Technology (IITs) on a rotational basis. GATE 2026 is scheduled to be organized by IIT Guwahati.
+This computer-based exam assesses the technical aptitude of engineering graduates. A good GATE score opens doors to postgraduate programs like Master of Technology (MTech) or Master of Engineering (ME) at prestigious institutions, as well as job opportunities in Public Sector Undertakings (PSUs).
+Do you want to crack GATE Exam? Explore ourGATE Coursescurated by experts.Also, predict your performance in GATE 2025 exam with ourGATE Rank Predictor.
+TheGATE Computer Scienceexam is generally conducted in the first or second week of February and theGATE scoreis valid for 3 years. Stay tuned to our website for all the information regarding the GATE 2026 Exam. The GATE exam is conducted once a year. The GATE exam consists of 65 questions, including 10 General Aptitude and 55 core subject questions. The duration of the exam is 3 hours.
+Check out our official GATE CS 2025 Quizzes:
+Set 1
+Set 2
+There are three types of questions that come into the GATE exam:
+Multiple Choice Questions (MCQs)
+Multiple Select Questions (MSQs)
+Numerical Answer Type (NAT)
+This GATE CS Tutorial will help you to understand the GATE Syllabus in a very organized manner and helps you in preparing for the exams for each subject. In this tutorial page, you will find the articles related to each topic that are mentioned in the GATE Syllabus.
+General Aptitude
+The syllabus or important topics of General Aptitude for the GATE CSE exam are provided below.
+General Aptitude Notes for GATE CSE
+General Aptitude Notes for GATE CSE
+Verbal Aptitude
+Verbal Aptitude
+Basic English GrammarTensesArticlesAdjectivesPrepositionsConjunctionsVerb-NounAgreementParts of SpeechBasic VocabularyWordsIdiomsPhrases in context Reading and comprehensionNarrative sequencing
+Basic English Grammar
+Tenses
+Articles
+Adjectives
+Prepositions
+Conjunctions
+Verb-Noun
+Agreement
+Parts of Speech
+Basic Vocabulary
+Words
+Idioms
+Phrases in context Reading and comprehension
+Narrative sequencing
+Quantitative Aptitude
+Quantitative Aptitude
+Data interpretationData Graphs (Bar Graphs,Pie Chartsand other graphs representing data)2- and 3-Dimensional PlotMapsTablesNumerical Computation and EstimationRatiosPercentagesPowersExponentsandLogarithmsPermutations and CombinationsSeriesMensuration and GeometryElementary Statistics and Probability
+Data interpretation
+Data Graphs (Bar Graphs,Pie Chartsand other graphs representing data)
+2- and 3-Dimensional Plot
+Maps
+Tables
+Numerical Computation and Estimation
+Ratios
+Percentages
+Powers
+ExponentsandLogarithms
+Permutations and Combinations
+Series
+Mensuration and Geometry
+Elementary Statistics and Probability
+Analytical Aptitude
+Analytical Aptitude
+Logic: Deduction and InductionAnalogyNumerical relations and reasoning
+Logic: Deduction and Induction
+Analogy
+Numerical relations and reasoning
+Spatial Aptitude
+Spatial Aptitude
+Spatial AptitudeTransformation of ShapesTranslationRotationScalingMirroringAssemblingGroupingPaper Folding, Cutting, and Patterns in 2 and 3 Dimensions
+Spatial Aptitude
+Transformation of Shapes
+Translation
+Rotation
+Scaling
+Mirroring
+Assembling
+Grouping
+Paper Folding, Cutting, and Patterns in 2 and 3 Dimensions
+Engineering Mathematics
+The syllabus or important topics of Engineering Mathematics for the GATE CSE exam are provided below.
+Engineering Mathematics Notes for GATE CSE
+Engineering Mathematics Notes for GATE CSE
+Linear Algebra
+Linear Algebra
+Introduction to MatrixDifferent operations on matricesDeterminant of a MatrixProperties of Determinants of MatricesRank of MatricesRow Echelon FormL U DecompositionNull Space and Nullity of a MatrixSystem of Linear EquationsEigen Values and Eigen VectorsMatrix DiagonalizationFinding Inverse of a Square Matrix using Cayley Hamilton
+Introduction to Matrix
+Different operations on matrices
+Determinant of a Matrix
+Properties of Determinants of Matrices
+Rank of Matrices
+Row Echelon Form
+L U Decomposition
+Null Space and Nullity of a Matrix
+System of Linear Equations
+Eigen Values and Eigen Vectors
+Matrix Diagonalization
+Finding Inverse of a Square Matrix using Cayley Hamilton
+Probability
+Probability
+Introduction to ProbabilityRandom VariablesMean,Variance, andStandard DeviationLaw of Total ProbabilityConditional ProbabilityBayes’s Formula for Conditional ProbabilityProbability DistributionUniform DistributionExponential DistributionNormal DistributionBinomial DistributionPoisson DistributionCovariance and Correlation
+Introduction to Probability
+Random Variables
+Mean,Variance, andStandard Deviation
+Law of Total Probability
+Conditional Probability
+Bayes’s Formula for Conditional Probability
+Probability Distribution
+Uniform Distribution
+Exponential Distribution
+Normal Distribution
+Binomial Distribution
+Poisson Distribution
+Covariance and Correlation
+Calculus
+Calculus
+Limits,ContinuityandDifferentiabilityIndeterminate FormsLogarithmic DifferentiationLagrange’s Mean Value TheoremRolle’s Mean Value TheoremCauchy’s mean value theoremTaylor's Theorem and Taylor seriesMaclaurin seriesEuler's FormulaChain Rule DerivativeIndefinite IntegralsFinding the Various nth term of any polynomial sequenceApplication of DerivativeAbsolute Minima and MaximaSequence and SeriesSummation Formula
+Limits,ContinuityandDifferentiability
+Indeterminate Forms
+Logarithmic Differentiation
+Lagrange’s Mean Value Theorem
+Rolle’s Mean Value Theorem
+Cauchy’s mean value theorem
+Taylor's Theorem and Taylor series
+Maclaurin series
+Euler's Formula
+Chain Rule Derivative
+Indefinite Integrals
+Finding the Various nth term of any polynomial sequence
+Application of Derivative
+Absolute Minima and Maxima
+Sequence and Series
+Summation Formula
+Misc
+Misc
+CATEGORY ARCHIVES: ENGINEERING MATHEMATICSLast Minute Notes – Engineering Mathematics
+CATEGORY ARCHIVES: ENGINEERING MATHEMATICS
+Last Minute Notes – Engineering Mathematics
+Discrete Mathematics
+The syllabus or important topics of Discrete Mathematics for the GATE CSE exam are provided below.
+Discrete Mathematics Notes for GATE CSE
+Discrete Mathematics Notes for GATE CSE
+Propositional and First-Order Logic
+Propositional and First-Order Logic
+Introduction to Propositional LogicProposition Laws and AlgebraPropositional EquivalencePredicates and Quantifiers Set 1Predicates and Quantifiers Set 2Some theorems on Nested QuantifiersRules of InferenceConsensus Theorem
+Introduction to Propositional Logic
+Proposition Laws and Algebra
+Propositional Equivalence
+Predicates and Quantifiers Set 1
+Predicates and Quantifiers Set 2
+Some theorems on Nested Quantifiers
+Rules of Inference
+Consensus Theorem
+Sets, Relations, Functions, Partial orders,and Lattices. Monoids, Groups
+Sets, Relations, Functions, Partial orders,and Lattices. Monoids, Groups
+Introduction to Set TheorySet Operations in Set TheoryPower SetCartesian Product of Two SetsRelations and their typesRelations and their RepresentationsClosure of RelationsEquivalence RelationsClasses of FunctionsTypes of FunctionsInverse FunctionsComposition of FunctionsTotal Number of Possible FunctionsNumber of possible equivalence relationsGroupsSub-group and Order of GroupModular AdditionMultiplication ModuloPartial Orders and LatticesTypes of LatticesHasse Diagrams
+Introduction to Set Theory
+Set Operations in Set Theory
+Power Set
+Cartesian Product of Two Sets
+Relations and their types
+Relations and their Representations
+Closure of Relations
+Equivalence Relations
+Classes of Functions
+Types of Functions
+Inverse Functions
+Composition of Functions
+Total Number of Possible Functions
+Number of possible equivalence relations
+Groups
+Sub-group and Order of Group
+Modular Addition
+Multiplication Modulo
+Partial Orders and Lattices
+Types of Lattices
+Hasse Diagrams
+Combinatorics: Counting, RecurrenceRelations, Generating Functions
+Combinatorics: Counting, RecurrenceRelations, Generating Functions
+Combinatorics BasicsPigeonhole PrincipleBinomial CoefficientsGeneralized PnC Set 1Generalized PnC Set 2Principle of Inclusion-ExclusionCorollaries of Binomial TheoremGenerating Functions
+Combinatorics Basics
+Pigeonhole Principle
+Binomial Coefficients
+Generalized PnC Set 1
+Generalized PnC Set 2
+Principle of Inclusion-Exclusion
+Corollaries of Binomial Theorem
+Generating Functions
+Graphs: Connectivity, Matching, Coloring
+Graphs: Connectivity, Matching, Coloring
+Graph Theory BasicsWalks, Trails, Paths, Cycles, and Circuits in GraphNumber of Nodes and Height of a Binary TreeHavel-Hakimi TheoremGraph Measurements: Length, Distance, Diameter, Eccentricity, Radius, CenterGraph Isomorphisms and ConnectivityPlanar Graphs and Graph ColoringEuler and Hamiltonian PathsIndependent Sets, Covering,, and MatchingMatching in Graph TheoryGraph Theory Practice Questions
+Graph Theory Basics
+Walks, Trails, Paths, Cycles, and Circuits in Graph
+Number of Nodes and Height of a Binary Tree
+Havel-Hakimi Theorem
+Graph Measurements: Length, Distance, Diameter, Eccentricity, Radius, Center
+Graph Isomorphisms and Connectivity
+Planar Graphs and Graph Coloring
+Euler and Hamiltonian Paths
+Independent Sets, Covering,, and Matching
+Matching in Graph Theory
+Graph Theory Practice Questions
+Data Structures & C Programming
+The syllabus or important topics of Data Structures & C Programming for the GATE CSE exam are provided below.
+Data Structures & C Programming Notes for GATE CSE
+Data Structures & C Programming Notes for GATE CSE
+Programming in C
+Programming in C
+Introduction to C ProgrammingData Types in CVariables in COperators in CFunctions in CScope of a VariablePointers in CEnum, Struct & Union in CType Casting in C
+Introduction to C Programming
+Data Types in C
+Variables in C
+Operators in C
+Functions in C
+Scope of a Variable
+Pointers in C
+Enum, Struct & Union in C
+Type Casting in C
+Recursion
+Recursion
+Introduction to RecursionTypes of Recursion
+Introduction to Recursion
+Types of Recursion
+Arrays
+Arrays
+Introduction to Arrays1D, 2D and 3D ArraysRow Major Order and Column Major Order
+Introduction to Arrays
+1D, 2D and 3D Arrays
+Row Major Order and Column Major Order
+Stacks
+Stacks
+Introduction to StackImplementation of Stack using SLLApplications, Advantages and Disadvantages of StackInfix to PostfixPostfix EvaluationTowers of HanoiFibonaaci Series
+Introduction to Stack
+Implementation of Stack using SLL
+Applications, Advantages and Disadvantages of Stack
+Infix to Postfix
+Postfix Evaluation
+Towers of Hanoi
+Fibonaaci Series
+Queues
+Queues
+Introduction to QueueImplementation of Queue using ArrayImplementation of Queue using Linked ListImplementation of Queue using StackCircular QueuePriority QueueDouble Ended Queue
+Introduction to Queue
+Implementation of Queue using Array
+Implementation of Queue using Linked List
+Implementation of Queue using Stack
+Circular Queue
+Priority Queue
+Double Ended Queue
+Linked List
+Linked List
+Introduction to Linked ListSingle Linked List(SLL)Double Linked List(DLL)Circular Linked List
+Introduction to Linked List
+Single Linked List(SLL)
+Double Linked List(DLL)
+Circular Linked List
+Trees
+Trees
+Introduction to Trees
+Binary Search Trees
+Binary Search Trees
+Introduction to Binary Search TreeBST InsertionBST DeletionAVL TreesTree Traversal
+Introduction to Binary Search Tree
+BST Insertion
+BST Deletion
+AVL Trees
+Tree Traversal
+Binary Heaps
+Binary Heaps
+Introduction to HeapTime Complexity of Building a HeapAdvanatges and Disadvanatges of Heap
+Introduction to Heap
+Time Complexity of Building a Heap
+Advanatges and Disadvanatges of Heap
+Graphs
+Graphs
+Introduction to GraphsBFS in GraphDFS in GraphTypes of Graph and ExamplesGraph and its RepresentationsBasic Properties of GraphApplications, Advanatges and Disadvantages of Graph
+Introduction to Graphs
+BFS in Graph
+DFS in Graph
+Types of Graph and Examples
+Graph and its Representations
+Basic Properties of Graph
+Applications, Advanatges and Disadvantages of Graph
+Hashing
+Hashing
+Introduction to HashingHash Function and TypesCollision Resolution TechniqueChainingOpen Addressing (Linear Probing, Quadratic Probing, Double Hashing)Quadratic ProbingDouble Hashing
+Introduction to Hashing
+Hash Function and Types
+Collision Resolution Technique
+Chaining
+Open Addressing (Linear Probing, Quadratic Probing, Double Hashing)
+Quadratic Probing
+Double Hashing
+Misc
+Misc
+CATEGORY ARCHIVES: DATA STRUCTURESCATEGORY ARCHIVES: CLast Minute Notes – DATA STRUCTURELast Minute Notes – C/C++
+CATEGORY ARCHIVES: DATA STRUCTURES
+CATEGORY ARCHIVES: C
+Last Minute Notes – DATA STRUCTURE
+Last Minute Notes – C/C++
+Algorithms
+The syllabus or important topics of Algorithms for the GATE CSE exam are provided below.
+Algorithms Notes for GATE CSE
+Algorithms Notes for GATE CSE
+Asymptotic Analysis of Algorithms
+Asymptotic Analysis of Algorithms
+Introduction of AlgorithmsAsymptotic AnalysisWorst, Average and Best CasesAsymptotic NotationsAnalysis of LoopsSmall ‘o’ and Small ‘Omega’ NotationWhat does ‘Space Complexity’ mean?
+Introduction of Algorithms
+Asymptotic Analysis
+Worst, Average and Best Cases
+Asymptotic Notations
+Analysis of Loops
+Small ‘o’ and Small ‘Omega’ Notation
+What does ‘Space Complexity’ mean?
+Recurrence Relations
+Recurrence Relations
+Introduction to Recurrence RelationsMaster TheoremDifferent types of recurrence relations and their solutions
+Introduction to Recurrence Relations
+Master Theorem
+Different types of recurrence relations and their solutions
+Divide and Conquer
+Divide and Conquer
+Introduction to Divide and ConquerBinary SearchMerge SortMerge Sort for Linked ListsHow to make Mergesort to perform O(n) comparisons in best case?QuickSortIterative Quick SortQuickSort on Singly Linked ListMedian of two sorted arraysCount Inversions in an array Using Merge SortClosest Pair of PointsStrassen’s Matrix MultiplicationSort a nearly sorted (or K sorted) arraySearch in an almost sorted arrayK-th Element of Two Sorted ArraysK’th Smallest/Largest Element in Unsorted Array
+Introduction to Divide and Conquer
+Binary Search
+Merge Sort
+Merge Sort for Linked Lists
+How to make Mergesort to perform O(n) comparisons in best case?
+QuickSort
+Iterative Quick Sort
+QuickSort on Singly Linked List
+Median of two sorted arrays
+Count Inversions in an array Using Merge Sort
+Closest Pair of Points
+Strassen’s Matrix Multiplication
+Sort a nearly sorted (or K sorted) array
+Search in an almost sorted array
+K-th Element of Two Sorted Arrays
+K’th Smallest/Largest Element in Unsorted Array
+Greedy Techniques
+Greedy Techniques
+Introduction to Greedy AlgorithmsActivity Selection ProblemJob Sequencing ProblemHuffman CodingEfficient Huffman Coding for Sorted InputFractional Knapsack ProblemOptimal File Merge PatternsKruskal’s Minimum Spanning Tree AlgorithmPrim’s Minimum Spanning Tree (MST)Prim’s MST for Adjacency List RepresentationDijkstra’s shortest path algorithmDijkstra’s Algorithm for Adjacency List Representation
+Introduction to Greedy Algorithms
+Activity Selection Problem
+Job Sequencing Problem
+Huffman Coding
+Efficient Huffman Coding for Sorted Input
+Fractional Knapsack Problem
+Optimal File Merge Patterns
+Kruskal’s Minimum Spanning Tree Algorithm
+Prim’s Minimum Spanning Tree (MST)
+Prim’s MST for Adjacency List Representation
+Dijkstra’s shortest path algorithm
+Dijkstra’s Algorithm for Adjacency List Representation
+Introduction to Graph AlgorithmsBreadth First Traversal or BFS for a GraphDepth First Traversal or DFS for a GraphApplications of Depth First SearchDetect Cycle in a Directed GraphTopological SortingBellman–Ford AlgorithmFloyd Warshall AlgorithmShortest path with exactly k edges in a directed and weighted graphBiconnected graphArticulation Points (or Cut Vertices) in a GraphCheck if a graph is strongly connected (Kosaraju’s Theoram)Bridges in a graphTransitive closure of a graph
+Introduction to Graph Algorithms
+Breadth First Traversal or BFS for a Graph
+Depth First Traversal or DFS for a Graph
+Applications of Depth First Search
+Detect Cycle in a Directed Graph
+Topological Sorting
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Shortest path with exactly k edges in a directed and weighted graph
+Biconnected graph
+Articulation Points (or Cut Vertices) in a Graph
+Check if a graph is strongly connected (Kosaraju’s Theoram)
+Bridges in a graph
+Transitive closure of a graph
+Dynamic Programming
+Dynamic Programming
+Introduction to Dynamic ProgrammingOverlapping Subproblems PropertyOptimal Substructure PropertyLongest Common SubsequenceMatrix Chain Multiplication0-1 Knapsack ProblemMin Cost PathSubset Sum ProblemBellman–Ford AlgorithmFloyd Warshall AlgorithmTotal number of non-decreasing numbers with n digitsSmallest power of 2 greater than or equal to n
+Introduction to Dynamic Programming
+Overlapping Subproblems Property
+Optimal Substructure Property
+Longest Common Subsequence
+Matrix Chain Multiplication
+0-1 Knapsack Problem
+Min Cost Path
+Subset Sum Problem
+Bellman–Ford Algorithm
+Floyd Warshall Algorithm
+Total number of non-decreasing numbers with n digits
+Smallest power of 2 greater than or equal to n
+Searching, Sorting, Technique-based Theorem and Hashing
+Searching, Sorting, Technique-based Theorem and Hashing
+Introduction to Searching AlgorithmsIntroduction to Sorting AlgorithmLinear SearchLinear Search vs Binary SearchBinary SearchSelection SortBubble SortInsertion SortMerge SortQuickSortHeap SortCounting Sort
+Introduction to Searching Algorithms
+Introduction to Sorting Algorithm
+Linear Search
+Linear Search vs Binary Search
+Binary Search
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+QuickSort
+Heap Sort
+Counting Sort
+Misc
+Misc
+Top 20 Hashing Technique based Interview QuestionsCATEGORY ARCHIVES: ALGORITHMSLast Minute Notes – Algorithms
+Top 20 Hashing Technique based Interview Questions
+CATEGORY ARCHIVES: ALGORITHMS
+Last Minute Notes – Algorithms
+Theory of Computation
+The syllabus or important topics of the Theory of Computation for the GATE CSE exam are provided below.
+Theory of Computation Notes for GATE CSE
+Theory of Computation Notes for GATE CSE
+Regular Expression, Languages,Grammar, and Finite Automata
+Regular Expression, Languages,
+Grammar, and Finite Automata
+Introduction of Theory of ComputationIntroduction to Finite AutomataDesigning Deterministic Finite Automata Set 1Designing Deterministic Finite Automata Set 2Designing Deterministic Finite Automata (Set 3)DFA machines accepting odd number of 0’s or/and even number of 1’sDFA for accepting the language L = {anbm | n+m=even}DFA for Strings not ending with “THE”Union process in DFAConcatenation process in DFAMinimization of DFADesigning Non-Deterministic Finite Automata (Set 1)Designing Non-Deterministic Finite Automata (Set 3)Conversion from NFA to DFANFA with epsilon move to DFA ConversionRegular Expressions, Regular Grammar and Regular LanguagesHow to write Regular Expressions?How to identify if a language is regular or notGenerating regular expression from finite automataDesigning Finite Automata from Regular ExpressionClosure properties of Regular languagesIntroduction To Grammar in Theory of ComputationChomsky HierarchyPumping LemmaMealy and Moore MachinesDifference between Mealy machine and Moore machineUnion & Intersection of Regular languages with CFL
+Introduction of Theory of Computation
+Introduction to Finite Automata
+Designing Deterministic Finite Automata Set 1
+Designing Deterministic Finite Automata Set 2
+Designing Deterministic Finite Automata (Set 3)
+DFA machines accepting odd number of 0’s or/and even number of 1’s
+DFA for accepting the language L = {anbm | n+m=even}
+DFA for Strings not ending with “THE”
+Union process in DFA
+Concatenation process in DFA
+Minimization of DFA
+Designing Non-Deterministic Finite Automata (Set 1)
+Designing Non-Deterministic Finite Automata (Set 3)
+Conversion from NFA to DFA
+NFA with epsilon move to DFA Conversion
+Regular Expressions, Regular Grammar and Regular Languages
+How to write Regular Expressions?
+How to identify if a language is regular or not
+Generating regular expression from finite automata
+Designing Finite Automata from Regular Expression
+Closure properties of Regular languages
+Introduction To Grammar in Theory of Computation
+Chomsky Hierarchy
+Pumping Lemma
+Mealy and Moore Machines
+Difference between Mealy machine and Moore machine
+Union & Intersection of Regular languages with CFL
+Context Sensitive Language
+Context Sensitive Language
+Introduction to Context-sensitive Grammar (CSG) and Language (CSL)
+Turing Machines and Undecidability
+Turing Machines and Undecidability
+Introduction to Recursive and Recursive Enumerable LanguagesIntroduction to Turing MachineHalting ProblemTuring Machine for additionTuring machine for subtractionTuring machine for multiplicationTuring machine for copying dataConstruct a Turing Machine for language L = {0n1n2n | n≥1}Construct a Turing Machine for language L = {wwr | w ∈ {0, 1}}Construct a Turing Machine for language L = {ww | w ∈ {0,1}}Construct a Turing machine for L = {aibjck | i*j = k; i, j, k ≥ 1}Types of Complexity Classes | P, NP, CoNP, and NP hardIntroduction to NP-CompletenessDecidabilityDecidable and undecidable problemsUndecidability and ReducibilityComputable and non-computable problems
+Introduction to Recursive and Recursive Enumerable Languages
+Introduction to Turing Machine
+Halting Problem
+Turing Machine for addition
+Turing machine for subtraction
+Turing machine for multiplication
+Turing machine for copying data
+Construct a Turing Machine for language L = {0n1n2n | n≥1}
+Construct a Turing Machine for language L = {wwr | w ∈ {0, 1}}
+Construct a Turing Machine for language L = {ww | w ∈ {0,1}}
+Construct a Turing machine for L = {aibjck | i*j = k; i, j, k ≥ 1}
+Types of Complexity Classes | P, NP, CoNP, and NP hard
+Introduction to NP-Completeness
+Decidability
+Decidable and undecidable problems
+Undecidability and Reducibility
+Computable and non-computable problems
+Misc
+Misc
+CATEGORY ARCHIVES: THEORY OF COMPUTATION & AUTOMATALast Minute Notes – Theory of Computation
+CATEGORY ARCHIVES: THEORY OF COMPUTATION & AUTOMATA
+Last Minute Notes – Theory of Computation
+Compiler Design
+The syllabus or important topics of Compiler Design for the GATE CSE exam are provided below.
+Compiler Design Notes for GATE CSE
+Compiler Design Notes for GATE CSE
+Lexical Analysis, Parsing, Syntax-directed
+Lexical Analysis, Parsing, Syntax-directed
+Introduction of Compiler designPhases of a CompilerIntroduction to CompilerSymbol Table in CompilerStatic and Dynamic ScopingGeneration of Programming LanguagesError Handling in Compiler DesignError detection and Recovery in CompilerLinkerLexical AnalysisFast Lexical Analyzer GeneratorClassification of Context Free GrammarsAmbiguous GrammarRemoval of ambiguityWhy FIRST and FOLLOW?FIRST Set in Syntax AnalysisFOLLOW Set in Syntax AnalysisProgram to calculate First and Follow sets of given grammarIntroduction to Syntax AnalysisParsing Set 1Bottom Up or Shift Reduce ParsersSLR, CLR and LALR ParsersShift Reduce Parser in CompilerClassification of top down parsersBacktracking(Top down parser)Recursive descentOperator grammar and precedence parserPractice Question on Lexical analysis, parsing, syntax-directed
+Introduction of Compiler design
+Phases of a Compiler
+Introduction to Compiler
+Symbol Table in Compiler
+Static and Dynamic Scoping
+Generation of Programming Languages
+Error Handling in Compiler Design
+Error detection and Recovery in Compiler
+Linker
+Lexical Analysis
+Fast Lexical Analyzer Generator
+Classification of Context Free Grammars
+Ambiguous Grammar
+Removal of ambiguity
+Why FIRST and FOLLOW?
+FIRST Set in Syntax Analysis
+FOLLOW Set in Syntax Analysis
+Program to calculate First and Follow sets of given grammar
+Introduction to Syntax Analysis
+Parsing Set 1
+Bottom Up or Shift Reduce Parsers
+SLR, CLR and LALR Parsers
+Shift Reduce Parser in Compiler
+Classification of top down parsers
+Backtracking(Top down parser)
+Recursive descent
+Operator grammar and precedence parser
+Practice Question on Lexical analysis, parsing, syntax-directed
+Runtime Environment
+Runtime Environment
+Runtime EnvironmentsStack AllocationHeap AllocationParameters PassingPass by ValuePass by ReferencePass by Copy-restorePass by Name
+Runtime Environments
+Stack Allocation
+Heap Allocation
+Parameters Passing
+Pass by Value
+Pass by Reference
+Pass by Copy-restore
+Pass by Name
+Intermediate Code Generation
+Intermediate Code Generation
+Intermediate Code GenerationThree address code in CompilerDetection of a Loop in Three Address CodeCode OptimizationIntroduction of Object CodeData flow analysis in CompilerCATEGORY ARCHIVES: COMPILER DESIGNLast Minute Notes – Compiler Design
+Intermediate Code Generation
+Three address code in Compiler
+Detection of a Loop in Three Address Code
+Code Optimization
+Introduction of Object Code
+Data flow analysis in Compiler
+CATEGORY ARCHIVES: COMPILER DESIGN
+Last Minute Notes – Compiler Design
+Local Optimization
+Local Optimization
+Compile Time EvaluationVariable PropagationConstant PropagationConstant FoldingCopy PropagationCommon Sub Expression EliminationDead Code EliminationUnreachable Code EliminationFunction InliningInduction Variable and Strength ReductionCode MotionorFrequency ReductionLoop Jamming
+Compile Time Evaluation
+Variable Propagation
+Constant Propagation
+Constant Folding
+Copy Propagation
+Common Sub Expression Elimination
+Dead Code Elimination
+Unreachable Code Elimination
+Function Inlining
+Induction Variable and Strength Reduction
+Code MotionorFrequency Reduction
+Loop Jamming
+Data Flow Analysis
+Data Flow Analysis
+USE, IN & OUTData flow analysis
+USE, IN & OUT
+Data flow analysis
+Database Management System
+The syllabus or important topics of Database Management System for the GATE CSE exam are provided below.
+Database Management System Notes for GATE CSE
+Database Management System Notes for GATE CSE
+Introduction
+Introduction
+Introduction to Database Management SystemDBMS 3-Tier ArchitectureDBMS 2-Level, 3-Level ArchitectureNeed for DBMSChallenges of Database Security in DBMSAdvantages of DBMS over File systemData Abstraction and Data Independence
+Introduction to Database Management System
+DBMS 3-Tier Architecture
+DBMS 2-Level, 3-Level Architecture
+Need for DBMS
+Challenges of Database Security in DBMS
+Advantages of DBMS over File system
+Data Abstraction and Data Independence
+ER-Model
+ER-Model
+Introduction to ER ModelRecursive RelationshipsMinimization of ER DiagramEnhanced ER ModelMapping from ER Model to Relational Model
+Introduction to ER Model
+Recursive Relationships
+Minimization of ER Diagram
+Enhanced ER Model
+Mapping from ER Model to Relational Model
+Relational Model (relational algebra, tuple calculus)
+Relational Model (relational algebra, tuple calculus)
+Introduction to Relational ModelRelational Algebra – OverviewAnomalies in Relational ModelRelational Model Introduction and Codd RulesKeys in Relational Model (Candidate, Super, Primary, Alternate and Foreign)Relational Algebra – Extended OperatorsTuple Relational CalculusHow to solve Relational Algebra problems for GATE
+Introduction to Relational Model
+Relational Algebra – Overview
+Anomalies in Relational Model
+Relational Model Introduction and Codd Rules
+Keys in Relational Model (Candidate, Super, Primary, Alternate and Foreign)
+Relational Algebra – Extended Operators
+Tuple Relational Calculus
+How to solve Relational Algebra problems for GATE
+Database Design (integrity constraints, normal forms)
+Database Design (integrity constraints, normal forms)
+Introduction to Database NormalizationNormal Forms in Database NormalizationFunctional Dependency and Attribute ClosureTypes of Functional DependencyFinding Attribute Closure and Candidate Keys using Functional DependenciesNumber of possible SuperkeysLossy and Lossless DecompositionDependency Preserving DecompositionLossless Join and Dependency Preserving DecompositionDBMS | How to find the highest normal form of a relationMinimum relations satisfying 1NFEquivalence of Functional DependenciesCanonical CoverMultivalued Dependency
+Introduction to Database Normalization
+Normal Forms in Database Normalization
+Functional Dependency and Attribute Closure
+Types of Functional Dependency
+Finding Attribute Closure and Candidate Keys using Functional Dependencies
+Number of possible Superkeys
+Lossy and Lossless Decomposition
+Dependency Preserving Decomposition
+Lossless Join and Dependency Preserving Decomposition
+DBMS | How to find the highest normal form of a relation
+Minimum relations satisfying 1NF
+Equivalence of Functional Dependencies
+Canonical Cover
+Multivalued Dependency
+Structured Query Languages (SQL)
+Structured Query Languages (SQL)
+Introduction to Structured Query Language (SQL)Parts of SQLData Manipulation Language in SQLData Definition in SQLJoins in SQLInner VS Outer JoinHaving Vs Where ClauseDatabase ObjectsNested Queries in SQLJoin operation Vs nested queryIndexing in DatabasesSQL ClausesSQL ViewsSQL IndexesSQL queries on clustered and non-clustered IndexesSQL Tutorial
+Introduction to Structured Query Language (SQL)
+Parts of SQL
+Data Manipulation Language in SQL
+Data Definition in SQL
+Joins in SQL
+Inner VS Outer Join
+Having Vs Where Clause
+Database Objects
+Nested Queries in SQL
+Join operation Vs nested query
+Indexing in Databases
+SQL Clauses
+SQL Views
+SQL Indexes
+SQL queries on clustered and non-clustered Indexes
+SQL Tutorial
+Transactions and Concurrency Control
+Transactions and Concurrency Control
+Introduction to Concurrency ControlDatabase Recovery TechniquesACID Properties in DBMSLog based recoveryWhy recovery is needed?Transaction Isolation Levels in DBMSTypes of Schedules in Concurrency ControlTypes of Recoverability of Schedules in DBMSConflict SerializabilityPrecedence Graph For Testing Conflict SerializabilityHow to test if two schedules are View Equal or not ?Recoverability of SchedulesCascadeless in DBMSDeadlock in DBMSStarvation in DBMSTransaction and Concurrency ControlLock Based ProtocolConcurrency Control TechniquesTwo Phase Locking (2-PL)Categories of Two Phase Locking (2-PL)Thomas Write RuleTimestamp Ordering ProtocolsMultiple Granularity LockingGraph Based ProtocolIntroduction to TimeStamp and Deadlock Prevention SchemesImplementation of Locking in DBMS
+Introduction to Concurrency Control
+Database Recovery Techniques
+ACID Properties in DBMS
+Log based recovery
+Why recovery is needed?
+Transaction Isolation Levels in DBMS
+Types of Schedules in Concurrency Control
+Types of Recoverability of Schedules in DBMS
+Conflict Serializability
+Precedence Graph For Testing Conflict Serializability
+How to test if two schedules are View Equal or not ?
+Recoverability of Schedules
+Cascadeless in DBMS
+Deadlock in DBMS
+Starvation in DBMS
+Transaction and Concurrency Control
+Lock Based Protocol
+Concurrency Control Techniques
+Two Phase Locking (2-PL)
+Categories of Two Phase Locking (2-PL)
+Thomas Write Rule
+Timestamp Ordering Protocols
+Multiple Granularity Locking
+Graph Based Protocol
+Introduction to TimeStamp and Deadlock Prevention Schemes
+Implementation of Locking in DBMS
+File Structures (sequential files, indexing, B and B+ trees)
+File Structures (sequential files, indexing, B and B+ trees)
+Introduction to Indexing in DatabasesFile OrganizationHashing in DBMSIntroduction to B-TreeInsertion in B-TreeDeletion in B-TreeIntroduction to B+ TreesInsertion in a B+ treeDifference between B tree and B+ tree
+Introduction to Indexing in Databases
+File Organization
+Hashing in DBMS
+Introduction to B-Tree
+Insertion in B-Tree
+Deletion in B-Tree
+Introduction to B+ Trees
+Insertion in a B+ tree
+Difference between B tree and B+ tree
+Misc
+Misc
+CATEGORY ARCHIVES: DBMSLast Minute Notes – DBMS
+CATEGORY ARCHIVES: DBMS
+Last Minute Notes – DBMS
+Computer Networks
+The syllabus or important topics of Computer Networks for the GATE CSE exam are provided below.
+Computer Networks Notes for GATE CSE
+Computer Networks Notes for GATE CSE
+Network Fundamental andPhysical Layer
+Network Fundamental and
+Physical Layer
+Basics of Computer NetworkingNetwork goalsNetwork TopologiesTypes of area networks – LAN, MAN and WANTypes of Transmission MediaTransmission Modes in Computer Networks(Simplex, Half-Duplex and Full-Duplex)Redundant link problemsDifference between Unipolar, Polar andBipolar Line Coding SchemesDifference between Broadband andBaseband TransmissionLet’s experiment with NetworkingLayers of OSI ModelTCP/IP Model
+Basics of Computer Networking
+Network goals
+Network Topologies
+Types of area networks – LAN, MAN and WAN
+Types of Transmission Media
+Transmission Modes in Computer Networks(Simplex, Half-Duplex and Full-Duplex)
+Redundant link problems
+Difference between Unipolar, Polar andBipolar Line Coding Schemes
+Difference between Broadband andBaseband Transmission
+Let’s experiment with Networking
+Layers of OSI Model
+TCP/IP Model
+Data Link Layer
+Data Link Layer
+Multiple Access ProtocolsP2P(Peer To Peer) File SharingFraming In Data Link LayerLAN Technologies | ETHERNETEthernet Frame FormatToken Ring frame formatBit StuffingDifference between Byte stuffing and Bit stuffingHamming CodeAlohaSlotted AlohaPure AlohaCarrier sense multiple access (CSMA)Controlled Access ProtocolsBack-off Algorithm for CSMA/CDCollision Detection in CSMA/CDEfficiency of CSMA/CDEfficiency of Token RingComputer Networks | Error DetectionStop and Wait ARQSliding Window Protocol | Set 1 (Sender Side)Sliding Window Protocol | Set 2 (Receiver Side)Sliding Window Protocol | Set 3 (Selective Repeat)Sliding Window protocols Summary With QuestionsProgram to remotely Power On a PC over the internet using the Wake-on-LAN protocolProgram to calculate the Round Trip Time (RTT)To calculate the expected Round Trip TimeIntroduction of MAC AddressCollision Avoidance in wireless networksMaximum data rate (channel capacity) for noiseless and noisy channelsSwitchesRoutersTypes of switches
+Multiple Access Protocols
+P2P(Peer To Peer) File Sharing
+Framing In Data Link Layer
+LAN Technologies | ETHERNET
+Ethernet Frame Format
+Token Ring frame format
+Bit Stuffing
+Difference between Byte stuffing and Bit stuffing
+Hamming Code
+Aloha
+Slotted Aloha
+Pure Aloha
+Carrier sense multiple access (CSMA)
+Controlled Access Protocols
+Back-off Algorithm for CSMA/CD
+Collision Detection in CSMA/CD
+Efficiency of CSMA/CD
+Efficiency of Token Ring
+Computer Networks | Error Detection
+Stop and Wait ARQ
+Sliding Window Protocol | Set 1 (Sender Side)
+Sliding Window Protocol | Set 2 (Receiver Side)
+Sliding Window Protocol | Set 3 (Selective Repeat)
+Sliding Window protocols Summary With Questions
+Program to remotely Power On a PC over the internet using the Wake-on-LAN protocol
+Program to calculate the Round Trip Time (RTT)
+To calculate the expected Round Trip Time
+Introduction of MAC Address
+Collision Avoidance in wireless networks
+Maximum data rate (channel capacity) for noiseless and noisy channels
+Switches
+Routers
+Types of switches
+Network Layer
+Network Layer
+InternetworkingLine Configuration in Computer NetworksDifference between Unicast, Broadcast and MulticastCollision Domain and Broadcast DomainIP Addressing | Introduction and Classful AddressingNetwork Layer | Introduction and IPv4 Datagram HeaderNetwork Layer | Ipv4 Datagram Fragmentation and DelaysFragmentation at Network LayerInternet Protocol v6 | IPv6Internet Protocol version 6 (IPv6) HeaderIP Addressing | Classless AddressingSubnetting in Computer NetworkSupernettingComputer Networks | Longest Prefix Matching in RoutersProgram to determine class, Network and Host ID of an IPv4 addressC Program to find IP Address, Subnet Mask & Default GatewayIPv4 classless Subnet equationIntroduction to variable length subnet mask (VLSM)Network address translation (NAT)Types of Network address translation (NAT)Classification of Routing Algorithms – Set 1Types of routing – Set 2Classes of routing protocols – Set 3Distance vector routing v/s Link state routingFixed and Flooding Routing algorithmsRouting v/s Routed ProtocolsUnicast Routing – Link State RoutingRouting Protocols Set 1 (Distance Vector Routing)Route Poisoning and Count to infinity problemInternet Control Message Protocol (ICMP) | Computer NetworksOSPF protocol fundamentalsOSPF protocol StatesOSPF router roles and configurationRoot Bridge Election in Spanning Tree ProtocolTypes of Spanning Tree Protocol (STP)Routing Information Protocol (RIP)Routing Interface Protocol (RIP) V1 & V2Link state advertisement (LSA)Administrative Distance (AD) and Autonomous System (AS)Circuit SwitchingPacket Switching and DelaysDifferences between Virtual Circuits & Datagram NetworksComputer Network | Circuit Switching VS Packet SwitchingRARPTracerouteHow ARP works?ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARPPacket flow in the same networkPacket flow in different networkDifference between layer-2 and layer-3 switchesWhat’s difference between Ping and Traceroute?Computer Network | ServersWhat is Local Host?
+Internetworking
+Line Configuration in Computer Networks
+Difference between Unicast, Broadcast and Multicast
+Collision Domain and Broadcast Domain
+IP Addressing | Introduction and Classful Addressing
+Network Layer | Introduction and IPv4 Datagram Header
+Network Layer | Ipv4 Datagram Fragmentation and Delays
+Fragmentation at Network Layer
+Internet Protocol v6 | IPv6
+Internet Protocol version 6 (IPv6) Header
+IP Addressing | Classless Addressing
+Subnetting in Computer Network
+Supernetting
+Computer Networks | Longest Prefix Matching in Routers
+Program to determine class, Network and Host ID of an IPv4 address
+C Program to find IP Address, Subnet Mask & Default Gateway
+IPv4 classless Subnet equation
+Introduction to variable length subnet mask (VLSM)
+Network address translation (NAT)
+Types of Network address translation (NAT)
+Classification of Routing Algorithms – Set 1
+Types of routing – Set 2
+Classes of routing protocols – Set 3
+Distance vector routing v/s Link state routing
+Fixed and Flooding Routing algorithms
+Routing v/s Routed Protocols
+Unicast Routing – Link State Routing
+Routing Protocols Set 1 (Distance Vector Routing)
+Route Poisoning and Count to infinity problem
+Internet Control Message Protocol (ICMP) | Computer Networks
+OSPF protocol fundamentals
+OSPF protocol States
+OSPF router roles and configuration
+Root Bridge Election in Spanning Tree Protocol
+Types of Spanning Tree Protocol (STP)
+Routing Information Protocol (RIP)
+Routing Interface Protocol (RIP) V1 & V2
+Link state advertisement (LSA)
+Administrative Distance (AD) and Autonomous System (AS)
+Circuit Switching
+Packet Switching and Delays
+Differences between Virtual Circuits & Datagram Networks
+Computer Network | Circuit Switching VS Packet Switching
+RARP
+Traceroute
+How ARP works?
+ARP, Reverse ARP(RARP), Inverse ARP(InARP), Proxy ARP and Gratuitous ARP
+Packet flow in the same network
+Packet flow in different network
+Difference between layer-2 and layer-3 switches
+What’s difference between Ping and Traceroute?
+Computer Network | Servers
+What is Local Host?
+Transport Layer
+Transport Layer
+Transport Layer responsibilitiesCongestion ControlLeaky Bucket AlgorithmTCP | Services and Segment structureTCP Congestion ControlTCP 3-Way Handshake ProcessTCP Connection EstablishmentTCP Connection TerminationError Control in TCPTCP TimersTCP flagsTCP Server-Client implementation in CUser Datagram Protocol (UDP)Differences between TCP and UDPMultiplexing and Demultiplexing in Transport Layer
+Transport Layer responsibilities
+Congestion Control
+Leaky Bucket Algorithm
+TCP | Services and Segment structure
+TCP Congestion Control
+TCP 3-Way Handshake Process
+TCP Connection Establishment
+TCP Connection Termination
+Error Control in TCP
+TCP Timers
+TCP flags
+TCP Server-Client implementation in C
+User Datagram Protocol (UDP)
+Differences between TCP and UDP
+Multiplexing and Demultiplexing in Transport Layer
+Application Layer
+Application Layer
+Protocols in Application LayerDNS (Domain Name Server) | NetWorkingAddress Resolution in DNSDNS Spoofing or DNS Cache poisoningWhy does DNS use UDP and not TCP?Dynamic Host Configuration Protocol (DHCP)DHCP Relay AgentHow DHCP server dynamically assigns IP address to a host?Simple network management protocol (SNMP)Simple Mail Transfer Protocol (SMTP)File Transfer Protocol (FTP)HTTP Non-Persistent & Persistent ConnectionHTTP parallel and non parallelMultipurpose Internet mail extension (MIME)What’s difference between http:// and https:// ?What’s difference between HTML and HTTP ?What’s difference between The Internet and The Web ?Basics of Wi-FiWifi protected setup (WPS)Wifi protected access (WPA)LiFi vs. WiFiNetwork Devices (Hub, Repeater, Bridge, Switch, Router and Gateways)
+Protocols in Application Layer
+DNS (Domain Name Server) | NetWorking
+Address Resolution in DNS
+DNS Spoofing or DNS Cache poisoning
+Why does DNS use UDP and not TCP?
+Dynamic Host Configuration Protocol (DHCP)
+DHCP Relay Agent
+How DHCP server dynamically assigns IP address to a host?
+Simple network management protocol (SNMP)
+Simple Mail Transfer Protocol (SMTP)
+File Transfer Protocol (FTP)
+HTTP Non-Persistent & Persistent Connection
+HTTP parallel and non parallel
+Multipurpose Internet mail extension (MIME)
+What’s difference between http:// and https:// ?
+What’s difference between HTML and HTTP ?
+What’s difference between The Internet and The Web ?
+Basics of Wi-Fi
+Wifi protected setup (WPS)
+Wifi protected access (WPA)
+LiFi vs. WiFi
+Network Devices (Hub, Repeater, Bridge, Switch, Router and Gateways)
+Misc
+Misc
+GATE PYQs
+Operating System
+The syllabus or important topics of Operating System for the GATE CSE exam are provided below.
+Operating System Notes for GATE CSE
+Operating System Notes for GATE CSE
+Processes, Threads, CPU Scheduling
+Processes, Threads, CPU Scheduling
+Introduction of System CallOperating System | ThreadThreads and its typesDifference between thread and processMultithreadingMulti threading modelsBenefits of MultithreadingProcess-based and Thread-based MultitaskingUser Level thread Vs Kernel Level threadMicrokernelMonolithic Kernel and key differences from MicrokernelDifference between multitasking, multithreading and multiprocessingContext Switching in OSFork function callfork() in C
+Introduction of System Call
+Operating System | Thread
+Threads and its types
+Difference between thread and process
+Multithreading
+Multi threading models
+Benefits of Multithreading
+Process-based and Thread-based Multitasking
+User Level thread Vs Kernel Level thread
+Microkernel
+Monolithic Kernel and key differences from Microkernel
+Difference between multitasking, multithreading and multiprocessing
+Context Switching in OS
+Fork function call
+fork() in C
+Inter‐process Communication,Concurrency, and Synchronization
+Inter‐process Communication,
+Concurrency, and Synchronization
+Process Synchronization | IntroductionOperating System | Process Synchronization | Set 2Critical SectionInter Process CommunicationIPC using Message QueuesIPC through shared memoryInterprocess Communication: MethodsSemaphores in operating systemMutex vs SemaphoreLock variable synchronization mechanismPeterson’s Algorithm for Mutual Exclusion | Set 1 (Basic C implementation)Peterson’s Algorithm for Mutual Exclusion | Set 2 (CPU Cycles and Memory Fence)Peterson’s Algorithm (Using processes and shared memory)Readers-Writers Problem | Set 1 (Introduction and Readers Preference Solution)Reader-Writers solution using MonitorsProducer Consumer Problem using Semaphores | Set 1Producer-Consumer solution using Semaphores in Java | Set 2Process Synchronization | MonitorsDining Philosopher ProblemDining-Philosophers Solution Using MonitorsDining Philosopher Problem Using SemaphoresPriority Inversion : What the heck !What’s difference between Priority Inversion and Priority Inheritance ?Deadlock, Starvation, and Livelock
+Process Synchronization | Introduction
+Operating System | Process Synchronization | Set 2
+Critical Section
+Inter Process Communication
+IPC using Message Queues
+IPC through shared memory
+Interprocess Communication: Methods
+Semaphores in operating system
+Mutex vs Semaphore
+Lock variable synchronization mechanism
+Peterson’s Algorithm for Mutual Exclusion | Set 1 (Basic C implementation)
+Peterson’s Algorithm for Mutual Exclusion | Set 2 (CPU Cycles and Memory Fence)
+Peterson’s Algorithm (Using processes and shared memory)
+Readers-Writers Problem | Set 1 (Introduction and Readers Preference Solution)
+Reader-Writers solution using Monitors
+Producer Consumer Problem using Semaphores | Set 1
+Producer-Consumer solution using Semaphores in Java | Set 2
+Process Synchronization | Monitors
+Dining Philosopher Problem
+Dining-Philosophers Solution Using Monitors
+Dining Philosopher Problem Using Semaphores
+Priority Inversion : What the heck !
+What’s difference between Priority Inversion and Priority Inheritance ?
+Deadlock, Starvation, and Livelock
+Deadlock
+Deadlock
+Process Management | Deadlock IntroductionProgram for Deadlock free conditionDeadlock Prevention And AvoidanceDeadlock Detection And RecoveryResource Allocation Graph (RAG)Banker’s AlgorithmProgram for Banker’s Algorithm | Set 1 (Safety Algorithm)Banker’s Algorithm : Print all the safe stateDeadlock detection algorithmMethods of resource allocation to processes by operating system
+Process Management | Deadlock Introduction
+Program for Deadlock free condition
+Deadlock Prevention And Avoidance
+Deadlock Detection And Recovery
+Resource Allocation Graph (RAG)
+Banker’s Algorithm
+Program for Banker’s Algorithm | Set 1 (Safety Algorithm)
+Banker’s Algorithm : Print all the safe state
+Deadlock detection algorithm
+Methods of resource allocation to processes by operating system
+Main Memory Management
+Main Memory Management
+Mapping virtual address to physical addressesLogical vs Physical Address in Operating SystemPagingPage Table EntriesMultilevel PagingInverted Page TableSegmentationDemand PagingMemory Management | Partition Allocation MethodNon-Contiguous AllocationFixed (or static) PartitioningVariable (or dynamic) PartitioningWorking with Shared Libraries | Set 1Static and Dynamic Libraries | Set 1Buddy SystemBuddy System Memory AllocationBuddy System Memory DeallocationAllocating kernel memoryRequirements of memory management system
+Mapping virtual address to physical addresses
+Logical vs Physical Address in Operating System
+Paging
+Page Table Entries
+Multilevel Paging
+Inverted Page Table
+Segmentation
+Demand Paging
+Memory Management | Partition Allocation Method
+Non-Contiguous Allocation
+Fixed (or static) Partitioning
+Variable (or dynamic) Partitioning
+Working with Shared Libraries | Set 1
+Static and Dynamic Libraries | Set 1
+Buddy System
+Buddy System Memory Allocation
+Buddy System Memory Deallocation
+Allocating kernel memory
+Requirements of memory management system
+Virtual Memory
+Virtual Memory
+Virtual MemorySecondary memory – Hard disk drivePage Fault HandlingPage Replacement AlgorithmsBelady’s AnomalyProgram for Optimal Page Replacement AlgorithmTechniques to handle ThrashingWhat exactly Spooling is all about?Difference between Spooling and BufferingOverlays in Memory ManagementSwap Space
+Virtual Memory
+Secondary memory – Hard disk drive
+Page Fault Handling
+Page Replacement Algorithms
+Belady’s Anomaly
+Program for Optimal Page Replacement Algorithm
+Techniques to handle Thrashing
+What exactly Spooling is all about?
+Difference between Spooling and Buffering
+Overlays in Memory Management
+Swap Space
+File System and Disk Scheduling
+File System and Disk Scheduling
+File SystemsStructures of DirectoryFile Directory | Path NameFile Access MethodsFile Allocation MethodsOperating System | Free space managementDifference between FAT32, exFAT, and NTFS File SystemDisk Scheduling AlgorithmsProgram for SSTF disk scheduling algorithmCATEGORY ARCHIVES: OPERATING SYSTEMSLast Minute Notes – Operating Systems
+File Systems
+Structures of Directory
+File Directory | Path Name
+File Access Methods
+File Allocation Methods
+Operating System | Free space management
+Difference between FAT32, exFAT, and NTFS File System
+Disk Scheduling Algorithms
+Program for SSTF disk scheduling algorithm
+CATEGORY ARCHIVES: OPERATING SYSTEMS
+Last Minute Notes – Operating Systems
+Digital Logic and Design
+The syllabus or important topics of Digital Logic and Design for the GATE CSE exam are provided below.
+Digital Logic & Design Notes for GATE CSE
+Digital Logic & Design Notes for GATE CSE
+Introduction of Boolean Algebra and Logic Gates
+Introduction of Boolean Algebra and Logic Gates
+Logic GatesProperties of Boolean algebraLogical gates in logic designBoolean functionsMinimization of Boolean FunctionsRepresentation of Boolean FunctionsCanonical and Standard FormFunctional CompletenessK-MapImplicants in K-MapPrime implicants and Explicit implicantsPDNF and PCNFVariable entrant map (VEM)Consensus theorem
+Logic Gates
+Properties of Boolean algebra
+Logical gates in logic design
+Boolean functions
+Minimization of Boolean Functions
+Representation of Boolean Functions
+Canonical and Standard Form
+Functional Completeness
+K-Map
+Implicants in K-Map
+Prime implicants and Explicit implicants
+PDNF and PCNF
+Variable entrant map (VEM)
+Consensus theorem
+Combinational Circuit
+Combinational Circuit
+Grey CodeHalf AdderFull AdderHalf SubtractorFull SubtractorHalf Adder and Half Subtractor using NAND NOR gatesEncoders and DecodersEncoderBinary DecoderCombinational circuits using DecoderMultiplexersDe-MUXCarry Look-Ahead AdderParallel Adder & Parallel SubtractorBCD AdderMagnitude ComparatorBCD to 7 Segment DecoderProgrammable Logic ArrayProgramming Array LogicRead-Only Memory (ROM)Static Hazards
+Grey Code
+Half Adder
+Full Adder
+Half Subtractor
+Full Subtractor
+Half Adder and Half Subtractor using NAND NOR gates
+Encoders and Decoders
+Encoder
+Binary Decoder
+Combinational circuits using Decoder
+Multiplexers
+De-MUX
+Carry Look-Ahead Adder
+Parallel Adder & Parallel Subtractor
+BCD Adder
+Magnitude Comparator
+BCD to 7 Segment Decoder
+Programmable Logic Array
+Programming Array Logic
+Read-Only Memory (ROM)
+Static Hazards
+Sequential Circuit
+Sequential Circuit
+Introduction of Sequential CircuitsFlip-flop types and their ConversionSynchronous Sequential CircuitsCountersRing Countern-bit Johnson CounterRipple CounterDesign counter for given sequenceMaster Slave JK Flip FlopS-R FlipFlopT FlipflopD FlipflopAsynchronous Sequential CircuitsShift RegistersDesign 101 sequence detectorAmortized analysis for increment in counter
+Introduction of Sequential Circuits
+Flip-flop types and their Conversion
+Synchronous Sequential Circuits
+Counters
+Ring Counter
+n-bit Johnson Counter
+Ripple Counter
+Design counter for given sequence
+Master Slave JK Flip Flop
+S-R FlipFlop
+T Flipflop
+D Flipflop
+Asynchronous Sequential Circuits
+Shift Registers
+Design 101 sequence detector
+Amortized analysis for increment in counter
+Number Representation and Computer Arithmetic
+Number Representation and Computer Arithmetic
+Number System and base conversionsCode Converters – BCD(8421) to/from Excess-3Code Converters – Binary to/from Gray CodeProgram for Decimal to Binary ConversionProgram for Binary To Decimal ConversionProgram for Decimal to Octal ConversionProgram for Octal to Decimal ConversionProgram for Hexadecimal to Decimal ConversionComputer Arithmetic | Set – 1Computer Arithmetic | Set – 2Floating Point RepresentationWhat’s difference between 1’s Complement and 2’s Complement?Booth’s AlgorithmRestoring Division Algorithm For Unsigned IntegerNon-Restoring Division For Unsigned IntegerCATEGORY ARCHIVES: DIGITAL ELECTRONICS & LOGIC DESIGNLast Minute Notes – Digital Electronics
+Number System and base conversions
+Code Converters – BCD(8421) to/from Excess-3
+Code Converters – Binary to/from Gray Code
+Program for Decimal to Binary Conversion
+Program for Binary To Decimal Conversion
+Program for Decimal to Octal Conversion
+Program for Octal to Decimal Conversion
+Program for Hexadecimal to Decimal Conversion
+Computer Arithmetic | Set – 1
+Computer Arithmetic | Set – 2
+Floating Point Representation
+What’s difference between 1’s Complement and 2’s Complement?
+Booth’s Algorithm
+Restoring Division Algorithm For Unsigned Integer
+Non-Restoring Division For Unsigned Integer
+CATEGORY ARCHIVES: DIGITAL ELECTRONICS & LOGIC DESIGN
+Last Minute Notes – Digital Electronics
+Computer Organization and Architecture
+The syllabus or important topics of Computer Organization and Architecture for the GATE CSE exam are provided below.
+Computer Organization and Architecture Notes for GATE CSE
+Computer Organization and Architecture Notes for GATE CSE
+Machine Instructions and Addressing Modes
+Machine Instructions and Addressing Modes
+Introduction to Computer Organization and ArchitectureBasic Computer InstructionsInstruction Design and FormatComputer ArithmeticMicroprogrammed ControlMemory OrganizationA simple understanding of ComputerIssues in Computer DesignComputer System Level HierarchyComputer Architecture and Computer OrganizationBasic Computer InstructionsVon Neumann architectureHarvard ArchitectureVon Neumann architecture vs Harvard ArchitectureBasic Computer InstructionsInstruction Formats (Zero, One, Two and Three Address Instruction)Stack based CPU OrganizationGeneral Register based CPU OrganizationSingle Accumulator based CPU organizationProblem Solving on Instruction FormatAddressing ModesMachine InstructionsDifference between CALL and JUMP instructionsSimplified Instructional Computer (SIC)Hardware architecture (parallel computing)Flynn’s taxonomyGenerations of computerAmdahl’s law and its proof
+Introduction to Computer Organization and Architecture
+Basic Computer Instructions
+Instruction Design and Format
+Computer Arithmetic
+Microprogrammed Control
+Memory Organization
+A simple understanding of Computer
+Issues in Computer Design
+Computer System Level Hierarchy
+Computer Architecture and Computer Organization
+Basic Computer Instructions
+Von Neumann architecture
+Harvard Architecture
+Von Neumann architecture vs Harvard Architecture
+Basic Computer Instructions
+Instruction Formats (Zero, One, Two and Three Address Instruction)
+Stack based CPU Organization
+General Register based CPU Organization
+Single Accumulator based CPU organization
+Problem Solving on Instruction Format
+Addressing Modes
+Machine Instructions
+Difference between CALL and JUMP instructions
+Simplified Instructional Computer (SIC)
+Hardware architecture (parallel computing)
+Flynn’s taxonomy
+Generations of computer
+Amdahl’s law and its proof
+ALU, Data‐Path and Control Unit
+ALU, Data‐Path and Control Unit
+Control Unit and designHardwired v/s Micro-programmed Control UnitHardwired Vs Micro-programmed Control unit | Set 2Horizontal micro-programmed Vs Vertical micro-programmed control unitSynchronous Data TransferAsynchronous Data Transfer
+Control Unit and design
+Hardwired v/s Micro-programmed Control Unit
+Hardwired Vs Micro-programmed Control unit | Set 2
+Horizontal micro-programmed Vs Vertical micro-programmed control unit
+Synchronous Data Transfer
+Asynchronous Data Transfer
+Instruction Pipelining
+Instruction Pipelining
+PipeliningTypes of pipeliningPipelining | Set 1 (Execution, Stages and Throughput)Pipelining | Set 2 (Dependencies and Data Hazard)Pipelining | Set 3 (Types and Stalling)Different Instruction CyclesPerformance of ComputerMicro-OperationRISC and CISCRISC and CISC | Set 2
+Pipelining
+Types of pipelining
+Pipelining | Set 1 (Execution, Stages and Throughput)
+Pipelining | Set 2 (Dependencies and Data Hazard)
+Pipelining | Set 3 (Types and Stalling)
+Different Instruction Cycles
+Performance of Computer
+Micro-Operation
+RISC and CISC
+RISC and CISC | Set 2
+Cache Memory
+Cache Memory
+Memory Hierarchy Design and its CharacteristicsCache MemoryCache Organization | IntroductionLocality and Cache friendly codeWhat’s difference between CPU Cache and TLB?Read and Write operations in memoryMemory InterleavingIntroduction to memory and memory units2D and 2.5D Memory organizationTypes of computer memory (RAM and ROM)Different Types of RAMRAM vs ROM
+Memory Hierarchy Design and its Characteristics
+Cache Memory
+Cache Organization | Introduction
+Locality and Cache friendly code
+What’s difference between CPU Cache and TLB?
+Read and Write operations in memory
+Memory Interleaving
+Introduction to memory and memory units
+2D and 2.5D Memory organization
+Types of computer memory (RAM and ROM)
+Different Types of RAM
+RAM vs ROM
+I/O interface (Interrupt and DMA mode)
+I/O interface (Interrupt and DMA mode)
+I/O Interface (Interrupt and DMA Mode)Input-Output ProcessorKernel I/O SubsystemMemory mapped I/O and Isolated I/OBUS ArbitrationPriority Interrupts | (S/W Polling and Daisy Chaining)Asynchronous input output synchronizationComputer PortsClusters In Computer OrganisationHuman – Computer interaction through the agesCATEGORY ARCHIVES: COMPUTER ORGANIZATION & ARCHITECTURE
+I/O Interface (Interrupt and DMA Mode)
+Input-Output Processor
+Kernel I/O Subsystem
+Memory mapped I/O and Isolated I/O
+BUS Arbitration
+Priority Interrupts | (S/W Polling and Daisy Chaining)
+Asynchronous input output synchronization
+Computer Ports
+Clusters In Computer Organisation
+Human – Computer interaction through the ages
+CATEGORY ARCHIVES: COMPUTER ORGANIZATION & ARCHITECTURE
+GATE
+GATE CS
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_img-practice_prod_courses_451_Web_Content_cp_1723008864.webp
+media.geeksforgeeks.org_img-practice_prod_courses_405_Mobile_Other_Course_ML___DS_1720846555.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

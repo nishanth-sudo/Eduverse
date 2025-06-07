@@ -1,0 +1,1133 @@
+HTML Cheat Sheet
+CSS Cheat Sheet
+JS Cheat Sheet
+Bootstrap Cheat Sheet
+jQuery Cheat Sheet
+Angular Cheat Sheet
+SDE Sheet
+Facebook SDE Sheet
+Amazon SDE Sheet
+Apple SDE Sheet
+Netflix SDE Sheet
+Google SDE Sheet
+Wipro SDE Sheet
+Infosys SDE Sheet
+TCS SDE Sheet
+Cognizant SDE Sheet
+HCL SDE Sheet
+Mass Recruiters Sheet
+Product-Based Coding Sheet
+Company-Wise Practice Sheet
+Love Babbar Sheet
+Explore GfG Courses
+Share Your Experiences
+SDE SHEET - A Complete Guide for SDE Preparation
+DSA Tutorial - Learn Data Structures and Algorithms
+Top 50 Array Coding Problems for Interviews
+Top 50 Problems on Matrix/Grid Data Structure asked in SDE Interviews
+Top 50 String Coding Problems for Interviews
+Top 50 Problems on Stack Data Structure asked in SDE Interviews
+Top 50 Problems on Queue Data Structure asked in SDE Interviews
+Top 50 Problems on Recursion Algorithm
+Top 20 Backtracking Algorithm Interview Questions
+Top Sorting Interview Questions and Problems
+Top 50 Problems on Linked List Data Structure asked in SDE Interviews
+Top 20 Hashing Technique based Interview Questions
+Top 50 Tree Coding Problems for Interviews
+Top Problems on Heap Data Structure asked in SDE Interviews
+Top 50 Graph Coding Problems for Interviews
+Top 20 Greedy Algorithms Interview Questions
+Top 50 Dynamic Programming Coding Problems for Interviews
+DSA to DevelopmentCourse
+SDE SHEET - A Complete Guide for SDE PreparationLast Updated :25 Feb, 2025CommentsImproveSuggest changesLike ArticleLikeReportHere is a curated list of the most popular questions among important topics, such as Programming Languages, Data Structure and Algorithms (DSA), CS Subjects, Aptitude, etc, asked in the Software Development Engineer Interviews.This sheet contains a wide range of coding questions from different Data Structures and Algorithms.It covers all the segments round-wise like MCQs, DSA (Coding Questions), CS Subjects, Puzzles, System Design, Projects.It is helpful for bothStudents and Experienced.Data Structures and Algorithms (250)Below are the list of top problems topic wise:Arrays (21)Find Missing and Repeating elementEasyStock Buy and Sell – Max one Transaction AllowedEasyRemove Duplicates in a Sorted ArrayEasyConvert Array into Zig-Zag fashionEasyFind third largest elementEasyCheck Pair Sum in a Sorted and Rotated ArrayMediumSort an array of 0s, 1s, and 2sMediumRotate Array K timesMediumFind Majority ElementMediumMaximum Subarray Sum – Kadane’s AlgorithmMediumStock Buy and Sell – Multiple Transaction AllowedMediumNext PermutationMediumMaximum Product SubarrayMediumMaximize i*arr[i] among all Rotations of ArrayMediumRearrange Array in Max Min FormMediumFind Smallest Missing Positive NumberMediumMinimum Jumps to Reach EndMediumTrapping Rain WaterHardMaximum Circular Subarray SumHardClosest Palindrome NumberHardStock Buy and Sell – Max 2 Transactions AllowedHardSorting (13)Important Sorting Algorithms:Bubble Sort,Selection Sort,Insertion Sort,Merge Sort,Quick Sort,Cycle Sort,Counting Sort,Bucket Sort,Heap Sort,Radix SortMaximum Meetings in One RoomEasyChocolate Distribution ProblemEasyFind a Pair with the given differenceEasyForm the Largest NumberMediumMerge Two Sorted Arrays Without Extra SpaceMediumCount Inversions of an ArrayMediumMeeting Rooms - IIMediumMerge Overlapping IntervalsMediumMinimum Swaps to SortMediumMinimize the Maximum Difference between the HeightsMediumFind k largest elements in an array (Quick Sort Method)Medium3 Sum – Triplet Sum in ArrayMedium4 Sum - All QuadruplesMediumStrings (14)First Repeated CharacterEasyReverse WordsEasyRoman Number to IntegerEasyCheck AnagramEasyRemove DuplicatesEasyLongest Substring Without Repeating CharactersMediumRabin-Karp AlgorithmMediumZ algorithmMediumLongest Palindromic SubstringMediumLook-and-Say SequenceMediumNumber to English WordsMediumKMP AlgorithmHardMinimum Characters to Add at Front for PalindromeHardSmallest Window Containing All Characters of Another StringHardHashing (15)At least K OccurencesEasyCommon Elements in Two ArraysEasyLongest Subarray with 0 SumMediumCount Distinct Elements In Every Window of Size KMedium4 Sum – Count Quadruplets with Given SumMediumCheck If Array Pair Sums Divisible by kMediumLongest Consecutive SubsequenceMediumCount Subarrays having Sum KMediumLongest Subarray With Sum KMediumLongest Subarray With Sum Divisible By KMediumSort according to an ArrayMediumGroup Anagrams TogetherMediumCount Maximum Points on Same LineHardLFU cacheHardMinimum Window SubstringHardBinary Search (10)Binary Search AlgorithmEasyN-th root of a numberEasySingle Element in a Sorted ArrayMediumSearch in a Sorted and Rotated ArrayMediumSum of Middle Elements of two Sorted ArraysMediumFirst and Last OccurrenceMediumMedian of two Sorted ArraysHardMedian in a Row-wise sorted MatrixHardAllocate Minimum PagesHardAggressive CowsHardMatrix (6)Find the row with maximum number of 1sEasyRotate an Image 90 Degree ClockwiseMediumSpirally traversing a matrixMediumSearch in a Sorted MatrixMediumSet Matrix Rows and Columns to ZeroesMediumMax rectangle in Binary MatrixHardRecursion and Backtracking (13)Find all Unique SubsetsMediumGenerate Sums of all SubsetsMediumTower of HanoiMediumGenerate all Unique PermutationsMediumRat in a MazeMediumCombination Sum (Repeated Selection)MediumCombination Sum II (Single Selection)MediumGenerate all Palindromic PartitionsMediumGenerate Valid IP AddressesMediumWord SearchMediumN-Queen ProblemHardSolve SudokuHardWord BreakHardStack (10)Validate ParenthesesEasyImplement two Stacks in an ArrayMediumThe Stock Span ProblemMediumNext Greater ElementMediumGet Min from StackMediumEvaluation of Postfix ExpressionMediumLongest Valid Parentheses SubstringMediumLargest Rectangular Area in a HistogramHardMaximum of Minimum for Every Window SizeHardImplement K Stacks in an ArrayHardQueue (3)Moving Average from Data StreamEasyDesign Circular QueueMediumStream First Non-repeatingMediumDeque (3)Maximum of all subarrays of size KMediumLongest Subarray with Absolute Difference Less than or Equal to KMediumShortest Subarray with Sum at Least KHardStack + Queue (2)Stack using QueuesEasyQueue using StacksEasyHeap (10)Connect Ropes with Minimum CostEasyImplement Binary HeapMediumRearrange String to Avoid Adjacent DuplicatesMediumKth Largest ElementMediumMerge k Sorted ArraysMediumTop K Frequent ElementsMediumMerge K Sorted Linked ListsMediumKth Smallest Element in MatrixMediumSort a K Sorted ArrayMediumFind Median in StreamHardBit Manipulation (12)Important Bit operations:Set, Clear and Toggle a Bit,Strip Last Set Bit,Count Set BitsK-th Bit is Set or NotEasySwap 2 Numbers using XOREasyCheck if a Number is a Power of 2EasyRightmost Set BitEasyRightmost Different BitEasyToggle Bits in Given RangeEasySingle in CouplesEasyDivision without *, /, or %MediumCount Set Bits from 1 to NMediumGenerate Subsets using Bit ManipulationMediumFind Two Numbers with Odd OccurrencesMediumMaximum Subset XORHardLinked List (16)Find Middle of the Linked ListEasyReverse a Linked ListEasyKth from End of Linked ListEasyPairwise Swap Elements of Linked ListEasySort a linked list of 0s, 1s and 2sMediumRotate a Linked List K timesMediumIntersection in Y Shaped ListsMediumDetect Loop in Linked ListMediumRemove loop in Linked ListMediumFlattening a Linked ListMediumMerge two Sorted Linked ListsMediumAdd Two Numbers Represented as Linked ListMediumPalindrome Linked ListMediumLinked List Group ReverseHardClone a Linked List with Next and Random PointerHardLRU CacheHardBinary Tree (19)Important Traversal:Inorder,Preorder,Postorder,Level OrderLevel Order Traversal in Spiral FormEasyHeight of Binary TreeEasyBalanced Tree CheckEasyCheck Symmetric TreeEasyCheck Identical TreesEasyLeft View of Binary TreeEasyTop View of Binary TreeMediumBottom View of Binary TreeMediumDiagonal Tree TraversalMediumVertical Tree TraversalMediumLCA in Binary TreeMediumTree Boundary TraversalMediumDiameter of a Binary TreeMediumConnect Nodes of LevelsMediumSerialize and Deserialize a Binary TreeMediumConstruct Tree from Inorder & PreorderMediumMaximum Path Sum between 2 NodesMediumMax Path Sum between 2 Leaf NodesHardConvert Binary Tree to Doubly Linked ListHardBinary Search Tree (12)Check for BSTEasyLCA in BSTEasySorted Array to BSTEasyKth Largest Element in BSTEasyCeil in BSTMediumLargest BSTMediumMerge two BST 'sMediumPreorder to BSTMediumPredecessor and Successor in BSTMediumBinary Search Tree IteratorMediumDelete a Node from BSTMediumBalance a Binary Search TreeMediumGreedy (9)Minimize the Sum of ProductEasyLargest Number PossibleEasyMinimum Number of CoinsEasyAssign CookiesEasyGas StationMediumActivity SelectionMediumFractional KnapsackMediumJob SequencingMediumHuffman EncodingHardDynamic Programming (21)Ways to Reach the Nth StairMediumHouse Robber IIMediumCoin Change (Minimum Coins)MediumCoin Change (Count Ways)MediumLongest Common SubstringMediumLongest Increasing SubsequenceMediumLongest Common SubsequenceMedium0 - 1 Knapsack ProblemMediumPartition Equal Subset SumMediumMinimum Insertions to Form PalindromeMediumMaximize The Cut SegmentsMediumMaximum Path Sum in MatrixMediumRod CuttingMediumEgg Dropping PuzzleMediumWord BreakMediumOptimal Strategy For A GameMediumWildcard Pattern MatchingMediumEdit DistanceMediumMatrix Chain MultiplicationHardPalindromic PartitioningHardBoolean ParenthesizationHardGraph (32)DFS of GraphEasyBFS of GraphEasyDetect Cycle in Undirected GraphMediumDetect Cycle in a Directed GraphMediumDetect a Negative CycleMediumTopological SortingMediumShortest Path in Directed Acyclic GraphMediumKahn’s AlgorithmMediumDijkstra AlgorithmMediumBellman-Ford AlgorithmMediumFloyd Warshall AlgorithmMediumPrim’s AlgorithmMediumKruskal’s AlgorithmMediumEuler Path and CircuitMediumHamiltonian Path and CircuitMediumKosaraju’s AlgorithmHardTarjan’s AlgorithmHardBridges in GraphHardArticulation Points in GraphHardDisjoint Set (Union Find Algorithm)HardMother VertexMediumRotten OrangesMediumFlood fill AlgorithmMediumReplace O's with X'sMediumSteps by KnightMediumBipartite GraphMediumNumber of IslandsMediumClone an Undirected GraphMediumM-Coloring ProblemMediumAlien DictionaryHardCircle of StringsHardMinimum Cost PathHardTrie (6)Insert, Search and Delete in TrieMediumLongest Common Prefix of StringsMediumPrefix Suffix StringMediumWord Break (Trie)HardPhone DirectoryHardMaximum XOR SubarrayHardComputer Science Subjects1. Operating SystemAn operating system acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs conveniently and efficiently. Below links contains complete Operating System Study Material:Commonly Asked Operating Systems Interview QuestionsLast Minute Notes (LMNs) | Operating SystemsComplete Tutorial on Operating System2. DBMSDatabase is a collection of inter-related data which helps in efficient retrieval, insertion and deletion of data from database and organizes the data in the form of tables, Links, schemas, reports etc. Below Links contains complete DBMS study Material:Commonly Asked DBMS Interview QuestionsCommonly Asked DBMS Interview Questions | Set-2Last Minute Notes (LMNs) | DBMSComplete Tutorial on DBMS3. SQLSQL stands for Structured Query Language. It is a language used to interact with the database, i.e to create a database, to create a table in the database, to retrieve data or update a table in the database. Below Links contains complete SQL study Material:SQL Interview QuestionsSQL Interview Questions | Set-2SQL Interview Questions | Set-3Complete Tutorial on SQL4. Computer NetworksA computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. Below Links contains complete Computer Networks study Material:Commonly Asked Computer Networks Interview QuestionsLast Minute Notes (LMNs) | Computer NetworksComplete Tutorial on Computer NetworksPuzzlesPuzzles are one of the ways to check your problem-solving skills. These are tricky questions that let you think logically.Try to solve the20 most popular puzzles asked in InterviewsProjectsThoroughly revise all the work you have done till now in your projects. The grilling about projects can sometimes be very deep. Also, choose your words before you speak. Mention only those topics where you think you are fine to be grilled upon.If you haven't made a project then take an idea fromGfG Projectsand start working on these.System DesignSystem Design is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. System Design for tech interviews is something that can’t be ignored especially for experienced people Almost every IT giant whether it be Facebook, Amazon, Google, or any other ask various questions based on System Design concepts such as scalability, load-balancing, caching, etc. in the interview.Please referSystem Design tutorialthat will help you to learn and master System Design concepts in the most efficient way from basics to advanced level.Bonus SDE SheetsYou can prepare for several types of interviews here. For instance, if you want to prepare for a Google interview, we have an SDE sheet specifically designed for that purpose. Here we attached the links to the top 5 product based and top 5 Service based preparation SDE Sheets.Product Based Company SDE SheetsService Based Company SDE SheetsFacebook(Meta) SDE SheetWipro SDE SheetAmazon SDE SheetInfosys SDE SheetApple SDE SheetTCS SDE SheetNetflix SDE SheetCognizant SDE SheetGoogle SDE SheetHCL SDE SheetNext ArticleDSA Tutorial - Learn Data Structures and AlgorithmskartikImproveArticle Tags :DSASoftware DevelopmentGFG SheetsSDE Sheet
+SDE SHEET - A Complete Guide for SDE Preparation
+Here is a curated list of the most popular questions among important topics, such as Programming Languages, Data Structure and Algorithms (DSA), CS Subjects, Aptitude, etc, asked in the Software Development Engineer Interviews.
+This sheet contains a wide range of coding questions from different Data Structures and Algorithms.
+It covers all the segments round-wise like MCQs, DSA (Coding Questions), CS Subjects, Puzzles, System Design, Projects.
+It is helpful for bothStudents and Experienced.
+Data Structures and Algorithms (250)
+Below are the list of top problems topic wise:
+Arrays (21)
+Find Missing and Repeating element
+Find Missing and Repeating element
+Easy
+Easy
+Stock Buy and Sell – Max one Transaction Allowed
+Stock Buy and Sell – Max one Transaction Allowed
+Easy
+Easy
+Remove Duplicates in a Sorted Array
+Remove Duplicates in a Sorted Array
+Easy
+Easy
+Convert Array into Zig-Zag fashion
+Convert Array into Zig-Zag fashion
+Easy
+Easy
+Find third largest element
+Find third largest element
+Easy
+Easy
+Check Pair Sum in a Sorted and Rotated Array
+Check Pair Sum in a Sorted and Rotated Array
+Medium
+Medium
+Sort an array of 0s, 1s, and 2s
+Sort an array of 0s, 1s, and 2s
+Medium
+Medium
+Rotate Array K times
+Rotate Array K times
+Medium
+Medium
+Find Majority Element
+Find Majority Element
+Medium
+Medium
+Maximum Subarray Sum – Kadane’s Algorithm
+Maximum Subarray Sum – Kadane’s Algorithm
+Medium
+Medium
+Stock Buy and Sell – Multiple Transaction Allowed
+Stock Buy and Sell – Multiple Transaction Allowed
+Medium
+Medium
+Next Permutation
+Next Permutation
+Medium
+Medium
+Maximum Product Subarray
+Maximum Product Subarray
+Medium
+Medium
+Maximize i*arr[i] among all Rotations of Array
+Maximize i*arr[i] among all Rotations of Array
+Medium
+Medium
+Rearrange Array in Max Min Form
+Rearrange Array in Max Min Form
+Medium
+Medium
+Find Smallest Missing Positive Number
+Find Smallest Missing Positive Number
+Medium
+Medium
+Minimum Jumps to Reach End
+Minimum Jumps to Reach End
+Medium
+Medium
+Trapping Rain Water
+Trapping Rain Water
+Hard
+Hard
+Maximum Circular Subarray Sum
+Maximum Circular Subarray Sum
+Hard
+Hard
+Closest Palindrome Number
+Closest Palindrome Number
+Hard
+Hard
+Stock Buy and Sell – Max 2 Transactions Allowed
+Stock Buy and Sell – Max 2 Transactions Allowed
+Hard
+Hard
+Sorting (13)
+Important Sorting Algorithms:Bubble Sort,Selection Sort,Insertion Sort,Merge Sort,Quick Sort,Cycle Sort,Counting Sort,Bucket Sort,Heap Sort,Radix Sort
+Maximum Meetings in One Room
+Maximum Meetings in One Room
+Easy
+Easy
+Chocolate Distribution Problem
+Chocolate Distribution Problem
+Easy
+Easy
+Find a Pair with the given difference
+Find a Pair with the given difference
+Easy
+Easy
+Form the Largest Number
+Form the Largest Number
+Medium
+Medium
+Merge Two Sorted Arrays Without Extra Space
+Merge Two Sorted Arrays Without Extra Space
+Medium
+Medium
+Count Inversions of an Array
+Count Inversions of an Array
+Medium
+Medium
+Meeting Rooms - II
+Meeting Rooms - II
+Medium
+Medium
+Merge Overlapping Intervals
+Merge Overlapping Intervals
+Medium
+Medium
+Minimum Swaps to Sort
+Minimum Swaps to Sort
+Medium
+Medium
+Minimize the Maximum Difference between the Heights
+Minimize the Maximum Difference between the Heights
+Medium
+Medium
+Find k largest elements in an array (Quick Sort Method)
+Find k largest elements in an array (Quick Sort Method)
+Medium
+Medium
+3 Sum – Triplet Sum in Array
+3 Sum – Triplet Sum in Array
+Medium
+Medium
+4 Sum - All Quadruples
+4 Sum - All Quadruples
+Medium
+Medium
+Strings (14)
+First Repeated Character
+First Repeated Character
+Easy
+Easy
+Reverse Words
+Reverse Words
+Easy
+Easy
+Roman Number to Integer
+Roman Number to Integer
+Easy
+Easy
+Check Anagram
+Check Anagram
+Easy
+Easy
+Remove Duplicates
+Remove Duplicates
+Easy
+Easy
+Longest Substring Without Repeating Characters
+Longest Substring Without Repeating Characters
+Medium
+Medium
+Rabin-Karp Algorithm
+Rabin-Karp Algorithm
+Medium
+Medium
+Z algorithm
+Z algorithm
+Medium
+Medium
+Longest Palindromic Substring
+Longest Palindromic Substring
+Medium
+Medium
+Look-and-Say Sequence
+Look-and-Say Sequence
+Medium
+Medium
+Number to English Words
+Number to English Words
+Medium
+Medium
+KMP Algorithm
+KMP Algorithm
+Hard
+Hard
+Minimum Characters to Add at Front for Palindrome
+Minimum Characters to Add at Front for Palindrome
+Hard
+Hard
+Smallest Window Containing All Characters of Another String
+Smallest Window Containing All Characters of Another String
+Hard
+Hard
+Hashing (15)
+At least K Occurences
+At least K Occurences
+Easy
+Easy
+Common Elements in Two Arrays
+Common Elements in Two Arrays
+Easy
+Easy
+Longest Subarray with 0 Sum
+Longest Subarray with 0 Sum
+Medium
+Medium
+Count Distinct Elements In Every Window of Size K
+Count Distinct Elements In Every Window of Size K
+Medium
+Medium
+4 Sum – Count Quadruplets with Given Sum
+4 Sum – Count Quadruplets with Given Sum
+Medium
+Medium
+Check If Array Pair Sums Divisible by k
+Check If Array Pair Sums Divisible by k
+Medium
+Medium
+Longest Consecutive Subsequence
+Longest Consecutive Subsequence
+Medium
+Medium
+Count Subarrays having Sum K
+Count Subarrays having Sum K
+Medium
+Medium
+Longest Subarray With Sum K
+Longest Subarray With Sum K
+Medium
+Medium
+Longest Subarray With Sum Divisible By K
+Longest Subarray With Sum Divisible By K
+Medium
+Medium
+Sort according to an Array
+Sort according to an Array
+Medium
+Medium
+Group Anagrams Together
+Group Anagrams Together
+Medium
+Medium
+Count Maximum Points on Same Line
+Count Maximum Points on Same Line
+Hard
+Hard
+LFU cache
+LFU cache
+Hard
+Hard
+Minimum Window Substring
+Minimum Window Substring
+Hard
+Hard
+Binary Search (10)
+Binary Search Algorithm
+Binary Search Algorithm
+Easy
+Easy
+N-th root of a number
+N-th root of a number
+Easy
+Easy
+Single Element in a Sorted Array
+Single Element in a Sorted Array
+Medium
+Medium
+Search in a Sorted and Rotated Array
+Search in a Sorted and Rotated Array
+Medium
+Medium
+Sum of Middle Elements of two Sorted Arrays
+Sum of Middle Elements of two Sorted Arrays
+Medium
+Medium
+First and Last Occurrence
+First and Last Occurrence
+Medium
+Medium
+Median of two Sorted Arrays
+Median of two Sorted Arrays
+Hard
+Hard
+Median in a Row-wise sorted Matrix
+Median in a Row-wise sorted Matrix
+Hard
+Hard
+Allocate Minimum Pages
+Allocate Minimum Pages
+Hard
+Hard
+Aggressive Cows
+Aggressive Cows
+Hard
+Hard
+Matrix (6)
+Find the row with maximum number of 1s
+Find the row with maximum number of 1s
+Easy
+Easy
+Rotate an Image 90 Degree Clockwise
+Rotate an Image 90 Degree Clockwise
+Medium
+Medium
+Spirally traversing a matrix
+Spirally traversing a matrix
+Medium
+Medium
+Search in a Sorted Matrix
+Search in a Sorted Matrix
+Medium
+Medium
+Set Matrix Rows and Columns to Zeroes
+Set Matrix Rows and Columns to Zeroes
+Medium
+Medium
+Max rectangle in Binary Matrix
+Max rectangle in Binary Matrix
+Hard
+Hard
+Recursion and Backtracking (13)
+Find all Unique Subsets
+Find all Unique Subsets
+Medium
+Medium
+Generate Sums of all Subsets
+Generate Sums of all Subsets
+Medium
+Medium
+Tower of Hanoi
+Tower of Hanoi
+Medium
+Medium
+Generate all Unique Permutations
+Generate all Unique Permutations
+Medium
+Medium
+Rat in a Maze
+Rat in a Maze
+Medium
+Medium
+Combination Sum (Repeated Selection)
+Combination Sum (Repeated Selection)
+Medium
+Medium
+Combination Sum II (Single Selection)
+Combination Sum II (Single Selection)
+Medium
+Medium
+Generate all Palindromic Partitions
+Generate all Palindromic Partitions
+Medium
+Medium
+Generate Valid IP Addresses
+Generate Valid IP Addresses
+Medium
+Medium
+Word Search
+Word Search
+Medium
+Medium
+N-Queen Problem
+N-Queen Problem
+Hard
+Hard
+Solve Sudoku
+Solve Sudoku
+Hard
+Hard
+Word Break
+Word Break
+Hard
+Hard
+Stack (10)
+Validate Parentheses
+Validate Parentheses
+Easy
+Easy
+Implement two Stacks in an Array
+Implement two Stacks in an Array
+Medium
+Medium
+The Stock Span Problem
+The Stock Span Problem
+Medium
+Medium
+Next Greater Element
+Next Greater Element
+Medium
+Medium
+Get Min from Stack
+Get Min from Stack
+Medium
+Medium
+Evaluation of Postfix Expression
+Evaluation of Postfix Expression
+Medium
+Medium
+Longest Valid Parentheses Substring
+Longest Valid Parentheses Substring
+Medium
+Medium
+Largest Rectangular Area in a Histogram
+Largest Rectangular Area in a Histogram
+Hard
+Hard
+Maximum of Minimum for Every Window Size
+Maximum of Minimum for Every Window Size
+Hard
+Hard
+Implement K Stacks in an Array
+Implement K Stacks in an Array
+Hard
+Hard
+Queue (3)
+Moving Average from Data Stream
+Moving Average from Data Stream
+Easy
+Easy
+Design Circular Queue
+Design Circular Queue
+Medium
+Medium
+Stream First Non-repeating
+Stream First Non-repeating
+Medium
+Medium
+Deque (3)
+Maximum of all subarrays of size K
+Maximum of all subarrays of size K
+Medium
+Medium
+Longest Subarray with Absolute Difference Less than or Equal to K
+Longest Subarray with Absolute Difference Less than or Equal to K
+Medium
+Medium
+Shortest Subarray with Sum at Least K
+Shortest Subarray with Sum at Least K
+Hard
+Hard
+Stack + Queue (2)
+Stack using Queues
+Stack using Queues
+Easy
+Easy
+Queue using Stacks
+Queue using Stacks
+Easy
+Easy
+Heap (10)
+Connect Ropes with Minimum Cost
+Connect Ropes with Minimum Cost
+Easy
+Easy
+Implement Binary Heap
+Implement Binary Heap
+Medium
+Medium
+Rearrange String to Avoid Adjacent Duplicates
+Rearrange String to Avoid Adjacent Duplicates
+Medium
+Medium
+Kth Largest Element
+Kth Largest Element
+Medium
+Medium
+Merge k Sorted Arrays
+Merge k Sorted Arrays
+Medium
+Medium
+Top K Frequent Elements
+Top K Frequent Elements
+Medium
+Medium
+Merge K Sorted Linked Lists
+Merge K Sorted Linked Lists
+Medium
+Medium
+Kth Smallest Element in Matrix
+Kth Smallest Element in Matrix
+Medium
+Medium
+Sort a K Sorted Array
+Sort a K Sorted Array
+Medium
+Medium
+Find Median in Stream
+Find Median in Stream
+Hard
+Hard
+Bit Manipulation (12)
+Important Bit operations:Set, Clear and Toggle a Bit,Strip Last Set Bit,Count Set Bits
+K-th Bit is Set or Not
+K-th Bit is Set or Not
+Easy
+Easy
+Swap 2 Numbers using XOR
+Swap 2 Numbers using XOR
+Easy
+Easy
+Check if a Number is a Power of 2
+Check if a Number is a Power of 2
+Easy
+Easy
+Rightmost Set Bit
+Rightmost Set Bit
+Easy
+Easy
+Rightmost Different Bit
+Rightmost Different Bit
+Easy
+Easy
+Toggle Bits in Given Range
+Toggle Bits in Given Range
+Easy
+Easy
+Single in Couples
+Single in Couples
+Easy
+Easy
+Division without *, /, or %
+Division without *, /, or %
+Medium
+Medium
+Count Set Bits from 1 to N
+Count Set Bits from 1 to N
+Medium
+Medium
+Generate Subsets using Bit Manipulation
+Generate Subsets using Bit Manipulation
+Medium
+Medium
+Find Two Numbers with Odd Occurrences
+Find Two Numbers with Odd Occurrences
+Medium
+Medium
+Maximum Subset XOR
+Maximum Subset XOR
+Hard
+Hard
+Linked List (16)
+Find Middle of the Linked List
+Find Middle of the Linked List
+Easy
+Easy
+Reverse a Linked List
+Reverse a Linked List
+Easy
+Easy
+Kth from End of Linked List
+Kth from End of Linked List
+Easy
+Easy
+Pairwise Swap Elements of Linked List
+Pairwise Swap Elements of Linked List
+Easy
+Easy
+Sort a linked list of 0s, 1s and 2s
+Sort a linked list of 0s, 1s and 2s
+Medium
+Medium
+Rotate a Linked List K times
+Rotate a Linked List K times
+Medium
+Medium
+Intersection in Y Shaped Lists
+Intersection in Y Shaped Lists
+Medium
+Medium
+Detect Loop in Linked List
+Detect Loop in Linked List
+Medium
+Medium
+Remove loop in Linked List
+Remove loop in Linked List
+Medium
+Medium
+Flattening a Linked List
+Flattening a Linked List
+Medium
+Medium
+Merge two Sorted Linked Lists
+Merge two Sorted Linked Lists
+Medium
+Medium
+Add Two Numbers Represented as Linked List
+Add Two Numbers Represented as Linked List
+Medium
+Medium
+Palindrome Linked List
+Palindrome Linked List
+Medium
+Medium
+Linked List Group Reverse
+Linked List Group Reverse
+Hard
+Hard
+Clone a Linked List with Next and Random Pointer
+Clone a Linked List with Next and Random Pointer
+Hard
+Hard
+LRU Cache
+LRU Cache
+Hard
+Hard
+Binary Tree (19)
+Important Traversal:Inorder,Preorder,Postorder,Level Order
+Level Order Traversal in Spiral Form
+Level Order Traversal in Spiral Form
+Easy
+Easy
+Height of Binary Tree
+Height of Binary Tree
+Easy
+Easy
+Balanced Tree Check
+Balanced Tree Check
+Easy
+Easy
+Check Symmetric Tree
+Check Symmetric Tree
+Easy
+Easy
+Check Identical Trees
+Check Identical Trees
+Easy
+Easy
+Left View of Binary Tree
+Left View of Binary Tree
+Easy
+Easy
+Top View of Binary Tree
+Top View of Binary Tree
+Medium
+Medium
+Bottom View of Binary Tree
+Bottom View of Binary Tree
+Medium
+Medium
+Diagonal Tree Traversal
+Diagonal Tree Traversal
+Medium
+Medium
+Vertical Tree Traversal
+Vertical Tree Traversal
+Medium
+Medium
+LCA in Binary Tree
+LCA in Binary Tree
+Medium
+Medium
+Tree Boundary Traversal
+Tree Boundary Traversal
+Medium
+Medium
+Diameter of a Binary Tree
+Diameter of a Binary Tree
+Medium
+Medium
+Connect Nodes of Levels
+Connect Nodes of Levels
+Medium
+Medium
+Serialize and Deserialize a Binary Tree
+Serialize and Deserialize a Binary Tree
+Medium
+Medium
+Construct Tree from Inorder & Preorder
+Construct Tree from Inorder & Preorder
+Medium
+Medium
+Maximum Path Sum between 2 Nodes
+Maximum Path Sum between 2 Nodes
+Medium
+Medium
+Max Path Sum between 2 Leaf Nodes
+Max Path Sum between 2 Leaf Nodes
+Hard
+Hard
+Convert Binary Tree to Doubly Linked List
+Convert Binary Tree to Doubly Linked List
+Hard
+Hard
+Binary Search Tree (12)
+Check for BST
+Check for BST
+Easy
+Easy
+LCA in BST
+LCA in BST
+Easy
+Easy
+Sorted Array to BST
+Sorted Array to BST
+Easy
+Easy
+Kth Largest Element in BST
+Kth Largest Element in BST
+Easy
+Easy
+Ceil in BST
+Ceil in BST
+Medium
+Medium
+Largest BST
+Largest BST
+Medium
+Medium
+Merge two BST 's
+Merge two BST 's
+Medium
+Medium
+Preorder to BST
+Preorder to BST
+Medium
+Medium
+Predecessor and Successor in BST
+Predecessor and Successor in BST
+Medium
+Medium
+Binary Search Tree Iterator
+Binary Search Tree Iterator
+Medium
+Medium
+Delete a Node from BST
+Delete a Node from BST
+Medium
+Medium
+Balance a Binary Search Tree
+Balance a Binary Search Tree
+Medium
+Medium
+Greedy (9)
+Minimize the Sum of Product
+Minimize the Sum of Product
+Easy
+Easy
+Largest Number Possible
+Largest Number Possible
+Easy
+Easy
+Minimum Number of Coins
+Minimum Number of Coins
+Easy
+Easy
+Assign Cookies
+Assign Cookies
+Easy
+Easy
+Gas Station
+Gas Station
+Medium
+Medium
+Activity Selection
+Activity Selection
+Medium
+Medium
+Fractional Knapsack
+Fractional Knapsack
+Medium
+Medium
+Job Sequencing
+Job Sequencing
+Medium
+Medium
+Huffman Encoding
+Huffman Encoding
+Hard
+Hard
+Dynamic Programming (21)
+Ways to Reach the Nth Stair
+Ways to Reach the Nth Stair
+Medium
+Medium
+House Robber II
+House Robber II
+Medium
+Medium
+Coin Change (Minimum Coins)
+Coin Change (Minimum Coins)
+Medium
+Medium
+Coin Change (Count Ways)
+Coin Change (Count Ways)
+Medium
+Medium
+Longest Common Substring
+Longest Common Substring
+Medium
+Medium
+Longest Increasing Subsequence
+Longest Increasing Subsequence
+Medium
+Medium
+Longest Common Subsequence
+Longest Common Subsequence
+Medium
+Medium
+0 - 1 Knapsack Problem
+0 - 1 Knapsack Problem
+Medium
+Medium
+Partition Equal Subset Sum
+Partition Equal Subset Sum
+Medium
+Medium
+Minimum Insertions to Form Palindrome
+Minimum Insertions to Form Palindrome
+Medium
+Medium
+Maximize The Cut Segments
+Maximize The Cut Segments
+Medium
+Medium
+Maximum Path Sum in Matrix
+Maximum Path Sum in Matrix
+Medium
+Medium
+Rod Cutting
+Rod Cutting
+Medium
+Medium
+Egg Dropping Puzzle
+Egg Dropping Puzzle
+Medium
+Medium
+Word Break
+Word Break
+Medium
+Medium
+Optimal Strategy For A Game
+Optimal Strategy For A Game
+Medium
+Medium
+Wildcard Pattern Matching
+Wildcard Pattern Matching
+Medium
+Medium
+Edit Distance
+Edit Distance
+Medium
+Medium
+Matrix Chain Multiplication
+Matrix Chain Multiplication
+Hard
+Hard
+Palindromic Partitioning
+Palindromic Partitioning
+Hard
+Hard
+Boolean Parenthesization
+Boolean Parenthesization
+Hard
+Hard
+Graph (32)
+DFS of Graph
+DFS of Graph
+Easy
+Easy
+BFS of Graph
+BFS of Graph
+Easy
+Easy
+Detect Cycle in Undirected Graph
+Detect Cycle in Undirected Graph
+Medium
+Medium
+Detect Cycle in a Directed Graph
+Detect Cycle in a Directed Graph
+Medium
+Medium
+Detect a Negative Cycle
+Detect a Negative Cycle
+Medium
+Medium
+Topological Sorting
+Topological Sorting
+Medium
+Medium
+Shortest Path in Directed Acyclic Graph
+Shortest Path in Directed Acyclic Graph
+Medium
+Medium
+Kahn’s Algorithm
+Kahn’s Algorithm
+Medium
+Medium
+Dijkstra Algorithm
+Dijkstra Algorithm
+Medium
+Medium
+Bellman-Ford Algorithm
+Bellman-Ford Algorithm
+Medium
+Medium
+Floyd Warshall Algorithm
+Floyd Warshall Algorithm
+Medium
+Medium
+Prim’s Algorithm
+Prim’s Algorithm
+Medium
+Medium
+Kruskal’s Algorithm
+Kruskal’s Algorithm
+Medium
+Medium
+Euler Path and Circuit
+Euler Path and Circuit
+Medium
+Medium
+Hamiltonian Path and Circuit
+Hamiltonian Path and Circuit
+Medium
+Medium
+Kosaraju’s Algorithm
+Kosaraju’s Algorithm
+Hard
+Hard
+Tarjan’s Algorithm
+Tarjan’s Algorithm
+Hard
+Hard
+Bridges in Graph
+Bridges in Graph
+Hard
+Hard
+Articulation Points in Graph
+Articulation Points in Graph
+Hard
+Hard
+Disjoint Set (Union Find Algorithm)
+Disjoint Set (Union Find Algorithm)
+Hard
+Hard
+Mother Vertex
+Mother Vertex
+Medium
+Medium
+Rotten Oranges
+Rotten Oranges
+Medium
+Medium
+Flood fill Algorithm
+Flood fill Algorithm
+Medium
+Medium
+Replace O's with X's
+Replace O's with X's
+Medium
+Medium
+Steps by Knight
+Steps by Knight
+Medium
+Medium
+Bipartite Graph
+Bipartite Graph
+Medium
+Medium
+Number of Islands
+Number of Islands
+Medium
+Medium
+Clone an Undirected Graph
+Clone an Undirected Graph
+Medium
+Medium
+M-Coloring Problem
+M-Coloring Problem
+Medium
+Medium
+Alien Dictionary
+Alien Dictionary
+Hard
+Hard
+Circle of Strings
+Circle of Strings
+Hard
+Hard
+Minimum Cost Path
+Minimum Cost Path
+Hard
+Hard
+Trie (6)
+Insert, Search and Delete in Trie
+Insert, Search and Delete in Trie
+Medium
+Medium
+Longest Common Prefix of Strings
+Longest Common Prefix of Strings
+Medium
+Medium
+Prefix Suffix String
+Prefix Suffix String
+Medium
+Medium
+Word Break (Trie)
+Word Break (Trie)
+Hard
+Hard
+Phone Directory
+Phone Directory
+Hard
+Hard
+Maximum XOR Subarray
+Maximum XOR Subarray
+Hard
+Hard
+Computer Science Subjects
+1. Operating System
+An operating system acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which a user can execute programs conveniently and efficiently. Below links contains complete Operating System Study Material:
+Commonly Asked Operating Systems Interview Questions
+Last Minute Notes (LMNs) | Operating Systems
+Complete Tutorial on Operating System
+2. DBMS
+Database is a collection of inter-related data which helps in efficient retrieval, insertion and deletion of data from database and organizes the data in the form of tables, Links, schemas, reports etc. Below Links contains complete DBMS study Material:
+Commonly Asked DBMS Interview Questions
+Commonly Asked DBMS Interview Questions | Set-2
+Last Minute Notes (LMNs) | DBMS
+Complete Tutorial on DBMS
+3. SQL
+SQL stands for Structured Query Language. It is a language used to interact with the database, i.e to create a database, to create a table in the database, to retrieve data or update a table in the database. Below Links contains complete SQL study Material:
+SQL Interview Questions
+SQL Interview Questions | Set-2
+SQL Interview Questions | Set-3
+Complete Tutorial on SQL
+4. Computer Networks
+A computer network is a system that connects numerous independent computers in order to share information (data) and resources. The integration of computers and other different devices allows users to communicate more easily. Below Links contains complete Computer Networks study Material:
+Commonly Asked Computer Networks Interview Questions
+Last Minute Notes (LMNs) | Computer Networks
+Complete Tutorial on Computer Networks
+Puzzles
+Puzzles are one of the ways to check your problem-solving skills. These are tricky questions that let you think logically.
+Try to solve the20 most popular puzzles asked in Interviews
+Projects
+Thoroughly revise all the work you have done till now in your projects. The grilling about projects can sometimes be very deep. Also, choose your words before you speak. Mention only those topics where you think you are fine to be grilled upon.
+If you haven't made a project then take an idea fromGfG Projectsand start working on these.
+System Design
+System Design is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements. System Design for tech interviews is something that can’t be ignored especially for experienced people Almost every IT giant whether it be Facebook, Amazon, Google, or any other ask various questions based on System Design concepts such as scalability, load-balancing, caching, etc. in the interview.
+Please referSystem Design tutorialthat will help you to learn and master System Design concepts in the most efficient way from basics to advanced level.
+Bonus SDE Sheets
+You can prepare for several types of interviews here. For instance, if you want to prepare for a Google interview, we have an SDE sheet specifically designed for that purpose. Here we attached the links to the top 5 product based and top 5 Service based preparation SDE Sheets.
+Product Based Company SDE Sheets
+Product Based Company SDE Sheets
+Service Based Company SDE Sheets
+Service Based Company SDE Sheets
+Facebook(Meta) SDE Sheet
+Facebook(Meta) SDE Sheet
+Wipro SDE Sheet
+Wipro SDE Sheet
+Amazon SDE Sheet
+Amazon SDE Sheet
+Infosys SDE Sheet
+Infosys SDE Sheet
+Apple SDE Sheet
+Apple SDE Sheet
+TCS SDE Sheet
+TCS SDE Sheet
+Netflix SDE Sheet
+Netflix SDE Sheet
+Cognizant SDE Sheet
+Cognizant SDE Sheet
+Google SDE Sheet
+Google SDE Sheet
+HCL SDE Sheet
+HCL SDE Sheet
+DSA
+Software Development
+GFG Sheets
+SDE Sheet
+Similar Reads
+Thank You!
+What kind of Experience do you want to share?
+
+[Images saved with this article:]
+media.geeksforgeeks.org_wp-content_cdn-uploads_20220228124519_Artboard-6-min.png
+media.geeksforgeeks.org_img-practice_prod_courses_504_Mobile_Other_Course_DSA_to_Dev_1720846081.webp
+media.geeksforgeeks.org_img-practice_prod_courses_252_Web_Content_cs_1722948837.webp
+media.geeksforgeeks.org_wp-content_uploads_20241228113207559105_file.webp
+media.geeksforgeeks.org_auth-dashboard-uploads_suggestChangeIcon.png
+media.geeksforgeeks.org_auth-dashboard-uploads_createImprovementIcon.png

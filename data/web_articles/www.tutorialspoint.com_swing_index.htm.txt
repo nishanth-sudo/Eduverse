@@ -1,0 +1,50 @@
+SWING - Home
+SWING - Overview
+SWING - Environment
+SWING - Controls
+SWING - Event Handling
+SWING - Event Classes
+SWING - Event Listeners
+SWING - Event Adapters
+SWING - Layouts
+SWING - Menu
+SWING - Containers
+SWING - Quick Guide
+SWING - Useful Resources
+SWING - Discussion
+Selected Reading
+UPSC IAS Exams Notes
+Developer's Best Practices
+Questions and Answers
+Effective Resume Writing
+AI Based Resume Builder
+Personal AI Study Assistant
+Generate Coding Logic
+HR Interview Questions
+Computer Glossary
+Who is Who
+SWING Tutorial
+JAVA provides a rich set of libraries to create Graphical User Interface in a platform independent way. In this tutorial, we'll look at SWING GUI controls.
+Audience
+This tutorial is designed for software professionals who are willing to learn JAVA GUI Programming in simple and easy steps. This tutorial provides great understanding on JAVA GUI Programming concepts and after completing this tutorial you will be at an intermediate level of expertise, from where you can take yourself to higher levels of expertise.
+Prerequisites
+Before proceeding with this tutorial, you should have a basic understanding of Java programming language, text editor, execution of programs, etc.
+Frequently Asked Questions about Swing
+There are some very Frequently Asked Questions(FAQ) about Swing, this section tries to answer them briefly.
+Swing is used to create a graphical user interface for a Java-based application. An interface is a dashboard that allows a user to interact with the system. The Java applications created using Swing are compatible with the Windows operating system.
+The Swing code for a Java application is written inside the main method, constructor, or any other method of a Java class.
+The Java Swing is called lightweight because its components are entirely implemented in Java. It does not rely on operating system for displaying the graphical user interface components.
+Here is the list of features of Java Swing −
+We can run Swing application on any Java enabled platform.
+Swing has very lightweight components.
+It has pre-built layout manager which helps in organizing various components.
+It provides very robust event handler.
+Swing controls are highly customizable and configurable.
+Swing is a part of the Java Foundation Classes (JFC) and has been included in the Java Standard Edition since version 1.2. Any new updates to Swing would be interlinked to updates to the Java Standard Edition.
+Swing is very easy to learn. You can learn Swing in as little as two to three weeks. However, it can take months of practice before you feel comfortable using it. Determining how long it takes to learn Swing also depends on how you plan to use it.
+The Swing component is a set of graphical user interface controls which includes buttons, text fields, labels, menus, password fields and so on.
+Swing methods are the built-in functions provided by the Swing API for creating and manipulating GUI components. Some of the frequently used methods are add(), setSize(), setLayout(), setVisible() and many more.
+
+[Images saved with this article:]
+www.tutorialspoint.com_swing_images_swing-mini-logo.jpg
+www.tutorialspoint.com_swing_images_swing.jpg

@@ -1,0 +1,101 @@
+W3Schools Academy
+Articles for Teachers
+How TO
+Coding Exercises
+Introduction:Teaching coding can be fun and interactive with exercises.
+Exercises help students practice concepts, build confidence, and develop problem-solving skills.
+In this article, we explore how teachers can use coding exercises in their lessons.
+Why Use Exercises in Coding Classes?
+Practice Makes Perfect:Coding is best learned by doing.
+Engagement:Exercises make classes more fun and interactive.
+Problem-Solving Skills:Students learn to approach problems logically and creatively.
+Self-Paced Learning:Exercises for different individual level of students.
+Types of Exercises
+There are many different types of exercises.
+All types exercises are available to learners on W3Schools.
+Teachers can access exercises to use in their classroom throughW3Schools Academy.
+Here is an overview of the different types and how they can be used:
+1. Syntax Exercises
+How to use Syntax Exercises:
+Focus on understanding syntax, variables, and data types.
+Example: Write a program that prints "Hello, World!" in the chosen language.
+Syntax exercises are available in all W3Schools Free Tutorials.
+Exercises are provided for most chapters.
+Here you can see an example of how it looks like:HTML Exercise Example
+Image of W3Schools HTML Exercise:
+2. Quizzes
+How to use Quizzes:
+Use multiple-choice or code-fill exercises to reinforce concepts.
+Include immediate feedback for better learning.
+Quizzes are available in all W3Schools Free Tutorials.
+The Quizzes summarize the most important concepts in a Tutorial.
+Here you can see an example of what it looks like:HTML Quiz Example
+Image of W3Schools HTML Quiz:
+Tip:Start small and experiment often. Learning by doing is the best way to master coding.
+3. Challenges and Projects
+There are different ways to use Challenges and Projects.
+How to use Challenges and Projects:
+Debugging Tasks
+Provide code snippets with errors for students to identify and fix.
+Encourages attention to detail and logical thinking.
+Logic-Based Problems
+Involve loops, conditionals, and functions.
+Example: Create a function to check if a number is prime.
+Problem-Solving Exercises
+Guide students to apply core programming concepts to solve focused challenges.
+Encourage breaking down problems into smaller, manageable steps.
+Example: Write a program to convert temperatures between Celsius and Fahrenheit.
+Real-World Scenarios
+Use practical problems that mimic real-world applications.
+Example: Build a simple calculator or a to-do list application.
+Multi Step Projects
+Provide a series of tasks that build on each other.
+Example: Develop a simple web application from scratch.
+Challenges and Projects are available in W3SchoolsAcademy.
+Academy offers pre-made challenges and challenges for many different languages.
+Here you can read about how to make challenges with W3Schools Academy:Code Challenges for Teaching
+The challenge engine works in several different modes to cover the types above.
+Image of W3Schools HTML Challenge:
+Tools to Use for Exercises
+W3Schools Try-it Editor:
+Offers a free environment to practice and test their code.
+Instant feedback helps students see their results immediately.
+Test how the Try It works:
+Example
+W3Schools Academy:
+Provides prebuilt coding challenges, auto-grading, and progress tracking.
+Includes a sandbox for hands-on learning.
+Online IDEs:
+Tools that let you test, build, and deploy code online.
+Allowing students to collaborate and experiment.
+W3Schools Spaces is a free online IDE that is easy to use.
+Tips for Teachers
+Start Simple:Begin with easy exercises to build confidence.
+Progress Gradually:Increase difficulty as students understands the basics.
+Encourage Creativity:Let students create small projects like personal portfolios.
+Provide Instant Feedback:Tools with immediate feedback keep students motivated.
+Track Progress:Use platforms like W3Schools Academy to monitor student achievements.
+Ready to Get Started?
+Simplify teaching, engage students, and make programming education interactive and effective. Explore the W3Schools Academy Code Challenges today.
+Are You a Teacher?
+Are you interested in learning how you can useW3Schools Academyto Teach 
+Coding?
+Watch a demo ofW3Schools Academy. You'll see how it works and discover how it can make teaching programming easier and more engaging.
+Watch Demo »
+COLOR PICKER
+Contact Sales
+If you want to use W3Schools services as an educational institution, team or enterprise, send us an e-mail:sales@w3schools.com
+Report Error
+If you want to report an error, or if you want to make a suggestion, send us an e-mail:help@w3schools.com
+Top Tutorials
+Top References
+Top Examples
+Get Certified
+
+[Images saved with this article:]
+www.w3schools.com_academy_images_html_exercise_1.png
+www.w3schools.com_academy_images_html_quiz.png
+www.w3schools.com_academy_images_html_challenge.png
+www.w3schools.com_python_syllabus-webinar.png
+www.w3schools.com_images_img_fa_up_300.png
+www.w3schools.com_images_colorpicker2000.png
