@@ -6,7 +6,7 @@ from sqlalchemy import Column, Integer, String, DateTime
 from datetime import datetime
 
 # Get database URL from environment variable
-DATABASE_URL = os.getenv('DATABASE_URL')
+DATABASE_URL="postgresql://neondb_owner:npg_eXM9WctADLv2@ep-jolly-firefly-a4l63e6o-pooler.us-east-1.aws.neon.tech/neondb?sslmode=require"
 if not DATABASE_URL:
     raise ValueError("DATABASE_URL environment variable is not set")
 
