@@ -32,7 +32,7 @@ const Header: React.FC<HeaderProps> = ({ isSidebarOpen, toggleSidebar }) => {
                 <path d="M20 8.5L4 15.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
               </svg>
             </span>
-            <h1 className="text-xl font-semibold text-gray-900 dark:text-white">EduCrawlGen</h1>
+            <h1 className="text-xl font-semibold text-gray-900 dark:text-white">Eduverse</h1>
           </div>
         </div>
         <div className="flex items-center gap-3">

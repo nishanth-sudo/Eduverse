@@ -60,7 +60,7 @@ const LoginPage: React.FC = () => {
               <path d="M20 8.5L4 15.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
             </svg>
           </div>
-          <h2 className="text-2xl font-bold text-gray-900">Sign in to EduCrawlGen</h2>
+          <h2 className="text-2xl font-bold text-gray-900">Sign in to Eduverse</h2>
           <p className="mt-2 text-sm text-gray-600">
             Or{' '}
             <Link to="/register" className="font-medium text-primary-600 hover:text-primary-500">

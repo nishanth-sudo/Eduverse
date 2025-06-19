@@ -8,7 +8,7 @@ const EmptyState: React.FC = () => {
         <BrainCircuit size={40} />
       </div>
       <h2 className="text-2xl font-semibold text-gray-900 mb-2">
-        Welcome to EduCrawlGen
+        Welcome to Eduverse
       </h2>
       <p className="text-gray-600 max-w-md mb-6">
         Ask me any computer science related questions and I'll provide intelligent, well-researched answers to help you learn.

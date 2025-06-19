@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "educrawlgen-frontend": "file:.."
+    "eduverse-frontend": "file:.."
   }
 }
