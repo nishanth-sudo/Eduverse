@@ -2,7 +2,7 @@
 flask==2.3.3
 flask-cors==4.0.0
 sqlalchemy==1.4.23
-psycopg2-binary==2.9.1
+psycopg2-binary
 python-dotenv==1.0.0
 pytz==2023.3
 google-generativeai==0.3.1
