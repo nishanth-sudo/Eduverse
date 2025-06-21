@@ -1,4 +1,7 @@
-from config import CHUNK_SIZE, CHUNK_OVERLAP
+from config import Config as cfg
+
+CHUNK_SIZE = cfg.CHUNK_SIZE
+CHUNK_OVERLAP = cfg.CHUNK_OVERLAP
 
 def chunk_text(text):
     words = text.split()

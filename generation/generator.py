@@ -40,7 +40,7 @@ Your Response:
 """
 
     try:
-        model = genai.GenerativeModel("gemini-2.0-flash")
+        model = genai.GenerativeModel("learnlm-2.0-flash-experimental")
         response = model.generate_content(prompt)
         return response.text.strip() if response and hasattr(response, "text") else "No response generated."
     except Exception as e:

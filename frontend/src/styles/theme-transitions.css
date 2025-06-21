@@ -1,0 +1,50 @@
+/* Global theme transition styles */
+*, *::before, *::after {
+  transition: background-color 200ms ease-in-out,
+              border-color 200ms ease-in-out,
+              color 200ms ease-in-out,
+              fill 200ms ease-in-out,
+              stroke 200ms ease-in-out,
+              opacity 200ms ease-in-out,
+              box-shadow 200ms ease-in-out;
+}
+
+/* Theme toggle specific styles */
+.theme-toggle-container {
+  --toggle-size: 2.5rem;
+  --icon-size: 1.125rem;
+  position: relative;
+  isolation: isolate;
+}
+
+.theme-toggle-container::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  background: linear-gradient(
+    to bottom right,
+    rgba(var(--color-primary-500), 0.5),
+    rgba(var(--color-primary-700), 0.2)
+  );
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 200ms ease-in-out;
+}
+
+.theme-toggle-container:hover::before {
+  opacity: 1;
+}
+
+/* Theme transition styles */
+.theme-transition,
+.theme-transition * {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-duration: var(--theme-transition-duration, 200ms);
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Disable transitions during theme change to prevent flashing */
+.theme-transition-disabled {
+  transition: none !important;
+}

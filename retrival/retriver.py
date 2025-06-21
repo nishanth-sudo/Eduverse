@@ -33,7 +33,7 @@ def retrieve_passages(query, top_k=5, include_images=True):
 
 from embeddings.vector_score import load_index
 from sentence_transformers import SentenceTransformer
-from config import EMBEDDING_MODEL
+from config import config
 import requests
 from bs4 import BeautifulSoup
 import random
@@ -42,6 +42,7 @@ import re
 from typing import List
 
 # Initialize the embedding model
+EMBEDDING_MODEL = config.EMBEDDING_MODEL
 model = SentenceTransformer(EMBEDDING_MODEL)
 
 # User agent for web scraping
