@@ -128,4 +128,4 @@ The system processes documents through several stages:
 
 ##  Support
 
-For support, email [mishanthp03032005@gmail.com](nishanthp03032005@gmail.com) or open an issue in the repository.
+For support, email [nishanthp03032005@gmail.com](nishanthp03032005@gmail.com) or open an issue in the repository.
