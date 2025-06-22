@@ -4,7 +4,7 @@ This project is a sophisticated document question-answering system that leverage
 
 ## System Architecture
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/03698918-8c19-40b0-aa91-ac945250443d)
 
 ### Architecture Components
 
