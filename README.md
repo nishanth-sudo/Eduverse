@@ -118,13 +118,13 @@ The system processes documents through several stages:
 
 ##  Future Improvements
 
-- [ ] Add support for more document formats
-- [ ] Implement real-time collaborative features
-- [ ] Add document summarization
-- [ ] Enhance answer accuracy with multiple model consensus
-- [ ] Implement caching for improved performance
-- [ ] Add support for document annotation
-- [ ] Implement user feedback system
+- [*] Add support for more document formats
+- [*] Implement real-time collaborative features
+- [*] Add document summarization
+- [*] Enhance answer accuracy with multiple model consensus
+- [*] Implement caching for improved performance
+- [*] Add support for document annotation
+- [*] Implement user feedback system
 
 ##  Support
 
